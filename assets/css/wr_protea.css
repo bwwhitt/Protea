@@ -1,0 +1,201 @@
+
+.wr_tems_checkbox .forminator-description {
+    display: none !important;
+}
+.wr_term_checkbox .forminator-checkbox__wrapper {
+    display: flex !important;
+}
+.wr_term_checkbox .forminator-checkbox__wrapper label.forminator-checkbox {
+    margin-right: 10px !important; 
+}
+.wr_term_checkbox .forminator-checkbox__wrapper div.forminator-checkbox__label p {
+    margin: 0 !important;
+}
+.wr_footer_sticky_botton {
+    position: fixed;
+    bottom: 30px;
+    right: -10px;
+    background-image: url(../images/download_btn.svg);
+    padding: 20px;
+    /* font-size: 0; */
+    min-width: 225px;
+    background-repeat: no-repeat;
+    min-height: 15px;
+    color: transparent;
+    background-size: contain;
+    z-index: 999;
+}
+.wr_footer_sticky_botton:hover {
+    color: transparent;
+}
+
+.wr_float{
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    min-width: 215px;
+    height: 50px;
+    background-color: #FEC941;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    padding-right: 60px;
+    text-decoration: none;
+    line-height: 49px;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 999;
+}
+
+
+.wr_float:after {
+    content: '';
+    position: absolute;
+    top: -10px;
+    right: 0px;
+    width: 70px;
+    height: 70px;
+    background-color: #1f88a9;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 1;
+    z-index: 999;
+}
+.wr_float i {
+    position: absolute;
+    right: 25px;
+    color: #fff;
+    z-index: 99999;
+    top: 15px;
+    font-size: 20px;
+}
+.wr_sector_field .forminator-field label.forminator-checkbox{
+    min-width: 300px;
+}
+.wr_change_pwd_btn {
+    margin: 15px 0;
+    display: block;
+}
+.wr_change_pwd_wrapper{
+    display: none;
+}
+.wr_change_pwd_wrapper.show{
+    display: block;
+}
+.we_app_btn_wrapper {
+    text-align: center;
+}
+.we_app_btn_wrapper a{
+    min-width: 250px;
+    margin-bottom: 15px;
+}
+.wr-elementor-button {
+    font-size: 16px;
+    padding: 15px 30px;
+    fill: var(--e-global-color-text);
+    color: var(--e-global-color-text);
+    background-color: var(--e-global-color-629997c);
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: var(--e-global-color-accent);
+    border-radius: 100px 100px 100px 100px !important;
+}
+
+.wr-elementor-button.wr-elementor-fill-button {
+    background-color: var(--e-global-color-accent);
+}
+.wr-elementor-button:hover, .wr-elementor-button:focus{
+    background-color: var(--e-global-color-accent);
+    color: var(--e-global-color-text);
+}
+.wr_change_pwd_wrapper .wrpt_change_pwd_btn{
+    padding: 10px 30px;
+}
+.wr_change_pwd_wrapper{
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    margin: 30px 0px;
+}
+.wr_change_pwd_wrapper h3.wr_box_title{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #727272;
+}
+.wr_change_pwd_wrapper .elementor-form-fields-wrapper{
+    margin-left: -16px;
+    margin-right: -16px;
+}
+.wr_change_pwd_wrapper .elementor-form-fields-wrapper .elementor-field-group.elementor-column{
+    padding: 16px;
+}
+.wr_change_pwd_wrapper .elementor-form-fields-wrapper .elementor-field-label {
+    cursor: pointer;
+    padding: 10px 0px;
+}
+.wr_change_pwd_wrapper .elementor-form-fields-wrapper .elementor-field-group .elementor-field-textual{
+    border-radius: 40px;
+}
+.wr_messagebox .elementor-message.elementor-message-error {
+    background-color: #F2DEDE;
+    padding: 16px;
+    color: #CB898C;
+}
+.wr_messagebox .elementor-message.elementor-message-success {
+    background-color: #E0F0DA;
+    padding: 16px;
+    color: #668F67;
+}
+/*wp full strip subcription form css*/
+.wpfs-form.wpfs-w-60 {
+    max-width: 100% !important;
+    margin: auto;
+}
+.fullstripe_customer_portal{
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.fullstripe_customer_portal .wpfs-form-lead{
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+#wpfs-form--OTg4YmM .wpfs-form-actions {
+    align-items: flex-start;
+}
+#payment-details--OTg4YmM{
+    display:none;
+}
+#wpfs-form--OTg4YmM .wpfs-form-actions .wpfs-tooltip-content {
+    display: block !important;
+}
+#wpfs-form--OTg4YmM .wpfs-form-actions .wpfs-tooltip-content .wpfs-summary{
+    width: auto;
+    max-width: 250px;
+}
+#wpfs-form--OTg4YmM .wpfs-form-group label + br, #wpfs-form--OTg4YmM .wpfs-form-group label + p, #wpfs-form--OTg4YmM .wpfs-form-group label br{
+    display:none;
+}
+@media (max-width: 767px){
+    #wpfs-form--OTg4YmM .wpfs-form-actions {
+        display: grid;
+    }
+    #submit--OTg4YmM{
+        margin-right: 0px;
+    }
+    #wpfs-form--OTg4YmM .wpfs-form-actions .wpfs-tooltip-content .wpfs-summary{
+        width: auto;
+        max-width: 100%;
+    }
+}
+/*wp full strip subcription form css*/
+
+  
+@media only screen and (max-width: 600px) {
+    .wr_float {
+        font-size: 0;
+        padding: 0;
+        min-width: 0;
+    }    
+}
