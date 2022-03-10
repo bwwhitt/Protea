@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Seedlet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-22T02:12:48+00:00\n"
+"PO-Revision-Date: 2021-07-21 11:54:06+0000\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:29
+msgid "Add or publish Posts"
+msgstr "글 추가 또는 발행"
+
+#: template-parts/content/content-none.php:24
+msgid "Your site is set to show the the most recent posts on your homepage - but you don't have any Posts published."
+msgstr "홈페이지에 최신 글이 표시되도록 사이트가 설정되었지만, 발행된 글이 없습니다."
+
+#: template-parts/content/content-none.php:15
+msgid "No posts published yet!"
+msgstr "아직 발행된 글이 없습니다!"
+
+#: inc/customizer.php:171
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "정적인 페이지가 표시되도록 홈페이지가 설정된 경우 푸터에서 사이트 메뉴 및 위젯을 숨기려면 선택하세요."
+
+#: inc/customizer.php:170
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "사이트 푸터 메뉴 및 위젯 숨기기"
+
+#: inc/customizer.php:153
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "정적인 페이지가 표시되도록 홈페이지가 설정된 경우 사이트 헤더를 숨기려면 선택하세요."
+
+#: inc/customizer.php:152
+msgid "Hide the Site Header"
+msgstr "사이트 헤더 숨기기"
+
+#: inc/customizer.php:138
+msgid "Display Site Title & Tagline"
+msgstr "사이트 제목 & 태그라인 표시"
+
+#: template-parts/post/author-bio.php:28
+msgid "View all posts by %s"
+msgstr "%s님의 모든 글 보기"
+
+#: inc/customizer.php:114
+msgid "On archive pages, posts show:"
+msgstr "아카이브 페이지의 글이 다음을 표시합니다:"
+
+#: inc/customizer.php:104
+#: inc/customizer.php:117
+msgid "Full text"
+msgstr "전체 텍스트"
+
+#: inc/customizer.php:103
+#: inc/customizer.php:116
+msgid "Summary"
+msgstr "요약"
+
+#: inc/customizer.php:101
+msgid "On the home page, posts show:"
+msgstr "홈페이지의 글이 다음을 표시합니다:"
+
+#: inc/customizer.php:69
+msgid "Excerpt Settings"
+msgstr "요약문 설정"
+
+#: comments.php:74
+msgid "Leave a Comment"
+msgstr "댓글 남기기"
+
+#: inc/block-patterns.php:40
+msgid "Plant"
+msgstr "식물"
+
+#: inc/block-patterns.php:29
+msgid "Envelope"
+msgstr "봉투"
+
+#: inc/block-styles.php:19
+#: inc/block-styles.php:27
+msgid "Alternating Grid"
+msgstr "대체 그리드"
+
+#: template-parts/header/navigation.php:21
+msgid "Main"
+msgstr "메인"
+
+#. Description of the theme
+msgid "Seedlet is a free WordPress theme. A two-column layout and classically elegant typography creates a refined site that gives your works and images space to breathe - and shine. Seedlet was built to be the perfect partner to the block editor, and supports all the latest blocks. Writing, audio, illustrations, photography, video - use Seedlet to engage and direct visitors' eyes, without your theme getting in the way. And the responsive design shifts naturally between desktop and mobile devices. Seedlet is a great option for professionals and creatives looking for a sophisticated vibe. Whether you're looking to create a blog or a robust site promoting your business, do with simplicity, style, and Seedlet."
+msgstr "Seedlet은 두 개의 칼럼으로 구성된 레이아웃과 우아한 고전미를 갖춘 타이포그래피로 세련된 사이트를 완성하는 워드프레스 무료 테마입니다. 공간에 여유가 있어서 여러분의 작품이나 이미지가 단연 돋보이는 것이 장점입니다. Seedlet은 블록 편집기와 짝을 이룰 때 최상의 효과를 내도록 설계되었으며 최신 블록을 모두 지원합니다. Seedlet을 선택하면 테마의 방해 없이 방문자의 시선을 글, 오디오, 일러스트레이션, 사진, 비디오, 어디로든 이끌고 안내할 수 있습니다. 반응형 디자인 덕분에 데스크톱과 모바일 기기 어디에서나 여러분의 사이트가 자연스럽게 표시됩니다. Seedlet은 세련된 분위기를 내고자 하는 전문가와 창작자에게 추천합니다. 여러분이 원하는 것이 블로그든 강력한 비즈니스 사이트든 Seedlet과 함께 단순하고 스타일리시하게 만들어보세요."
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/seedlet"
+msgstr "https://wordpress.com/theme/seedlet"
+
+#: inc/block-patterns.php:46
+msgid "Alternating Grid of Latest Posts"
+msgstr "최신 글 대체 그리드"
+
+#: template-parts/post/author-bio.php:13
+msgid "Published by"
+msgstr "글쓴이"
+
+#: inc/wpcom.php:162
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "사이트의 가독성을 확보하려면 여기서 선택할 색상들이 뚜렷이 대비되게 하세요. <a href=\"%s\" target=\"_blank\">색상 대비에 관해 더 알아보기</a>."
+
+#: inc/wpcom.php:160
+msgid "Color Accessibility Warning"
+msgstr "색상 접근성 경고"
+
+#: inc/wpcom.php:150
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "홈페이지에 정적 페이지를 표시하게 설정한 경우 페이지 제목을 숨기려면 선택하세요."
+
+#: inc/wpcom.php:149
+msgid "Hide Homepage Title"
+msgstr "홈페이지 제목 숨기기"
+
+#: classes/class-seedlet-custom-colors.php:29
+msgid "Borders Color"
+msgstr "테두리 색상"
+
+#: classes/class-seedlet-custom-colors.php:28
+#: inc/wpcom-colors-utils.php:72
+msgid "Tertiary Color"
+msgstr "3차 색상"
+
+#: classes/class-seedlet-custom-colors.php:27
+#: inc/wpcom-colors-utils.php:58
+msgid "Secondary Color"
+msgstr "보조 색상"
+
+#: classes/class-seedlet-custom-colors.php:26
+#: inc/wpcom-colors-utils.php:44
+msgid "Primary Color"
+msgstr "기본 색상"
+
+#: classes/class-seedlet-custom-colors.php:25
+#: inc/wpcom-colors-utils.php:30
+msgid "Foreground Color"
+msgstr "전경 색상"
+
+#: classes/class-seedlet-custom-colors.php:24
+#: inc/wpcom-colors-utils.php:16
+msgid "Background Color"
+msgstr "배경 색상"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:32
+#: template-parts/content/content.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "계속<span class=\"screen-reader-text\"> \"%s\"</span> 읽기"
+
+#: template-parts/content/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "찾고 있는 것을 찾을 수 없는 것 같습니다. 검색이 도움이 될 수도 있습니다."
+
+#: template-parts/content/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "죄송하지만 검색어와 일치하는 것이 없습니다. 다른 검색어로 다시 시도해보세요."
+
+#: template-parts/content/content-excerpt.php:17
+#: template-parts/content/content.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "추천"
+
+#: inc/template-tags.php:213
+msgid "Previous post:"
+msgstr "이전 글:"
+
+#: inc/template-tags.php:212
+msgid "Previous Post"
+msgstr "이전 글"
+
+#: inc/template-tags.php:210
+msgid "Next post:"
+msgstr "다음 글:"
+
+#: inc/template-tags.php:209
+msgid "Next Post"
+msgstr "다음 글"
+
+#. translators: %s: parent post link
+#: inc/template-tags.php:202
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"post-title\">%s</span><span class=\"meta-nav\">에 게시됨</span>"
+
+#: search.php:24
+msgid "Search results for:"
+msgstr "키워드 검색 결과:"
+
+#: inc/woocommerce.php:138
+#: inc/woocommerce.php:174
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d개 아이템"
+
+#: inc/template-tags.php:236
+msgid "Older posts"
+msgstr "이전 글"
+
+#: inc/template-tags.php:232
+msgid "Newer posts"
+msgstr "최신 글"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:129
+#: template-parts/content/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> 편집"
+
+#: inc/template-tags.php:113
+msgid "Tags:"
+msgstr "태그:"
+
+#: inc/template-tags.php:101
+msgid "Posted in"
+msgstr "게시됨:"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:95
+#: inc/template-tags.php:107
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:62
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s에</span> 댓글 남기기"
+
+#: inc/template-tags.php:45
+msgid "Posted by"
+msgstr "글쓴이"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:195
+msgid "Continue reading %s"
+msgstr "%s 계속 읽기"
+
+#: inc/template-functions.php:129
+msgid "Archives: "
+msgstr "아카이브:"
+
+#: inc/template-functions.php:116
+#: inc/template-functions.php:124
+msgid "%s Archives"
+msgstr "%s 아카이브"
+
+#: inc/template-functions.php:109
+msgid "Daily Archives: "
+msgstr "일별 아카이브:"
+
+#: inc/template-functions.php:107
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y년 F"
+
+#: inc/template-functions.php:106
+msgid "Monthly Archives: "
+msgstr "월별 아카이브:"
+
+#: inc/template-functions.php:104
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y년"
+
+#: inc/template-functions.php:103
+msgid "Yearly Archives: "
+msgstr "연별 아카이브:"
+
+#: inc/template-functions.php:100
+msgid "Author Archives: "
+msgstr "글쓴이 아카이브:"
+
+#: inc/template-functions.php:97
+msgid "Tag Archives: "
+msgstr "태그 아카이브:"
+
+#: inc/template-functions.php:94
+msgid "Category Archives: "
+msgstr "카테고리 아카이브:"
+
+#: inc/block-patterns.php:36
+msgid "Group with Image Overlap"
+msgstr "이미지 오버랩 그룹"
+
+#: inc/block-patterns.php:27
+msgid "Group with Split Background"
+msgstr "분할 배경 그룹"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:16
+msgid "Seedlet"
+msgstr "Seedlet"
+
+#: inc/back-compat.php:38
+#: inc/back-compat.php:52
+#: inc/back-compat.php:72
+msgid "Seedlet requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Seedlet은 최소 워드프레스 4.7 버전 이상이어야 사용할 수 있습니다. 회원님은 현재 %s 버전을 사용 중입니다. 업그레이드 후에 다시 시도하세요."
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">발행됨:</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:75
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "전체 크기"
+
+#: image.php:61
+msgid "Page"
+msgstr "페이지"
+
+#: image.php:57
+#: template-parts/content/content-page.php:25
+#: template-parts/content/content-single.php:45
+#: template-parts/content/content.php:48
+msgid "Pages:"
+msgstr "페이지:"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "다음 이미지"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "이전 이미지"
+
+#: template-parts/header/navigation.php:95
+msgid "Social Links Menu"
+msgstr "SNS 링크 메뉴"
+
+#: template-parts/header/navigation.php:78
+msgid "View your shopping list"
+msgstr "쇼핑 목록 보기"
+
+#: inc/woocommerce.php:135
+#: template-parts/header/navigation.php:76
+msgid "View your shopping cart"
+msgstr "장바구니 보기"
+
+#: template-parts/header/navigation.php:88
+msgid "Cart"
+msgstr "장바구니"
+
+#: template-parts/header/navigation.php:55
+msgid "Woo Minicart"
+msgstr "Woo 미니카트"
+
+#: template-parts/header/navigation.php:24
+#: template-parts/header/navigation.php:74
+msgid "collapsed"
+msgstr "접힘"
+
+#: template-parts/header/navigation.php:49
+#: template-parts/header/navigation.php:89
+msgid "expanded"
+msgstr "열림"
+
+#: template-parts/header/navigation.php:23
+#: template-parts/header/navigation.php:72
+msgid "Close"
+msgstr "닫기"
+
+#: template-parts/header/navigation.php:48
+msgid "Menu"
+msgstr "메뉴"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "콘텐츠로 바로가기"
+
+#: functions.php:338
+msgid "Add widgets here to appear in your footer."
+msgstr "푸터에 표시할 위젯을 여기에 추가하세요."
+
+#: footer.php:17
+#: functions.php:336
+msgid "Footer"
+msgstr "푸터"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:295
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "켜짐"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Fira Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:289
+msgctxt "Fira Sans: on or off"
+msgid "on"
+msgstr "켜짐"
+
+#: functions.php:243
+#: inc/wpcom.php:126
+msgid "Stripe"
+msgstr "Stripe"
+
+#: functions.php:238
+#: inc/wpcom.php:121
+msgid "Horizontal inverted gradient"
+msgstr "수평 반전 그레이디언트"
+
+#: functions.php:233
+#: inc/wpcom.php:116
+msgid "Horizontal gradient"
+msgstr "수평 그레이디언트"
+
+#: functions.php:228
+#: inc/wpcom.php:111
+msgid "Diagonal inverted gradient"
+msgstr "대각선 반전 그레이디언트"
+
+#: functions.php:223
+#: inc/wpcom.php:106
+msgid "Diagonal gradient"
+msgstr "대각선 그레이디언트"
+
+#: functions.php:218
+#: inc/wpcom.php:101
+msgid "Horizontal inverted"
+msgstr "수평 반전"
+
+#: functions.php:213
+#: inc/wpcom.php:96
+msgid "Horizontal"
+msgstr "수평"
+
+#: functions.php:208
+#: inc/wpcom.php:91
+msgid "Diagonal inverted"
+msgstr "대각선 반전"
+
+#: functions.php:203
+#: inc/wpcom.php:86
+msgid "Diagonal"
+msgstr "대각선"
+
+#: functions.php:189
+#: inc/wpcom.php:72
+msgid "Background"
+msgstr "배경"
+
+#: functions.php:184
+#: inc/wpcom.php:67
+msgid "Tertiary"
+msgstr "셋째"
+
+#: functions.php:179
+#: inc/wpcom.php:62
+msgid "Foreground"
+msgstr "전경"
+
+#: functions.php:174
+#: inc/wpcom.php:57
+msgid "Secondary"
+msgstr "보조"
+
+#: functions.php:169
+#: inc/wpcom.php:52
+msgid "Primary"
+msgstr "기본"
+
+#: functions.php:150
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:149
+msgid "Huge"
+msgstr "특대"
+
+#: functions.php:144
+msgid "L"
+msgstr "L"
+
+#: functions.php:143
+msgid "Large"
+msgstr "대"
+
+#: functions.php:138
+msgid "M"
+msgstr "M"
+
+#: functions.php:137
+msgid "Normal"
+msgstr "일반"
+
+#: functions.php:132
+msgid "S"
+msgstr "S"
+
+#: functions.php:131
+msgid "Small"
+msgstr "소"
+
+#: functions.php:126
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:125
+msgid "Tiny"
+msgstr "최소"
+
+#: functions.php:61
+msgid "Social Links Navigation"
+msgstr "SNS 링크 탐색"
+
+#: functions.php:60
+msgid "Footer Navigation"
+msgstr "푸터 탐색"
+
+#: functions.php:59
+msgid "Primary Navigation"
+msgstr "기본 탐색"
+
+#. translators: %s: WordPress.
+#: template-parts/footer/footer-info.php:9
+msgid "Proudly powered by %s."
+msgstr "Proudly powered by %s."
+
+#: template-parts/footer/footer-info.php:6
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: template-parts/footer/footer-menu.php:2
+msgid "Footer Menu"
+msgstr "푸터 메뉴"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "댓글이 닫혀있습니다."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "댓글 %1$s개"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "1 Comment"
+msgstr "댓글 1개"
+
+#: classes/class-seedlet-custom-colors.php:311
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker foreground color."
+msgstr "해당 색상 조합은 가독성이 떨어질 수 있습니다. 조금 더 밝은 배경색이나 조금 더 어두운 전경색을 선택하세요."
+
+#: classes/class-seedlet-custom-colors.php:179
+msgid "Custom"
+msgstr "사용자 정의"
+
+#: classes/class-seedlet-custom-colors.php:178
+msgid "Theme Default"
+msgstr "테마 기본값"
+
+#: classes/class-seedlet-custom-colors.php:154
+#: classes/class-seedlet-custom-colors.php:176
+msgid "Colors"
+msgstr "색상"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "해당 위치에서 아무것도 발견되지 않았습니다. 검색을 시도하시겠습니까?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "이런! 해당 페이지를 찾을 수 없습니다."

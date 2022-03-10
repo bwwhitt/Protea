@@ -1,0 +1,488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Edin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-09T01:16:35+00:00\n"
+"PO-Revision-Date: 2021-05-08 21:29:12+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:171
+msgid "Tagged"
+msgstr "Märkt"
+
+#: inc/template-tags.php:40
+msgid "Newer testimonials <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyare omdömen <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:28
+msgid "<span class=\"meta-nav\">&larr;</span> Older testimonials"
+msgstr "<span class=\"meta-nav\">&larr;</span> Äldre omdömen"
+
+#: inc/customizer.php:165
+msgid "Show 2 random testimonials on the Front Page Template "
+msgstr "Visa 2 slumpmässiga referenser i startsidemallen"
+
+#: content-hero.php:20
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#: functions.php:314
+#: functions.php:330
+msgid "collapse child menu"
+msgstr "minimera undermeny"
+
+#: functions.php:313
+#: functions.php:329
+msgid "expand child menu"
+msgstr "expandera undermeny"
+
+#. translators: %s: Name of current post
+#: content.php:28
+#: inc/extras.php:161
+msgid "Continue reading %s"
+msgstr "Fortsätt läsa %s"
+
+#. translators: %s: Name of page. Visible to screen readers only.
+#: content-grid.php:19
+msgid "Read more %s"
+msgstr "Läs mer %s"
+
+#: inc/customizer.php:79
+msgid "Pages: Show breadcrumb navigation"
+msgstr "Sidor: Visa länkstigsnavigation"
+
+#: inc/customizer.php:93
+msgid "Featured Image: remove filter"
+msgstr "Utvald bild: ta bort filter"
+
+#. Template Name of the theme
+msgid "Grid Page"
+msgstr "Rutnätssida"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Sida fullbredd"
+
+#. Template Name of the theme
+msgid "Front Page"
+msgstr "Startsida"
+
+#. Template Name of the theme
+msgid "Alternate Sidebar Page"
+msgstr "Sida för alternativ sidopanel"
+
+#. Description of the theme
+msgid "Edin is a modern responsive business and corporate theme that helps you to create a strong--yet beautiful--online presence for your business."
+msgstr "Edin är ett modernt, responsivt företagstema som hjälper dig att skapa en stark (och vacker) profil för ditt företag online."
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: inc/template-tags.php:176
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:176
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:176
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: inc/template-tags.php:167
+msgid "Posted in %1$s"
+msgstr "Publicerat i %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:165
+#: inc/template-tags.php:171
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:160
+msgid "All %s posts"
+msgstr "Alla %s inlägg"
+
+#: inc/template-tags.php:103
+msgctxt "post author"
+msgid "by %s"
+msgstr "av %s"
+
+#: inc/template-tags.php:98
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicerad den %s"
+
+#: inc/template-tags.php:72
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:71
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:68
+msgid "Post navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/template-tags.php:42
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyare inlägg <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:30
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Äldre inlägg"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/extras.php:104
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: inc/customizer.php:153
+msgid "Front Page: Featured Page Three"
+msgstr "Startsida: Utvald sida tre"
+
+#: inc/customizer.php:141
+msgid "Front Page: Featured Page Two"
+msgstr "Startsida: Utvald sida två"
+
+#: inc/customizer.php:129
+msgid "Front Page: Featured Page One"
+msgstr "Startsida: Utvald sida ett"
+
+#: inc/customizer.php:117
+msgid "Front Page: Show title"
+msgstr "Startsida: Visa titel"
+
+#: inc/customizer.php:105
+msgid "Header: Show search form"
+msgstr "Sidhuvud: Visa sökformulär"
+
+#: inc/customizer.php:68
+msgid "Square (1:1)"
+msgstr "Fyrkant (1:1)"
+
+#: inc/customizer.php:67
+msgid "Landscape (4:3)"
+msgstr "Liggande (4: 3)"
+
+#: inc/customizer.php:62
+msgid "Thumbnail Aspect Ratio"
+msgstr "Bildförhållande miniatyr"
+
+#: inc/customizer.php:52
+msgid "Right"
+msgstr "Höger"
+
+#: inc/customizer.php:51
+msgid "Left"
+msgstr "Vänster"
+
+#: inc/customizer.php:46
+msgid "Sidebar Position"
+msgstr "Sidopanelens position"
+
+#: inc/customizer.php:35
+msgid "Classic"
+msgstr "Klassisk"
+
+#: inc/customizer.php:34
+msgid "Default"
+msgstr "Förvald"
+
+#: inc/customizer.php:29
+msgid "Menu Style"
+msgstr "Menystil"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Temaalternativ"
+
+#: header.php:92
+msgid "Search"
+msgstr "Sök"
+
+#: header.php:61
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#. translators: To add an additional PT Mono character subset specific to your
+#. language, translate this to 'cyrillic'. Do not translate into your own
+#. language.
+#: functions.php:274
+msgctxt "PT Mono font: add new subset (cyrillic)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Mono, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:270
+msgctxt "PT Mono font: on or off"
+msgid "on"
+msgstr "på"
+
+#. translators: To add an additional PT Serif character subset specific to your
+#. language, translate this to 'cyrillic'. Do not translate into your own
+#. language.
+#: functions.php:242
+msgctxt "PT Serif font: add new subset (cyrillic)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:238
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "på"
+
+#. translators: To add an additional PT Sans character subset specific to your
+#. language, translate this to 'cyrillic'. Do not translate into your own
+#. language.
+#: functions.php:210
+msgctxt "PT Sans font: add new subset (cyrillic)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:206
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "på"
+
+#: functions.php:186
+msgid "Use this widget area to display widgets in the third column of your Front Page"
+msgstr "Använd det här widgetområdet för att visa widgets i startsidans tredje kolumn"
+
+#: functions.php:184
+msgid "Front Page Three"
+msgstr "Startsida ett"
+
+#: functions.php:177
+msgid "Use this widget area to display widgets in the second column of your Front Page"
+msgstr "Använd det här widgetområdet för att visa widgets i startsidans andra kolumn"
+
+#: functions.php:175
+msgid "Front Page Two"
+msgstr "Startsida två"
+
+#: functions.php:168
+msgid "Use this widget area to display widgets in the first column of your Front Page"
+msgstr "Använd det här widgetområdet för att visa widgets i startsidans första kolumn"
+
+#: functions.php:166
+msgid "Front Page One"
+msgstr "Startsida ett"
+
+#: functions.php:159
+msgid "Use this widget area to display widgets in the third column of the footer"
+msgstr "Använd det här widgetområdet för att visa widgets i sidfotens tredje kolumn"
+
+#: functions.php:157
+msgid "Footer Three"
+msgstr "Sidfot tre"
+
+#: functions.php:150
+msgid "Use this widget area to display widgets in the second column of the footer"
+msgstr "Använd det här widgetområdet för att visa widgets i sidfotens andra kolumn"
+
+#: functions.php:148
+msgid "Footer Two"
+msgstr "Sidfot två"
+
+#: functions.php:141
+msgid "Use this widget area to display widgets in the first column of the footer"
+msgstr "Använd det här widgetområdet för att visa widgets i sidfotens första kolumn"
+
+#: functions.php:139
+msgid "Footer One"
+msgstr "Sidfot ett"
+
+#: functions.php:131
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: functions.php:77
+msgid "Footer Menu"
+msgstr "Sidfotsmeny"
+
+#: functions.php:76
+msgid "Secondary Menu"
+msgstr "Sekundär meny"
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr "https://sv.wordpress.org/"
+
+#: content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång här</a>."
+
+#: content-hero.php:42
+#: content-page.php:15
+#: content-single.php:23
+#: content.php:33
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: content-grid.php:24
+#: content-hero.php:49
+#: content-page.php:23
+#: content-testimonial.php:20
+#: inc/template-tags.php:180
+msgid "Edit"
+msgstr "Redigera"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Kommentarer inaktiverade."
+
+#: comments.php:47
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyare kommentarer <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:46
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Äldre kommentarer"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion på &rdquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner på &rdquo;%2$s&rdquo;"
+
+#: archive.php:81
+#: search.php:20
+msgid "Nothing Found"
+msgstr "Inget funnet"
+
+#: archive.php:64
+msgid "Archives"
+msgstr "Arkiv"
+
+#: archive.php:61
+msgid "Chats"
+msgstr "Chattar"
+
+#: archive.php:58
+msgid "Audios"
+msgstr "Ljud"
+
+#: archive.php:55
+msgid "Statuses"
+msgstr "Statusar"
+
+#: archive.php:52
+msgid "Links"
+msgstr "Länkar"
+
+#: archive.php:49
+msgid "Quotes"
+msgstr "Citat"
+
+#: archive.php:46
+msgid "Videos"
+msgstr "Videoklipp"
+
+#: archive.php:43
+msgid "Images"
+msgstr "Bilder"
+
+#: archive.php:40
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: archive.php:37
+msgid "Asides"
+msgstr "Notiser"
+
+#: archive.php:34
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:34
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:31
+msgid "Month: %s"
+msgstr "Månad: %s"
+
+#: archive.php:28
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: archive.php:25
+msgid "Author: %s"
+msgstr "Författare: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:45
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova att leta i månadsarkiven. %1$s"
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr "Mest använda kategorier"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova någon av länkarna nedan eller söka?"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."

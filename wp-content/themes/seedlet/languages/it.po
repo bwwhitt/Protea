@@ -1,0 +1,587 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Seedlet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-21T02:16:58+00:00\n"
+"PO-Revision-Date: 2021-07-20 10:54:04+0000\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:29
+msgid "Add or publish Posts"
+msgstr "Aggiungi o pubblica articoli"
+
+#: template-parts/content/content-none.php:24
+msgid "Your site is set to show the the most recent posts on your homepage - but you don't have any Posts published."
+msgstr "Il tuo sito è impostato per mostrare gli articoli più recenti sulla tua homepage, ma non hai alcun articolo pubblicato."
+
+#: template-parts/content/content-none.php:15
+msgid "No posts published yet!"
+msgstr "Nessun articolo ancora pubblicato."
+
+#: inc/customizer.php:171
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "Seleziona per nascondere menu e widget del sito nel piè di pagina, se la tua homepage è impostata per mostrare una pagina statica."
+
+#: inc/customizer.php:170
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "Nascondi il menu e i widget del piè di pagina del sito"
+
+#: inc/customizer.php:153
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "Seleziona per nascondere l'intestazione del sito, se la tua pagina è impostata per mostrare una pagina statica."
+
+#: inc/customizer.php:152
+msgid "Hide the Site Header"
+msgstr "Nascondi l'intestazione del sito"
+
+#: inc/customizer.php:138
+msgid "Display Site Title & Tagline"
+msgstr "Mostra titolo del sito e slogan"
+
+#: template-parts/post/author-bio.php:28
+msgid "View all posts by %s"
+msgstr "Leggi tutti gli articoli di %s"
+
+#: inc/customizer.php:114
+msgid "On archive pages, posts show:"
+msgstr "Sulle pagine archiviate, gli articoli vengono visualizzati così:"
+
+#: inc/customizer.php:104
+#: inc/customizer.php:117
+msgid "Full text"
+msgstr "Testo completo"
+
+#: inc/customizer.php:103
+#: inc/customizer.php:116
+msgid "Summary"
+msgstr "Riepilogo"
+
+#: inc/customizer.php:101
+msgid "On the home page, posts show:"
+msgstr "Sulla home page, gli articoli vengono visualizzati così:"
+
+#: inc/customizer.php:69
+msgid "Excerpt Settings"
+msgstr "Impostazioni dell'estratto"
+
+#: comments.php:74
+msgid "Leave a Comment"
+msgstr "Lascia un commento"
+
+#: inc/block-patterns.php:40
+msgid "Plant"
+msgstr "Pianta"
+
+#: inc/block-patterns.php:29
+msgid "Envelope"
+msgstr "Busta"
+
+#: inc/block-styles.php:19
+#: inc/block-styles.php:27
+msgid "Alternating Grid"
+msgstr "Griglia alternativa"
+
+#: template-parts/header/navigation.php:21
+msgid "Main"
+msgstr "Principale"
+
+#. Description of the theme
+msgid "Seedlet is a free WordPress theme. A two-column layout and classically elegant typography creates a refined site that gives your works and images space to breathe - and shine. Seedlet was built to be the perfect partner to the block editor, and supports all the latest blocks. Writing, audio, illustrations, photography, video - use Seedlet to engage and direct visitors' eyes, without your theme getting in the way. And the responsive design shifts naturally between desktop and mobile devices. Seedlet is a great option for professionals and creatives looking for a sophisticated vibe. Whether you're looking to create a blog or a robust site promoting your business, do with simplicity, style, and Seedlet."
+msgstr "Seedlet è un tema WordPress gratuito. Con un layout a due colonne e una tipografia classica, il tuo lavoro e le tue immagini otterranno tutta l'attenzione che meritano. Seedlet è stato progettato per adattarsi perfettamente all'editor a blocchi e supporta tutti i nuovi blocchi. Usa Seedlet per focalizzare l'attenzione dei visitatori su testi, audio, video, illustrazioni e fotografia, senza la distrazione di un tema invasivo. E il design responsivo è perfetto anche per i dispositivi mobili. Seedlet è una grande soluzione per chi è in cerca di eleganza. Crea il tuo blog o il sito della tua attività con semplicità e stile. Scegli Seedlet."
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/seedlet"
+msgstr "https://wordpress.com/theme/seedlet"
+
+#: inc/block-patterns.php:46
+msgid "Alternating Grid of Latest Posts"
+msgstr "Griglia alternativa degli articoli recenti"
+
+#: template-parts/post/author-bio.php:13
+msgid "Published by"
+msgstr "Pubblicato da"
+
+#: inc/wpcom.php:162
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Scegli un forte contrasto tra i colori, per facilitare la lettura dei testi. <a href=\"%s\" target=\"_blank\">Scopri di più sul contrasto dei colori</a>."
+
+#: inc/wpcom.php:160
+msgid "Color Accessibility Warning"
+msgstr "Attenzione ai colori"
+
+#: inc/wpcom.php:150
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Se la tua home page è impostata come pagina statica, spunta la casella per nascondere il titolo della pagina."
+
+#: inc/wpcom.php:149
+msgid "Hide Homepage Title"
+msgstr "Nascondi il titolo della home page"
+
+#: classes/class-seedlet-custom-colors.php:29
+msgid "Borders Color"
+msgstr "Colore dei bordi"
+
+#: classes/class-seedlet-custom-colors.php:28
+#: inc/wpcom-colors-utils.php:72
+msgid "Tertiary Color"
+msgstr "Colore terziario"
+
+#: classes/class-seedlet-custom-colors.php:27
+#: inc/wpcom-colors-utils.php:58
+msgid "Secondary Color"
+msgstr "Colore secondario"
+
+#: classes/class-seedlet-custom-colors.php:26
+#: inc/wpcom-colors-utils.php:44
+msgid "Primary Color"
+msgstr "Colore primario"
+
+#: classes/class-seedlet-custom-colors.php:25
+#: inc/wpcom-colors-utils.php:30
+msgid "Foreground Color"
+msgstr "Colore primo piano"
+
+#: classes/class-seedlet-custom-colors.php:24
+#: inc/wpcom-colors-utils.php:16
+msgid "Background Color"
+msgstr "Colore sfondo"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:32
+#: template-parts/content/content.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continua a leggere <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Impossibile trovare quello che cerchi. Prova ad effettuare una ricerca."
+
+#: template-parts/content/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Spiacente, nessun risultato. Prova a cercare parole chiave diverse."
+
+#: template-parts/content/content-excerpt.php:17
+#: template-parts/content/content.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "In evidenza"
+
+#: inc/template-tags.php:213
+msgid "Previous post:"
+msgstr "Articolo precedente:"
+
+#: inc/template-tags.php:212
+msgid "Previous Post"
+msgstr "Articolo precedente"
+
+#: inc/template-tags.php:210
+msgid "Next post:"
+msgstr "Articolo successivo:"
+
+#: inc/template-tags.php:209
+msgid "Next Post"
+msgstr "Articolo successivo"
+
+#. translators: %s: parent post link
+#: inc/template-tags.php:202
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Pubblicato in</span><span class=\"post-title\">%s</span>"
+
+#: search.php:24
+msgid "Search results for:"
+msgstr "Risultati di ricerca per:"
+
+#: inc/woocommerce.php:138
+#: inc/woocommerce.php:174
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d elemento"
+msgstr[1] "%d elementi"
+
+#: inc/template-tags.php:236
+msgid "Older posts"
+msgstr "Articoli più vecchi"
+
+#: inc/template-tags.php:232
+msgid "Newer posts"
+msgstr "Articoli più recenti"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:129
+#: template-parts/content/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Modifica <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:113
+msgid "Tags:"
+msgstr "Tag:"
+
+#: inc/template-tags.php:101
+msgid "Posted in"
+msgstr "Pubblicato in: "
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:95
+#: inc/template-tags.php:107
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:62
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lascia un commento<span class=\"screen-reader-text\"> su %s</span>"
+
+#: inc/template-tags.php:45
+msgid "Posted by"
+msgstr "Pubblicato da"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:195
+msgid "Continue reading %s"
+msgstr "Continua a leggere %s"
+
+#: inc/template-functions.php:129
+msgid "Archives: "
+msgstr "Archivi:"
+
+#: inc/template-functions.php:116
+#: inc/template-functions.php:124
+msgid "%s Archives"
+msgstr "Archivi per %s:"
+
+#: inc/template-functions.php:109
+msgid "Daily Archives: "
+msgstr "Archivi giornalieri:"
+
+#: inc/template-functions.php:107
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:106
+msgid "Monthly Archives: "
+msgstr "Archivi mensili:"
+
+#: inc/template-functions.php:104
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:103
+msgid "Yearly Archives: "
+msgstr "Archivi annuali:"
+
+#: inc/template-functions.php:100
+msgid "Author Archives: "
+msgstr "Archivi degli autori:"
+
+#: inc/template-functions.php:97
+msgid "Tag Archives: "
+msgstr "Archivi dei tag:"
+
+#: inc/template-functions.php:94
+msgid "Category Archives: "
+msgstr "Archivi delle categorie:"
+
+#: inc/block-patterns.php:36
+msgid "Group with Image Overlap"
+msgstr "Gruppo con sovrapposizione immagine"
+
+#: inc/block-patterns.php:27
+msgid "Group with Split Background"
+msgstr "Gruppo con sfondo diviso"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:16
+msgid "Seedlet"
+msgstr "Seedlet"
+
+#: inc/back-compat.php:38
+#: inc/back-compat.php:52
+#: inc/back-compat.php:72
+msgid "Seedlet requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Per usare Seedlet devi avere almeno la versione 4.7 di WordPress. Hai la versione %s. Aggiorna e riprova."
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Pubblicato in</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:75
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Dimensione normale"
+
+#: image.php:61
+msgid "Page"
+msgstr "Pagina"
+
+#: image.php:57
+#: template-parts/content/content-page.php:25
+#: template-parts/content/content-single.php:45
+#: template-parts/content/content.php:48
+msgid "Pages:"
+msgstr "Pagine: "
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Immagine successiva"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "Immagine precedente"
+
+#: template-parts/header/navigation.php:95
+msgid "Social Links Menu"
+msgstr "Menu dei social media"
+
+#: template-parts/header/navigation.php:78
+msgid "View your shopping list"
+msgstr "Visualizza i tuoi acquisti"
+
+#: inc/woocommerce.php:135
+#: template-parts/header/navigation.php:76
+msgid "View your shopping cart"
+msgstr "Visualizza il tuo carrello"
+
+#: template-parts/header/navigation.php:88
+msgid "Cart"
+msgstr "Carrello"
+
+#: template-parts/header/navigation.php:55
+msgid "Woo Minicart"
+msgstr "Woo Minicart"
+
+#: template-parts/header/navigation.php:24
+#: template-parts/header/navigation.php:74
+msgid "collapsed"
+msgstr "chiuso"
+
+#: template-parts/header/navigation.php:49
+#: template-parts/header/navigation.php:89
+msgid "expanded"
+msgstr "esteso"
+
+#: template-parts/header/navigation.php:23
+#: template-parts/header/navigation.php:72
+msgid "Close"
+msgstr "Chiudi"
+
+#: template-parts/header/navigation.php:48
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Vai al contenuto"
+
+#: functions.php:338
+msgid "Add widgets here to appear in your footer."
+msgstr "Aggiungi i widget per farli apparire a piè di pagina."
+
+#: footer.php:17
+#: functions.php:336
+msgid "Footer"
+msgstr "Piè di pagina"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:295
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "attivo"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Fira Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:289
+msgctxt "Fira Sans: on or off"
+msgid "on"
+msgstr "attivo"
+
+#: functions.php:243
+#: inc/wpcom.php:126
+msgid "Stripe"
+msgstr "Stripe"
+
+#: functions.php:238
+#: inc/wpcom.php:121
+msgid "Horizontal inverted gradient"
+msgstr "Gradiente invertito orizzontalmente"
+
+#: functions.php:233
+#: inc/wpcom.php:116
+msgid "Horizontal gradient"
+msgstr "Gradiente orizzontale"
+
+#: functions.php:228
+#: inc/wpcom.php:111
+msgid "Diagonal inverted gradient"
+msgstr "Gradiente invertito diagonalmente"
+
+#: functions.php:223
+#: inc/wpcom.php:106
+msgid "Diagonal gradient"
+msgstr "Gradiente diagonale"
+
+#: functions.php:218
+#: inc/wpcom.php:101
+msgid "Horizontal inverted"
+msgstr "Invertito orizzontalmente"
+
+#: functions.php:213
+#: inc/wpcom.php:96
+msgid "Horizontal"
+msgstr "Orizzontale"
+
+#: functions.php:208
+#: inc/wpcom.php:91
+msgid "Diagonal inverted"
+msgstr "Invertito diagonalmente"
+
+#: functions.php:203
+#: inc/wpcom.php:86
+msgid "Diagonal"
+msgstr "Diagonale"
+
+#: functions.php:189
+#: inc/wpcom.php:72
+msgid "Background"
+msgstr "Sfondo"
+
+#: functions.php:184
+#: inc/wpcom.php:67
+msgid "Tertiary"
+msgstr "Terziario"
+
+#: functions.php:179
+#: inc/wpcom.php:62
+msgid "Foreground"
+msgstr "Primo piano"
+
+#: functions.php:174
+#: inc/wpcom.php:57
+msgid "Secondary"
+msgstr "Secondario"
+
+#: functions.php:169
+#: inc/wpcom.php:52
+msgid "Primary"
+msgstr "Principale"
+
+#: functions.php:150
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:149
+msgid "Huge"
+msgstr "Grande"
+
+#: functions.php:144
+msgid "L"
+msgstr "L"
+
+#: functions.php:143
+msgid "Large"
+msgstr "Grande"
+
+#: functions.php:138
+msgid "M"
+msgstr "M"
+
+#: functions.php:137
+msgid "Normal"
+msgstr "Normale"
+
+#: functions.php:132
+msgid "S"
+msgstr "S"
+
+#: functions.php:131
+msgid "Small"
+msgstr "Piccola"
+
+#: functions.php:126
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:125
+msgid "Tiny"
+msgstr "Piccolo"
+
+#: functions.php:61
+msgid "Social Links Navigation"
+msgstr "Navigazione social"
+
+#: functions.php:60
+msgid "Footer Navigation"
+msgstr "Navigazione piè di pagina"
+
+#: functions.php:59
+msgid "Primary Navigation"
+msgstr "Navigazione principale"
+
+#. translators: %s: WordPress.
+#: template-parts/footer/footer-info.php:9
+msgid "Proudly powered by %s."
+msgstr "Con tecnologia %s."
+
+#: template-parts/footer/footer-info.php:6
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: template-parts/footer/footer-menu.php:2
+msgid "Footer Menu"
+msgstr "Menu a piè di pagina"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s commento"
+msgstr[1] "%1$s commenti"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "1 Comment"
+msgstr "Un commento"
+
+#: classes/class-seedlet-custom-colors.php:311
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker foreground color."
+msgstr "Questo abbinamento di colori potrebbe rendere difficile la lettura. Usa un colore di sfondo più chiaro e un colore in primo piano più scuro o viceversa."
+
+#: classes/class-seedlet-custom-colors.php:179
+msgid "Custom"
+msgstr "Personalizzato"
+
+#: classes/class-seedlet-custom-colors.php:178
+msgid "Theme Default"
+msgstr "Tema predefinito"
+
+#: classes/class-seedlet-custom-colors.php:154
+#: classes/class-seedlet-custom-colors.php:176
+msgid "Colors"
+msgstr "Colori"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Nessun risultato. Vuoi provare a fare una ricerca?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ops! Pagina non trovata."

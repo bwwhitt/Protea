@@ -1,0 +1,414 @@
+# Translation of Plugins - WordPress.com Editing Toolkit - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - WordPress.com Editing Toolkit - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-02 20:54:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - WordPress.com Editing Toolkit - Stable (latest release)\n"
+
+#: paragraph-block/index.php:60
+msgid "Add a post title"
+msgstr "Bir yazı başlığı ekle"
+
+#: paragraph-block/index.php:33 paragraph-block/index.php:79
+msgid "Start writing or type '/' to insert a block"
+msgstr "Bir blok eklemek için yazmaya başlayın ya da '/' yazın."
+
+#: global-styles/class-global-styles.php:265
+msgid "Fonts"
+msgstr "Yazıtipleri"
+
+#. Translators: This is a link which opens the block editor, and then opens the
+#. global styles sidebar.
+#: global-styles/class-global-styles-fonts-message-control.php:63
+msgid "Click here to open the Block Editor and change your fonts."
+msgstr "Blok Düzenleyiciyi açmak ve yazı tiplerinizi değiştirmek için buraya tıklayın."
+
+#. Translators: This is a link which opens:
+#. https://wordpress.com/support/custom-fonts/#changing-fonts-with-global-styles.
+#: global-styles/class-global-styles-fonts-message-control.php:40
+msgid "Learn more about changing fonts using Global Styles."
+msgstr "Genel Stiller'i kullanarak yazı tiplerini değiştirme ile ilgili daha fazla bilgi edinin."
+
+#: global-styles/class-global-styles-fonts-message-control.php:27
+msgid "You can change your fonts using Global Styles, which can be found in the Block Editor."
+msgstr "Blok Düzenleyici'de bulunan Genel Stiller'i kullanarak yazı tiplerinizi değiştirebilirsiniz."
+
+#: block-patterns/class-block-patterns-from-api.php:73
+msgid "Text"
+msgstr "Metin"
+
+#. translators: separates all but the last two sponsor names; needs a space at
+#. the end.
+#: newspack-blocks/synced-newspack-blocks/class-newspack-blocks.php:675
+msgid ", "
+msgstr ", "
+
+#: starter-page-templates/class-starter-page-templates.php:161
+msgid "Current"
+msgstr "Geçerli"
+
+#: coming-soon/fallback-coming-soon-page.php:287
+msgid "Start your website"
+msgstr "Sitenizi kurmaya başlayın"
+
+#: coming-soon/fallback-coming-soon-page.php:283
+msgid "Build a website. Sell your stuff. Write a blog. And so much more."
+msgstr "Bir web sitesi oluşturun. Ürünlerinizi satın. Blog yazın. Daha bir çok şey yapın."
+
+#: block-patterns/class-block-patterns-from-api.php:72
+msgid "Quotes"
+msgstr "Alıntılar"
+
+#. Plugin Name of the plugin
+msgid "WordPress.com Editing Toolkit"
+msgstr "WordPress.com Düzenleme Araç Seti"
+
+#: coming-soon/fallback-coming-soon-page.php:286
+msgid "Log in"
+msgstr "Oturum aç"
+
+#: coming-soon/fallback-coming-soon-page.php:266
+msgid "Coming Soon"
+msgstr "Çok yakında"
+
+#: mailerlite/subscriber-popup.php:116
+msgid "UUID:"
+msgstr "UUID:"
+
+#. translators: link to documentation
+#: mailerlite/subscriber-popup.php:113
+msgid "Account ID <a href=\"%s\" target=\"_blank\">(instructions)</a>:"
+msgstr "Hesap kimliği <a href=\"%s\" target=\"_blank\">(talimatlar)</a>:"
+
+#. translators: %1$s - URL to manage the widget, %2$s - documentation URL.
+#: mailerlite/subscriber-popup.php:42
+msgid "You need to enter your numeric account ID and UUID for the <a href=\"%1$s\">Mailerlite Widget</a> to work correctly. <a href=\"%2$s\" target=\"_blank\">Full instructions</a>."
+msgstr "<a href=\"%1$s\">Mailerlite Pencere Öğesi</a>’nin doğru çalışması için sayısal hesap kimliğinizi ve UUID’nizi girmeniz gerekiyor. <a href=\"%2$s\" target=\"_blank\">Yönergelerin tümü</a>."
+
+#: mailerlite/subscriber-popup.php:20
+msgid "Display Mailerlite subscriber popup"
+msgstr "Mailerlite abone açılır penceresini göster"
+
+#: mailerlite/subscriber-popup.php:17
+msgid "Mailerlite subscriber popup"
+msgstr "Mailerlite abone açılır penceresi"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:327
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:355
+msgid "Play Slideshow"
+msgstr "Slayt Gösterisini Oynat"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:326
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:349
+msgid "Pause Slideshow"
+msgstr "Slayt Gösterisini Duraklat"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:266
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:281
+msgid "Previous Slide"
+msgstr "Önceki Slayt"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:265
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:282
+msgid "Next Slide"
+msgstr "Sonraki Slayt"
+
+#. translators: %d: Slide number.
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:240
+msgid "Go to slide %d"
+msgstr "%d numaralı slayta git"
+
+#: newspack-blocks/synced-newspack-blocks/class-newspack-blocks.php:585
+msgid "Common"
+msgstr "Genel"
+
+#: starter-page-templates/class-starter-page-templates.php:156
+msgid "Blank"
+msgstr "Boş"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:145
+#: newspack-blocks/dist/blog-posts-block-editor.js:6
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/edit.js:739
+msgid "Load more posts"
+msgstr "Daha fazla gönderi yükle"
+
+#. translators: separates last two sponsor names; needs a space on either side.
+#: newspack-blocks/synced-newspack-blocks/class-newspack-blocks.php:672
+msgid " and "
+msgstr " ve "
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:246
+#: newspack-blocks/dist/blog-posts-block-editor.js:6
+#: newspack-blocks/dist/carousel-block-editor.js:6
+#: newspack-blocks/synced-newspack-blocks/shared/js/utils.js:30
+#: newspack-blocks/synced-newspack-blocks/shared/js/utils.js:67
+msgctxt "post author"
+msgid " and "
+msgstr " ve "
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:223
+#: newspack-blocks/dist/blog-posts-block-editor.js:6
+#: newspack-blocks/dist/carousel-block-editor.js:6
+#: newspack-blocks/synced-newspack-blocks/shared/js/utils.js:18
+msgctxt "post author"
+msgid "by"
+msgstr "yazan:"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:153
+msgid "Something went wrong. Please refresh the page and/or try again."
+msgstr "Bir yanlışlık oldu. Lütfen sayfayı yenileyin ve/veya tekrar deneyin."
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:150
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: dotcom-fse/blocks/site-credit/index.php:155
+msgid "WordPress Icon"
+msgstr "WordPress Simgesi"
+
+#: dotcom-fse/blocks/site-credit/index.php:150
+msgid "Proudly powered by WordPress"
+msgstr "WordPress gururla sunar"
+
+#: dotcom-fse/templates/class-wp-template.php:149
+msgid "Footer"
+msgstr "Alt Bilgi"
+
+#: dotcom-fse/templates/class-wp-template.php:147
+msgid "Header"
+msgstr "Üst Bilgi"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:86
+msgid "collapsed"
+msgstr "daraltılmış"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:85
+msgid "expanded"
+msgstr "genişletilmiş"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:82
+msgid "Menu"
+msgstr "Menü"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:398
+msgctxt "Default page title"
+msgid "Contact"
+msgstr "İletişim"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:386
+msgctxt "Default page title"
+msgid "About"
+msgstr "Hakkında"
+
+#: starter-page-templates/class-wp-rest-sideload-image-controller.php:77
+msgid "Invalid parent type."
+msgstr "Geçersiz üst tür."
+
+#: starter-page-templates/class-starter-page-templates.php:146
+msgid "No templates available. Skipped showing modal window with template selection."
+msgstr "Şablon yok. Şablon seçimiyle kalıcı pencere gösterimi atlandı."
+
+#: starter-page-templates/class-starter-page-templates.php:141
+msgid "No data received from the vertical API. Skipped showing modal window with template selection."
+msgstr "Dikey API’den veri alınamadı. Şablon seçimiyle kalıcı pencere gösterimi atlandı."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:503
+msgid "Back to template part types"
+msgstr "Şablon bölümü türlerine dön"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:502
+msgid "No template part types found."
+msgstr "Şablon bölümü türü bulunamadı."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:501
+msgid "Search Template Part Types"
+msgstr "Şablon Bölümü Türü Ara"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:500
+msgid "Parent Template Part Type:"
+msgstr "Üst Şablon Bölümü Türü:"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:499
+msgid "Parent Template Part Type"
+msgstr "Üst Şablon Bölümü Türü"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:498
+msgid "New Template Part Type"
+msgstr "Yeni Şablon Bölümü Türü"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:497
+msgid "Add New Template Part Type"
+msgstr "Yeni Şablon Bölümü Türü Ekle"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:496
+msgid "Update Template Part Type"
+msgstr "Şablon Bölümü Türünü Güncelle"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:495
+msgid "View Template Part Type"
+msgstr "Şablon Bölümü Türünü Görüntüle"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:494
+msgid "Edit Template Part Type"
+msgstr "Şablon Bölümü Türünü Düzenle"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:493
+msgid "All Template Part Types"
+msgstr "Tüm Şablon Bölümü Türleri"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:492
+msgctxt "admin menu"
+msgid "Template Part Types"
+msgstr "Şablon Bölümü Türleri"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:491
+msgctxt "taxonomy singular name"
+msgid "Template Part Type"
+msgstr "Şablon Bölümü Türü"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:490
+msgctxt "taxonomy general name"
+msgid "Template Part Types"
+msgstr "Şablon Bölümü Türleri"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:455
+msgid "Template part updated."
+msgstr "Şablon bölümü güncellendi."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:454
+msgid "Template part scheduled."
+msgstr "Şablon bölümü zamanlandı."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:453
+msgid "Template part reverted to draft."
+msgstr "Şablon bölümü taslak durumuna geri çevrildi."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:452
+msgid "Template part published privately."
+msgstr "Şablon bölümü özel olarak yayımlandı."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:451
+msgid "Template part published."
+msgstr "Şablon bölümü yayımlandı."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:450
+msgid "Template parts list"
+msgstr "Şablon bölümleri listesi"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:449
+msgid "Template parts list navigation"
+msgstr "Şablon bölümleri listesinde gezinme"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:448
+msgid "Filter template parts list"
+msgstr "Şablon bölümleri listesini filtrele"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:447
+msgid "No template parts found in Trash."
+msgstr "Çöpte şablon bölümü bulunamadı."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:446
+msgid "No template parts found."
+msgstr "Şablon bölümü bulunamadı."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:445
+msgid "Search Template Parts"
+msgstr "Şablon Bölümleri Ara"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:444
+msgid "All Template Parts"
+msgstr "Tüm Şablon Bölümleri"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:443
+msgid "View Template Part"
+msgstr "Şablon Bölümünü Görüntüle"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:442
+msgid "Edit Template Part"
+msgstr "Şablon Bölümünü Düzenle"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:441
+msgid "New Template Part"
+msgstr "Yeni Şablon Bölümü"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:440
+msgid "Add New Template Part"
+msgstr "Yeni Şablon Bölümü Ekle"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:438
+msgctxt "add new on admin bar"
+msgid "Template Part"
+msgstr "Şablon Bölümü"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:437
+msgctxt "admin menu"
+msgid "Template Parts"
+msgstr "Şablon Bölümleri"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:436
+msgctxt "post type singular name"
+msgid "Template Part"
+msgstr "Şablon Bölümü"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:435
+msgctxt "post type general name"
+msgid "Template Parts"
+msgstr "Şablon Bölümleri"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:439
+msgctxt "Template"
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: posts-list-block/class-posts-list-block.php:165
+msgid "Read more"
+msgstr "Devamını oku"
+
+#. translators: %s: Name of current post
+#: posts-list-block/class-posts-list-block.php:162
+msgid "Continue reading %s"
+msgstr "%s gönderisini okumaya devam edin"
+
+#: posts-list-block/templates/post-item.php:36
+msgid "Edit"
+msgstr "Düzenle"
+
+#: posts-list-block/templates/post-item.php:31
+msgctxt "designating the post author (eg: by John Doe"
+msgid "by"
+msgstr "yazan:"
+
+#: posts-list-block/templates/post-item.php:23
+msgid "Featured"
+msgstr "Öne çıkan"
+
+#: posts-list-block/templates/posts-list.php:30
+msgid "View all posts"
+msgstr "Tüm gönderileri görüntüle"
+
+#. translators: 1: link to WP admin new post page.
+#: posts-list-block/templates/no-posts.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk gönderinizi yayımlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: posts-list-block/templates/no-posts.php:11
+msgid "There are currently no posts to display."
+msgstr "Şu anda görüntülenecek gönderi bulunamadı."
+
+#. Author URI of the plugin
+msgid "https://automattic.com/wordpress-plugins/"
+msgstr "https://automattic.com/wordpress-plugins/"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Enhances your page creation workflow within the Block Editor."
+msgstr "Blok Düzenleyici içindeki sayfa oluşturma iş akışınızı geliştirir."

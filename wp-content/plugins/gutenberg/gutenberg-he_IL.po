@@ -1,0 +1,1245 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-15 15:28:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-library/blocks/page-list/block.json
+msgctxt "block title"
+msgid "Page List"
+msgstr "רשימת עמודים"
+
+#: build/block-library/blocks/query-pagination-previous.php:22
+#: build/block-library/index.js:36100 build/block-library/index.min.js:34296
+msgid "Previous Page"
+msgstr "עמוד קודם"
+
+#: build/block-library/blocks/query-pagination-next.php:23
+#: build/block-library/index.js:35941 build/block-library/index.min.js:34180
+msgid "Next Page"
+msgstr "עמוד הבא"
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block title"
+msgid "File"
+msgstr "קובץ"
+
+#: build/block-library/blocks/html/block.json
+msgctxt "block title"
+msgid "Custom HTML"
+msgstr "וידג'ט HTML"
+
+#: build/block-library/blocks/media-text/block.json
+msgctxt "block title"
+msgid "Media & Text"
+msgstr "מדיה וטקסט"
+
+#: build/block-library/blocks/navigation/block.json
+msgctxt "block title"
+msgid "Navigation"
+msgstr "ניווט"
+
+#: build/block-library/blocks/latest-comments/block.json
+msgctxt "block title"
+msgid "Latest Comments"
+msgstr "תגובות אחרונות"
+
+#: build/block-library/blocks/latest-posts/block.json
+msgctxt "block title"
+msgid "Latest Posts"
+msgstr "פוסטים אחרונים"
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block title"
+msgid "List"
+msgstr "רשימה"
+
+#: build/block-library/blocks/missing/block.json
+msgctxt "block title"
+msgid "Unsupported"
+msgstr "לא נתמך"
+
+#: build/block-library/blocks/more/block.json
+msgctxt "block title"
+msgid "More"
+msgstr "עוד"
+
+#: build/block-library/blocks/nextpage/block.json
+msgctxt "block title"
+msgid "Page Break"
+msgstr "מעבר דף"
+
+#: build/block-library/blocks/preformatted/block.json
+msgctxt "block title"
+msgid "Preformatted"
+msgstr "מעוצב מראש"
+
+#: build/block-library/blocks/pullquote/block.json
+msgctxt "block title"
+msgid "Pullquote"
+msgstr "ציטוט"
+
+#: build/block-library/blocks/block/block.json
+msgctxt "block title"
+msgid "Reusable block"
+msgstr "בלוק לשימוש חוזר"
+
+#: build/block-library/blocks/rss/block.json
+msgctxt "block title"
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/blocks/search/block.json
+msgctxt "block title"
+msgid "Search"
+msgstr "חיפוש"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block title"
+msgid "Group"
+msgstr "קבוצה"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block title"
+msgid "Separator"
+msgstr "מפריד"
+
+#: build/block-library/blocks/shortcode/block.json
+msgctxt "block title"
+msgid "Shortcode"
+msgstr "שורטקוד"
+
+#: build/block-library/blocks/spacer/block.json
+msgctxt "block title"
+msgid "Spacer"
+msgstr "מרווח"
+
+#: build/block-library/blocks/table/block.json
+msgctxt "block title"
+msgid "Table"
+msgstr "טבלה"
+
+#: build/block-library/blocks/text-columns/block.json
+msgctxt "block title"
+msgid "Text Columns (deprecated)"
+msgstr "עמודות טקסט (הוצא משימוש)"
+
+#: build/block-library/blocks/verse/block.json
+msgctxt "block title"
+msgid "Verse"
+msgstr "פסוק"
+
+#: build/block-library/blocks/video/block.json
+msgctxt "block title"
+msgid "Video"
+msgstr "וידאו"
+
+#: build/block-library/blocks/tag-cloud/block.json
+msgctxt "block title"
+msgid "Tag Cloud"
+msgstr "ענן תגיות"
+
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr "אייקונים חברתיים"
+
+#: build/block-library/blocks/social-link/block.json
+msgctxt "block title"
+msgid "Social Icon"
+msgstr "אייקון חברתי"
+
+#: build/block-library/blocks/site-logo/block.json
+msgctxt "block title"
+msgid "Site Logo"
+msgstr "לוגו אתר"
+
+#: build/block-library/blocks/site-tagline/block.json
+msgctxt "block title"
+msgid "Site Tagline"
+msgstr "תיאור אתר"
+
+#: build/block-library/blocks/site-title/block.json
+msgctxt "block title"
+msgid "Site Title"
+msgstr "שם האתר"
+
+#: build/block-library/blocks/template-part/block.json
+msgctxt "block title"
+msgid "Template Part"
+msgstr "חלק של תבנית"
+
+#: build/block-library/blocks/query/block.json
+msgctxt "block title"
+msgid "Query Loop"
+msgstr "הצגה ברצף של שאילתות"
+
+#: build/block-library/blocks/post-title/block.json
+msgctxt "block title"
+msgid "Post Title"
+msgstr "כותרת פוסט"
+
+#: build/block-library/blocks/post-content/block.json
+msgctxt "block title"
+msgid "Post Content"
+msgstr "תוכן פוסט"
+
+#: build/block-library/blocks/post-author/block.json
+msgctxt "block title"
+msgid "Post Author"
+msgstr "מחבר פוסט"
+
+#: build/block-library/blocks/post-comments/block.json
+msgctxt "block title"
+msgid "Post Comments"
+msgstr "תגובות לפוסטים"
+
+#: build/block-library/blocks/post-comments-count/block.json
+msgctxt "block title"
+msgid "Post Comments Count"
+msgstr "ספירה של תגובות לפוסטים"
+
+#: build/block-library/blocks/post-comments-form/block.json
+msgctxt "block title"
+msgid "Post Comments Form"
+msgstr "טופס של תגובות לפוסטים"
+
+#: build/block-library/blocks/post-date/block.json
+msgctxt "block title"
+msgid "Post Date"
+msgstr "תאריך פוסט"
+
+#: build/block-library/blocks/post-excerpt/block.json
+msgctxt "block title"
+msgid "Post Excerpt"
+msgstr "תקציר פוסט"
+
+#: build/block-library/blocks/post-featured-image/block.json
+msgctxt "block title"
+msgid "Post Featured Image"
+msgstr "לפרסם את התמונה המרכזית"
+
+#: build/block-library/blocks/heading/block.json
+msgctxt "block title"
+msgid "Heading"
+msgstr "כותרת"
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block title"
+msgid "Quote"
+msgstr "ציטוט"
+
+#: build/block-library/blocks/gallery/block.json
+msgctxt "block title"
+msgid "Gallery"
+msgstr "גלרייה"
+
+#: build/block-library/blocks/archives/block.json
+msgctxt "block title"
+msgid "Archives"
+msgstr "ארכיונים"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block title"
+msgid "Audio"
+msgstr "אודיו"
+
+#: build/block-library/blocks/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "כפתור"
+
+#: build/block-library/blocks/buttons/block.json
+msgctxt "block title"
+msgid "Buttons"
+msgstr "כפתורים"
+
+#: build/block-library/blocks/calendar/block.json
+msgctxt "block title"
+msgid "Calendar"
+msgstr "לוח שנה"
+
+#: build/block-library/blocks/categories/block.json
+msgctxt "block title"
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: build/block-library/blocks/code/block.json
+msgctxt "block title"
+msgid "Code"
+msgstr "קוד"
+
+#: build/block-library/blocks/columns/block.json
+msgctxt "block title"
+msgid "Columns"
+msgstr "עמודות"
+
+#: build/block-library/blocks/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "עמודה"
+
+#: build/block-library/blocks/cover/block.json
+msgctxt "block title"
+msgid "Cover"
+msgstr "כיסוי"
+
+#: build/block-library/blocks/paragraph/block.json
+msgctxt "block title"
+msgid "Paragraph"
+msgstr "פסקה רגילה"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block title"
+msgid "Image"
+msgstr "תמונה"
+
+#: lib/compat/wordpress-5.9/templates.php:82 build/core-data/index.js:2132
+msgid "Themes"
+msgstr "תבניות"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:172
+msgctxt "Template name"
+msgid "404"
+msgstr "404"
+
+#: lib/compat/wordpress-5.9/admin-menu.php:77
+msgid "Edit site"
+msgstr "עריכת אתר"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:132
+msgctxt "Template name"
+msgid "Page"
+msgstr "עמוד"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:116
+msgctxt "Template name"
+msgid "Home"
+msgstr "ראשי"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:112
+msgctxt "Template name"
+msgid "Index"
+msgstr "אינדקס"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:136
+msgctxt "Template name"
+msgid "Archive"
+msgstr "ארכיון"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:120
+msgctxt "Template name"
+msgid "Front Page"
+msgstr "עמוד ראשי"
+
+#: lib/class-wp-rest-menu-items-controller.php:57
+msgid "The password for the post if it is password protected."
+msgstr "הסיסמה של הפוסט אם הוא מוגן בסיסמה."
+
+#: lib/class-wp-rest-menu-items-controller.php:91
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:90
+msgid "Whether to bypass Trash and force deletion."
+msgstr "האם לדלג על הפח ולאלץ מחיקה."
+
+#: lib/class-wp-rest-menu-items-controller.php:940
+msgid "HTML content to display for this block menu item."
+msgstr "תוכן HTML שיוצג בפריט התפריט של הבלוק הזה."
+
+#: lib/full-site-editing/edit-site-page.php:213
+msgid "What to show on the front page"
+msgstr "מה להציג בעמוד הראשי"
+
+#: lib/full-site-editing/edit-site-page.php:223
+msgid "The ID of the page that should be displayed on the front page"
+msgstr "המזהה של העמוד שאמור להיות מוצג בעמוד הראשי"
+
+#: build/block-library/blocks/site-logo.php:72
+msgid "Site logo."
+msgstr "לוגו האתר."
+
+#: lib/class-wp-rest-menus-controller.php:242
+msgid "Sorry, you are not allowed to set auto add pages."
+msgstr "מצטערים, אין לך הרשאה להגדיר הוספה אוטומטית של עמודים."
+
+#: lib/class-wp-rest-menus-controller.php:686
+msgid "Whether to automatically add top level pages to this menu."
+msgstr "האם להוסיף עמודים עליונים בצורה אוטומטים לתפריט זה."
+
+#: lib/class-wp-rest-menu-items-controller.php:524
+msgid "Content required if menu item of type block."
+msgstr "יש להוסיף כתובת URL אם פריט התפריט שייך לסוג בלוק."
+
+#: lib/class-wp-rest-menu-items-controller.php:949
+msgid "HTML content, as it exists in the database."
+msgstr "תוכן HTML, כפי שקיים בבסיס הנתונים."
+
+#: lib/class-wp-rest-menu-items-controller.php:960
+msgid "Version of the block format used in the HTML content."
+msgstr "גרסה של פורמט הבלוק שנמצאת בשימוש בתוכן HTML."
+
+#: lib/class-wp-rest-menu-items-controller.php:954
+msgid "HTML content, transformed for display."
+msgstr "תוכן HTML, מוכן לתצוגה."
+
+#. translators: byline. %s: current author.
+#. translators: %s: the author.
+#: build/block-library/blocks/latest-posts.php:117
+#: build/block-library/blocks/rss.php:60 build/block-library/index.js:21130
+#: build/block-library/index.min.js:19894
+msgid "by %s"
+msgstr "מאת %s"
+
+#: lib/block-patterns.php:14
+msgid "Query"
+msgstr "שאילתה"
+
+#. translators: ARIA label for the Menu Settings Sidebar tab, not selected.
+#. translators: Text label for the Menu Settings Sidebar tab.
+#. translators: Data label for the Menu Settings Sidebar tab.
+#: build/block-library/blocks/navigation.php:565
+#: build/block-library/index.js:24779 build/block-library/index.js:24789
+#: build/block-library/index.js:25485 build/block-library/index.js:25582
+#: build/core-data/index.js:2084 build/edit-navigation/index.js:3669
+#: build/edit-navigation/index.js:3680 build/edit-navigation/index.js:3682
+#: build/block-library/index.min.js:23408
+#: build/block-library/index.min.js:23424
+#: build/block-library/index.min.js:24407
+#: build/block-library/index.min.js:24571
+#: build/edit-navigation/index.min.js:3809
+#: build/edit-navigation/index.min.js:3827
+#: build/edit-navigation/index.min.js:3831
+msgid "Menu"
+msgstr "תפריט"
+
+#. translators: accessibility text for the top bar landmark region.
+#: lib/compat/wordpress-5.9/block-template-utils.php:73
+#: build/block-library/index.js:44407 build/edit-navigation/index.js:2991
+#: build/edit-post/index.js:1332 build/edit-site/index.js:2484
+#: build/edit-widgets/index.js:1264 build/block-library/index.min.js:41891
+#: build/edit-navigation/index.min.js:3048 build/edit-post/index.min.js:1220
+#: build/edit-widgets/index.min.js:1179
+msgid "Header"
+msgstr "כותרת"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/navigation-theme-opt-in.php:349 build/block-editor/index.js:9182
+#: build/edit-navigation/index.js:2994 build/edit-post/index.js:1335
+#: build/edit-site/index.js:2487 build/edit-widgets/index.js:1267
+#: build/edit-navigation/index.min.js:3050 build/edit-post/index.min.js:1222
+#: build/edit-widgets/index.min.js:1181
+msgid "Content"
+msgstr "תוכן"
+
+#: lib/init.php:37 lib/init.php:38
+msgid "Navigation (beta)"
+msgstr "ניווט (ביתא)"
+
+#: lib/experiments-page.php:50
+msgid "Enable Navigation screen"
+msgstr "להפעיל את מסך הניווט"
+
+#: lib/class-wp-rest-menu-items-controller.php:532
+msgid "Invalid URL."
+msgstr "כתובת אינטרנט שגויה."
+
+#: lib/class-wp-rest-menus-controller.php:335
+#: lib/class-wp-rest-menus-controller.php:446
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "לא ניתן להגדיר מונח אב, הטקסונומיה איננה היררכית."
+
+#: lib/class-wp-rest-menus-controller.php:533
+msgid "The term cannot be deleted."
+msgstr "לא ניתן למחוק את המונח."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:523
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "לא ניתן להעביר מונחים לפח. יש להגדיר  '%s' כדי למחוק."
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:1019
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "המונחים המשוייכים לאובייקט בטקסונומיה \"%s\"."
+
+#: lib/class-wp-rest-menu-items-controller.php:1053
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "הגבלת תוצאות לפוסטים עם ערך menu_order מסויים."
+
+#: lib/class-wp-rest-menu-items-controller.php:870
+msgid "A named status for the object."
+msgstr "שם הסטטוס עבור האובייקט."
+
+#: lib/class-wp-rest-menu-items-controller.php:832
+msgid "Title for the object, as it exists in the database."
+msgstr "הכותרת של האובייקט, כפי שהיא מופיעה במסד הנתונים."
+
+#: lib/class-wp-rest-menu-items-controller.php:837
+msgid "HTML title for the object, transformed for display."
+msgstr "כותרת HTML של האובייקט, ששונתה לצורך תצוגה."
+
+#: lib/class-wp-rest-menu-items-controller.php:173
+msgid "Cannot create existing post."
+msgstr "לא ניתן ליצור פוסט קיים."
+
+#: lib/class-wp-rest-menu-items-controller.php:1058
+msgid "Order sort attribute ascending or descending."
+msgstr "סדר מיון עולה או יורד."
+
+#: lib/class-wp-rest-menu-items-controller.php:1065
+msgid "Sort collection by object attribute."
+msgstr "מיון אוסף לפי תכונות אובייקט."
+
+#: lib/class-wp-rest-menus-controller.php:129
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "אין לך הרשאות לערוך מונח זה."
+
+#: lib/class-wp-rest-menus-controller.php:341
+#: lib/class-wp-rest-menus-controller.php:452
+msgid "Parent term does not exist."
+msgstr "מונח אב לא קיים."
+
+#: lib/class-wp-rest-menu-items-controller.php:347
+msgid "The post cannot be deleted."
+msgstr "לא ניתן למחוק את הפוסט."
+
+#: lib/class-wp-rest-customizer-nonces.php:51
+#: lib/class-wp-rest-menu-items-controller.php:157
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "אין לך הרשאות לערוך תכנים מסוג זה."
+
+#: lib/class-wp-rest-menu-items-controller.php:497
+msgid "Invalid post ID."
+msgstr "מספר פוסט שגוי."
+
+#: lib/class-wp-rest-menu-items-controller.php:508
+#: lib/full-site-editing/edit-site-page.php:97
+msgid "Invalid post type."
+msgstr "סוג תוכן שגוי."
+
+#: lib/class-wp-rest-menus-controller.php:111
+msgid "Sorry, you cannot view these menus, unless you have access to permission edit them. "
+msgstr "מצטערים, ניתן להציג את התפריטים האלה רק אם יש לך גישה להרשאות העריכה של התפריטים. "
+
+#: lib/class-wp-rest-menus-controller.php:131
+msgid "Sorry, you cannot view this menu, unless you have access to permission edit it. "
+msgstr "מצטערים, ניתן להציג את התפריט הזה רק אם יש לך גישה להרשאות העריכה של התפריט. "
+
+#: lib/class-wp-rest-menus-controller.php:210
+msgid "Sorry, you are not allowed to assign the provided locations."
+msgstr "מצטערים, אין לך אפשרות להקצות את המיקומים שסופקו."
+
+#: lib/class-wp-rest-menus-controller.php:649
+msgid "Menu location does not exist."
+msgstr "מיקום התפריט לא קיים."
+
+#: lib/class-wp-rest-menus-controller.php:677
+msgid "The locations assigned to the menu."
+msgstr "המיקומים שהוקצו לתפריט."
+
+#: lib/class-wp-rest-menu-items-controller.php:141
+msgid "Sorry, you cannot view this menu item, unless you have access to permission edit it. "
+msgstr "מצטערים, ניתן להציג את פריט התפריט רק אם יש לך גישה להרשאות העריכה שלו. "
+
+#: lib/class-wp-rest-menu-items-controller.php:159
+msgid "Sorry, you cannot view these menu items, unless you have access to permission edit them. "
+msgstr "מצטערים, ניתן להציג את פריטי התפריט האלה רק אם יש לך גישה להרשאות העריכה שלהם. "
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menu-items-controller.php:339
+msgid "Menu items do not support trashing. Set '%s' to delete."
+msgstr "פריטי התפריט לא תומכים בהעברה לפח. להגדיר את '%s' למחיקה."
+
+#: lib/class-wp-rest-menu-items-controller.php:515
+msgid "Title required if menu item of type custom."
+msgstr "יש להוסיף כותרת אם פריט התפריט של הסוג מותאם."
+
+#: lib/class-wp-rest-menu-items-controller.php:518
+msgid "URL required if menu item of type custom."
+msgstr "יש להוסיף כתובת URL אם פריט התפריט של הסוג מותאם."
+
+#: lib/class-wp-rest-menu-items-controller.php:793
+msgid "Get linked object."
+msgstr "לקבל אובייקט מקושר."
+
+#: lib/class-wp-rest-menu-items-controller.php:855
+msgid "Name of type."
+msgstr "שם הסוג."
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The family of objects originally represented, such as \"post_type\" or \"taxonomy\"."
+msgstr "משפחת האובייקטים שיוצגה במקור, כגון \"post_type\" או \"taxonomy\"."
+
+#: lib/class-wp-rest-menu-items-controller.php:886
+msgid "Text for the title attribute of the link element for this menu item."
+msgstr "הטקסט למאפיין הכותרת של אלמנט הקישור לפריט התפריט."
+
+#: lib/class-wp-rest-menu-items-controller.php:895
+msgid "Class names for the link element of this menu item."
+msgstr "שמות הסיווגים של אלמנט הקישור לפריט התפריט."
+
+#: lib/class-wp-rest-menu-items-controller.php:909
+msgid "The description of this menu item."
+msgstr "התיאור של פריט התפריט."
+
+#: lib/class-wp-rest-menu-items-controller.php:926
+msgid "The type of object originally represented, such as \"category,\" \"post\", or \"attachment.\""
+msgstr "משפחת האובייקט שיוצגה במקור, כגון \"category,\"‏ \"post\", או \"attachment.\""
+
+#: lib/class-wp-rest-menu-items-controller.php:969
+msgid "The target attribute of the link element for this menu item."
+msgstr "מאפיין המטרה של אלמנט הקישור בפריט התפריט."
+
+#: lib/class-wp-rest-menu-items-controller.php:979
+msgid "The singular label used to describe this type of menu item."
+msgstr "התווית היחידה שנרשמה בתיאור הסוג של פריט התפריט."
+
+#: lib/class-wp-rest-menu-items-controller.php:986
+msgid "The URL to which this menu item points."
+msgstr "כתובת ה-URL שאליה פריט התפריט מפנה."
+
+#: lib/class-wp-rest-menu-items-controller.php:993
+msgid "The XFN relationship expressed in the link of this menu item."
+msgstr "קשר הגומלין של XFN שמבוטא בקישור של פריט התפריט."
+
+#: lib/class-wp-rest-menu-items-controller.php:1007
+msgid "Whether the menu item represents an object that no longer exists."
+msgstr "האם פריט התפריט מבטא אובייקט שלא קיים עוד."
+
+#: lib/class-wp-rest-menu-items-controller.php:918
+msgid "The DB ID of the nav_menu_item that is this item's menu parent, if any, otherwise 0."
+msgstr "מזהה DB של nav_menu_item שמהווה את הורה התפריט של הפריט, אם קיים. אחרת, יש לציין 0."
+
+#: lib/class-wp-rest-menu-items-controller.php:932
+msgid "The DB ID of the original object this menu item represents, e . g . ID for posts and term_id for categories."
+msgstr "מזהה DB של האובייקט המקורי שמיוצג על ידי פריט התפריט, לדוגמה מזהה הפוסטים והנתון term_id של הקטגוריות."
+
+#: lib/class-wp-rest-menus-controller.php:109
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "אין לך הרשאות לערוך פריטים בטקסונומיה זו."
+
+#: lib/class-wp-rest-menu-locations-controller.php:50
+msgid "An alphanumeric identifier for the menu location."
+msgstr "מזהה אלפאנומרי למיקום התפריט."
+
+#: lib/class-wp-rest-menu-locations-controller.php:76
+#: lib/class-wp-rest-menu-locations-controller.php:113
+msgid "Sorry, you are not allowed to view menu locations."
+msgstr "מצטערים, אין לך הרשאה להציג את מיקומי התפריט."
+
+#: lib/class-wp-rest-menu-locations-controller.php:116
+#: lib/class-wp-rest-menu-locations-controller.php:132
+#: lib/class-wp-rest-menus-controller.php:217
+msgid "Invalid menu location."
+msgstr "מיקום תפריט לא חוקי."
+
+#: lib/class-wp-rest-menu-locations-controller.php:204
+msgid "The name of the menu location."
+msgstr "השם של מיקום התפריט."
+
+#: lib/class-wp-rest-menu-locations-controller.php:210
+msgid "The description of the menu location."
+msgstr "התיאור של מיקום התפריט."
+
+#: lib/class-wp-rest-menu-locations-controller.php:216
+msgid "The ID of the assigned menu."
+msgstr "המזהה של התפריט שהוקצה."
+
+#: build/block-library/blocks/navigation-area/block.json
+#: build/block-library/blocks/navigation/block.json
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block keyword"
+msgid "links"
+msgstr "קישורים"
+
+#: lib/compat/wordpress-5.9/block-template.php:87
+msgid "No matching template found."
+msgstr "לא נמצאו תבניות תואמות."
+
+#: lib/compat/wordpress-5.9/register-global-styles-cpt.php:23
+#: build/core-data/index.js:2117
+msgid "Global Styles"
+msgstr "סגנונות גלובליים"
+
+#: lib/experiments-page.php:87
+msgid "The block editor includes experimental features that are useable while they're in development. Select the ones you'd like to enable. These features are likely to change, so avoid using them in production."
+msgstr "עורך הבלוקים כולל אפשרויות ניסיוניות שבהן ניתן להשתמש בשלב הפיתוח. ניתן לבחור את האפשרויות שברצונך להפעיל. האפשרויות האלה כנראה ישתנו בעתיד ולכן, כדאי להימנע משימוש במהלך ההפקה."
+
+#: lib/compat/wordpress-5.9/template-parts.php:35
+msgid "No template parts found in Trash."
+msgstr "לא נמצאו חלקי תבנית בפח."
+
+#: lib/compat/wordpress-5.9/template-parts.php:22 build/edit-site/index.js:8712
+msgid "Template Parts"
+msgstr "חלקים של תבניות"
+
+#: lib/compat/wordpress-5.9/template-parts.php:23
+#: build/block-library/index.js:43885 build/editor/index.js:5507
+#: build/block-library/index.min.js:41428 build/editor/index.min.js:5294
+msgid "Template Part"
+msgid_plural "Template Parts"
+msgstr[0] "חלק של תבנית"
+msgstr[1] ""
+
+#: lib/compat/wordpress-5.9/template-parts.php:24
+msgctxt "Admin Menu text"
+msgid "Template Parts"
+msgstr "חלקים של תבניות"
+
+#: lib/compat/wordpress-5.9/template-parts.php:25
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "להוסיף חדש"
+
+#: lib/compat/wordpress-5.9/template-parts.php:26
+msgid "Add New Template Part"
+msgstr "להוסיף חלק חדש של תבנית"
+
+#: lib/compat/wordpress-5.9/template-parts.php:27
+msgid "New Template Part"
+msgstr "חלק תבנית חדש"
+
+#: lib/compat/wordpress-5.9/template-parts.php:28
+msgid "Edit Template Part"
+msgstr "לערוך את החלק של התבנית"
+
+#: lib/compat/wordpress-5.9/template-parts.php:29
+msgid "View Template Part"
+msgstr "להציג את החלק של התבנית"
+
+#: lib/compat/wordpress-5.9/template-parts.php:31
+msgid "All Template Parts"
+msgstr "כל חלקי התבניות"
+
+#: lib/compat/wordpress-5.9/template-parts.php:32
+msgid "Search Template Parts"
+msgstr "חיפוש של חלקי תבניות"
+
+#: lib/compat/wordpress-5.9/template-parts.php:33
+msgid "Parent Template Part:"
+msgstr "חלק של תבנית הורה:"
+
+#: lib/compat/wordpress-5.9/template-parts.php:34
+msgid "No template parts found."
+msgstr "לא נמצאו חלקי תבנית."
+
+#: lib/compat/wordpress-5.9/template-parts.php:36
+msgid "Template part archives"
+msgstr "ארכיונים של חלקי תבניות"
+
+#: lib/compat/wordpress-5.9/template-parts.php:37
+msgid "Insert into template part"
+msgstr "להוסיף לחלק של התבנית"
+
+#: lib/compat/wordpress-5.9/template-parts.php:38
+msgid "Uploaded to this template part"
+msgstr "הועלה לחלק של התבנית הזו"
+
+#: lib/compat/wordpress-5.9/template-parts.php:39
+msgid "Filter template parts list"
+msgstr "לסנן את הרשימה של חלקי התבנית"
+
+#: lib/compat/wordpress-5.9/template-parts.php:40
+msgid "Template parts list navigation"
+msgstr "ניווט ברשימה של חלקי התבנית"
+
+#: lib/compat/wordpress-5.9/template-parts.php:41
+msgid "Template parts list"
+msgstr "רשימה של חלקי התבנית"
+
+#: lib/compat/wordpress-5.9/template-parts.php:46
+msgid "Template parts to include in your templates."
+msgstr "חלקי תבניות שיש לכלול בתבניות שלך."
+
+#. translators: 'navigation' as in website navigation.
+#: lib/experiments-page.php:45 build/block-library/index.js:24072
+#: build/block-library/index.js:24197 build/block-library/index.js:24667
+#: build/edit-navigation/index.js:4521 build/edit-navigation/index.js:4530
+#: build/block-library/index.min.js:22577
+#: build/block-library/index.min.js:22653
+#: build/block-library/index.min.js:23278
+#: build/edit-navigation/index.min.js:4757
+#: build/edit-navigation/index.min.js:4769
+msgid "Navigation"
+msgstr "ניווט"
+
+#. translators: ARIA label for the Template Settings Sidebar tab, not selected.
+#. translators: Text label for the Template Settings Sidebar tab.
+#: lib/compat/wordpress-5.9/templates.php:23 build/edit-post/index.js:4984
+#: build/edit-post/index.js:6549 build/edit-post/index.js:6561
+#: build/edit-post/index.js:6562 build/edit-post/index.js:8080
+#: build/edit-site/index.js:8306 build/edit-site/index.js:8317
+#: build/edit-site/index.js:8319 build/edit-site/index.js:10768
+#: build/edit-site/index.js:11607 build/edit-post/index.min.js:5096
+#: build/edit-post/index.min.js:6818 build/edit-post/index.min.js:6841
+#: build/edit-post/index.min.js:6843 build/edit-post/index.min.js:8522
+msgid "Template"
+msgstr "תבנית עמוד"
+
+#: lib/compat/wordpress-5.9/templates.php:24
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "תבניות"
+
+#: lib/compat/wordpress-5.9/templates.php:25
+msgctxt "Template"
+msgid "Add New"
+msgstr "להוסיף חדש"
+
+#: lib/compat/wordpress-5.9/templates.php:26
+msgid "Add New Template"
+msgstr "להוסיף תבנית חדשה"
+
+#: lib/compat/wordpress-5.9/templates.php:27
+msgid "New Template"
+msgstr "תבנית חדשה"
+
+#: lib/compat/wordpress-5.9/templates.php:28
+msgid "Edit Template"
+msgstr "לערוך תבנית"
+
+#: lib/compat/wordpress-5.9/templates.php:29
+msgid "View Template"
+msgstr "להציג תבנית"
+
+#: lib/compat/wordpress-5.9/templates.php:31
+msgid "All Templates"
+msgstr "כל התבניות"
+
+#: lib/compat/wordpress-5.9/templates.php:32
+msgid "Search Templates"
+msgstr "לחפש תבניות"
+
+#: lib/compat/wordpress-5.9/templates.php:33
+msgid "Parent Template:"
+msgstr "תבנית הורה:"
+
+#: lib/compat/wordpress-5.9/templates.php:35
+msgid "No templates found in Trash."
+msgstr "לא נמצאו תבניות בפח."
+
+#: lib/compat/wordpress-5.9/block-template.php:210
+msgid "No matching template found"
+msgstr "לא נמצאה תבנית תואמת"
+
+#: lib/compat/wordpress-5.9/templates.php:34
+msgid "No templates found."
+msgstr "לא נמצאו תבניות."
+
+#: lib/compat/wordpress-5.9/templates.php:36
+msgid "Template archives"
+msgstr "ארכיונים של תבניות"
+
+#: lib/compat/wordpress-5.9/templates.php:37
+msgid "Insert into template"
+msgstr "להוסיף לתבנית"
+
+#: lib/compat/wordpress-5.9/templates.php:38
+msgid "Uploaded to this template"
+msgstr "הועלה לתבנית זו"
+
+#: lib/compat/wordpress-5.9/templates.php:39
+msgid "Filter templates list"
+msgstr "לסנן את רשימת התבניות"
+
+#: lib/compat/wordpress-5.9/templates.php:40
+msgid "Templates list navigation"
+msgstr "ניווט ברשימת התבניות"
+
+#: lib/compat/wordpress-5.9/templates.php:41
+msgid "Templates list"
+msgstr "רשימת התבניות"
+
+#: lib/compat/wordpress-5.9/templates.php:46
+msgid "Templates to include in your theme."
+msgstr "התבניות שיש לכלול בערכת העיצוב שלך."
+
+#: lib/compat/wordpress-5.9/templates.php:22 build/edit-site/index.js:8704
+msgid "Templates"
+msgstr "תבניות"
+
+#: lib/experiments-page.php:19
+msgid "Experimental settings"
+msgstr "הגדרות ניסיוניות"
+
+#: lib/init.php:64
+msgid "Experiments Settings"
+msgstr "הגדרות ניסויים"
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:29
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "באתר זה אין %s, כך שכרגע אין מה להציג כאן."
+
+#. translators: accessibility text for the footer landmark region.
+#: lib/compat/wordpress-5.9/block-template-utils.php:83
+#: build/block-library/index.js:44416 build/edit-navigation/index.js:3006
+#: build/edit-post/index.js:1347 build/edit-site/index.js:2499
+#: build/edit-widgets/index.js:1279 build/block-library/index.min.js:41901
+#: build/edit-navigation/index.min.js:3058 build/edit-post/index.min.js:1230
+#: build/edit-widgets/index.min.js:1189
+msgid "Footer"
+msgstr "פוטר"
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "שגיאת RSS:"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "לא ניתן להגיע לפיד, השרת כנראה לא פעיל. יש לנסות שנית מאוחר יותר."
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:45 build/block-editor/index.js:21216
+#: build/block-editor/index.js:22278 build/block-editor/index.js:22398
+#: build/block-library/index.js:38023 build/block-library/index.js:38024
+#: build/components/index.js:63090 build/block-library/index.min.js:35646
+msgid "Search"
+msgstr "חיפוש"
+
+#: build/block-library/index.js:11719 build/block-library/index.min.js:11052
+#: build/block-library/blocks/embed/block.json
+msgctxt "block title"
+msgid "Embed"
+msgstr "הטמעה"
+
+#: build/block-library/blocks/freeform/block.json
+msgctxt "block title"
+msgid "Classic"
+msgstr "קלאסי"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:160
+#: build/block-editor/index.js:42550 build/blocks/index.js:5380
+#: build/core-data/index.js:2017
+msgid "Media"
+msgstr "מדיה"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:63
+#: build/edit-post/index.js:4925 build/edit-post/index.min.js:4971
+msgid "General"
+msgstr "כללי"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "אין ארכיון לתצוגה."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "נוף יפה"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "מדיה"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "מאט מולנווג, 2017"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "עיזרו לבנות את גוטנברג"
+
+#: post-content.php:159 build/block-library/index.js:18400
+#: build/block-library/index.min.js:16927
+msgid "Code is Poetry"
+msgstr "קוד הוא שירה"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "תודה שבדיקת את גוטנברג."
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "קהילת וורדפרס"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "העורך נועד כדי לספק לך חוויה חדשה בבניית עמודים או פוסטים חדשים שתאפשר כתיבה של פוסטים עשירים ללא מאמץ באמצעות \"בלוקים\" שעוזרים לך לבצע פעולות שכיום דורשות כתיבה של שורטקוד, התאמה של HTML או איתור של תוכן \"מסתורי\" מוטמע."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "המידע שתואם למקור של הציטוט נמצא בשדה טקסט נפרד, כמו בכיתוב מתחת לתמונות, כדי שהמבנה של הציטוט יישמר גם אם בוחרים, משנים או מזיזים את המקור. תמיד אפשר להוסיף אותו שוב בקלות."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "הבלוקים יכולים להוסיף כל מה שצריך. לדוגמה, אפשר להוסיף ציטוט עמום כחלק מהקומפוזיציה של הטקסט או ליצור ציטוט ענק ומובלט. כל האפשרויות האלה זמינות בכלי ההוספה."
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "אפשר לשנות את מספר הטורים בגלריות שלך על ידי גרירה של הסליידר בבודק הבלוקים שבסרגל הצדי."
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "אם בחרת לשלב את היישורים החדשים של <strong>לרוחב</strong> <strong>ורוחב מלא</strong> בגלריות, אפשר ליצור פריסה עשירה בתוכן של מדיה במהירות:"
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "הנגישות חשובה ולכן, חשוב לזכור גם את המאפיינים לתיאור התמונות"
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "כמובן, תמונות שמוצגות ברוחב מלא יכולות להיות גדולות מאוד. אבל לפעמים התמונה שווה את זה."
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "למעלה מוצגת גלריה שכוללת שתי תמונות בלבד. כך אפשר ליצור פריסות יפות ומושכות בקלות רבה יותר ובלי להשתמש באובייקטים צפים. אפשר גם להמיר בקלות את הגלריה בחזרה לתמונות בודדות על ידי החלפה בין בלוקים."
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "בכל בלוק אפשר להכיל את היישורים האלה. הבלוק המוטמע גם כולל אותם והוא מובנה עם אפשרויות ריספונסיביות:"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "אפשר לבנות כל בלוק שרוצים, סטטי או דינאמי, מקושט או פשוט. זהו בלוק ציטוט:"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "אם ברצונך לקבל מידע נוסף על בנייה של בלוקים נוספים, או אם נדרשת לך עזרה בפרויקט, כדאי לעבור <a href=\"%s\">למאגר של GitHub‏</a>."
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "עיצוב ויזואלי"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "גלריות"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "תמונות וסרטים"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "טקסטים וכותרות"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "ו<em>רשימה</em> כמו זו, כמובן :)"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "תמונה שווה אלף מילים"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... כמו זו, המיושרת לימין."
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "ברוכים הבאים לעורך גוטנברג"
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "של הרים ומכונות דפוס"
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "השורות האלה נמצאות <strong>בבלוק טקסט</strong>, הבלוק הבסיסי ביותר. לבלוק הטקסט יש פקדים משלו וניתן להזיז אותו בחופשיות ברחבי הפוסט..."
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "הכותרות מוצגות בבלוקים נפרדים כדי לבנות ולארגן את הפריסה של התוכן."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "המטרה העיקרית של העורך החדש היא להקדיש את תשומת הלב המרבית לטיפול בתמונות ובמדיה. אנחנו מקווים שהאפשרויות המעודכנות, כגון הוספה של כתוביות או הטמעה של תמונות ברוחב מלא, יהיו לך קלות ומועילות יותר מבעבר."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "אם ערכת העיצוב שלך תומכת באפשרות, הכפתור \"לרוחב\" יוצג בסרגל הכלים של התמונה. כדאי לנסות אותו."
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "אפשר לבחור את הכיתוב ולנסות להזיז או לערוך אותו. אין צורך לדאוג שייבחרו תמונות או טקסטים אחרים בטעות או שהתצוגה תיהרס."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "המטרה של העורך החדש היא לאפשר הוספה של תוכן עשיר ל-WordPress באופן פשוט ומהנה. הפוסט הזה מורכב <em>מקטעי תוכן שונים</em> שאפשר להזיז ברחבי העמוד ולשחק איתם – ממש כמו קוביות לגו. ניתן להזיז את סמן העכבר ברחבי העמוד כדי לראות את הבלוקים השונים ולהדגיש אותם עם קווי מתאר וחצים. יש להקיש על החצים כדי לשנות את המיקום של הבלוקים במהירות. אל דאגה, התוכן בבלוק לא יאבד במהלך ההעתקה וההדבקה."
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "למעשה, כל מה שאפשר לעשות ב-WordPress זמין לך לביצוע מהיר ונגיש ממקום אחד בממשק. אין צורך להבין איך להשתמש בתגיות HTML, בסיווגים או לזכור תחבירים מורכבים של שורטקוד. הרעיון מאחורי כפתור ההוספה – הכפתור <code>(+)</code> – הוא לאפשר לך לעיין בכל הבלוקים הזמינים לתוכן ולהוסיף אותם לפוסט שלך. תוספים וערכות עיצוב יכולים להכיל בלוקים מסוימים ולפתוח בפניך אפשרויות נוספות לעריכה ולפרסום של תוכן עשיר."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "כלי <em>ההוספה</em>"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "מומלץ לנסות אותו כעת, ייתכן שיש דברים שאפשר להוסיף ב-WordPress שטרם הכרת. זוהי רשימה קצרה של האפשרויות הקיימות:"
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "הטמעות, כגון תוכן של YouTube, ציוצים או פוסטים אחרים של WordPress."
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "בלוקים של פריסה, בלוקים של לייקים, תמונות Hero, מפרידים וכו'."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "אחד היתרונות המרכזיים של הבלוקים הוא לאפשר לך לערוך אותם במיקומם הייעודי ולשנות את התוכן ישירות. במקום לעבוד עם שדות לעריכה של תכנים, כגון מקור הציטוט או המלל של הכפתור, אפשר לעבוד ישירות בבלוק כדי לשנות את התוכן. כדאי לנסות לערוך את הציטוט הבא:"
+
+#: lib/class-wp-rest-menu-items-controller.php:821
+msgid "The title for the object."
+msgstr "הכותרת של האובייקט."
+
+#: lib/class-wp-rest-menu-items-controller.php:67
+#: lib/class-wp-rest-menu-items-controller.php:846
+msgid "Unique identifier for the object."
+msgstr "מזהה יחודי לאובייקט."
+
+#: lib/init.php:51
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://he.wordpress.org/support/plugin/gutenberg"
+
+#: lib/init.php:48 lib/init.php:49
+msgid "Support"
+msgstr "תמיכה"
+
+#: build/block-library/blocks/latest-comments.php:142
+msgid "No comments to show."
+msgstr "אין תגובות להציג."
+
+#: build/block-library/blocks/archives.php:61
+msgid "Select Post"
+msgstr "בחירת פוסט"
+
+#: build/block-library/blocks/archives.php:58
+msgid "Select Week"
+msgstr "בחירת שבוע"
+
+#: build/block-library/blocks/archives.php:55
+msgid "Select Day"
+msgstr "בחירת יום"
+
+#: build/block-library/blocks/archives.php:52
+msgid "Select Month"
+msgstr "בחירת חודש"
+
+#: build/block-library/blocks/archives.php:49
+msgid "Select Year"
+msgstr "בחירת שנה"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:100
+msgid "%1$s on %2$s"
+msgstr "%1$s על %2$s"
+
+#: build/block-library/blocks/archives.php:27
+msgid "Archives"
+msgstr "ארכיונים"
+
+#: lib/init.php:87
+msgid "beta"
+msgstr "בטא"
+
+#: lib/class-wp-rest-menu-items-controller.php:878
+msgid "The ID for the parent of the object."
+msgstr "ה-ID של אובייקט האב."
+
+#: lib/class-wp-rest-menu-items-controller.php:489
+msgid "Invalid term ID."
+msgstr "מספר מונח שגוי."
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:66
+#: build/block-library/blocks/rss.php:31 build/block-library/index.js:21126
+#: build/core-data/index.js:5952 build/edit-navigation/index.js:1854
+#: build/edit-post/index.js:7810 build/editor/index.js:9854
+#: build/block-library/index.min.js:19888
+#: build/edit-navigation/index.min.js:1833 build/edit-post/index.min.js:8199
+#: build/editor/index.min.js:10101
+msgid "(no title)"
+msgstr "(ללא כותרת)"
+
+#: build/block-library/blocks/comment-edit-link.php:42
+#: build/block-editor/index.js:41407 build/block-editor/index.js:42209
+#: build/block-editor/index.js:44687 build/block-library/index.js:7718
+#: build/block-library/index.js:29059 build/block-library/index.js:29061
+#: build/block-library/index.js:45469 build/edit-navigation/index.js:3943
+#: build/edit-post/index.js:7926 build/block-library/index.min.js:6490
+#: build/block-library/index.min.js:27858
+#: build/block-library/index.min.js:27859
+#: build/block-library/index.min.js:43026
+#: build/edit-navigation/index.min.js:4134 build/edit-post/index.min.js:8335
+msgid "Edit"
+msgstr "עריכה"
+
+#: build/block-library/blocks/categories.php:34
+#: build/block-library/index.js:4871 build/block-library/index.js:4909
+#: build/components/index.js:65358 build/block-library/index.min.js:3788
+#: build/block-library/index.min.js:3847
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: build/block-library/blocks/read-more.php:24
+#: build/block-library/index.js:21111 build/block-library/index.js:23570
+#: build/block-library/index.js:37205 build/block-library/index.min.js:19853
+#: build/block-library/index.min.js:22049
+#: build/block-library/index.min.js:35308
+msgid "Read more"
+msgstr "קרא עוד"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#. translators: Data label for the Block Settings Sidebar tab.
+#: lib/navigation-theme-opt-in.php:91 lib/navigation-theme-opt-in.php:96
+#: build/edit-navigation/index.js:3672 build/edit-navigation/index.js:3687
+#: build/edit-navigation/index.js:3689 build/edit-post/index.js:6548
+#: build/edit-post/index.js:6567 build/edit-post/index.js:6569
+#: build/edit-site/index.js:8309 build/edit-site/index.js:8324
+#: build/edit-site/index.js:8326 build/edit-widgets/index.js:3420
+#: build/edit-navigation/index.min.js:3816
+#: build/edit-navigation/index.min.js:3841
+#: build/edit-navigation/index.min.js:3845 build/edit-post/index.min.js:6813
+#: build/edit-post/index.min.js:6853 build/edit-post/index.min.js:6857
+#: build/edit-widgets/index.min.js:3524
+msgid "Block"
+msgstr "בלוק"
+
+#: lib/init.php:65
+msgid "Experiments"
+msgstr "ניסויים"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "מדפיסים משנת 1440. תוסף זה נמצא בפיתוח לטובת עורך התוכן החדש של וורדפרס."
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "גוטנברג"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "צוות גוטנברג"
+
+#: lib/init.php:27 lib/init.php:28
+msgid "Demo"
+msgstr "הדגמה"
+
+#: build/block-library/blocks/categories.php:33
+msgid "Select Category"
+msgstr "בחירת קטגוריה"
+
+#: lib/init.php:55 lib/init.php:56
+msgid "Documentation"
+msgstr "תיעוד"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:30
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "לפעילות התקינה של Gutenberg נדרשת WordPress בגרסה %s ומעלה. עליך לשדרג את WordPress לפני ההפעלה של Gutenberg."

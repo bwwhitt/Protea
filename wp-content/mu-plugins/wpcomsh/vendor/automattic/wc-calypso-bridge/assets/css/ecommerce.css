@@ -1,0 +1,22 @@
+/* Hides Theme Tabs ( All | Free | Paid ) since we only show installed themes */
+.woocommerce-profile-wizard__body
+	.woocommerce-profile-wizard__themes-tab-panel
+	.components-tab-panel__tabs {
+	display: none;
+}
+
+/* Hides pricing toggle on Profiler > Product Types */
+.woocommerce-profile-wizard__body
+	.woocommerce-profile-wizard__product-types
+	.woocommerce-profile-wizard__product-types-pricing-toggle.woocommerce-profile-wizard__checkbox {
+	display: none !important;
+}
+.woocommerce-profile-wizard__card-help-footnote {
+	display: none;
+}
+
+/* Business and Free Features toggle on Business Details step */
+.woocommerce-profile-wizard__container.business-features
+	.components-tab-panel__tabs {
+	display: none;
+}

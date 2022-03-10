@@ -1,0 +1,587 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Seedlet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-24T02:20:13+00:00\n"
+"PO-Revision-Date: 2021-07-23 08:54:04+0000\n"
+"Language: id\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:29
+msgid "Add or publish Posts"
+msgstr "Tambah atau publikasikan Pos"
+
+#: template-parts/content/content-none.php:24
+msgid "Your site is set to show the the most recent posts on your homepage - but you don't have any Posts published."
+msgstr "Situs Anda kini telah disetel untuk menampilkan pos terbaru di beranda, tetapi belum ada Pos yang dipublikasikan."
+
+#: template-parts/content/content-none.php:15
+msgid "No posts published yet!"
+msgstr "Belum ada pos yang dipublikasikan."
+
+#: inc/customizer.php:171
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "Centang untuk menyembunyikan menu & widget situs di footer jika beranda disetel untuk menampilkan halaman statis."
+
+#: inc/customizer.php:170
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "Sembunyikan Menu & Widget dari Footer Situs"
+
+#: inc/customizer.php:153
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "Centang untuk menyembunyikan header situs jika beranda disetel untuk menampilkan halaman statis."
+
+#: inc/customizer.php:152
+msgid "Hide the Site Header"
+msgstr "Sembunyikan Header Situs"
+
+#: inc/customizer.php:138
+msgid "Display Site Title & Tagline"
+msgstr "Tampilkan Judul Situs dan Tagline"
+
+#: template-parts/post/author-bio.php:28
+msgid "View all posts by %s"
+msgstr "Tampilkan semua pos berdasarkan %s"
+
+#: inc/customizer.php:114
+msgid "On archive pages, posts show:"
+msgstr "Pada halaman arsip, pos menampilkan:"
+
+#: inc/customizer.php:104
+#: inc/customizer.php:117
+msgid "Full text"
+msgstr "Teks penuh"
+
+#: inc/customizer.php:103
+#: inc/customizer.php:116
+msgid "Summary"
+msgstr "Ringkasan"
+
+#: inc/customizer.php:101
+msgid "On the home page, posts show:"
+msgstr "Pada halaman beranda, pos menampilkan:"
+
+#: inc/customizer.php:69
+msgid "Excerpt Settings"
+msgstr "Pengaturan Kutipan"
+
+#: comments.php:74
+msgid "Leave a Comment"
+msgstr "Tinggalkan Komentar"
+
+#: inc/block-patterns.php:40
+msgid "Plant"
+msgstr "Tanaman"
+
+#: inc/block-patterns.php:29
+msgid "Envelope"
+msgstr "Amplop"
+
+#: inc/block-styles.php:19
+#: inc/block-styles.php:27
+msgid "Alternating Grid"
+msgstr "Grid Bergantian"
+
+#: template-parts/header/navigation.php:21
+msgid "Main"
+msgstr "Utama"
+
+#. Description of the theme
+msgid "Seedlet is a free WordPress theme. A two-column layout and classically elegant typography creates a refined site that gives your works and images space to breathe - and shine. Seedlet was built to be the perfect partner to the block editor, and supports all the latest blocks. Writing, audio, illustrations, photography, video - use Seedlet to engage and direct visitors' eyes, without your theme getting in the way. And the responsive design shifts naturally between desktop and mobile devices. Seedlet is a great option for professionals and creatives looking for a sophisticated vibe. Whether you're looking to create a blog or a robust site promoting your business, do with simplicity, style, and Seedlet."
+msgstr "Seedlet adalah tema WordPress gratis. Tata letak dua kolom dan jenis tulisan klasik yang elegan menciptakan situs yang sempurna yang memberi ruang pada karya dan gambar Anda untuk tampil dan bersinar. Seedlet dibangun untuk menjadi mitra yang sempurna bagi editor blok, dan mendukung semua blok terbaru. Tulisan, audio, ilustrasi, fotografi, video - gunakan Seedlet untuk menarik dan mengarahkan perhatian pengunjung, tanpa tema yang menghalangi. Dan desain responsif menyesuaikan secara alami antara desktop dan perangkat seluler. Seedlet adalah pilihan yang tepat untuk profesional dan kreatif yang menyukai kesan modern. Apakah Anda ingin membuat blog atau situs yang andal yang mempromosikan bisnis Anda, lakukan dengan kesederhanaan, style, dan Seedlet."
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/seedlet"
+msgstr "https://wordpress.com/theme/seedlet"
+
+#: inc/block-patterns.php:46
+msgid "Alternating Grid of Latest Posts"
+msgstr "Grid Bergantian dari Pos Terkini"
+
+#: template-parts/post/author-bio.php:13
+msgid "Published by"
+msgstr "Dipublikasikan oleh"
+
+#: inc/wpcom.php:162
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Untuk memastikan konten situs Anda dapat dibaca, coba pertahankan rasio kontras yang kuat antara warna yang Anda pilih di sini. <a href=\"%s\" target=\"_blank\">Pelajari lebih lanjut tentang kontras warna</a>."
+
+#: inc/wpcom.php:160
+msgid "Color Accessibility Warning"
+msgstr "Peringatan Aksesibilitas Warna"
+
+#: inc/wpcom.php:150
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Periksa untuk menyembunyikan judul halaman, jika beranda Anda diatur untuk menampilkan halaman statis."
+
+#: inc/wpcom.php:149
+msgid "Hide Homepage Title"
+msgstr "Sembunyikan Judul Beranda"
+
+#: classes/class-seedlet-custom-colors.php:29
+msgid "Borders Color"
+msgstr "Warna Pembatas"
+
+#: classes/class-seedlet-custom-colors.php:28
+#: inc/wpcom-colors-utils.php:72
+msgid "Tertiary Color"
+msgstr "Warna Tersier"
+
+#: classes/class-seedlet-custom-colors.php:27
+#: inc/wpcom-colors-utils.php:58
+msgid "Secondary Color"
+msgstr "Warna Sekunder"
+
+#: classes/class-seedlet-custom-colors.php:26
+#: inc/wpcom-colors-utils.php:44
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: classes/class-seedlet-custom-colors.php:25
+#: inc/wpcom-colors-utils.php:30
+msgid "Foreground Color"
+msgstr "Warna Latar Depan"
+
+#: classes/class-seedlet-custom-colors.php:24
+#: inc/wpcom-colors-utils.php:16
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:32
+#: template-parts/content/content.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lanjutkan membaca<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Kami tidak dapat menemukan yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: template-parts/content/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, istilah yang Anda cari tidak ditemukan. Silahkan coba kembali dengan kata kunci berbeda."
+
+#: template-parts/content/content-excerpt.php:17
+#: template-parts/content/content.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "Andalan"
+
+#: inc/template-tags.php:213
+msgid "Previous post:"
+msgstr "Pos sebelumnya:"
+
+#: inc/template-tags.php:212
+msgid "Previous Post"
+msgstr "Pos Sebelumnya"
+
+#: inc/template-tags.php:210
+msgid "Next post:"
+msgstr "Pos selanjutnya:"
+
+#: inc/template-tags.php:209
+msgid "Next Post"
+msgstr "Pos Selanjutnya"
+
+#. translators: %s: parent post link
+#: inc/template-tags.php:202
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Dipublikasikan pada</span><span class=\"post-title\">%s</span>"
+
+#: search.php:24
+msgid "Search results for:"
+msgstr "Hasil pencarian untuk:"
+
+#: inc/woocommerce.php:138
+#: inc/woocommerce.php:174
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d tulisan"
+msgstr[1] "%d tulisan"
+
+#: inc/template-tags.php:236
+msgid "Older posts"
+msgstr "Pos yang lebih lama"
+
+#: inc/template-tags.php:232
+msgid "Newer posts"
+msgstr "Pos yang lebih baru"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:129
+#: template-parts/content/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edit <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:113
+msgid "Tags:"
+msgstr "Tag:"
+
+#: inc/template-tags.php:101
+msgid "Posted in"
+msgstr "Dipublikasikan di"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:95
+#: inc/template-tags.php:107
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:62
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Tulis komentar<span class=\"screen-reader-text\"> pada %s</span>"
+
+#: inc/template-tags.php:45
+msgid "Posted by"
+msgstr "Dipublikasikan oleh"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:195
+msgid "Continue reading %s"
+msgstr "Lanjutkan membaca %s"
+
+#: inc/template-functions.php:129
+msgid "Archives: "
+msgstr "Arsip:"
+
+#: inc/template-functions.php:116
+#: inc/template-functions.php:124
+msgid "%s Archives"
+msgstr "%s Arsip"
+
+#: inc/template-functions.php:109
+msgid "Daily Archives: "
+msgstr "Arsip Harian:"
+
+#: inc/template-functions.php:107
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:106
+msgid "Monthly Archives: "
+msgstr "Arsip Bulanan:"
+
+#: inc/template-functions.php:104
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:103
+msgid "Yearly Archives: "
+msgstr "Arsip Tahunan:"
+
+#: inc/template-functions.php:100
+msgid "Author Archives: "
+msgstr "Arsip Penulis:"
+
+#: inc/template-functions.php:97
+msgid "Tag Archives: "
+msgstr "Arsip Tag:"
+
+#: inc/template-functions.php:94
+msgid "Category Archives: "
+msgstr "Arsip Kategori:"
+
+#: inc/block-patterns.php:36
+msgid "Group with Image Overlap"
+msgstr "Kelompokkan dengan Image Overlap"
+
+#: inc/block-patterns.php:27
+msgid "Group with Split Background"
+msgstr "Kelompokkan dengan Split Background"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:16
+msgid "Seedlet"
+msgstr "Seedlet"
+
+#: inc/back-compat.php:38
+#: inc/back-compat.php:52
+#: inc/back-compat.php:72
+msgid "Seedlet requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Seedlet membutuhkan minimal WordPress versi 4.7. Anda menggunakan versi %s. Lakukan upgrade dan coba kembali."
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Dipublikasikan pada</span><br><span class=\"post-title\">%judul</span>"
+
+#: image.php:75
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Ukuran penuh"
+
+#: image.php:61
+msgid "Page"
+msgstr "Halaman"
+
+#: image.php:57
+#: template-parts/content/content-page.php:25
+#: template-parts/content/content-single.php:45
+#: template-parts/content/content.php:48
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Gambar Selanjutnya"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "Gambar Sebelumnya"
+
+#: template-parts/header/navigation.php:95
+msgid "Social Links Menu"
+msgstr "Menu Tautan Media Sosial"
+
+#: template-parts/header/navigation.php:78
+msgid "View your shopping list"
+msgstr "Lihat keranjang belanja Anda"
+
+#: inc/woocommerce.php:135
+#: template-parts/header/navigation.php:76
+msgid "View your shopping cart"
+msgstr "Lihat keranjang belanja Anda"
+
+#: template-parts/header/navigation.php:88
+msgid "Cart"
+msgstr "Keranjang Belanja"
+
+#: template-parts/header/navigation.php:55
+msgid "Woo Minicart"
+msgstr "Woo Minicart"
+
+#: template-parts/header/navigation.php:24
+#: template-parts/header/navigation.php:74
+msgid "collapsed"
+msgstr "tertutup"
+
+#: template-parts/header/navigation.php:49
+#: template-parts/header/navigation.php:89
+msgid "expanded"
+msgstr "terbentang"
+
+#: template-parts/header/navigation.php:23
+#: template-parts/header/navigation.php:72
+msgid "Close"
+msgstr "Tutup"
+
+#: template-parts/header/navigation.php:48
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Lanjut ke konten"
+
+#: functions.php:338
+msgid "Add widgets here to appear in your footer."
+msgstr "Tambahkan widget di sini agar muncul di footer Anda."
+
+#: footer.php:17
+#: functions.php:336
+msgid "Footer"
+msgstr "Footer"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:295
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "aktif"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Fira Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:289
+msgctxt "Fira Sans: on or off"
+msgid "on"
+msgstr "aktif"
+
+#: functions.php:243
+#: inc/wpcom.php:126
+msgid "Stripe"
+msgstr "Stripe"
+
+#: functions.php:238
+#: inc/wpcom.php:121
+msgid "Horizontal inverted gradient"
+msgstr "Gradien terbalik horizontal"
+
+#: functions.php:233
+#: inc/wpcom.php:116
+msgid "Horizontal gradient"
+msgstr "Gradien horizontal"
+
+#: functions.php:228
+#: inc/wpcom.php:111
+msgid "Diagonal inverted gradient"
+msgstr "Gradien terbalik diagonal"
+
+#: functions.php:223
+#: inc/wpcom.php:106
+msgid "Diagonal gradient"
+msgstr "Gradien diagonal"
+
+#: functions.php:218
+#: inc/wpcom.php:101
+msgid "Horizontal inverted"
+msgstr "Terbalik horizontal"
+
+#: functions.php:213
+#: inc/wpcom.php:96
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: functions.php:208
+#: inc/wpcom.php:91
+msgid "Diagonal inverted"
+msgstr "Terbalik diagonal"
+
+#: functions.php:203
+#: inc/wpcom.php:86
+msgid "Diagonal"
+msgstr "Diagonal"
+
+#: functions.php:189
+#: inc/wpcom.php:72
+msgid "Background"
+msgstr "Latar belakang"
+
+#: functions.php:184
+#: inc/wpcom.php:67
+msgid "Tertiary"
+msgstr "Tersier"
+
+#: functions.php:179
+#: inc/wpcom.php:62
+msgid "Foreground"
+msgstr "Latar Depan"
+
+#: functions.php:174
+#: inc/wpcom.php:57
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: functions.php:169
+#: inc/wpcom.php:52
+msgid "Primary"
+msgstr "Utama"
+
+#: functions.php:150
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:149
+msgid "Huge"
+msgstr "Besar"
+
+#: functions.php:144
+msgid "L"
+msgstr "L"
+
+#: functions.php:143
+msgid "Large"
+msgstr "Besar"
+
+#: functions.php:138
+msgid "M"
+msgstr "M"
+
+#: functions.php:137
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:132
+msgid "S"
+msgstr "S"
+
+#: functions.php:131
+msgid "Small"
+msgstr "Kecil"
+
+#: functions.php:126
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:125
+msgid "Tiny"
+msgstr "Kecil"
+
+#: functions.php:61
+msgid "Social Links Navigation"
+msgstr "Navigasi Tautan Media Sosial"
+
+#: functions.php:60
+msgid "Footer Navigation"
+msgstr "Navigasi Footer"
+
+#: functions.php:59
+msgid "Primary Navigation"
+msgstr "Navigasi Utama"
+
+#. translators: %s: WordPress.
+#: template-parts/footer/footer-info.php:9
+msgid "Proudly powered by %s."
+msgstr "Dengan bangga didukung oleh %s"
+
+#: template-parts/footer/footer-info.php:6
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: template-parts/footer/footer-menu.php:2
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Komentar"
+msgstr[1] "%1$s Komentar"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: classes/class-seedlet-custom-colors.php:311
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker foreground color."
+msgstr "Kombinasi warna berikut mungkin sulit terbaca. Coba gunakan warna latar belakang yang lebih cerah dan/atau warna latar depan yang lebih gelap."
+
+#: classes/class-seedlet-custom-colors.php:179
+msgid "Custom"
+msgstr "Khusus"
+
+#: classes/class-seedlet-custom-colors.php:178
+msgid "Theme Default"
+msgstr "Tema Standar"
+
+#: classes/class-seedlet-custom-colors.php:154
+#: classes/class-seedlet-custom-colors.php:176
+msgid "Colors"
+msgstr "Warna"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Tidak ditemukan apa pun di sini. Silakan gunakan pencarian."
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Halaman tersebut tidak ditemukan."

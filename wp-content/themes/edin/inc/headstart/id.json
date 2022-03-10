@@ -1,0 +1,261 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page"
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "footer": "social",
+                "secondary": "primary",
+                "primary": "primary"
+            },
+            "header_textcolor": "303030",
+            "background_color": "ffffff",
+            "background_image": "",
+            "background_repeat": "repeat",
+            "background_position_x": "left",
+            "background_attachment": "scroll",
+            "edin_menu_style": "default",
+            "edin_sidebar_position": "right",
+            "edin_thumbnail_style": "landscape",
+            "edin_search_header": true,
+            "edin_title_front_page": false,
+            "edin_featured_page_one_front_page": "_hs_about_page",
+            "edin_featured_page_two_front_page": "_hs_contact_page",
+            "edin_featured_page_three_front_page": "_hs_blog_page",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "link": "#1279be"
+                }
+            },
+            "header_image": "remove-header",
+            "edin_breadcrumbs": false,
+            "edin_featured_image_remove_filter": false
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [
+                "edin_featured_page_one_front_page",
+                "edin_featured_page_two_front_page",
+                "edin_featured_page_three_front_page"
+            ]
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "Widget Teks Bilah Sisi",
+                "text": "Ini adalah widget teks. Widget Teks memungkinkan Anda menambahkan teks atau HTML ke bilah sisi. Anda dapat menggunakan widget teks untuk menampilkan teks, tautan, gambar, HTML, atau perpaduan semua hal itu. Edit semua itu di bagian Widget dari <a href=\"https://wordpress.com/customize/\">Customizer</a>."
+            },
+            "sidebar": "sidebar-1",
+            "position": 1
+        },
+        {
+            "id": "widget_contact_info-2",
+            "id_base": "widget_contact_info",
+            "settings": {
+                "title": "Lokasi Kami",
+                "address": "1-4 Langley Court\nLondon WC2E 9JY\nUnited Kingdom",
+                "phone": "0102030456789",
+                "hours": "",
+                "lat": 51.5126373,
+                "lon": -0.1246993,
+                "showmap": 1
+            },
+            "sidebar": "sidebar-2",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Widget Teks",
+                "text": "Ini adalah widget teks. Widget Teks memungkinkan Anda menambahkan teks atau HTML ke bilah sisi. Anda dapat menggunakan widget teks untuk menampilkan teks, tautan, gambar, HTML, atau perpaduan semua hal itu. Edit semua itu di bagian Widget dari <a href=\"https://wordpress.com/customize/\">Customizer</a>."
+            },
+            "sidebar": "sidebar-3",
+            "position": 0
+        },
+        {
+            "id": "nav_menu-2",
+            "id_base": "nav_menu",
+            "settings": {
+                "title": "Widget Tiga Menu Footer",
+                "nav_menu": "primary"
+            },
+            "sidebar": "sidebar-4",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "Widget Satu Teks Halaman Depan",
+                "text": "Ini adalah widget teks. Widget Teks memungkinkan Anda menambahkan teks atau HTML ke bilah sisi. Anda dapat menggunakan widget teks untuk menampilkan teks, tautan, gambar, HTML, atau perpaduan semua hal itu. Edit semua itu di bagian Widget dari <a href=\"https://wordpress.com/customize/\">Customizer</a>."
+            },
+            "sidebar": "sidebar-5",
+            "position": 0
+        },
+        {
+            "id": "text-5",
+            "id_base": "text",
+            "settings": {
+                "title": "Widget Dua Teks Halaman Depan",
+                "text": "Ini adalah widget teks. Widget Teks memungkinkan Anda menambahkan teks atau HTML ke bilah sisi. Anda dapat menggunakan widget teks untuk menampilkan teks, tautan, gambar, HTML, atau perpaduan semua hal itu. Edit semua itu di bagian Widget dari <a href=\"https://wordpress.com/customize/\">Customizer</a>."
+            },
+            "sidebar": "sidebar-6",
+            "position": 0
+        },
+        {
+            "id": "recent-posts-2",
+            "id_base": "recent-posts",
+            "settings": {
+                "title": "Widget Tiga Menu Footer"
+            },
+            "sidebar": "sidebar-7",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "Beranda",
+            "post_content": "Selamat datang di situs baru Anda!  Anda dapat menyunting halaman ini dengan mengeklik link Sunting.  Untuk informasi selengkapnya tentang kustomisasi situs, lihat <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>",
+            "post_excerpt": "Ini adalah kutipan halaman beranda",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://edindemo.files.wordpress.com/2014/07/homepage11.jpg",
+            "page_template": "page-templates/front-page.php"
+        },
+        {
+            "post_title": "Tentang",
+            "post_content": "Ini adalah contoh halaman tentang. Tidak seperti pos, halaman lebih cocok untuk konten tanpa batas waktu yang Anda inginkan untuk dapat diakses dengan mudah, seperti informasi Tentang atau Kontak. Klik tautan Sunting untuk melakukan perubahan pada halaman ini atau <a href=\"https://wordpress.com/page\">tambahkan halaman lain</a>.",
+            "post_excerpt": "Ini hanya kutipan singkat untuk halaman&nbsp;tentang.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101,
+            "attachment_url": "https://edindemo.files.wordpress.com/2016/06/grid1.jpg"
+        },
+        {
+            "post_title": "Kontak",
+            "post_content": "Ini adalah halaman kontak yang berisi informasi kontak dasar dan formulir kontak. [contact-form][contact-field label=\"Nama\" type=\"name\" required=\"1\"/][contact-field label=\"Email\" type=\"email\" required=\"1\"/][contact-field label=\"Situs web\" type=\"url\"/][contact-field label=\"Komentar\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "Ini hanya kutipan singkat untuk halaman&nbsp;kontak.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102,
+            "attachment_url": "https://edindemo.files.wordpress.com/2016/06/full-width1.jpg"
+        },
+        {
+            "post_title": "Blog",
+            "post_content": "Ini adalah halaman tempat pengguna akan menemukan blog situs Anda",
+            "post_excerpt": "Ini hanya kutipan singkat tentang blog Anda.",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "Pos blog pertama",
+            "post_content": "Ini adalah pos pertama Anda. Klik tautan Sunting untuk mengubah atau menghapusnya, atau <a href=\"https://wordpress.com/post\">mulai pos baru</a>. Jika ingin, Anda dapat menggunakan pos ini untuk menjelaskan kepada pembaca mengenai alasan Anda memulai blog ini dan rencana Anda dengan blog ini.",
+            "post_excerpt": "Ini adalah kutipan pos pertama Anda.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://edindemo.files.wordpress.com/2016/06/alternate-sidebar1.jpg"
+        }
+    ],
+    "menus": {
+        "social": {
+            "name": "Sosial",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 105,
+                    "menu-item-object-id": "105",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 106,
+                    "menu-item-object-id": "106",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 108,
+                    "menu-item-object-id": "108",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://pinterest.com"
+                },
+                {
+                    "menu-item-title": "LinkedIn",
+                    "menu-item-db-id": 107,
+                    "menu-item-object-id": "107",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://linkedin.com"
+                }
+            ]
+        }
+    }
+}

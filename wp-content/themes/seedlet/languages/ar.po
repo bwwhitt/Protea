@@ -1,0 +1,595 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Seedlet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-24T02:19:42+00:00\n"
+"PO-Revision-Date: 2021-07-23 21:54:03+0000\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:29
+msgid "Add or publish Posts"
+msgstr "إضافة مقالات أو نشرها"
+
+#: template-parts/content/content-none.php:24
+msgid "Your site is set to show the the most recent posts on your homepage - but you don't have any Posts published."
+msgstr "تم تعيين موقعك لعرض أحدث مقالاتك على صفحتك الرئيسية - ولكن ليس لديك أي مقالات منشورة بعد."
+
+#: template-parts/content/content-none.php:15
+msgid "No posts published yet!"
+msgstr "لم يتم نشر أي مقالات بعد!"
+
+#: inc/customizer.php:171
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "تحقَّق لإخفاء قائمة الموقع والمربعات الجانبية في التذييل، إذا تم تعيين صفحتك الرئيسية لعرض صفحة ثابتة."
+
+#: inc/customizer.php:170
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "إخفاء قائمة تذييل الموقع والمربعات الجانبية"
+
+#: inc/customizer.php:153
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "عيّن الخيار لإخفاء عنوان الصفحة، إذا تم تعيين صفحتك الرئيسية لعرض صفحة ثابتة."
+
+#: inc/customizer.php:152
+msgid "Hide the Site Header"
+msgstr "إخفاء ترويسة الموقع"
+
+#: inc/customizer.php:138
+msgid "Display Site Title & Tagline"
+msgstr "عرض عنوان الموقع وسطر الوصف"
+
+#: template-parts/post/author-bio.php:28
+msgid "View all posts by %s"
+msgstr "مشاهدة كل المقالات بواسطة %s"
+
+#: inc/customizer.php:114
+msgid "On archive pages, posts show:"
+msgstr "في صفحات الأرشيف، تظهر المقالات:"
+
+#: inc/customizer.php:104
+#: inc/customizer.php:117
+msgid "Full text"
+msgstr "النص بالكامل"
+
+#: inc/customizer.php:103
+#: inc/customizer.php:116
+msgid "Summary"
+msgstr "مختصر"
+
+#: inc/customizer.php:101
+msgid "On the home page, posts show:"
+msgstr "على الصفحة الرئيسية، تظهر المقالات:"
+
+#: inc/customizer.php:69
+msgid "Excerpt Settings"
+msgstr "إعدادات المقتطف"
+
+#: comments.php:74
+msgid "Leave a Comment"
+msgstr "اكتب تعليقًا"
+
+#: inc/block-patterns.php:40
+msgid "Plant"
+msgstr "نبتة"
+
+#: inc/block-patterns.php:29
+msgid "Envelope"
+msgstr "ظرف"
+
+#: inc/block-styles.php:19
+#: inc/block-styles.php:27
+msgid "Alternating Grid"
+msgstr "شبكة متناوبة"
+
+#: template-parts/header/navigation.php:21
+msgid "Main"
+msgstr "الرئيسي"
+
+#. Description of the theme
+msgid "Seedlet is a free WordPress theme. A two-column layout and classically elegant typography creates a refined site that gives your works and images space to breathe - and shine. Seedlet was built to be the perfect partner to the block editor, and supports all the latest blocks. Writing, audio, illustrations, photography, video - use Seedlet to engage and direct visitors' eyes, without your theme getting in the way. And the responsive design shifts naturally between desktop and mobile devices. Seedlet is a great option for professionals and creatives looking for a sophisticated vibe. Whether you're looking to create a blog or a robust site promoting your business, do with simplicity, style, and Seedlet."
+msgstr "Seedlet هو قالب مجاني من ووردبريس. حيث يعمل التخطيط المكون من عمودين والخط الكلاسيكي الأنيق على إنشاء موقع فريد يمنح أعمالك وصورك مساحة للتنفس والتألق. تم تصميم Seedlet ليكون الشريك المثالي لمحرر الكتلة، كما أنه يدعم أحدث الكتل. الكتابة والصوت والرسوم التوضيحية والتصوير الفوتوغرافي والفيديو - كلها ميزات يمكنك استخدامها على Seedlet لجذب عيون الزوار وتوجيهها، دون أن يعيقك القالب في ذلك. ويتحول التصميم سريع الاستجابة بشكل طبيعي ليتناسب مع أجهزة سطح المكتب والأجهزة المحمولة. Seedlet هو خيار رائع للمحترفين والمبدعين الذين يبحثون تذوّق حس التطوّر. سواء كنت تتطلع إلى إنشاء مدونة أو إنشاء موقع قوي يروج لأعمالك، فإنه يمكنك الاستعانة بالبساطة والأناقة مع Seedlet."
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/seedlet"
+msgstr "https://wordpress.com/theme/seedlet"
+
+#: inc/block-patterns.php:46
+msgid "Alternating Grid of Latest Posts"
+msgstr "شبكة تناوب بين أحدث المقالات"
+
+#: template-parts/post/author-bio.php:13
+msgid "Published by"
+msgstr "بقلم"
+
+#: inc/wpcom.php:162
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "لضمان قدرة الأشخاص على قراءة موقعك، حاول الحفاظ على نسبة تباين قوية بين الألوان التي تختارها هنا. <a href=\"%s\" target=\"_blank\"> تعرف على المزيد حول تباين الألوان.</a>"
+
+#: inc/wpcom.php:160
+msgid "Color Accessibility Warning"
+msgstr "تحذير إمكانية الوصول إلى الألوان"
+
+#: inc/wpcom.php:150
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "عيّن الخيار لإخفاء عنوان الصفحة، إذا تم تعيين صفحتك الرئيسية لعرض صفحة ثابتة."
+
+#: inc/wpcom.php:149
+msgid "Hide Homepage Title"
+msgstr "إخفاء عنوان الصفحة الرئيسية"
+
+#: classes/class-seedlet-custom-colors.php:29
+msgid "Borders Color"
+msgstr "لون الحدود"
+
+#: classes/class-seedlet-custom-colors.php:28
+#: inc/wpcom-colors-utils.php:72
+msgid "Tertiary Color"
+msgstr "لون ثالثي"
+
+#: classes/class-seedlet-custom-colors.php:27
+#: inc/wpcom-colors-utils.php:58
+msgid "Secondary Color"
+msgstr "لون ثانوي"
+
+#: classes/class-seedlet-custom-colors.php:26
+#: inc/wpcom-colors-utils.php:44
+msgid "Primary Color"
+msgstr "لون أساسي"
+
+#: classes/class-seedlet-custom-colors.php:25
+#: inc/wpcom-colors-utils.php:30
+msgid "Foreground Color"
+msgstr "لون المقدمة"
+
+#: classes/class-seedlet-custom-colors.php:24
+#: inc/wpcom-colors-utils.php:16
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:32
+#: template-parts/content/content.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "تابع القراءة<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لم نعثر على ما تبحث عنه. لعل استعمال البحث يساعدك."
+
+#: template-parts/content/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذراً، لا توجد نتائج تتوافق مع مصطلحات بحثك. يرجى محاولة البحث مجدداً باستخدام كلمات بحث مختلفة."
+
+#: template-parts/content/content-excerpt.php:17
+#: template-parts/content/content.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "مميزة"
+
+#: inc/template-tags.php:213
+msgid "Previous post:"
+msgstr "المقالة السابقة:"
+
+#: inc/template-tags.php:212
+msgid "Previous Post"
+msgstr "المقالة السابقة"
+
+#: inc/template-tags.php:210
+msgid "Next post:"
+msgstr "المقالة التالية:"
+
+#: inc/template-tags.php:209
+msgid "Next Post"
+msgstr "المقالة التالية"
+
+#. translators: %s: parent post link
+#: inc/template-tags.php:202
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">نشرت في</span><span class=\"post-title\">%s</span>"
+
+#: search.php:24
+msgid "Search results for:"
+msgstr "نتائج البحث عن:"
+
+#: inc/woocommerce.php:138
+#: inc/woocommerce.php:174
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d عنصر"
+msgstr[1] "عنصر واحد"
+msgstr[2] "عنصران"
+msgstr[3] "%d عناصر"
+msgstr[4] "%d عنصرا"
+msgstr[5] "%d عناصر"
+
+#: inc/template-tags.php:236
+msgid "Older posts"
+msgstr "مقالات أقدم"
+
+#: inc/template-tags.php:232
+msgid "Newer posts"
+msgstr "مقالات أحدث"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:129
+#: template-parts/content/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "تحرير <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:113
+msgid "Tags:"
+msgstr "الأوسمة:"
+
+#: inc/template-tags.php:101
+msgid "Posted in"
+msgstr "نشرت تحت تصنيف"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:95
+#: inc/template-tags.php:107
+msgid ", "
+msgstr "،"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:62
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "اترك تعليقًا<span class=\"screen-reader-text\"> على %s</span>"
+
+#: inc/template-tags.php:45
+msgid "Posted by"
+msgstr "بقلم"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:195
+msgid "Continue reading %s"
+msgstr "تابع قراءة %s"
+
+#: inc/template-functions.php:129
+msgid "Archives: "
+msgstr "الأرشيف :"
+
+#: inc/template-functions.php:116
+#: inc/template-functions.php:124
+msgid "%s Archives"
+msgstr "أرشيف %s:"
+
+#: inc/template-functions.php:109
+msgid "Daily Archives: "
+msgstr "الأرشيف اليومي:"
+
+#: inc/template-functions.php:107
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:106
+msgid "Monthly Archives: "
+msgstr "الأرشيف الشهري:"
+
+#: inc/template-functions.php:104
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:103
+msgid "Yearly Archives: "
+msgstr "الأرشيف السنوي:"
+
+#: inc/template-functions.php:100
+msgid "Author Archives: "
+msgstr "أرشيف الكاتب:"
+
+#: inc/template-functions.php:97
+msgid "Tag Archives: "
+msgstr "أرشيف الوسم:"
+
+#: inc/template-functions.php:94
+msgid "Category Archives: "
+msgstr "أرشيف التصنيف:"
+
+#: inc/block-patterns.php:36
+msgid "Group with Image Overlap"
+msgstr "مجموعة بصور متداخلة"
+
+#: inc/block-patterns.php:27
+msgid "Group with Split Background"
+msgstr "مجموعة بخلفية منقسمة"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:16
+msgid "Seedlet"
+msgstr "Seedlet"
+
+#: inc/back-compat.php:38
+#: inc/back-compat.php:52
+#: inc/back-compat.php:72
+msgid "Seedlet requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "يتطلب القالب Seedlet إصدار ووردبريس 4.7 على الأقل. وأنت تعمل على الإصدار %s. يرجى الترقية والمحاولة مرة أخرى."
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">نشرت بتاريخ</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:75
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "الحجم الكامل"
+
+#: image.php:61
+msgid "Page"
+msgstr "الصفحة"
+
+#: image.php:57
+#: template-parts/content/content-page.php:25
+#: template-parts/content/content-single.php:45
+#: template-parts/content/content.php:48
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "الصورة التالية"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "الصورة السابقة"
+
+#: template-parts/header/navigation.php:95
+msgid "Social Links Menu"
+msgstr "قائمة الروابط الإجتماعية"
+
+#: template-parts/header/navigation.php:78
+msgid "View your shopping list"
+msgstr "عرض قائمة تسوقك"
+
+#: inc/woocommerce.php:135
+#: template-parts/header/navigation.php:76
+msgid "View your shopping cart"
+msgstr "عرض سلة تسوقك"
+
+#: template-parts/header/navigation.php:88
+msgid "Cart"
+msgstr "عربة التسوق"
+
+#: template-parts/header/navigation.php:55
+msgid "Woo Minicart"
+msgstr "Woo Minicart"
+
+#: template-parts/header/navigation.php:24
+#: template-parts/header/navigation.php:74
+msgid "collapsed"
+msgstr "مطوية"
+
+#: template-parts/header/navigation.php:49
+#: template-parts/header/navigation.php:89
+msgid "expanded"
+msgstr "موسعة"
+
+#: template-parts/header/navigation.php:23
+#: template-parts/header/navigation.php:72
+msgid "Close"
+msgstr "إغلاق"
+
+#: template-parts/header/navigation.php:48
+msgid "Menu"
+msgstr "القائمة"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "انتقل إلى المحتوى"
+
+#: functions.php:338
+msgid "Add widgets here to appear in your footer."
+msgstr "إضافة ودجات هنا لتظهر في تذييل موقعك."
+
+#: footer.php:17
+#: functions.php:336
+msgid "Footer"
+msgstr "أسفل الصفحة"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:295
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "تشغيل"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Fira Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:289
+msgctxt "Fira Sans: on or off"
+msgid "on"
+msgstr "تشغيل"
+
+#: functions.php:243
+#: inc/wpcom.php:126
+msgid "Stripe"
+msgstr "Stripe"
+
+#: functions.php:238
+#: inc/wpcom.php:121
+msgid "Horizontal inverted gradient"
+msgstr "تدرج أفقي مقلوب"
+
+#: functions.php:233
+#: inc/wpcom.php:116
+msgid "Horizontal gradient"
+msgstr "تدرج أفقي"
+
+#: functions.php:228
+#: inc/wpcom.php:111
+msgid "Diagonal inverted gradient"
+msgstr "تدرج قطري مقلوب"
+
+#: functions.php:223
+#: inc/wpcom.php:106
+msgid "Diagonal gradient"
+msgstr "تدرج قطري"
+
+#: functions.php:218
+#: inc/wpcom.php:101
+msgid "Horizontal inverted"
+msgstr "أفقي مقلوب"
+
+#: functions.php:213
+#: inc/wpcom.php:96
+msgid "Horizontal"
+msgstr "أفقي"
+
+#: functions.php:208
+#: inc/wpcom.php:91
+msgid "Diagonal inverted"
+msgstr "قطري مقلوب"
+
+#: functions.php:203
+#: inc/wpcom.php:86
+msgid "Diagonal"
+msgstr "قطري"
+
+#: functions.php:189
+#: inc/wpcom.php:72
+msgid "Background"
+msgstr "خلفية"
+
+#: functions.php:184
+#: inc/wpcom.php:67
+msgid "Tertiary"
+msgstr "ثالثي"
+
+#: functions.php:179
+#: inc/wpcom.php:62
+msgid "Foreground"
+msgstr "المقدمة الأمامية"
+
+#: functions.php:174
+#: inc/wpcom.php:57
+msgid "Secondary"
+msgstr "ثانوي"
+
+#: functions.php:169
+#: inc/wpcom.php:52
+msgid "Primary"
+msgstr "أساسي"
+
+#: functions.php:150
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:149
+msgid "Huge"
+msgstr "كبير جدًا"
+
+#: functions.php:144
+msgid "L"
+msgstr "L"
+
+#: functions.php:143
+msgid "Large"
+msgstr "كبير"
+
+#: functions.php:138
+msgid "M"
+msgstr "M"
+
+#: functions.php:137
+msgid "Normal"
+msgstr "عادي"
+
+#: functions.php:132
+msgid "S"
+msgstr "S"
+
+#: functions.php:131
+msgid "Small"
+msgstr "صغير"
+
+#: functions.php:126
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:125
+msgid "Tiny"
+msgstr "صغير جدًا"
+
+#: functions.php:61
+msgid "Social Links Navigation"
+msgstr "التنقل عبر الروابط الاجتماعية"
+
+#: functions.php:60
+msgid "Footer Navigation"
+msgstr "قائمة تصفح تذييل الموقع"
+
+#: functions.php:59
+msgid "Primary Navigation"
+msgstr "عنوان القائمة الرئيسي"
+
+#. translators: %s: WordPress.
+#: template-parts/footer/footer-info.php:9
+msgid "Proudly powered by %s."
+msgstr "مدعوم بفخر من %s"
+
+#: template-parts/footer/footer-info.php:6
+msgid "https://wordpress.org/"
+msgstr "https://ar.wordpress.org/"
+
+#: template-parts/footer/footer-menu.php:2
+msgid "Footer Menu"
+msgstr "قائمة تذييل الصفحة"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "لا يوجد تعليقات"
+msgstr[1] "تعليق واحد"
+msgstr[2] "%1$s تعليقات"
+msgstr[3] "%1$s تعليقات"
+msgstr[4] "%1$s تعليقا"
+msgstr[5] "%1$s تعليق"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "1 Comment"
+msgstr "تعليق 1"
+
+#: classes/class-seedlet-custom-colors.php:311
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker foreground color."
+msgstr "قد يكون من الصعب على القرّاء قراءة هذه التركيبة من الألوان. جرب استخدام لون خلفية أكثر إشراقاً و/أو لون نص أغمق."
+
+#: classes/class-seedlet-custom-colors.php:179
+msgid "Custom"
+msgstr "مُخصص"
+
+#: classes/class-seedlet-custom-colors.php:178
+msgid "Theme Default"
+msgstr "قالب افتراضي"
+
+#: classes/class-seedlet-custom-colors.php:154
+#: classes/class-seedlet-custom-colors.php:176
+msgid "Colors"
+msgstr "ألوان"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لا يوجد شيء هنا. ربما حاول استعمال البحث؟"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذراً! لايمكن العثور على تلك الصفحة."

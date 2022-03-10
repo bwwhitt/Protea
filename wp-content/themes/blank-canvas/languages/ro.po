@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Blank-canvas\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-08T01:17:18+00:00\n"
+"PO-Revision-Date: 2021-08-07 06:40:41+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/customizer.php:167
+msgid "Your logo will not be shown on all posts and pages. To display your logo, follow the instructions above to enable your site header."
+msgstr "Logoul tău va fi arătat  în toate articolele și paginile. Pentru a afișa logoul, urmează instrucțiunile de mai sus pentru a activa antetul site-ului."
+
+#: inc/block-patterns.php:31
+#: inc/block-patterns.php:624
+#: inc/wpcom.php:197
+#: inc/wpcom.php:228
+msgid "Coming Soon"
+msgstr "În curând"
+
+#: inc/wpcom.php:263
+msgid "SUBSCRIBE"
+msgstr "ABONEAZĂ-TE"
+
+#: inc/wpcom.php:232
+msgid "A new blog by MindStomp. Sign up to be notified when we launch."
+msgstr "Un blog nou oferit de MindStomp. Înscrie-te pentru a fi notificat când îl lansăm."
+
+#: inc/block-patterns.php:578
+msgid "A new art gallery in downtown Boston."
+msgstr "O nouă galerie de artă în centrul orașului Boston."
+
+#: inc/block-patterns.php:574
+msgid "Opening Soon"
+msgstr "Se deschide în curând"
+
+#: inc/wpcom.php:201
+msgid "Sign up to hear when my journey begins."
+msgstr "Înregistrează-te pentru a afla când începe călătoria mea."
+
+#: inc/wpcom.php:259
+msgid "We’re launching soon. Be the first to sign up!"
+msgstr "Facem lansarea în curând. Fii printre primii, înscrie-te!"
+
+#: inc/block-patterns.php:521
+msgid "A new album from Rage Slump coming April 2021. Follow us on BandCamp now to be the first to hear some sneak peeks of the album."
+msgstr "În luna aprilie 2021, Rage Slump lansează un album nou. Urmărește-ne acum pe BandCamp, vei fii printre primii care află noutăți."
+
+#: inc/wpcom.php:255
+msgid "A new app for designers"
+msgstr "O aplicație nouă pentru designeri"
+
+#: inc/wpcom.php:254
+msgid "A close-up of a black smart watch against a pink background."
+msgstr "Un prim-plan cu un ceas inteligent negru pe un fundal roz."
+
+#: inc/wpcom.php:251
+msgid "Coming Soon: App"
+msgstr "În curând: aplicație"
+
+#: inc/wpcom.php:222
+msgid "Coming Soon: Simple"
+msgstr "În curând: simplu"
+
+#: inc/wpcom.php:189
+msgid "A megaphone icon with sharp angles."
+msgstr "Un icon megafon cu unghiuri ascuțite."
+
+#: inc/wpcom.php:185
+msgid "Coming Soon: Solid Color"
+msgstr "În curând: culoare densă"
+
+#: inc/block-patterns.php:606
+msgid "Coming Soon: Restaurant"
+msgstr "În curând: restaurant"
+
+#: inc/block-patterns.php:594
+#: inc/block-patterns.php:640
+msgid "info@example.com"
+msgstr "info@example.com"
+
+#: inc/block-patterns.php:588
+msgid "Boston, MA, 01010"
+msgstr "Boston, MA, 01010"
+
+#: inc/block-patterns.php:569
+msgid "Coming Soon: Art Gallery"
+msgstr "În curând: galerie de artă"
+
+#: inc/block-patterns.php:536
+msgid "Coming Soon: Animated Gradient"
+msgstr "În curând: gradient animat"
+
+#: inc/block-patterns.php:526
+msgid "FOLLOW US"
+msgstr "URMĂREȘTE-NE"
+
+#: inc/block-patterns.php:513
+msgid "COMING SOON"
+msgstr "ÎN CURÂND"
+
+#: inc/block-patterns.php:509
+msgid "Coming Soon: Gradient"
+msgstr "În curând: gradient"
+
+#: inc/block-patterns.php:634
+msgid "Townsville, MA, 01010"
+msgstr "Townsville, MA, 01010"
+
+#: inc/block-patterns.php:628
+msgid "A new restaurant featuring farm-to-table dining."
+msgstr "Un nou restaurant care oferă mese cu produse de la ferme."
+
+#: inc/block-patterns.php:313
+msgid "Bandcamp"
+msgstr "Bandcamp"
+
+#: inc/block-patterns.php:321
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer.php:46
+msgid "Content Options"
+msgstr "Opțiuni conținut"
+
+#: inc/block-patterns.php:436
+msgid "$70"
+msgstr "70 $"
+
+#: inc/block-patterns.php:416
+msgid "$60"
+msgstr "60 $"
+
+#: inc/block-patterns.php:396
+msgid "$45"
+msgstr "45 $"
+
+#: inc/block-patterns.php:376
+msgid "$36"
+msgstr "36 $"
+
+#: inc/wpcom.php:48
+msgid "Kate Adams"
+msgstr "Kate Adams"
+
+#: inc/block-patterns.php:500
+msgid "Donate to help keep us posting!"
+msgstr "Donează pentru a ne ajuta să publicăm în continuare!"
+
+#: inc/block-patterns.php:496
+msgid "Sponsor: Crafty Cookies"
+msgstr "Sponsor: Crafty Cookies"
+
+#: inc/block-patterns.php:492
+msgid " in <em>The New York Times</em>"
+msgstr " în <em>The New York Times</em>"
+
+#: inc/block-patterns.php:492
+msgid "\"Identity and Ownership\""
+msgstr "„Identitate și proprietate”"
+
+#: inc/block-patterns.php:488
+msgid " in <em>The Atlantic</em>"
+msgstr " în <em>The Atlantic</em>"
+
+#: inc/block-patterns.php:488
+msgid "\"Why we must own our history\""
+msgstr "„De ce trebuie să ne cunoaștem istoria”"
+
+#: inc/customizer.php:66
+msgid "Enable site header and top menu"
+msgstr "Activează antetul și meniul de sus al site-ului"
+
+#: inc/customizer.php:67
+msgid "Check to show a standard site header, navigation menu and social links menu on the top of every page. These can be configured in the \"Site Identity\" and \"Menus\" panels."
+msgstr "Bifează pentru a afișa un antet standard, meniul de navigare și meniul cu legăturile sociale în partea de sus a fiecărei pagini. Toate pot fi configurate în panourile „Identitate site” și „Meniuri”."
+
+#: inc/customizer.php:91
+msgid "Check to show a navigation menu and widgets in your site's footer area."
+msgstr "Bifează pentru a afișa un meniu de navigare și piese în subsolul site-ului."
+
+#: inc/customizer.php:90
+msgid "Enable widgets and footer menu"
+msgstr "Activează piesele și meniul în subsol"
+
+#: inc/customizer.php:115
+msgid "Check to show titles at the top of single posts and pages."
+msgstr "Bifează pentru a afișa titlurile în partea de sus a articolelor și paginilor singulare."
+
+#: inc/customizer.php:114
+msgid "Show post and page titles"
+msgstr "Arată titlurile articolelor și paginilor"
+
+#: inc/customizer.php:139
+msgid "Check to show comments underneath posts and pages. Comments can be configured in your site’s Discussion settings screen."
+msgstr "Bifează pentru a afișa comentarii sub articole și pagini. Comentariile pot fi configurate în ecranul Setări - Discuții din panoul de control."
+
+#: inc/customizer.php:138
+msgid "Make comments visible"
+msgstr "Fă comentariile vizibile"
+
+#: inc/block-patterns.php:484
+msgid "“The Lost Tricycle” Book"
+msgstr "Cartea „The Lost Tricycle”"
+
+#: inc/block-patterns.php:476
+msgid "Published work and ephemera."
+msgstr "Lucrări publicate și efemere."
+
+#: inc/block-patterns.php:472
+msgid "Patricia Jones"
+msgstr "Patricia Jones"
+
+#: inc/block-patterns.php:464
+msgid "A logo of a circle with a line through it."
+msgstr "Un logo cu un cerc și o linie prin el."
+
+#: inc/block-patterns.php:460
+msgid "Text Links"
+msgstr "Legături text"
+
+#: inc/block-patterns.php:355
+msgid "Julia Paxton"
+msgstr "Julia Paxton"
+
+#: inc/block-patterns.php:351
+msgid "Woman wearing sunglasses"
+msgstr "Femeie putând ochelari de soare"
+
+#: inc/block-patterns.php:347
+msgid "Product Links"
+msgstr "Legături la produse"
+
+#: inc/block-patterns.php:325
+msgid "Tidal"
+msgstr "Tidal"
+
+#: inc/block-patterns.php:429
+msgid "Oversized Alpaca Crew, Everlane"
+msgstr "Oversized Alpaca Crew, Everlane"
+
+#: inc/block-patterns.php:409
+msgid "Chunky Platform Lace-Up Boots, H&amp;M"
+msgstr "Chunky Platform Lace-Up Boots, H&amp;M"
+
+#: inc/block-patterns.php:389
+msgid "Pink Long Sleeve Tea Dress, Topshop"
+msgstr "Pink Long Sleeve Tea Dress, Topshop"
+
+#: inc/block-patterns.php:369
+msgid "Rhinestone Earrings, ASOS"
+msgstr "Rhinestone Earrings, ASOS"
+
+#: inc/block-patterns.php:317
+msgid "Apple Music"
+msgstr "Apple Music"
+
+#: inc/block-patterns.php:272
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/block-patterns.php:276
+msgid "Twitter"
+msgstr "Twitter "
+
+#: inc/block-patterns.php:305
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/block-patterns.php:309
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/block-patterns.php:286
+msgid "Musician Links"
+msgstr "Legături la muzicieni"
+
+#: inc/block-patterns.php:260
+msgid "Watch my tutorials"
+msgstr "Vizionează tutorialele mele"
+
+#: inc/block-patterns.php:294
+msgid "Image of a singer performing."
+msgstr "Imaginea unui cântăreț care interpretează."
+
+#: inc/block-patterns.php:255
+msgid "Antonio Miller"
+msgstr "Antonio Miller"
+
+#: inc/block-patterns.php:251
+msgid "Colored pencils"
+msgstr "Creioane colorate"
+
+#: inc/block-patterns.php:233
+msgid "Ask me a question"
+msgstr "Pune-mi o întrebare"
+
+#: inc/block-patterns.php:225
+msgid "Follow my Instagram"
+msgstr "Urmărește-mă pe Instagram"
+
+#: inc/block-patterns.php:221
+msgid "Listen on SoundCloud"
+msgstr "Ascultă pe SoundCloud"
+
+#: inc/block-patterns.php:217
+msgid "Subscribe on YouTube"
+msgstr "Abonează-te pe YouTube"
+
+#: inc/block-patterns.php:204
+msgid "Hamburger icon"
+msgstr "Icon hamburger"
+
+#: inc/block-patterns.php:138
+msgid "April 16th"
+msgstr "16 aprilie"
+
+#: inc/block-patterns.php:138
+msgid "8pm–12am"
+msgstr "20:00 - 12:00"
+
+#: inc/block-patterns.php:133
+msgid "San Francisco, CA"
+msgstr "San Francisco, CA"
+
+#: inc/block-patterns.php:124
+msgid "Photo of two drinks."
+msgstr "Fotografie cu două băuturi."
+
+#: inc/block-patterns.php:26
+msgid "Link in Bio"
+msgstr "Legătură la biografie"
+
+#: functions.php:139
+msgid "This theme will only display Widgets if they are enabled in the Content Options section."
+msgstr "Această temă va afișa piese numai dacă sunt activate în secțiunea Opțiuni conținut."
+
+#: inc/block-patterns.php:298
+msgid "Alex Smith — Own Way"
+msgstr "Alex Smith - Own Way"
+
+#: inc/block-patterns.php:268
+msgid "My wish list"
+msgstr "Lista mea de preferințe"
+
+#: inc/block-patterns.php:208
+msgid "Hamburger"
+msgstr "Hamburger"
+
+#: inc/block-patterns.php:196
+msgid "Emoji Links"
+msgstr "Legături la emoticoane"
+
+#: inc/block-patterns.php:133
+msgid "Pier 38"
+msgstr "Pier 38"
+
+#: inc/block-patterns.php:92
+msgid "My latest and greatest tips, resources, and reads."
+msgstr "Ultimele și mai bune sfaturi, resurse și lecturi oferite de mine."
+
+#: inc/block-patterns.php:92
+msgid "So much goodness all in one place!"
+msgstr "Atât de multă bunătate într-un singur loc!"
+
+#: inc/block-patterns.php:247
+msgid "Gradient Links"
+msgstr "Legături gradient"
+
+#: functions.php:76
+msgid "Foreground Color"
+msgstr "Culoare prim-plan"
+
+#: functions.php:77
+msgid "Primary Color"
+msgstr "Culoare principală"
+
+#: functions.php:78
+msgid "Secondary Color"
+msgstr "Culoare secundară"
+
+#: functions.php:79
+msgid "Tertiary Color"
+msgstr "A treia culoare"
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:137
+#: functions.php:138
+msgid "This theme will only display Menus if they are enabled in the Content Options section."
+msgstr "Această temă va afișa meniuri numai dacă sunt activate în secțiunea Opțiuni conținut."
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:136
+msgid "The site logo, title, and tagline will only appear on all posts and pages if the \"Site header and top menu\" option is enabled in the <a href=\"#\" onClick=\"%s\">Content Options</a> section."
+msgstr "Logoul, titlul și sloganul site-ului vor apărea în toate articolele și paginile singulare numai dacă este activată opțiunea „Antetul și meniul de sus al site-ului” în secțiunea <a href=\"#\" onClick=\"%s\">Opțiuni conținut</a>."
+
+#: functions.php:75
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/blank-canvas"
+msgstr "https://wordpress.com/theme/blank-canvas"
+
+#: inc/wpcom.php:102
+msgid "Learn More"
+msgstr "Află mai mult"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-singular.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuă lectura<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-singular.php:48
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: inc/wpcom.php:78
+msgid "Email Signup"
+msgstr "Înregistrare prin email"
+
+#: inc/wpcom.php:92
+msgid "Virtual Art Classes"
+msgstr "Cursuri de artă virtuală"
+
+#: inc/wpcom.php:52
+msgid "Hi! I’m a lead strategist for growing sustainable revenue streams for integrated fundraising."
+msgstr "Bună! Sunt un strateg care îți arăt drumul pentru creșterea fluxurilor de venituri durabile în strângerea integrată de fonduri."
+
+#: inc/wpcom.php:96
+msgid "Join instructor Jaime Adams for a series of virtual classes aimed at helping you hone your drawing skills. We will focus on composition, perspective, contour, representing volume, and more!"
+msgstr "Alătură-te profesorului Jaime Adams pentru o serie de cursuri virtuale menite să te ajute să-ți perfecționezi deprinderile de a desena. Ne vom concentra pe compoziție, perspectivă, contur, reprezentarea volumului și multe altele!"
+
+#: inc/block-patterns.php:128
+msgid "You&rsquo;re Invited"
+msgstr "Ești invitat"
+
+#: inc/block-patterns.php:121
+msgid "Invitation"
+msgstr "Invitație"
+
+#: inc/block-patterns.php:84
+msgid "Alex Fredrickson"
+msgstr "Alex Fredrickson"
+
+#: inc/block-patterns.php:81
+msgid "Photo of a man wearing a hat."
+msgstr "Fotografia unui bărbat care poartă o pălărie."
+
+#: inc/block-patterns.php:172
+msgid "Jasmine Baker"
+msgstr "Jasmine Baker"
+
+#: inc/block-patterns.php:168
+msgid "Photo of a woman."
+msgstr "Fotografia unei femei."
+
+#: inc/block-patterns.php:104
+msgid "10th Day of Rain"
+msgstr "A 10-a zi de ploaie"
+
+#: inc/block-patterns.php:108
+msgid "Blurring the Lines Between Architecture and Nature"
+msgstr "Estomparea liniilor între arhitectură și natură"
+
+#: inc/wpcom.php:38
+msgid "Card"
+msgstr "Card"
+
+#: inc/wpcom.php:43
+msgid "Portrait of a woman against a pink and blue background."
+msgstr "Portretul unei femei pe fundal roz și albastru."
+
+#: inc/block-patterns.php:150
+msgid "RSVP"
+msgstr "RSVP (răspunde, te rog)"
+
+#: inc/block-patterns.php:176
+msgid "Hello! I am a photographer and designer living near Portland, Maine. When I am not posting to Instagram, you can find me shooting weddings and portraits."
+msgstr "Bună! Sunt fotograf și designer și locuiesc lângă Portland, Maine. Când nu public pe Instagram, fotografiez oameni și fac fotografii la nunți."
+
+#: inc/block-patterns.php:96
+msgid "Must read: The Place That Made Me"
+msgstr "Trebuie să citești: Locul în care m-am format"
+
+#: inc/block-patterns.php:100
+msgid "Rain Journal by Richard Johnson"
+msgstr "Jurnal de ploaie de Richard Johnson"
+
+#: inc/block-patterns.php:163
+msgid "Split Screen"
+msgstr "Împarte ecranul"
+
+#: inc/block-patterns.php:166
+msgid "Photo of a vintage camera."
+msgstr "Fotografia unui aparat de fotografiat vechi."
+
+#: inc/block-patterns.php:57
+#: inc/wpcom.php:57
+msgid "Get in touch"
+msgstr "Ia legătura"
+
+#: inc/block-patterns.php:75
+msgid "Links"
+msgstr "Legături"
+
+#: inc/block-patterns.php:50
+msgid "Hi! I’m a tattooist based in Florida City."
+msgstr "Bună! Sunt tatuator din Florida City."
+
+#: inc/block-patterns.php:49
+msgid "A photo of a tattooed hand, giving the \"I love you\" sign."
+msgstr "O fotografie a unei mâini tatuate care arată semnul „Te iubesc”."
+
+#: inc/block-patterns.php:53
+msgid "Specializing in fine line tattoos with a single needle. With over 10 years of experience, I can make your tattoo dreams come true."
+msgstr "Sunt specializat în tatuaje cu linii fine și folosesc un singur ac. Am peste 10 ani de experiență, îți pot să-ți fac tatuajele la care ai visat."
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:157
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editează <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/block-patterns.php:43
+msgid "About Me"
+msgstr "Despre mine"
+
+#: functions.php:60
+msgid "Background"
+msgstr "Fundal"
+
+#: functions.php:40
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:45
+msgid "Secondary"
+msgstr "Secundar"
+
+#: functions.php:50
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: functions.php:55
+msgid "Tertiary"
+msgstr "Terțiar"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:21
+msgid "Blank Canvas"
+msgstr "Suprafață goală"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Blank Canvas is a minimalist theme, designed for single-page websites. Its single post and page layouts have no header, navigation menus, or widgets by default, so the page you design in the WordPress editor is the same page you’ll see on the front end. The theme’s default styles are conservative, relying on simple sans-serif fonts and a subtle blue highlight color. Blank Canvas is ready for your customizations."
+msgstr "Blank Canvas este o temă minimalistă, proiectată pentru site-uri web cu pagini singulare. Aranjamentele sale unice pentru articole și pagini nu au implicit un antet, meniuri de navigare sau piese, deci pagina pe care o proiectezi în editorul WordPress este identică cu pagina pe care o vei vedea în partea din față a site-ului. Stilurile implicite ale temei sunt conservatoare și se bazează pe fonturi simple sans-serif și pe o culoare de evidențiere albastră, subtilă. Blank Canvas este pregătită pentru personalizările tale."

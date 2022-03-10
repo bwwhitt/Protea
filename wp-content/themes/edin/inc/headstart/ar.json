@@ -1,0 +1,261 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page"
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "footer": "social",
+                "secondary": "primary",
+                "primary": "primary"
+            },
+            "header_textcolor": "303030",
+            "background_color": "ffffff",
+            "background_image": "",
+            "background_repeat": "repeat",
+            "background_position_x": "left",
+            "background_attachment": "scroll",
+            "edin_menu_style": "default",
+            "edin_sidebar_position": "right",
+            "edin_thumbnail_style": "landscape",
+            "edin_search_header": true,
+            "edin_title_front_page": false,
+            "edin_featured_page_one_front_page": "_hs_about_page",
+            "edin_featured_page_two_front_page": "_hs_contact_page",
+            "edin_featured_page_three_front_page": "_hs_blog_page",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "link": "#1279be"
+                }
+            },
+            "header_image": "remove-header",
+            "edin_breadcrumbs": false,
+            "edin_featured_image_remove_filter": false
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [
+                "edin_featured_page_one_front_page",
+                "edin_featured_page_two_front_page",
+                "edin_featured_page_three_front_page"
+            ]
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "مربع جانبي لنص الشريط الجانبي",
+                "text": "هذا مربع جانبي للنص. هذا مربع جانبي للنص يسمح لك بإضافة نص أو HTML إلى شريطك الجانبي. يمكنك استخدام مربع جانبي للنص لعرض نص أو روابط أو صور أو HTML أو مجموعة متنوعة من هذه. حررها في قسم \"المربع الجانبي\" في <a href=\"https://wordpress.com/customize/\">\"أداة التخصيص\"</a>."
+            },
+            "sidebar": "sidebar-1",
+            "position": 1
+        },
+        {
+            "id": "widget_contact_info-2",
+            "id_base": "widget_contact_info",
+            "settings": {
+                "title": "موقعنا",
+                "address": "1-4 Langley Court\nLondon WC2E 9JY\nالمملكة المتحدة",
+                "phone": "2696 7430 4420 +",
+                "hours": "",
+                "lat": 51.5126373,
+                "lon": -0.1246993,
+                "showmap": 1
+            },
+            "sidebar": "sidebar-2",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "مربع جانبي للنص",
+                "text": "هذا مربع جانبي للنص. هذا مربع جانبي للنص يسمح لك بإضافة نص أو HTML إلى شريطك الجانبي. يمكنك استخدام مربع جانبي للنص لعرض نص أو روابط أو صور أو HTML أو مجموعة متنوعة من هذه. حررها في قسم \"المربع الجانبي\" في <a href=\"https://wordpress.com/customize/\">\"أداة التخصيص\"</a>."
+            },
+            "sidebar": "sidebar-3",
+            "position": 0
+        },
+        {
+            "id": "nav_menu-2",
+            "id_base": "nav_menu",
+            "settings": {
+                "title": "مربع جانبي لقائمة ثلاثي التذييل",
+                "nav_menu": "primary"
+            },
+            "sidebar": "sidebar-4",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "مربع جانبي لنص واحد في الصفحة الرئيسية",
+                "text": "هذا مربع جانبي للنص. هذا مربع جانبي للنص يسمح لك بإضافة نص أو HTML إلى شريطك الجانبي. يمكنك استخدام مربع جانبي للنص لعرض نص أو روابط أو صور أو HTML أو مجموعة متنوعة من هذه. حررها في قسم \"المربع الجانبي\" في <a href=\"https://wordpress.com/customize/\">\"أداة التخصيص\"</a>."
+            },
+            "sidebar": "sidebar-5",
+            "position": 0
+        },
+        {
+            "id": "text-5",
+            "id_base": "text",
+            "settings": {
+                "title": "مربع جانبي لنصين في الصفحة الرئيسية",
+                "text": "هذا مربع جانبي للنص. هذا مربع جانبي للنص يسمح لك بإضافة نص أو HTML إلى شريطك الجانبي. يمكنك استخدام مربع جانبي للنص لعرض نص أو روابط أو صور أو HTML أو مجموعة متنوعة من هذه. حررها في قسم \"المربع الجانبي\" في <a href=\"https://wordpress.com/customize/\">\"أداة التخصيص\"</a>."
+            },
+            "sidebar": "sidebar-6",
+            "position": 0
+        },
+        {
+            "id": "recent-posts-2",
+            "id_base": "recent-posts",
+            "settings": {
+                "title": "مربع جانبي لقائمة ثلاثي التذييل"
+            },
+            "sidebar": "sidebar-7",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "الصفحة الرئيسية",
+            "post_content": "مرحبًا بك في موقعك الجديد!  يمكنك تحرير هذه الصفحة عن طريق النقر فوق رابط \"تحرير\".  لمزيد من المعلومات حول تخصيص موقعك، تحقق من <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>",
+            "post_excerpt": "هذا هو مقتطف الصفحة الرئيسية",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://edindemo.files.wordpress.com/2014/07/homepage11.jpg",
+            "page_template": "page-templates/front-page.php"
+        },
+        {
+            "post_title": "نبذة عن",
+            "post_content": "هذا مثال لصفحة \"نبذة عن\". على عكس المقالات، تتناسب الصفحات بشكل أفضل مع المحتوى المستمر لفترة طويلة الذي تريد تسهيل الوصول إليه، مثل \"نبذة عنك\" أو \"معلومات الاتصال الخاصة بك\" انقر فوق رابط \"تحرير\" لإجراء تغييرات على هذه الصفحة <a href=\"https://wordpress.com/page\">أو أضف صفحة أخرى</a>.",
+            "post_excerpt": "هذا مجرد مقتطف موجز عن صفحة \"نبذة عن\"&nbsp;.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101,
+            "attachment_url": "https://edindemo.files.wordpress.com/2016/06/grid1.jpg"
+        },
+        {
+            "post_title": "اتصال",
+            "post_content": "هذه صفحة اتصال تحتوي على بعض معلومات الاتصال الرئيسية ونموذج الاتصال. [contact-form][contact-field label=\"الاسم\" type=\"name\" required=\"1\"/][contact-field label=\"البريد الإلكتروني\" type=\"email\" required=\"1\"/][contact-field label=\"موقع الويب\" type=\"url\"/][contact-field label=\"التعليق\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "هذا مجرد مقتطف موجز عن صفحة \"اتصال\"&nbsp;.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102,
+            "attachment_url": "https://edindemo.files.wordpress.com/2016/06/full-width1.jpg"
+        },
+        {
+            "post_title": "المدونة",
+            "post_content": "هذه هي الصفحة التي سيجد فيها المستخدمون مدونة موقعك",
+            "post_excerpt": "هذا مجرد مقتطف موجز عن مدونتك.",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "مقالة أولى على المدونة",
+            "post_content": "هذه هي مقالتك الأولى تمامًا. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>. استخدم هذه المقالة، إن شئت، لإخبار القراء عن سبب إنشاء هذه المدونة وما الذي تخطط للقيام به من خلالها.",
+            "post_excerpt": "هذا هو مقتطف لمقالتك الأولى تمامًا.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://edindemo.files.wordpress.com/2016/06/alternate-sidebar1.jpg"
+        }
+    ],
+    "menus": {
+        "social": {
+            "name": "اجتماعي",
+            "items": [
+                {
+                    "menu-item-title": "فيسبوك",
+                    "menu-item-db-id": 105,
+                    "menu-item-object-id": "105",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "تويتر",
+                    "menu-item-db-id": 106,
+                    "menu-item-object-id": "106",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 108,
+                    "menu-item-object-id": "108",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://pinterest.com"
+                },
+                {
+                    "menu-item-title": "لينكدإن",
+                    "menu-item-db-id": 107,
+                    "menu-item-object-id": "107",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://linkedin.com"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary",
+                "footer": "primary"
+            },
+            "custom_css_post_id": -1,
+            "custom_logo": "https:\/\/seedletdemo.files.wordpress.com\/2020\/06\/site-logo.png",
+            "hide_front_page_title": true,
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "#444444",
+                    "link": "#000000",
+                    "fg1": "#3c8067",
+                    "fg2": "#fafbf6"
+                },
+                "cached": false
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Over",
+            "post_content": "<!-- wp:group {\"align\":\"full\",\"gradient\":\"hard-diagonal\"} --> <div class=\"wp-block-group alignfull has-hard-diagonal-gradient-background has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"id\":176,\"sizeSlug\":\"large\",\"className\":\"is-style-default\"} --> <figure class=\"wp-block-image size-large is-style-default\"><img src=\"https://seedletdemo.files.wordpress.com/2020/07/envelope-3.jpg?w=750\" alt=\"\" class=\"wp-image-176\" /></figure> <!-- /wp:image --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group --> <!-- wp:paragraph --> <p>Jeffrey Klein is de auteur van <a href=\"#\">Curious Botany</a>, de meestgelezen blog over zeldzame planten op het internet. Hij is de presentator van de gerenommeerde Embreea Talk-podcast van PLNT.</p> <!-- /wp:paragraph -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 183,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "De kunst van de natuur",
+            "post_content": "<!-- wp:media-text {\"align\":\"full\",\"mediaId\":176,\"mediaLink\":\"https:\\/\\/seedletdemo.wordpress.com\\/envelope-3-2\\/\",\"mediaType\":\"image\",\"backgroundColor\":\"tertiary\"} --> <div class=\"wp-block-media-text alignfull is-stacked-on-mobile has-tertiary-background-color has-background\"><figure class=\"wp-block-media-text__media\"><img src=\"https://seedletdemo.files.wordpress.com/2020/07/envelope-3.jpg?w=750\" alt=\"\" class=\"wp-image-176\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <h1 style=\"line-height:1.4;\">De kunst van de natuur:<br>het bijzondere aan<br><em>planten</em></h1> <!-- /wp:heading --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph --></div></div> <!-- /wp:media-text --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"fontSize\":\"normal\"} --> <p class=\"has-normal-font-size\">Jeffrey Klein is de auteur van Curious Botany, de meestgelezen blog over zeldzame planten op het internet. Hij is de presentator van de gerenommeerde Embreea Talk-podcast van PLNT. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> <!-- /wp:paragraph --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column {\"width\":66.66} --> <div class=\"wp-block-column\" style=\"flex-basis:66.66%;\"><!-- wp:paragraph --> <p>Jeffrey Klein is de auteur van Curious Botany, de meestgelezen blog over zeldzame planten op het internet. Hij is de presentator van de gerenommeerde Embreea Talk-podcast van PLNT. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> <!-- /wp:paragraph --> <!-- wp:pullquote --> <figure class=\"wp-block-pullquote\"><blockquote><p>Bloemen worden vaak</p><p>aan hun lot overgelaten op </p><p>keukentafels en schouwen.'</p><cite>— Karyn Cardworth</cite></blockquote></figure> <!-- /wp:pullquote --></div> <!-- /wp:column --> <!-- wp:column {\"width\":33.33} --> <div class=\"wp-block-column\" style=\"flex-basis:33.33%;\"><!-- wp:image {\"id\":148,\"width\":317,\"height\":420,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large is-resized\"><img src=\"https://seedletdemo.files.wordpress.com/2020/07/flowers-771x1024-1.png?w=771\" alt=\"\" class=\"wp-image-148\" width=\"317\" height=\"420\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:paragraph --> <p>Jeffrey Klein is de auteur van Curious Botany, de meestgelezen blog over zeldzame planten op het internet. Hij is de presentator van de gerenommeerde Embreea Talk-podcast van PLNT. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> <!-- /wp:paragraph --> <!-- wp:group {\"align\":\"full\",\"gradient\":\"hard-diagonal\"} --> <div class=\"wp-block-group alignfull has-hard-diagonal-gradient-background has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":40} --> <div style=\"height:40px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"center\",\"id\":165,\"width\":375,\"height\":393,\"sizeSlug\":\"large\"} --> <div class=\"wp-block-image\"><figure class=\"aligncenter size-large is-resized\"><img src=\"https://seedletdemo.files.wordpress.com/2020/07/plant-bag.jpg?w=750\" alt=\"\" class=\"wp-image-165\" width=\"375\" height=\"393\" /><figcaption>Afbeelding via het <a href=\"#\">Smithsonian Institution</a>, CC0</figcaption></figure></div> <!-- /wp:image --> <!-- wp:spacer {\"height\":40} --> <div style=\"height:40px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group --> <!-- wp:paragraph --> <p>Jeffrey Klein is de auteur van Curious Botany, de meestgelezen blog over zeldzame planten op het internet. Hij is de presentator van de gerenommeerde Embreea Talk-podcast van PLNT. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> <!-- /wp:paragraph --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:pullquote --> <figure class=\"wp-block-pullquote\"><blockquote><p>Enkele veelvoorkomende bloemkleuren<br>zijn blauw, rood, </p><p>wit en geel. </p><p>Weet je waarom?”</p><cite>— Karyn Cardworth</cite></blockquote></figure> <!-- /wp:pullquote --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p>Lorem ipsum dolor sit amet, consectetur adipis icing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam di. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:paragraph --> <p>Jeffrey Klein is de auteur van Curious Botany, de meestgelezen blog over zeldzame planten op het internet. Hij is de presentator van de gerenommeerde Embreea Talk-podcast van PLNT. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <h2 style=\"line-height:1.4;\">Botanists of <br>New England</h2> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Botanists of New England is een openbare bron van informatie over planten in de New England-regio en de Verenigde Staten.</p> <!-- /wp:paragraph --> <!-- wp:buttons --> <div class=\"wp-block-buttons\"><!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\">Meer informatie</a></div> <!-- /wp:button --></div> <!-- /wp:buttons --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <h2 style=\"line-height:1.4;\">De Cape Cod <br>Botany Club</h2> <!-- /wp:heading --> <!-- wp:paragraph --> <p>De Cape Cod Botany Club is een prestigieuze vereniging uitsluitend voor leden, waarin uiterst geheime plantenzaken besproken worden.</p> <!-- /wp:paragraph --> <!-- wp:buttons --> <div class=\"wp-block-buttons\"><!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\">Meer informatie</a></div> <!-- /wp:button --></div> <!-- /wp:buttons --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>Jeffrey Klein is de auteur van Curious Botany, de meestgelezen blog over zeldzame planten op het internet. Hij is de presentator van de gerenommeerde Embreea Talk-podcast van PLNT. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "natures-art",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 138,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "sticky": true
+        },
+        {
+            "post_type": "post",
+            "post_title": "De kas\nbij Walden is het gehele jaar open",
+            "post_content": "<!-- wp:paragraph --> <p>Neem een kijkje in de nieuwe kas vlakbij Walden Pond!</p> <!-- /wp:paragraph --> <!-- wp:buttons --> <div class=\"wp-block-buttons\"><!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\">Meer informatie</a></div> <!-- /wp:button --></div> <!-- /wp:buttons -->",
+            "post_name": "the-greenhouse%e2%80%a8-at-walden-is-open%e2%80%a8-year-round",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 212,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Nieuwe catalogi nu beschikbaar bij de NYPL",
+            "post_content": "<!-- wp:paragraph --> <p>Bekijk de nieuwe catalogi met plantenzaad, beschikbaar bij de New York Public Library!</p> <!-- /wp:paragraph --> <!-- wp:buttons --> <div class=\"wp-block-buttons\"><!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\">Bezoek de bibliotheek!</a></div> <!-- /wp:button --></div> <!-- /wp:buttons -->",
+            "post_name": "new-catalogs-now-available-at-the-nypl",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 205,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Welkom bij Seedlet",
+            "post_content": "<!-- wp:paragraph --> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </p> <!-- /wp:paragraph --> <!-- wp:image {\"align\":\"left\",\"id\":11,\"width\":212,\"height\":268,\"sizeSlug\":\"large\"} --> <div class=\"wp-block-image\"><figure class=\"alignleft size-large is-resized\"><img src=\"https://botanytheme.mystagingwebsite.com/wp-content/uploads/2020/03/plant_a.png\" alt=\"\" class=\"wp-image-11\" width=\"212\" height=\"268\" /></figure></div> <!-- /wp:image --> <!-- wp:paragraph --> <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p> <!-- /wp:paragraph -->",
+            "post_name": "hello-world",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 135,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Blog",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 130,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p>Jeffrey Klein is de auteur van <a href=\"#\">Curious Botany</a>, de meestgelezen blog over zeldzame planten op het internet. Hij is de presentator van de gerenommeerde Embreea Talk-podcast van PLNT.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>Jeffrey woont in Portland, Maine en is een adjunct-hoogleraar aan de Quillwort School of Botany and Herbology.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":120} --> <div style=\"height:120px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"align\":\"wide\"} --> <div class=\"wp-block-group alignwide\"><div class=\"wp-block-group__inner-container\"></div></div> <!-- /wp:group --> <!-- wp:group {\"align\":\"full\",\"className\":\"is-style-overflow\",\"gradient\":\"stripe\"} --> <div class=\"wp-block-group alignfull is-style-overflow has-stripe-gradient-background has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"id\":11,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://seedletdemo.files.wordpress.com/2020/06/9006d-plant_a.png\" alt=\"\" class=\"wp-image-11\" /></figure> <!-- /wp:image --> <!-- wp:image {\"id\":13,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://seedletdemo.files.wordpress.com/2020/06/183c1-plant_c.png\" alt=\"\" class=\"wp-image-13\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":12,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://seedletdemo.files.wordpress.com/2020/06/a69e4-plant_b.png\" alt=\"\" class=\"wp-image-12\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --></div></div> <!-- /wp:group --> <!-- wp:spacer {\"height\":120} --> <div style=\"height:120px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:latest-posts {\"displayPostDate\":true,\"className\":\"is-style-seedlet-alternating-grid\"} /--> <!-- wp:spacer {\"height\":120} --> <div style=\"height:120px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2><em>Interessante berichten</em></h2> <!-- /wp:heading --> <!-- wp:media-text {\"mediaId\":176,\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"className\":\"alignwide is-stacked-on-mobile\"} --> <div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://seedletdemo.files.wordpress.com/2020/07/envelope-3.jpg?w=979\" alt=\"\" class=\"wp-image-176 size-full\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading --> <h2><a href=\"https://seedletdemo.wordpress.com/2020/05/25/new-catalogs-now-available-at-the-nypl/\">Nieuwe catalogi nu beschikbaar bij de NYPL</a></h2> <!-- /wp:heading --> <!-- wp:paragraph {\"fontSize\":\"small\"} --> <p class=\"has-small-font-size\">24 februari 2020</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Jeffrey Klein is de auteur van Curious Botany, de meestgelezen blog over zeldzame planten op het internet. </p> <!-- /wp:paragraph --></div></div> <!-- /wp:media-text --> <!-- wp:media-text {\"mediaPosition\":\"right\",\"mediaId\":165,\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"className\":\"alignwide is-stacked-on-mobile\"} --> <div class=\"wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://seedletdemo.files.wordpress.com/2020/07/plant-bag.jpg?w=750\" alt=\"\" class=\"wp-image-165 size-full\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading --> <h2><a href=\"https://seedletdemo.wordpress.com/2020/05/25/new-catalogs-now-available-at-the-nypl/\">Nieuwe catalogi nu beschikbaar bij de NYPL</a></h2> <!-- /wp:heading --> <!-- wp:paragraph {\"fontSize\":\"small\"} --> <p class=\"has-small-font-size\">24 februari 2020</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Jeffrey Klein is de presentator van de gerenommeerde Embreea Talk-podcast van PLNT en NPR.</p> <!-- /wp:paragraph --></div></div> <!-- /wp:media-text --> <!-- wp:spacer {\"height\":120} --> <div style=\"height:120px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:media-text {\"align\":\"full\",\"mediaId\":201,\"mediaLink\":\"https:\\/\\/seedletdemo.wordpress.com\\/plants_2x2-2\\/\",\"mediaType\":\"image\",\"backgroundColor\":\"tertiary\"} --> <div class=\"wp-block-media-text alignfull is-stacked-on-mobile has-tertiary-background-color has-background\"><figure class=\"wp-block-media-text__media\"><a href=\"https://seedletdemo.wordpress.com/2020/07/25/natures-art-2/\"><img src=\"https://seedletdemo.files.wordpress.com/2020/08/plants_2x2.png?w=590\" alt=\"\" class=\"wp-image-201 size-full\" /></a></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <h1 style=\"line-height:1.4;\"><a href=\"https://seedletdemo.wordpress.com/2020/07/25/natures-art-2/\">De kunst van de natuur:<br>het bijzondere aan<br><em>planten</em></a></h1> <!-- /wp:heading --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph --></div></div> <!-- /wp:media-text --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 127,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Primary",
+            "items": [
+                {
+                    "menu-item-title": "Home",
+                    "menu-item-db-id": 189,
+                    "menu-item-object-id": "127",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Blog",
+                    "menu-item-db-id": 132,
+                    "menu-item-object-id": "130",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Over",
+                    "menu-item-db-id": 186,
+                    "menu-item-object-id": "183",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Sociaal",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 23,
+                    "menu-item-object-id": "23",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 25,
+                    "menu-item-object-id": "25",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://instagram.com"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://pinterest.com"
+                },
+                {
+                    "menu-item-title": "WordPress",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "27",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://wordpress.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https:\/\/seedletdemo.files.wordpress.com\/2020\/08\/plants_2x2.png",
+        "https:\/\/seedletdemo.files.wordpress.com\/2020\/07\/envelope-3.jpg",
+        "https:\/\/seedletdemo.files.wordpress.com\/2020\/07\/plant-bag.jpg",
+        "https:\/\/seedletdemo.files.wordpress.com\/2020\/07\/flowers-771x1024-1.png",
+        "https:\/\/seedletdemo.files.wordpress.com\/2020\/06\/183c1-plant_c.png",
+        "https:\/\/seedletdemo.files.wordpress.com\/2020\/06\/a69e4-plant_b.png",
+        "https:\/\/seedletdemo.files.wordpress.com\/2020\/06\/9006d-plant_a.png"
+    ],
+    "meta": {
+        "blog_id": 179408207,
+        "url": "https:\/\/seedletdemo.wordpress.com",
+        "update_date": "October 13, 2021, 6:07 pm",
+        "update_timestamp": 1634148442
+    }
+}

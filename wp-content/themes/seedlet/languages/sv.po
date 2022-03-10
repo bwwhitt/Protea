@@ -1,0 +1,587 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Seedlet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-26T02:00:52+00:00\n"
+"PO-Revision-Date: 2021-05-25 11:06:10+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:29
+msgid "Add or publish Posts"
+msgstr "Lägg till eller publicera inlägg"
+
+#: template-parts/content/content-none.php:24
+msgid "Your site is set to show the the most recent posts on your homepage - but you don't have any Posts published."
+msgstr "Din webbplats är inställd på att visa de senaste inläggen på din startsida - men du har inga inlägg publicerade."
+
+#: template-parts/content/content-none.php:15
+msgid "No posts published yet!"
+msgstr "Inga inlägg publicerade ännu!"
+
+#: inc/customizer.php:171
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "Kryssa i för att dölja webbplatsens menyer och widgetar i sidfoten om din startsida är inställd på att visa en statisk sida."
+
+#: inc/customizer.php:170
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "Dölj webbplatsens sidfotsmeny och widgetar"
+
+#: inc/customizer.php:153
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "Kryssa i för att dölja webbplatsens sidhuvud om din startsida är inställd för att visa en statisk sida."
+
+#: inc/customizer.php:152
+msgid "Hide the Site Header"
+msgstr "Dölj webbplatsens sidhuvud"
+
+#: inc/customizer.php:138
+msgid "Display Site Title & Tagline"
+msgstr "Visa webbplatsrubrik och slogan"
+
+#: template-parts/post/author-bio.php:28
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: inc/customizer.php:114
+msgid "On archive pages, posts show:"
+msgstr "På arkivsidor visar inläggen:"
+
+#: inc/customizer.php:104
+#: inc/customizer.php:117
+msgid "Full text"
+msgstr "Hel text"
+
+#: inc/customizer.php:103
+#: inc/customizer.php:116
+msgid "Summary"
+msgstr "Sammanfattning"
+
+#: inc/customizer.php:101
+msgid "On the home page, posts show:"
+msgstr "På startsidan visar inläggen:"
+
+#: inc/customizer.php:69
+msgid "Excerpt Settings"
+msgstr "Utdragsinställningar"
+
+#: comments.php:74
+msgid "Leave a Comment"
+msgstr "Lämna en kommentar"
+
+#: inc/block-patterns.php:40
+msgid "Plant"
+msgstr "Växt"
+
+#: inc/block-patterns.php:29
+msgid "Envelope"
+msgstr "Kuvert"
+
+#: inc/block-styles.php:19
+#: inc/block-styles.php:27
+msgid "Alternating Grid"
+msgstr "Alternerande rutnät"
+
+#: template-parts/header/navigation.php:21
+msgid "Main"
+msgstr "Primär"
+
+#. Description of the theme
+msgid "Seedlet is a free WordPress theme. A two-column layout and classically elegant typography creates a refined site that gives your works and images space to breathe - and shine. Seedlet was built to be the perfect partner to the block editor, and supports all the latest blocks. Writing, audio, illustrations, photography, video - use Seedlet to engage and direct visitors' eyes, without your theme getting in the way. And the responsive design shifts naturally between desktop and mobile devices. Seedlet is a great option for professionals and creatives looking for a sophisticated vibe. Whether you're looking to create a blog or a robust site promoting your business, do with simplicity, style, and Seedlet."
+msgstr "Seedlet är ett gratis WordPress-tema. En layout med två kolumner och klassiskt elegant typografi skapar en förfinad webbplats som ger dina verk och bilder utrymme att andas - och glänsa. Seedlet byggdes för att vara den perfekta partnern till blockredigeraren och stöder alla de senaste blocken. Skrivande, ljud, illustrationer, fotografi, video - använd Seedlet för att engagera och vägleda besökarnas ögon utan att ditt tema kommer i vägen. Och den responsiva designen växlar naturligt mellan stationära och mobila enheter. Seedlet är ett utmärkt alternativ för yrkesverksamma och kreativa som söker en sofistikerad atmosfär. Oavsett om du vill skapa en blogg eller en robust webbplats som marknadsför ditt företag, gör det med enkelhet, stil och Seedlet."
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/seedlet"
+msgstr "https://wordpress.com/theme/seedlet"
+
+#: inc/block-patterns.php:46
+msgid "Alternating Grid of Latest Posts"
+msgstr "Alternerande rutnät av senaste inlägg"
+
+#: template-parts/post/author-bio.php:13
+msgid "Published by"
+msgstr "Publicerad av"
+
+#: inc/wpcom.php:162
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "För att säkerställa att människor kan läsa din webbplats, försöka upprätthålla ett starkt kontrastförhållande mellan de färger du väljer här. <a href=\"%s\" target=\"_blank\">Lär dig mer om färgkontrast</a>."
+
+#: inc/wpcom.php:160
+msgid "Color Accessibility Warning"
+msgstr "Varning för färgtillgänglighet"
+
+#: inc/wpcom.php:150
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Kryssa i för att dölja sidrubriken om din startsida är inställd för att visa en statisk sida."
+
+#: inc/wpcom.php:149
+msgid "Hide Homepage Title"
+msgstr "Dölj startsidans rubrik"
+
+#: classes/class-seedlet-custom-colors.php:29
+msgid "Borders Color"
+msgstr "Ramfärger"
+
+#: classes/class-seedlet-custom-colors.php:28
+#: inc/wpcom-colors-utils.php:72
+msgid "Tertiary Color"
+msgstr "Tertiär färg"
+
+#: classes/class-seedlet-custom-colors.php:27
+#: inc/wpcom-colors-utils.php:58
+msgid "Secondary Color"
+msgstr "Sekundär färg"
+
+#: classes/class-seedlet-custom-colors.php:26
+#: inc/wpcom-colors-utils.php:44
+msgid "Primary Color"
+msgstr "Primär färg"
+
+#: classes/class-seedlet-custom-colors.php:25
+#: inc/wpcom-colors-utils.php:30
+msgid "Foreground Color"
+msgstr "Förgrundsfärg"
+
+#: classes/class-seedlet-custom-colors.php:24
+#: inc/wpcom-colors-utils.php:16
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:32
+#: template-parts/content/content.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Fortsätt läsa<span class=\"screen-reader-text\"> ”%s”</span>"
+
+#: template-parts/content/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#: template-parts/content/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: template-parts/content/content-excerpt.php:17
+#: template-parts/content/content.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "Utvalt"
+
+#: inc/template-tags.php:213
+msgid "Previous post:"
+msgstr "Föregående inlägg:"
+
+#: inc/template-tags.php:212
+msgid "Previous Post"
+msgstr "Föregående inlägg"
+
+#: inc/template-tags.php:210
+msgid "Next post:"
+msgstr "Nästa inlägg:"
+
+#: inc/template-tags.php:209
+msgid "Next Post"
+msgstr "Nästa inlägg"
+
+#. translators: %s: parent post link
+#: inc/template-tags.php:202
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Publicerat i</span><span class=\"post-title\">%s</span>"
+
+#: search.php:24
+msgid "Search results for:"
+msgstr "Sökresultat för:"
+
+#: inc/woocommerce.php:138
+#: inc/woocommerce.php:174
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d objekt"
+msgstr[1] "%d objekt"
+
+#: inc/template-tags.php:236
+msgid "Older posts"
+msgstr "Äldre inlägg"
+
+#: inc/template-tags.php:232
+msgid "Newer posts"
+msgstr "Nyare inlägg"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:129
+#: template-parts/content/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Redigera <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:113
+msgid "Tags:"
+msgstr "Etiketter:"
+
+#: inc/template-tags.php:101
+msgid "Posted in"
+msgstr "Publicerad i"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:95
+#: inc/template-tags.php:107
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:62
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lämna en kommentar<span class=\"screen-reader-text\"> på %s</span>"
+
+#: inc/template-tags.php:45
+msgid "Posted by"
+msgstr "Publicerat av"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:195
+msgid "Continue reading %s"
+msgstr "Fortsätt läsa %s"
+
+#: inc/template-functions.php:129
+msgid "Archives: "
+msgstr "Arkiv:"
+
+#: inc/template-functions.php:116
+#: inc/template-functions.php:124
+msgid "%s Archives"
+msgstr "Arkiv för %s"
+
+#: inc/template-functions.php:109
+msgid "Daily Archives: "
+msgstr "Dagliga arkiv:"
+
+#: inc/template-functions.php:107
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:106
+msgid "Monthly Archives: "
+msgstr "Månatliga arkiv:"
+
+#: inc/template-functions.php:104
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:103
+msgid "Yearly Archives: "
+msgstr "Årsarkiv:"
+
+#: inc/template-functions.php:100
+msgid "Author Archives: "
+msgstr "Författararkiv:"
+
+#: inc/template-functions.php:97
+msgid "Tag Archives: "
+msgstr "Etikettarkiv:"
+
+#: inc/template-functions.php:94
+msgid "Category Archives: "
+msgstr "Kategoriarkiv:"
+
+#: inc/block-patterns.php:36
+msgid "Group with Image Overlap"
+msgstr "Grupp med bildöverlappning"
+
+#: inc/block-patterns.php:27
+msgid "Group with Split Background"
+msgstr "Grupp med delad bakgrund"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:16
+msgid "Seedlet"
+msgstr "Seedlet"
+
+#: inc/back-compat.php:38
+#: inc/back-compat.php:52
+#: inc/back-compat.php:72
+msgid "Seedlet requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Seedlet kräver minst WordPress version 4.7. Du kör version %s. Uppgradera och försök igen."
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicerat i</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:75
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Full storlek"
+
+#: image.php:61
+msgid "Page"
+msgstr "Sida"
+
+#: image.php:57
+#: template-parts/content/content-page.php:25
+#: template-parts/content/content-single.php:45
+#: template-parts/content/content.php:48
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Nästa bild"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "Föregående bild"
+
+#: template-parts/header/navigation.php:95
+msgid "Social Links Menu"
+msgstr "Meny för sociala länkar"
+
+#: template-parts/header/navigation.php:78
+msgid "View your shopping list"
+msgstr "Visa din inköpslista"
+
+#: inc/woocommerce.php:135
+#: template-parts/header/navigation.php:76
+msgid "View your shopping cart"
+msgstr "Visa din varukorg"
+
+#: template-parts/header/navigation.php:88
+msgid "Cart"
+msgstr "Varukorg"
+
+#: template-parts/header/navigation.php:55
+msgid "Woo Minicart"
+msgstr "Woo minivarukorg"
+
+#: template-parts/header/navigation.php:24
+#: template-parts/header/navigation.php:74
+msgid "collapsed"
+msgstr "minimerad"
+
+#: template-parts/header/navigation.php:49
+#: template-parts/header/navigation.php:89
+msgid "expanded"
+msgstr "expanderad"
+
+#: template-parts/header/navigation.php:23
+#: template-parts/header/navigation.php:72
+msgid "Close"
+msgstr "Stäng"
+
+#: template-parts/header/navigation.php:48
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:338
+msgid "Add widgets here to appear in your footer."
+msgstr "Lägg till widgetar här för att visas i din sidfot."
+
+#: footer.php:17
+#: functions.php:336
+msgid "Footer"
+msgstr "Sidfot"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:295
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Fira Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:289
+msgctxt "Fira Sans: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:243
+#: inc/wpcom.php:126
+msgid "Stripe"
+msgstr "Stripe"
+
+#: functions.php:238
+#: inc/wpcom.php:121
+msgid "Horizontal inverted gradient"
+msgstr "Horisontell inverterad lutning"
+
+#: functions.php:233
+#: inc/wpcom.php:116
+msgid "Horizontal gradient"
+msgstr " Horisontell lutning"
+
+#: functions.php:228
+#: inc/wpcom.php:111
+msgid "Diagonal inverted gradient"
+msgstr "Diagonal inverterad lutning"
+
+#: functions.php:223
+#: inc/wpcom.php:106
+msgid "Diagonal gradient"
+msgstr " Diagonal lutning"
+
+#: functions.php:218
+#: inc/wpcom.php:101
+msgid "Horizontal inverted"
+msgstr " Horisontellt inverterat"
+
+#: functions.php:213
+#: inc/wpcom.php:96
+msgid "Horizontal"
+msgstr "Horisontell"
+
+#: functions.php:208
+#: inc/wpcom.php:91
+msgid "Diagonal inverted"
+msgstr "Diagonal inverterad"
+
+#: functions.php:203
+#: inc/wpcom.php:86
+msgid "Diagonal"
+msgstr "Diagonal"
+
+#: functions.php:189
+#: inc/wpcom.php:72
+msgid "Background"
+msgstr "Bakgrund"
+
+#: functions.php:184
+#: inc/wpcom.php:67
+msgid "Tertiary"
+msgstr "Tertiär"
+
+#: functions.php:179
+#: inc/wpcom.php:62
+msgid "Foreground"
+msgstr "Förgrund"
+
+#: functions.php:174
+#: inc/wpcom.php:57
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: functions.php:169
+#: inc/wpcom.php:52
+msgid "Primary"
+msgstr "Primär"
+
+#: functions.php:150
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:149
+msgid "Huge"
+msgstr "Enorm"
+
+#: functions.php:144
+msgid "L"
+msgstr "L"
+
+#: functions.php:143
+msgid "Large"
+msgstr "Stor"
+
+#: functions.php:138
+msgid "M"
+msgstr "M"
+
+#: functions.php:137
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:132
+msgid "S"
+msgstr "S"
+
+#: functions.php:131
+msgid "Small"
+msgstr "Liten"
+
+#: functions.php:126
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:125
+msgid "Tiny"
+msgstr "Litet"
+
+#: functions.php:61
+msgid "Social Links Navigation"
+msgstr "Social länknavigation"
+
+#: functions.php:60
+msgid "Footer Navigation"
+msgstr "Navigering i sidfot"
+
+#: functions.php:59
+msgid "Primary Navigation"
+msgstr "Primär navigering"
+
+#. translators: %s: WordPress.
+#: template-parts/footer/footer-info.php:9
+msgid "Proudly powered by %s."
+msgstr "Drivs med %s"
+
+#: template-parts/footer/footer-info.php:6
+msgid "https://wordpress.org/"
+msgstr "https://sv.wordpress.org/"
+
+#: template-parts/footer/footer-menu.php:2
+msgid "Footer Menu"
+msgstr "Sidfotsmeny"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "En kommentar"
+msgstr[1] "%1$s kommentarer"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: classes/class-seedlet-custom-colors.php:311
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker foreground color."
+msgstr "Denna färgkombination kan vara svår för människor att läsa. Prova att använda en ljusare bakgrundsfärg och/eller en mörkare förgrundsfärg."
+
+#: classes/class-seedlet-custom-colors.php:179
+msgid "Custom"
+msgstr "Anpassa"
+
+#: classes/class-seedlet-custom-colors.php:178
+msgid "Theme Default"
+msgstr "Temastandard"
+
+#: classes/class-seedlet-custom-colors.php:154
+#: classes/class-seedlet-custom-colors.php:176
+msgid "Colors"
+msgstr "Färger"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar inte som något kunde hittas för den här platsen. Testa en sökning kanske?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."

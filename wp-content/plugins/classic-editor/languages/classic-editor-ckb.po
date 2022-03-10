@@ -1,0 +1,118 @@
+# Translation of Plugins - Classic Editor - Stable (latest release) in Kurdish (Sorani)
+# This file is distributed under the same license as the Plugins - Classic Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-21 20:25:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ku_IQ\n"
+"Project-Id-Version: Plugins - Classic Editor - Stable (latest release)\n"
+
+#: classic-editor.php:841
+msgctxt "Editor Name"
+msgid "Edit (classic editor)"
+msgstr "ئامادەکردنی (دەستکاریکەری کلاسیک)"
+
+#: classic-editor.php:834
+msgctxt "Editor Name"
+msgid "Edit (block editor)"
+msgstr "ئامادەکردنی (بژارکەری بلۆک)"
+
+#: classic-editor.php:495
+msgid "Change settings"
+msgstr "گۆڕینی ڕێکخستنەکان"
+
+#: classic-editor.php:482
+msgid "Default editor for all sites"
+msgstr "دەستکاریکەری بنەڕەت بۆ هەموو ماڵپەڕەکان"
+
+#: classic-editor.php:478
+msgid "Editor Settings"
+msgstr "ڕێکخستنەکانی دەستکاریکەر"
+
+#: classic-editor.php:462
+msgid "Default Editor"
+msgstr "دەستکاریکەری بنەڕەت"
+
+#: classic-editor.php:875
+msgctxt "Editor Name"
+msgid "block editor"
+msgstr "دەستکاریکەری بلۆک"
+
+#: classic-editor.php:872
+msgctxt "Editor Name"
+msgid "classic editor"
+msgstr "دەستکاریکەری کلاسیک"
+
+#. translators: %s: post title
+#: classic-editor.php:836
+msgid "Edit &#8220;%s&#8221; in the block editor"
+msgstr "بژارکردن &#8220;%s&#8221; لە بژارکەری بلۆک"
+
+#: classic-editor.php:671
+msgid "Switch to block editor"
+msgstr "گۆڕین بۆ دەستکاریکەری بلۆک"
+
+#: classic-editor.php:700
+msgid "Switch to classic editor"
+msgstr "گۆڕین بۆ دەستکاریکەری کلاسیک"
+
+#: classic-editor.php:499
+msgid "By default the block editor is replaced with the classic editor and users cannot switch editors."
+msgstr "بە گریمانەیی دەستکاریکەری بلۆک گۆڕدرا بە دەستکاریکەری کلاسیکی و بەکارهێنەران ناتوانن دەستکاریکەر بگۆڕن."
+
+#: classic-editor.php:498
+msgid "Allow site admins to change settings"
+msgstr "ڕێگە بدە بە سەرپەرشتیارەکانی ماڵپەڕ بۆ گۆڕینی ڕێکخستنەکان"
+
+#: classic-editor.php:652
+msgid "Editor"
+msgstr "دەستکاریکەر"
+
+#: classic-editor.php:437
+msgid "No"
+msgstr "نەخێر"
+
+#: classic-editor.php:433
+msgid "Yes"
+msgstr "به‌ڵێ"
+
+#: classic-editor.php:360
+msgid "Allow users to switch editors"
+msgstr "ڕێگە دان بە بەکارهێنەران بۆ گۆڕینی دەستکاریکەر"
+
+#: classic-editor.php:359
+msgid "Default editor for all users"
+msgstr "دەستکاریکەری بنەڕەت بۆ هەموو بەکارهێنەرەکان"
+
+#. Author URI of the plugin
+msgid "https://github.com/WordPress/classic-editor/"
+msgstr "https://github.com/WordPress/classic-editor/"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/classic-editor/"
+msgstr "https://wordpress.org/plugins/classic-editor/"
+
+#. Author of the plugin
+msgid "WordPress Contributors"
+msgstr "بەشدارەکانی وۆردپرێس"
+
+#. Description of the plugin
+msgid "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen."
+msgstr "دەستکاریکەری کلاسیکی وۆردپرێس و دەستکاریکردنی شاشەی بابەت بە TinyMCE و Meta Boxes و هتد بە وۆردپرێس کارا دەکات. پشتگیری ئەو پێوەکراوانە دەکات کە درێژتر دەکەن لەسەر ئەم شاشە."
+
+#. Plugin Name of the plugin
+msgid "Classic Editor"
+msgstr "دەستکاریکەری کلاسیک"
+
+#. translators: %s: post title
+#: classic-editor.php:843
+msgid "Edit &#8220;%s&#8221; in the classic editor"
+msgstr "دەستکاری &#8220;%s&#8221; لە دەستکاریکەری کلاسیکی"
+
+#: classic-editor.php:719
+msgid "Settings"
+msgstr "ڕێكخستنه‌كان"

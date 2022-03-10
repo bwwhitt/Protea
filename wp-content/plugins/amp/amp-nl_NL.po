@@ -1,0 +1,1011 @@
+# Translation of Plugins - AMP - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - AMP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-22 11:18:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - AMP - Stable (latest release)\n"
+
+#. translators: %s is the URL being redirected to.
+#: includes/validation/class-amp-validation-manager.php:2220
+msgid "Unable to validate a URL on another site. Attempted to validate: %s"
+msgstr "Niet mogelijk om een URL met een andere site te valideren. Proberen te valideren: %s"
+
+#: src/LoadingError.php:61
+msgid "You must have JavaScript enabled to use this page."
+msgstr "Je moet JavaScript hebben ingeschakeld om deze pagina te kunnen gebruiken."
+
+#: src/LoadingError.php:29
+msgid "Loading"
+msgstr "Bezig met laden"
+
+#: src/DevTools/ErrorPage.php:277 src/LoadingError.php:47
+#: assets/js/amp-onboarding-wizard.js:8 assets/js/amp-settings.js:16
+#: assets/js/amp-site-scan-notice.js:2 assets/js/amp-support.js:20
+msgid "https://wordpress.org/support/plugin/amp/"
+msgstr "https://wordpress.org/support/plugin/amp/"
+
+#: src/LoadingError.php:37 assets/js/amp-onboarding-wizard.js:7
+#: assets/js/amp-settings.js:15 assets/js/amp-site-scan-notice.js:1
+#: assets/js/amp-support.js:19
+msgid "Something went wrong."
+msgstr "Er is iets misgegaan."
+
+#: templates/header-bar.php:27
+msgid "Site icon"
+msgstr "Site pictogram"
+
+#: src/Validation/URLValidationRESTController.php:324
+msgid "The URL where validation errors can be reviewed."
+msgstr "De URL waar validatiefouten kunnen worden beoordeeld."
+
+#: src/Admin/PluginRowMeta.php:52
+msgid "Leave review"
+msgstr "Laat een beoordeling achter"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2945
+msgid "Mark unreviewed"
+msgstr "Markeren als niet-gecontroleerd"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2944
+msgid "Mark reviewed"
+msgstr "Markeer als beoordeeld"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:3404
+msgid "CSS selector"
+msgstr "CSS-selector"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:3406
+msgid "Class name"
+msgstr "Klasse naam"
+
+#: includes/validation/class-amp-validated-url-post-type.php:163
+msgid "All Validated URLs"
+msgstr "Alle gevalideerde URL's"
+
+#: includes/class-amp-theme-support.php:1800
+msgid "Go to non-AMP version"
+msgstr "Ga naar niet-AMP versie"
+
+#: src/Admin/ReaderThemes.php:247 assets/js/amp-settings.js:24
+msgid "Error:"
+msgstr "Fout:"
+
+#: includes/admin/class-amp-template-customizer.php:577
+msgid "Import settings"
+msgstr "Importeer instellingen"
+
+#: includes/admin/class-amp-template-customizer.php:578
+msgctxt "theme"
+msgid "Import"
+msgstr "Import"
+
+#. translators: %s is a link to the AMP settings screen
+#: includes/admin/class-amp-post-meta-box.php:432
+msgid "This post type is not <a href=\"%s\" target=\"_blank\">enabled</a>."
+msgstr "Dit berichttype is niet <a href=\"%s\" target=\"_blank\">ingeschakeld</a>."
+
+#. translators: %s: The name of the post type.
+#: includes/admin/class-amp-post-meta-box.php:561
+msgid "AMP is not supported for the \"%s\" post type."
+msgstr "AMP wordt niet ondersteund voor het berichttype \"%s\"."
+
+#: includes/validation/class-amp-validation-manager.php:458
+msgid "View with AMP disabled"
+msgstr "Bekijken met AMP uitgeschakeld"
+
+#: includes/validation/class-amp-validation-manager.php:427
+msgid "Validate URL"
+msgstr "URL valideren"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:3490
+msgid "Unreviewed"
+msgstr "Niet-gecontroleerd"
+
+#. translators: %s is total count of validation errors
+#: includes/validation/class-amp-validation-manager.php:2146
+msgid "%s issue:"
+msgid_plural "%s issues:"
+msgstr[0] "%s probleem:"
+msgstr[1] "%s problemen:"
+
+#: includes/validation/class-amp-validation-manager.php:2547
+msgid "The error details appear below."
+msgstr "De foutdetails verschijnen hieronder."
+
+#: includes/validation/class-amp-validation-manager.php:2545
+msgid "A PHP fatal error occurred while validating the URL. This may indicate either a bug in theme/plugin code or it may be due to an issue in the AMP plugin itself."
+msgstr "Er is een fatale PHP fout opgetreden tijdens het valideren van de URL. Dit kan ofwel een bug in de thema-/plugincode aangeven of dit kan komen door een fout in de AMP plugin zelf."
+
+#. translators: %s the total count of unreviewed validation errors
+#: includes/validation/class-amp-validation-manager.php:2124
+msgid "%s kept"
+msgid_plural "%s kept"
+msgstr[0] "%s bewaard"
+msgstr[1] "%s bewaard"
+
+#. translators: %s is WP_DEBUG_DISPLAY
+#: includes/validation/class-amp-validation-manager.php:2549
+msgid "Alternatively, you may enable %s to show the error details below."
+msgstr "Als alternatief kan je %s inschakelen om de onderstaande foutdetails weer te geven."
+
+#: includes/validation/class-amp-validated-url-post-type.php:1902
+msgid "Location:"
+msgstr "Locatie:"
+
+#: includes/validation/class-amp-validated-url-post-type.php:212
+msgid "AMP DevTools"
+msgstr "AMP DevTools"
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:54
+msgid "AMP Unavailable"
+msgstr "AMP niet beschikbaar"
+
+#: includes/class-amp-theme-support.php:2170
+msgid "Redirecting since AMP version not available."
+msgstr "Omleiden omdat AMP versie niet beschikbaar is."
+
+#. translators: 1: slug of the Reader theme, 2: the URL for the reader theme
+#. selection UI
+#: includes/options/class-amp-options-manager.php:502
+msgid "The AMP Reader theme %1$s cannot be found. Your site is currently falling back to using the Legacy templates for AMP pages. Please <a href=\"%2$s\">re-select</a> the desired Reader theme."
+msgstr "Het AMP Reader thema %1$s kan niet worden gevonden. Je site wordt teruggezet naar het gebruik van legacy templates voor de AMP pagina's. <a href=\"%2$s\">Selecteer</a> het gewenste Reader thema opnieuw."
+
+#. translators: %s: $post
+#: includes/amp-helper-functions.php:1488
+msgid "The %s argument is deprecated."
+msgstr "Het argument %s is verouderd."
+
+#. translators: text is describing validation issue(s)
+#: includes/validation/class-amp-validation-manager.php:2093
+#: src/PluginSuppression.php:289
+msgid "unreviewed"
+msgid_plural "all unreviewed"
+msgstr[0] "niet beoordeeld"
+msgstr[1] "allemaal niet beoordeeld"
+
+#: src/ReaderThemeLoader.php:240 assets/js/amp-onboarding-wizard.js:31
+msgid "Customize"
+msgstr "Aanpassen"
+
+#: src/ReaderThemeLoader.php:259 src/ReaderThemeLoader.php:271
+msgctxt "prefix for theme card in list"
+msgid "Reader:"
+msgstr "Reader:"
+
+#: src/PluginSuppression.php:288
+msgid "removed"
+msgstr "verwijderd"
+
+#: src/Admin/ReaderThemes.php:465
+msgid "AMP Legacy"
+msgstr "AMP legacy"
+
+#: src/Admin/OnboardingWizardSubmenu.php:44
+#: src/Admin/OnboardingWizardSubmenu.php:45
+#: src/Admin/OnboardingWizardSubmenuPage.php:131
+msgid "AMP Onboarding Wizard"
+msgstr "AMP Onboarding Wizard"
+
+#: src/DevTools/UserAccess.php:142
+msgid "Whether the user has enabled dev tools."
+msgstr "Of de gebruiker dev gereedschappen heeft ingeschakeld."
+
+#: src/MobileRedirection.php:558
+msgid "Exit mobile version"
+msgstr "Mobiele versie afsluiten"
+
+#: src/MobileRedirection.php:562
+msgid "Go to mobile version"
+msgstr "Ga naar mobiele versie"
+
+#: src/MobileRedirection.php:613
+msgid "This link is not applicable in this context. It remains here for preview purposes only."
+msgstr "Deze link is in dit verband niet van toepassing. Het blijft hier alleen voor voorbeelddoeleinden."
+
+#: src/Admin/PairedBrowsing.php:342
+msgid "AMP Paired Browsing:"
+msgstr "AMP gekoppeld browsen:"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2612
+msgid "Percent"
+msgstr "Procent"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2609
+msgid "Final"
+msgstr "Laatste"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2613
+msgid "Priority"
+msgstr "Prioriteit"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2702
+msgid "Stylesheet included"
+msgstr "Stylesheet inbegrepen"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2615
+msgid "Markup"
+msgstr "Markup"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2852
+msgid "The stylesheet was empty after minification (removal of comments and whitespace)."
+msgstr "De stylesheet was leeg na verkleining (verwijdering van reacties en witruimte)."
+
+#. translators: %1$s is the node name, %2$s is the disallowed ancestor tag name
+#: includes/validation/class-amp-validation-error-taxonomy.php:3228
+msgid "The tag %1$s may not appear as a descendant of tag %2$s"
+msgstr "De tag %1$s verschijnt mogelijk niet als een afstammeling van tag %2$s"
+
+#. translators: %1$s is the node name, %2$s is the required ancestor tag name
+#: includes/validation/class-amp-validation-error-taxonomy.php:3236
+msgid "The tag %1$s may only appear as a descendant of tag %2$s"
+msgstr "De tag %1$s mag alleen verschijnen als een afstammeling van tag %2$s"
+
+#. translators: %1$s is the invalid protocol, %2$s is attribute name
+#: includes/validation/class-amp-validation-error-taxonomy.php:3258
+msgid "Invalid URL protocol %1$s for attribute %2$s"
+msgstr "Ongeldig URL-protocol %1$s voor kenmerk %2$s"
+
+#: includes/validation/class-amp-validation-manager.php:2324
+msgid "Too many redirects."
+msgstr "Te veel omleidingen."
+
+#: includes/validation/class-amp-validation-manager.php:510
+msgid "Preview link expired. Please try again."
+msgstr "Voorbeeldlink verlopen. Probeer het opnieuw."
+
+#: includes/validation/class-amp-validation-manager.php:1754
+msgid "Nonce authentication failed."
+msgstr "Nonce authenticatie is mislukt."
+
+#: includes/validation/class-amp-validated-url-post-type.php:2519
+#: includes/validation/class-amp-validated-url-post-type.php:2528
+#: includes/validation/class-amp-validated-url-post-type.php:2574
+#: includes/validation/class-amp-validated-url-post-type.php:2605
+#: includes/validation/class-amp-validated-url-post-type.php:2610
+msgctxt "abbreviation for bytes"
+msgid "B"
+msgstr "B"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2519
+#: includes/validation/class-amp-validated-url-post-type.php:2528
+#: includes/validation/class-amp-validated-url-post-type.php:2574
+#: includes/validation/class-amp-validated-url-post-type.php:2605
+#: includes/validation/class-amp-validated-url-post-type.php:2610
+msgid "bytes"
+msgstr "bytes"
+
+#: includes/templates/amp-paired-browsing.php:51
+msgid "Go Back"
+msgstr "Ga terug"
+
+#: includes/templates/amp-paired-browsing.php:20
+msgid "Loading&#8230;"
+msgstr "Laden&#8230;"
+
+#: includes/templates/amp-paired-browsing.php:50
+msgid "Exit"
+msgstr "Afsluiten"
+
+#: src/BackgroundTask/BackgroundTaskDeactivator.php:153
+msgid "Large site detected. Deactivation will leave orphaned scheduled events behind."
+msgstr "Grote site gedetecteerd. Deactivering laat verweesde geplande evenementen achter."
+
+#: src/Admin/SiteHealth.php:1009
+msgid "Templates enabled"
+msgstr "Templates ingeschakeld"
+
+#: src/Admin/SiteHealth.php:1014
+msgid "Serve all templates as AMP?"
+msgstr "Alle templates als AMP aanbieden?"
+
+#: src/Admin/SiteHealth.php:1019
+msgid "Transient caching for stylesheets disabled"
+msgstr "Tijdelijke caching voor stylesheets uitgeschakeld"
+
+#: src/Admin/SiteHealth.php:1102
+msgid "No template supported"
+msgstr "Geen template ondersteund"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2204
+msgid "Stylesheets"
+msgstr "Stylesheets"
+
+#: src/Admin/SiteHealth.php:762
+msgid "https://www.php.net/manual/en/book.curl.php"
+msgstr "https://www.php.net/manual/en/book.curl.php"
+
+#: src/Admin/SiteHealth.php:309
+msgid "Persistent object caching is enabled"
+msgstr "Permanente objectcaching is ingeschakeld"
+
+#. translators: The accessibility text.
+#. translators: accessibility text
+#: src/Admin/AmpPlugins.php:326 src/Admin/SiteHealth.php:238
+#: src/Admin/SiteHealth.php:460 src/Admin/SiteHealth.php:765
+#: src/Admin/SiteHealth.php:849 assets/js/amp-block-editor.js:7
+#: assets/js/amp-onboarding-wizard.js:18 assets/js/amp-settings.js:68
+#: assets/js/amp-support.js:9 assets/js/amp-theme-install.js:1
+msgid "(opens in a new tab)"
+msgstr "(opent in een nieuwe tab)"
+
+#: src/Admin/SiteHealth.php:317
+msgid "Persistent object caching is not enabled"
+msgstr "Permanente objectcaching is niet ingeschakeld"
+
+#: src/Admin/SiteHealth.php:184
+msgid "Persistent object cache"
+msgstr "Persistent object cache"
+
+#: src/Admin/SiteHealth.php:195
+msgid "cURL multi functions"
+msgstr "cURL meerdere functies"
+
+#: src/Admin/SiteHealth.php:207
+msgid "Transient caching of stylesheets"
+msgstr "Tijdelijke caching van stylesheets"
+
+#: src/Admin/SiteHealth.php:201
+msgid "ICU version"
+msgstr "ICU versie"
+
+#: src/Admin/SiteHealth.php:847
+msgid "Learn more about ICU"
+msgstr "Meer informatie over ICU"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2656
+msgid "Must-Use Plugin"
+msgstr "Verplichte plugin"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2648
+msgid "Theme"
+msgstr "Thema"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2652
+#: assets/js/amp-settings.js:42
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2578
+msgid "Name"
+msgstr "Naam"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2581
+msgid "Post ID"
+msgstr "Bericht ID"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2584
+msgid "Post Type"
+msgstr "Berichttype"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2610
+msgid "Block Name"
+msgstr "Bloknaam"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2613
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2619
+msgid "Function"
+msgstr "Functie"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2622
+msgid "Location"
+msgstr "Locatie"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2629
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2631
+msgid "Action"
+msgstr "Actie"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2660
+#: assets/js/amp-block-validation.js:21
+msgid "Core"
+msgstr "Core"
+
+#. translators: 1: Documentation URL, 2: Documentation URL.
+#: includes/validation/class-amp-validation-error-taxonomy.php:2166
+msgid "AMP allows a specific set of elements and attributes on valid AMP pages. Learn about the <a href=\"%1$s\">AMP HTML specification</a>. If an element or attribute is not allowed in AMP, it must be removed for the page to be <a href=\"%2$s\">cached and eligible for prerendering</a>."
+msgstr "AMP staat een specifieke set elementen en kenmerken toe op geldige AMP pagina's. Lees meer over de <a href=\"%1$s\">AMP HTML-specificatie</a>. Als een element of kenmerk niet is toegestaan in AMP, moet het worden verwijderd om de pagina in de <a href=\"%2$s\">cache te plaatsen en in aanmerking te komen voor prerendering</a>."
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2128
+msgid "Information"
+msgstr "Informatie"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:1931
+#: includes/validation/class-amp-validation-error-taxonomy.php:3482
+#: assets/js/amp-block-validation.js:21
+msgid "Kept"
+msgstr "Bewaard"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:1786
+msgid "HTML element"
+msgstr "HTML-element"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2069
+msgid "Misc"
+msgstr "Misc"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1319
+#: includes/validation/class-amp-validated-url-post-type.php:1378
+#: includes/validation/class-amp-validation-error-taxonomy.php:884
+msgid "When invalid markup is removed it will not block a URL from being served as AMP; the validation error will be sanitized, where the offending markup is stripped from the response to ensure AMP validity. If invalid AMP markup is kept, then URLs is occurs on will not be served as AMP pages."
+msgstr "Als ongeldige opmaak wordt verwijderd, wordt een URL niet geblokkeerd om als AMP te worden weergegeven; de validatiefout wordt opgeschoond, waarbij de aanstootgevende markup uit de reactie wordt verwijderd om AMP validiteit te garanderen. Als ongeldige AMP opmaak behouden blijft, worden URL's waarop deze voorkomt niet als AMP pagina's weergegeven."
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:1490
+msgid "Invalid HTML elements"
+msgstr "Ongeldige HTML-elementen"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:1488
+msgid "With invalid HTML elements"
+msgstr "Met ongeldige HTML-elementen"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:1497
+msgid "Invalid HTML attributes"
+msgstr "Ongeldige HTML-attributen"
+
+#: includes/options/class-amp-options-manager.php:475
+msgid "https://wordpress.org/support/article/why-should-i-use-https/"
+msgstr "https://wordpress.org/support/article/why-should-i-use-https/"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2942
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: includes/sanitizers/class-amp-form-sanitizer.php:323
+msgid "Submitting…"
+msgstr "Verzenden …"
+
+#: includes/sanitizers/class-amp-form-sanitizer.php:334
+msgid "Your submission failed."
+msgstr "Je verzending is mislukt."
+
+#: includes/sanitizers/class-amp-form-sanitizer.php:341
+msgid "Please contact the developer of this form processor to improve this message."
+msgstr "Neem contact op met de ontwikkelaar van deze formulierverwerker om dit bericht te verbeteren."
+
+#: includes/templates/amp-paired-browsing.php:30
+msgid "Non-AMP"
+msgstr "Niet-AMP"
+
+#: amp.php:171 amp.php:191
+msgid "AMP plugin unable to initialize."
+msgstr "AMP plugin kan niet geïnitialiseerd worden."
+
+#. translators: localized date and time format, see http://php.net/date
+#: includes/validation/class-amp-validation-error-taxonomy.php:1968
+msgid "F j, Y g:i a"
+msgstr "j F Y H:i"
+
+#: includes/class-amp-service-worker.php:344
+msgid "Installing service worker..."
+msgstr "Servicewerker wordt geïnstalleerd..."
+
+#: includes/class-amp-service-worker.php:328
+#: includes/class-amp-service-worker.php:340
+msgid "Service Worker Installation"
+msgstr "Installatie van servicewerker"
+
+#: includes/class-amp-service-worker.php:151
+#: includes/class-amp-service-worker.php:185
+msgid "Please update to PWA v0.2. Expected argument to be WP_Service_Worker_Scripts."
+msgstr "Update naar PWA v0.2. Verwacht argument is WP_Service_Worker_Scripts."
+
+#: includes/class-amp-service-worker.php:327
+msgid "No service workers registered for the requested scope."
+msgstr "Er zijn geen servicewerkers geregistreerd voor de aangevraagde scope."
+
+#. translators: 1: the analytics entry ID. 2: type. 3: attributes. 4:
+#. config_data. 5: comma-separated list of the actual entry keys.
+#: includes/amp-helper-functions.php:1317
+msgid "Analytics entry for %1$s is missing one of the following keys: `%2$s` or `%3$s` (array keys: %4$s)"
+msgstr "In het Analytics-item voor %1$s ontbreekt een van de volgende sleutels: '%2$s' of '%3$s' (arraysleutels: %4$s)"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:259
+msgid "All AMP Validation Errors"
+msgstr "Alle AMP validatiefouten"
+
+#. translators: %s: the human-readable time difference.
+#: back-compat/templates-v0-3/meta-time.php:21
+#: includes/validation/class-amp-validation-error-taxonomy.php:1972
+#: templates/meta-time.php:28
+msgid "%s ago"
+msgstr "%s geleden"
+
+#. Plugin URI of the plugin
+msgid "https://amp-wp.org"
+msgstr "https://amp-wp.org"
+
+#: includes/class-amp-theme-support.php:742
+msgid "Search"
+msgstr "Zoeken"
+
+#: includes/class-amp-theme-support.php:738 assets/js/amp-block-editor.js:1
+msgid "Date"
+msgstr "Datum"
+
+#: includes/class-amp-theme-support.php:734
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/class-amp-theme-support.php:715
+#: src/Validation/ScannableURLProvider.php:151
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/class-amp-theme-support.php:700
+msgid "Singular"
+msgstr "Enkelvoudig"
+
+#: includes/class-amp-theme-support.php:467
+msgid "No WP_Query available."
+msgstr "Geen WP_Query beschikbaar."
+
+#: includes/validation/class-amp-validated-url-post-type.php:1330
+#: includes/validation/class-amp-validated-url-post-type.php:1343
+#: includes/validation/class-amp-validation-error-taxonomy.php:3457
+#: src/Validation/ScannableURLsRestController.php:222
+msgid "URL"
+msgstr "URL"
+
+#. translators: 1: @import. 2: wp_enqueue_style(). 3: font CDN URL.
+#: includes/sanitizers/class-amp-style-sanitizer.php:1803
+msgid "It is not a best practice to use %1$s to load font CDN stylesheets. Please use %2$s to enqueue %3$s as its own separate script."
+msgstr "Het is geen goede gewoonte om %1$s te gebruiken om CDN-stylesheets voor lettertypen te laden. Gebruik %2$s om %3$s in de wachtrij te plaatsen als zijn eigen afzonderlijk script."
+
+#: includes/class-amp-theme-support.php:705
+#: includes/class-amp-theme-support.php:723
+#: src/Validation/ScannableURLProvider.php:124
+#: src/Validation/ScannableURLProvider.php:138
+msgid "Homepage"
+msgstr "Homepage"
+
+#: includes/validation/class-amp-validation-manager.php:480
+#: src/Admin/OptionsMenu.php:135 src/Admin/OptionsMenu.php:173
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/sanitizers/class-amp-form-sanitizer.php:351
+#: assets/js/amp-settings.js:24
+msgid "Learn More"
+msgstr "Kom meer te weten"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1336
+#: includes/validation/class-amp-validated-url-post-type.php:1342
+msgid "Last Checked"
+msgstr "Laatst gecontroleerd"
+
+#: includes/validation/class-amp-validated-url-post-type.php:167
+msgid "No validated URLs found"
+msgstr "Geen gevalideerde URL's gevonden"
+
+#: includes/validation/class-amp-validated-url-post-type.php:435
+msgid "View Error Index"
+msgstr "Bekijk foutindex"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1357
+#: includes/validation/class-amp-validation-error-taxonomy.php:876
+#: includes/validation/class-amp-validation-manager.php:511
+msgid "Error"
+msgstr "Fout"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1649
+#: includes/validation/class-amp-validated-url-post-type.php:2387
+#: includes/validation/class-amp-validated-url-post-type.php:3198
+msgid "Forget"
+msgstr "Vergeten"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2325
+msgid "AMP disabled"
+msgstr "AMP uitgeschakeld"
+
+#: includes/validation/class-amp-validated-url-post-type.php:3221
+msgid "Forgotten"
+msgstr "Vergeten"
+
+#: includes/validation/class-amp-validated-url-post-type.php:169
+msgid "Search validated URLs"
+msgstr "Doorzoek gevalideerde URL's"
+
+#: includes/validation/class-amp-validated-url-post-type.php:168
+msgid "No forgotten validated URLs"
+msgstr "Geen vergeten gevalideerde URL's"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1324
+#: includes/validation/class-amp-validated-url-post-type.php:1341
+#: includes/validation/class-amp-validated-url-post-type.php:1370
+#: includes/validation/class-amp-validated-url-post-type.php:2616
+#: includes/validation/class-amp-validated-url-post-type.php:2763
+#: includes/validation/class-amp-validation-error-taxonomy.php:2625
+#: includes/validation/class-amp-validation-error-taxonomy.php:3414
+msgid "Sources"
+msgstr "Bronnen"
+
+#: includes/admin/class-amp-post-meta-box.php:516
+#: includes/validation/class-amp-validated-url-post-type.php:2323
+msgid "AMP enabled"
+msgstr "AMP ingeschakeld"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1358
+#: includes/validation/class-amp-validation-error-taxonomy.php:899
+#: includes/validation/class-amp-validation-error-taxonomy.php:2616
+#: includes/validation/class-amp-validation-error-taxonomy.php:3412
+#: src/Validation/ScannableURLsRestController.php:236
+msgid "Type"
+msgstr "Type"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1542
+msgid "Must-Use Plugins"
+msgstr "Must-use plugins"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1416
+#: includes/validation/class-amp-validated-url-post-type.php:2280
+#: assets/js/amp-settings.js:72
+msgid "Stale results"
+msgstr "Verouderde resultaten"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1542
+#: assets/js/amp-block-validation.js:19
+msgid "Plugins"
+msgstr "Plugins"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1366
+#: includes/validation/class-amp-validation-error-taxonomy.php:895
+msgid "The parent element of where the error occurred."
+msgstr "Het hoofd element van waar de fout is opgetreden."
+
+#: includes/sanitizers/class-amp-iframe-sanitizer.php:220
+#: assets/js/amp-validated-url-post-edit-screen.js:3
+msgid "Show all"
+msgstr "Toon alles"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2355
+msgid "Edit User"
+msgstr "Bewerk gebruiker"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2357
+msgid "View User"
+msgstr "Gebruiker bekijken"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2391
+msgid "Update"
+msgstr "Update"
+
+#: includes/validation/class-amp-validated-url-post-type.php:2903
+msgid "Invalid taxonomy."
+msgstr "Ongeldige taxonomie."
+
+#: includes/validation/class-amp-validated-url-post-type.php:2341
+msgid "View URL"
+msgstr "URL bekijken"
+
+#. translators: %s is the number of posts restored from trash.
+#: includes/validation/class-amp-validated-url-post-type.php:3256
+msgid "%s validated URL unforgotten."
+msgid_plural "%s validated URLs unforgotten."
+msgstr[0] "%s gevalideerde URL niet vergeten."
+msgstr[1] "%s gevalideerde URL's niet vergeten."
+
+#. translators: %s is the number of posts forgotten
+#: includes/validation/class-amp-validated-url-post-type.php:3242
+#: includes/validation/class-amp-validated-url-post-type.php:3249
+msgid "%s validated URL forgotten."
+msgid_plural "%s validated URLs forgotten."
+msgstr[0] "%s gevalideerde URL vergeten."
+msgstr[1] "%s gevalideerde URL's vergeten."
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:262
+#: includes/validation/class-amp-validation-error-taxonomy.php:1744
+msgid "Error Index"
+msgstr "Foutindex"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:1792
+#: includes/validation/class-amp-validation-error-taxonomy.php:2810
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:1783
+msgid "JS"
+msgstr "JS"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:1961
+msgid "n/a"
+msgstr "n.v.t"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:2183
+#: includes/validation/class-amp-validation-error-taxonomy.php:2198
+msgid "Invalid markup"
+msgstr "Ongeldige opmaak"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:3029
+msgid "Invalid element"
+msgstr "Ongeldig element"
+
+#: includes/amp-helper-functions.php:733
+msgid "There is no amphtml version available for this URL."
+msgstr "Er is geen amphtml-versie beschikbaar voor deze URL."
+
+#: includes/validation/class-amp-validated-url-post-type.php:1578
+#: assets/js/amp-block-editor.js:1 assets/js/amp-block-validation.js:21
+msgid "Embed"
+msgstr "Insluiten"
+
+#. Author URI of the plugin
+msgid "https://github.com/ampproject/amp-wp/graphs/contributors"
+msgstr "https://github.com/Automattic/amp-wp/graphs/contributors"
+
+#: includes/widgets/class-amp-widget-categories.php:65
+msgid "Select Category"
+msgstr "Selecteer categorie"
+
+#: includes/widgets/class-amp-widget-categories.php:44
+msgid "Categories"
+msgstr "Categorieën"
+
+#: includes/widgets/class-amp-widget-archives.php:87
+msgid "Select Post"
+msgstr "Selecteer bericht"
+
+#: includes/widgets/class-amp-widget-archives.php:84
+msgid "Select Week"
+msgstr "Selecteer week"
+
+#: includes/widgets/class-amp-widget-archives.php:81
+msgid "Select Day"
+msgstr "Selecteer dag"
+
+#: includes/widgets/class-amp-widget-archives.php:78
+msgid "Select Month"
+msgstr "Selecteer maand"
+
+#: includes/widgets/class-amp-widget-archives.php:75
+msgid "Select Year"
+msgstr "Selecteer jaar"
+
+#: includes/class-amp-theme-support.php:731
+#: includes/widgets/class-amp-widget-archives.php:49
+msgid "Archives"
+msgstr "Archief"
+
+#. translators: Meta box date format
+#: includes/validation/class-amp-validated-url-post-type.php:2256
+msgid "M j, Y @ H:i"
+msgstr "j M Y @ H:i"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1851
+#: includes/validation/class-amp-validated-url-post-type.php:2195
+#: assets/js/amp-settings.js:42
+msgid "Status"
+msgstr "Status"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1453
+#: includes/validation/class-amp-validated-url-post-type.php:1492
+#: includes/validation/class-amp-validated-url-post-type.php:2737
+#: includes/validation/class-amp-validation-error-taxonomy.php:2048
+msgid "--"
+msgstr "--"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:901
+msgid "URLs"
+msgstr "URLs"
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:1928
+#: includes/validation/class-amp-validation-error-taxonomy.php:3479
+#: assets/js/amp-block-validation.js:21
+msgid "Removed"
+msgstr "Verwijderd"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1653
+#: includes/validation/class-amp-validated-url-post-type.php:2264
+#: includes/validation/class-amp-validated-url-post-type.php:3182
+msgid "Recheck"
+msgstr "Opnieuw controleren"
+
+#: includes/validation/class-amp-validated-url-post-type.php:3165
+#: includes/validation/class-amp-validation-error-taxonomy.php:1698
+#: includes/validation/class-amp-validation-error-taxonomy.php:1718
+#: assets/js/amp-onboarding-wizard.js:8 assets/js/amp-settings.js:16
+#: assets/js/amp-settings.js:42 assets/js/amp-site-scan-notice.js:2
+#: assets/js/amp-support.js:20
+msgid "Details"
+msgstr "Details"
+
+#: includes/class-amp-theme-support.php:1191
+msgid "Click here to cancel reply."
+msgstr "Klik hier om je antwoord te annuleren."
+
+#: includes/class-amp-http.php:483
+msgid "Your comment has been posted."
+msgstr "Je reactie is geplaatst."
+
+#: includes/class-amp-http.php:485
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:269
+msgid "Validation Error"
+msgstr "Validatiefout"
+
+#. translators: %s: required PHP version
+#: amp.php:36
+msgid "The AMP plugin requires PHP %s. Please contact your host to update your PHP version."
+msgstr "Voor de AMP plugin is PHP %s vereist. Neem contact op met je host om je PHP versie te updaten."
+
+#: includes/validation/class-amp-validation-error-taxonomy.php:268
+msgid "No validation errors found."
+msgstr "Geen validatiefouten gevonden."
+
+#: includes/embeds/class-amp-crowdsignal-embed-handler.php:59
+msgid "View Survey"
+msgstr "Bekijk enquête"
+
+#: includes/embeds/class-amp-crowdsignal-embed-handler.php:61
+msgid "View Poll"
+msgstr "Bekijk opiniepeiling"
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:67
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:65
+msgid "OK"
+msgstr "OK"
+
+#: includes/admin/class-amp-post-meta-box.php:443
+msgid "Unavailable for an unknown reason."
+msgstr "Niet beschikbaar om onbekende reden."
+
+#: includes/admin/class-amp-post-meta-box.php:437
+msgid "A plugin or theme has disabled AMP support."
+msgstr "Een plugin of thema heeft de ondersteuning van AMP uitgeschakeld."
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:38
+msgid "Edit Status"
+msgstr "Bewerk status"
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:37
+msgid "Edit"
+msgstr "Bewerk"
+
+#: includes/templates/amp-enabled-classic-editor-toggle.php:26
+msgid "AMP:"
+msgstr "AMP:"
+
+#: src/Admin/OptionsMenu.php:162 src/Admin/OptionsMenu.php:172
+#: src/ReaderThemeLoader.php:243 assets/js/amp-block-editor.js:5
+msgid "AMP Settings"
+msgstr "AMP instellingen"
+
+#: includes/admin/class-amp-post-meta-box.php:370
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: includes/admin/class-amp-post-meta-box.php:369
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: includes/admin/class-amp-post-meta-box.php:204
+msgid "Preview changes in AMP (opens in new window)"
+msgstr "Voorbeeld van wijzigingen in AMP (opent in nieuw venster)"
+
+#: includes/admin/class-amp-template-customizer.php:771
+msgid "AMP preview enabled"
+msgstr "AMP voorbeeld ingeschakeld"
+
+#: includes/admin/class-amp-post-meta-box.php:104
+msgid "AMP status."
+msgstr "AMP status."
+
+#: includes/admin/class-amp-template-customizer.php:630
+msgid "Navigate to an AMP compatible page"
+msgstr "Navigeer naar een AMP-geschikte pagina"
+
+#: includes/admin/class-amp-template-customizer.php:629
+msgid "AMP is not available for the page currently being previewed."
+msgstr "AMP is niet beschikbaar voor de voorbeeldpagina die je nu bekijkt. "
+
+#: includes/validation/class-amp-validated-url-post-type.php:1844
+#: includes/validation/class-amp-validation-error-taxonomy.php:1728
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: src/Admin/AnalyticsOptionsSubmenu.php:59
+#: src/Admin/AnalyticsOptionsSubmenu.php:60 assets/js/amp-settings.js:73
+msgid "Analytics"
+msgstr "Analytics"
+
+#: includes/validation/class-amp-validated-url-post-type.php:1742
+#: includes/validation/class-amp-validated-url-post-type.php:1773
+#: includes/validation/class-amp-validated-url-post-type.php:1795
+msgid "Dismiss this notice."
+msgstr "Dit bericht negeren."
+
+#. translators: %s is sanitizer class
+#: includes/templates/class-amp-content-sanitizer.php:83
+msgid "Sanitizer (%s) class does not exist"
+msgstr "Sanitizer (%s) klasse bestaat niet"
+
+#: templates/footer.php:24
+msgid "Back to top"
+msgstr "Terug naar boven"
+
+#. translators: %s: list of categories.
+#: templates/meta-taxonomy.php:27
+msgid "Categories: %s"
+msgstr "Categorieën: %s"
+
+#: includes/settings/class-amp-customizer-design-settings.php:172
+msgid "Color Scheme"
+msgstr "Kleurschema"
+
+#: includes/settings/class-amp-customizer-design-settings.php:134
+msgid "Design"
+msgstr "Ontwerp"
+
+#: includes/templates/class-amp-post-template.php:342
+msgid "Leave a Comment"
+msgstr "Plaats een reactie"
+
+#: includes/templates/class-amp-post-template.php:343
+msgid "View Comments"
+msgstr "Bekijk reacties"
+
+#: includes/settings/class-amp-customizer-design-settings.php:296
+msgid "Dark"
+msgstr "Donker"
+
+#: includes/settings/class-amp-customizer-design-settings.php:295
+msgid "Light"
+msgstr "Licht"
+
+#. translators: %s: list of tags.
+#: templates/meta-taxonomy.php:44
+msgid "Tags: %s"
+msgstr "Tags: %s"
+
+#: includes/settings/class-amp-customizer-design-settings.php:146
+msgid "Header Text Color"
+msgstr "Koptekstkleur"
+
+#: includes/settings/class-amp-customizer-design-settings.php:160
+msgid "Header Background & Link Color"
+msgstr "Kopachtergrond & linkkleur"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-amp-admin-pointers.php:66
+#: includes/admin/class-amp-template-customizer.php:289
+#: includes/admin/functions.php:166 includes/admin/functions.php:167
+#: includes/amp-helper-functions.php:2000
+#: includes/templates/amp-paired-browsing.php:31
+#: includes/validation/class-amp-validation-manager.php:434
+#: src/Admin/OptionsMenu.php:163 src/Admin/SiteHealth.php:152
+#: assets/js/amp-block-validation.js:21 assets/js/amp-onboarding-wizard.js:25
+#: assets/js/amp-onboarding-wizard.js:31
+msgid "AMP"
+msgstr "AMP"
+
+#: back-compat/templates-v0-3/meta-taxonomy.php:8
+#: back-compat/templates-v0-3/meta-taxonomy.php:17
+#: templates/meta-taxonomy.php:21 templates/meta-taxonomy.php:35
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#. translators: %s is key name
+#: includes/templates/class-amp-post-template.php:200
+msgid "Called for non-existent key (\"%s\")."
+msgstr "Aanroep voor een niet-bestaande sleutel (\"%s\")."
+
+#. translators: 1: the template file, 2: WP_CONTENT_DIR.
+#: includes/templates/class-amp-post-template.php:473
+msgid "Path validation for template (%1$s) failed. Path cannot traverse and must be located in `%2$s`."
+msgstr "Validatie van het pad voor het template (%1$s) is niet geslaagd. Het pad moet zich bevinden binnen `%2$s`."

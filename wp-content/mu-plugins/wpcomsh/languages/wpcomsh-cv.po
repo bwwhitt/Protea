@@ -1,0 +1,828 @@
+# Translation of WordPress.com - Site Helper in Chuvash
+# This file is distributed under the same license as the WordPress.com - Site Helper package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-02 07:43:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cv_RU\n"
+"Project-Id-Version: WordPress.com - Site Helper\n"
+
+#. Description of the plugin
+msgid "WordPress.com provided functionality & tools pre-installed and activated on all Atomic Sites"
+msgstr "Atomic Sites сайчĕсен мĕнпурĕнче те WordPress.com тивĕçтернĕ функцийĕсемпе хатĕрсене вырнаçтарнă та тапратнă."
+
+#. translators: Message about how a managed theme is updated.
+#. translators: Information about how a managed plugin is updated, for
+#. debugging purposes.
+#. translators: Information about how a managed theme is updated, for debugging
+#. purposes.
+#: wpcomsh.php:262 wpcomsh.php:268 wpcomsh.php:274
+msgid "Updates managed by WordPress.com"
+msgstr "Çĕнетÿсене WordPress.com тытса тăрать"
+
+#: notices/plan-notices.php:44
+msgid "The Business plan for <strong>%3$s</strong> expires in %2$s. <a href=\"%1$s\">Renew your plan</a> to retain Business plan features such as custom plugins and themes, SFTP, and phpMyAdmin access."
+msgstr "<strong>%3$s</strong> Бизнес тарифĕн %2$s срокĕ тухать. Бизнес тарифĕн ятарлă плагинĕсемпе, темисемпе, SFTP, phpMyAdmin тата ытти функцийĕсемпе малалла та усă курса тăмашкăн <a href=\"%1$s\">Тарифа çĕнетĕр</a>."
+
+#: notices/plan-notices.php:38
+msgid "The eCommerce plan for <strong>%3$s</strong> expires in %2$s. <a href=\"%1$s\">Renew your plan</a> to retain eCommerce plan features such as custom plugins and themes, SFTP, and phpMyAdmin access."
+msgstr "<strong>%3$s</strong> eCommerce тарифĕн %2$s срокĕ тухать. eCommerce-ăн ятарлă плагинĕсемпе, темисемпе, SFTP, phpMyAdmin тата ытти функцийĕсемпе малалла та усă курса тăмашкăн <a href=\"%1$s\">Тарифа çĕнетĕр</a>."
+
+#: private-site/access-denied-preview-login-template.php:61
+msgid "This site is private. You need to log in to the preview to see it."
+msgstr "Ку сайт вăрттăн. Ăна курмашкăн çырăнса кĕмелле."
+
+#: private-site/access-denied-preview-login-template.php:58
+msgid "This site is private. You need to log in as a user with permissions before previewing it."
+msgstr "Ку сайт вăрттăн. Ăна курмашкăн ирĕкĕ пур усă куракан пулса çырăнса кĕрес пулать."
+
+#: private-site/access-denied-coming-soon-template.php:53
+msgid "Start your website"
+msgstr "Создайте свой веб-сайт"
+
+#: private-site/access-denied-coming-soon-template.php:49
+msgid "Build a website. Sell your stuff. Write a blog. And so much more."
+msgstr "Сайт туса лартăр. Суту-илÿ тăвăр. Блог çырăр. Тата нумай ыттине те."
+
+#: private-site/access-denied-coming-soon-template.php:43
+msgid "Coming Soon"
+msgstr "Часах"
+
+#: wpcomsh.php:980
+msgid "Disk space quota"
+msgstr "Уйăрса панă диск уçлăхĕ"
+
+#: wpcomsh.php:976
+msgid "Disk space used"
+msgstr "Усă курнă диск уçлăхĕ"
+
+#: widgets/category-cloud.php:167
+msgid "Click for more information"
+msgstr "Нажмите для получения дополнительной информации"
+
+#: widgets/category-cloud.php:166
+msgid "Count items in sub-categories toward parent total."
+msgstr "Считать число элементов в родительской рубрике с учетом дочерних рубрик."
+
+#: widgets/category-cloud.php:156
+msgid "Maximum font percentage:"
+msgstr "Максимум шрифт проценчĕ:"
+
+#: widgets/category-cloud.php:149
+msgid "Minimum font percentage:"
+msgstr "Минимум шрифт проценчĕ:"
+
+#: widgets/category-cloud.php:144
+msgid "Category IDs, separated by commas"
+msgstr "Идентификаторы рубрик, разделённые запятыми"
+
+#: widgets/category-cloud.php:141
+msgid "Exclude:"
+msgstr "Исключить:"
+
+#: widgets/category-cloud.php:134
+msgid "Maximum number of categories to show:"
+msgstr "Максимальное количество отображаемых рубрик:"
+
+#: widgets/category-cloud.php:108
+msgid "If you use more <a href=\"%s\">categories</a> on your site, they will appear here."
+msgstr "Если на вашем сайте используются другие <a href=\"%s\">категории</a>, они появятся здесь."
+
+#: widgets/category-cloud.php:18
+msgid "Your most used categories in cloud format."
+msgstr "Ваши наиболее часто используемые рубрики в облачном формате."
+
+#: widgets/category-cloud.php:16 widgets/category-cloud.php:42
+msgid "Category Cloud"
+msgstr "Категори Пĕлĕчĕ"
+
+#: private-site/private-site.php:162
+msgid "Jetpack is disconnected & site is private. Reconnect Jetpack to manage site visibility settings."
+msgstr "Jetpack çыхăнăвне татнă, сайчĕ те вăрттăн. Jetpack-а  çĕнĕрен çыхăнтарăр  та сайт курăнаслăхне настройкисене майлас."
+
+#: private-site/logged-in-banner.php:72
+msgid "Update visibility"
+msgstr "Курăнаслăхне çĕнетес"
+
+#: private-site/logged-in-banner.php:68
+msgid "Launch site"
+msgstr "Сайта хута ярас"
+
+#: private-site/logged-in-banner.php:63
+msgid "Dismiss"
+msgstr "Сирсе ярас"
+
+#: private-site/logged-in-banner.php:56
+msgid "Your site has been launched; now you can share it with the world!"
+msgstr "Сайт ĕçлеме пуçларĕ; халĕ унпа пĕтĕм тĕнчепе пайлашма пултаратăр!"
+
+#: private-site/logged-in-banner.php:52
+msgid "Your site is marked as \"Coming Soon\" and hidden from visitors until it's ready."
+msgstr "Сайта \"Часах уçăлĕ\" тесе палăртнă, хатĕр пуличчен килсе куракансем ăна курмĕç."
+
+#: private-site/logged-in-banner.php:54
+msgid "Your site hasn't been launched yet. Only you can see it until it is launched."
+msgstr "Сирен сайт ĕçлеме пуçламарĕ-ха. Халлĕхе ăна эсир кăна куратăр."
+
+#: wpcomsh.php:909
+msgid "You are currently using <strong>%1$s</strong> out of <strong>%2$s</strong> upload limit (%3$s%%)."
+msgstr "Хальлĕхе out -ăн> <strong>%2$s</strong> загрузка лимитĕнчен (%3$s%%) <strong>%1$s</strong> проценчĕпе кăна усă куратăр."
+
+#: widgets/twitter.php:412
+msgid "Text to display between Tweet and timestamp:"
+msgstr "Текст между твитом и отметкой времени:"
+
+#: widgets/twitter.php:406
+msgid "Display Follow Button"
+msgstr "Показать кнопку «Подписаться»"
+
+#: widgets/twitter.php:399
+msgid "Include retweets"
+msgstr "Показывать ретвиты"
+
+#: widgets/twitter.php:392
+msgid "Hide Tweets pushed by Publicize"
+msgstr "Скрыть твиты, опубликованные в службе «Публикация»"
+
+#: widgets/twitter.php:385
+msgid "Hide replies"
+msgstr "Скрыть ответы"
+
+#: widgets/twitter.php:371
+msgid "Maximum number of Tweets to show:"
+msgstr "Максимальное количество твитов для отображения:"
+
+#: widgets/twitter.php:364
+msgid "Twitter username:"
+msgstr "Имя пользователя Twitter:"
+
+#: widgets/twitter.php:353
+msgid "Please switch to the 'Twitter Timeline' widget. This widget will be going away in the future and the new widget allows for more customization."
+msgstr "Переключитесь на виджет «Лента Twitter». Этот виджет скоро станет недоступен, а новый виджет предлагает больше вариантов настройки."
+
+#: widgets/twitter.php:289
+msgid "Error: Please make sure the Twitter account is %1$spublic%2$s."
+msgstr "Ошибка: убедитесь, что учетная запись Twitter является %1$sобщедоступной%2$s."
+
+#: widgets/twitter.php:262 widgets/twitter.php:275 widgets/twitter.php:296
+msgid "Error: Twitter did not respond. Please wait a few minutes and refresh this page."
+msgstr "Ошибка: Twitter не ответил. Пожалуйста, подождите несколько минут и обновите эту страницу."
+
+#: widgets/twitter.php:61
+msgid "Twitter Updates"
+msgstr "Twitter Çĕнетĕвĕсем"
+
+#: widgets/twitter.php:51
+msgid "Please configure your Twitter username for the <a href=\"%s\">Twitter Widget</a>."
+msgstr "Укажите ваше имя пользователя для <a href=\"%s\">виджета Twitter</a>."
+
+#: widgets/twitter.php:29
+msgid "Display your Tweets from Twitter"
+msgstr "Twitter-ти твитсене курăнтарас"
+
+#: widgets/twitter.php:26
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/tag-cloud-widget.php:177
+msgid "Taxonomy:"
+msgstr "Таксономи:"
+
+#: widgets/tag-cloud-widget.php:159
+msgid "The tag cloud will not be displayed since there are no taxonomies that support the tag cloud widget."
+msgstr "Облако меток не будет отображено, потому что ни одна из таксономий его не поддерживает."
+
+#: widgets/tag-cloud-widget.php:152
+msgid "Show tag counts"
+msgstr "Тег шучĕсене кăтартас"
+
+#: widgets/tag-cloud-widget.php:139
+msgid "Maximum number of tags displayed"
+msgstr "Тегсен максимум хисепне кăтартнă"
+
+#: widgets/tag-cloud-widget.php:137
+msgid "Number of Tags:"
+msgstr "Тегсен хисепĕ :"
+
+#: widgets/tag-cloud-widget.php:41
+msgid "Tags"
+msgstr "Тегсем"
+
+#: widgets/tag-cloud-widget.php:21
+msgid "Tag Cloud"
+msgstr "Тег Пĕлĕчĕ"
+
+#: widgets/tag-cloud-widget.php:18
+msgid "A cloud of your most used tags."
+msgstr "Облако часто используемых меток."
+
+#: widgets/aboutme.php:148
+msgid "Apps"
+msgstr "Приложенисем"
+
+#: widgets/instagram/instagram.php:245
+msgid "New images may take up to %d minutes to show up on your site."
+msgstr "Çĕнĕ сăнÿкерчĕксем сайта тухичче %d  минут иртме пултарать."
+
+#: widgets/instagram/instagram.php:237
+msgid "Number of columns:"
+msgstr "Столбецсен хисепĕ:"
+
+#: widgets/instagram/instagram.php:236
+msgid "Layout"
+msgstr "Разметка"
+
+#: widgets/instagram/instagram.php:226
+msgid "Number to display:"
+msgstr "Курăнтармалăх номер:"
+
+#: widgets/instagram/instagram.php:225
+msgid "Images"
+msgstr "Сăнÿкерчĕксем"
+
+#: widgets/instagram/instagram.php:221
+msgid "Widget Title"
+msgstr "Виджет Заголовокĕ"
+
+#: widgets/instagram/instagram.php:189
+msgid "No Instagram images were found."
+msgstr "Изображения Instagram не найдены."
+
+#: widgets/instagram/instagram.php:186
+msgid "There was an error retrieving images from Instagram. An attempt will be remade in a few minutes."
+msgstr "При получении изображений из Instagram произошла ошибка. Через несколько минут будет предпринята повторная попытка."
+
+#: widgets/instagram/instagram.php:30
+msgid "Display your latest Instagram photos."
+msgstr "Instagram-ри хăвăрăн юлашки фотосене курăнтарас."
+
+#: widgets/instagram/instagram.php:28 widgets/instagram/instagram.php:43
+msgid "Instagram"
+msgstr "Instagram"
+
+#: widgets/aboutme.php:141
+msgid "Biography"
+msgstr "Биография"
+
+#: widgets/aboutme.php:134
+msgid "Headline"
+msgstr "Заголовок"
+
+#: widgets/aboutme.php:127
+msgid "Photo"
+msgstr "Фото"
+
+#: widgets/aboutme.php:123
+msgid "Don't Display Name"
+msgstr "Ячĕ Ан Курăнтăр"
+
+#: widgets/aboutme.php:121
+msgid "Display Small"
+msgstr "Пĕчĕккĕн курăнтăр"
+
+#: widgets/aboutme.php:119
+msgid "Display Medium"
+msgstr "Вăтаммăн курăнтăр"
+
+#: widgets/aboutme.php:117
+msgid "Display Large"
+msgstr "Пысăккăн Курăнтăр"
+
+#: widgets/aboutme.php:115
+msgid "Display X-Large"
+msgstr "Экстра-Пысăккăн Курăнтăр"
+
+#: widgets/aboutme.php:104
+msgid "Your about.me URL"
+msgstr "Сирĕн about.me URL-ĕ"
+
+#: widgets/aboutme.php:97
+msgid "Widget title"
+msgstr "Виджет заголовокĕ"
+
+#: widgets/aboutme.php:90
+msgid "The about.me widget will no longer be available after July 1, 2016. After this date, the widget will display a simple text link to your about.me profile. Please remove this widget."
+msgstr "about.me виджет Утă 1, 2016 хыççăн текех çук пулĕ. ку числа хыççăн, ку виджет сирĕн about.me профилĕ патне пĕр ансат текст каçă курăнтарĕ. Тархасшăн ку виджета кăларса пăрахăр."
+
+#: widgets/aboutme.php:37
+msgid "The about.me widget is no longer available. To remove this widget, <a href=\"%s\">visit your settings</a>. This message is not shown to visitors to your site."
+msgstr "about.me виджетне текех илме çук. Ку виджета кăларма пăрахмашкăн <a href=\"%s\">настройкăсене кайса пăхăр</a>. Ку сообщени сирĕн сайта килсе куракансене курăнмасть."
+
+#: widgets/aboutme.php:20
+msgid "About.me Widget"
+msgstr "about.me (Ман çинчен) виджет"
+
+#: widgets/aboutme.php:18
+msgid "Display your about.me profile with thumbnail"
+msgstr "Хăвăрăн about.me профильне чĕрнешкепе курăнтарас"
+
+#: safeguard/utils.php:58
+msgid "Unable to fetch the requested data."
+msgstr "Ыйтнă даннăйсене кÿме пулмарĕ."
+
+#: footer-credit/theme-optimizations.php:37
+msgid "Create a free website or blog at WordPress.com"
+msgstr "WordPress.com-ра тÿлевсĕр вебсайт е блог туса хурăр"
+
+#: footer-credit/theme-optimizations.php:32
+msgid "Create a free website at WordPress.com"
+msgstr "WordPress.com-ра тÿлевсĕр вебсайт туса хурăр"
+
+#: footer-credit/footer-credit/footer-credit.php:101
+msgid "Powered by WordPress.com"
+msgstr "WordPress.com хăвачĕпе"
+
+#: footer-credit/footer-credit/footer-credit.php:98
+#: footer-credit/theme-optimizations.php:30
+#: footer-credit/theme-optimizations.php:35
+msgid "Blog at WordPress.com"
+msgstr "WordPress.com-ра Блог"
+
+#: footer-credit/footer-credit/footer-credit.php:97
+msgid "A WordPress.com Website"
+msgstr "WordPress.com вебсайчĕ"
+
+#: footer-credit/footer-credit/footer-credit.php:96
+msgid "WordPress.com Logo"
+msgstr "Логотип WordPress.com"
+
+#: footer-credit/footer-credit/footer-credit.php:41
+#: footer-credit/footer-credit/footer-credit.php:205
+msgid "Create a website or blog at WordPress.com"
+msgstr "WordPress.com-ра тÿлевсĕр вебсайт е блог туса хурăр"
+
+#: footer-credit/footer-credit/customizer.php:85
+msgid "Footer Credit"
+msgstr "Информация об авторах в подвале"
+
+#: footer-credit/footer-credit/customizer.php:62
+msgid "Upgrade to Business"
+msgstr "Приобрести платную услугу «Бизнес»"
+
+#: footer-credit/footer-credit/customizer.php:54
+msgid "Hide (Business Plan Required)"
+msgstr "Пытарас (Бизнес тарифне куçнă пулмалла)"
+
+#: footer-credit/footer-credit/customizer.php:52
+msgid "Hide"
+msgstr "Ан курăнтăр"
+
+#: footer-credit/footer-credit/customizer.php:41
+msgid "Default"
+msgstr "Улăштаричченхи"
+
+#: footer-credit/footer-credit-optimizations.php:159
+msgid "Design by"
+msgstr "Дизайнне тăваканĕ"
+
+#: footer-credit/footer-credit-optimizations.php:147
+msgid "by"
+msgstr "яраканĕ"
+
+#: footer-credit/footer-credit-optimizations.php:130
+msgid "Theme"
+msgstr "Темă"
+
+#: footer-credit/footer-credit-optimizations.php:114
+msgid "Proudly powered by WordPress"
+msgstr "Работает на WordPress"
+
+#: customizer-fixes/customizer-fixes.php:13
+msgid "Save Settings"
+msgstr "Настройкăсене упрас"
+
+#: customizer-fixes/customizer-fixes.php:12
+msgid "Are you sure you want to discard your unsaved changes?"
+msgstr "Упраман улшăнусене чăннипех пăрахаçлас тетĕр-и?"
+
+#: customizer-fixes/customizer-fixes.php:11
+msgid "Saved"
+msgstr "Упранчĕ"
+
+#: customizer-fixes/customizer-fixes.php:10
+msgid "Save Changes"
+msgstr "Улшăнусене Упрас"
+
+#: customizer-fixes/customizer-fixes.php:9
+msgid "Save"
+msgstr "Упрас"
+
+#: customizer-fixes/customizer-fixes.php:8
+msgid "Activate &amp; Save"
+msgstr "Активацилес &amp; Упрас"
+
+#: private-site/private-site.php:168
+msgid "Manage your site visibility settings"
+msgstr "Сайтăн курăнаслăх настройкисене майлас"
+
+#: wpcomsh.php:338
+msgid "This plugin was installed by WordPress.com and provides features offered in your plan subscription."
+msgstr "Ку плагина WordPress.com вырнаçтарнă, вăл эсир çырăннă тарифпа килĕшÿллĕ функцисемпе тивĕçтерсе тăрать."
+
+#: wpcomsh.php:335
+msgid "%s is automatically managed for you."
+msgstr "%s сирĕн валли хăйне тĕллĕн майлашăнса тăрать."
+
+#: widgets/top-rated.php:141
+msgid "How many items would you like to display?"
+msgstr "Сколько элементов отображать?"
+
+#: widgets/top-rated.php:137
+msgid "Filter by category"
+msgstr "Фильтр по рубрике"
+
+#: widgets/top-rated.php:131
+msgid "Show for comments"
+msgstr "Показывать для комментариев"
+
+#: widgets/top-rated.php:125
+msgid "Show for pages"
+msgstr "Показывать для страниц"
+
+#: widgets/top-rated.php:119
+msgid "Show for posts"
+msgstr "Показывать для записей"
+
+#: widgets/top-rated.php:11 widgets/top-rated.php:32
+msgid "Top Rated"
+msgstr "Çÿллĕ Рейтинглă"
+
+#: widgets/top-rated.php:10
+msgid "A list of your top rated posts, pages or comments."
+msgstr "Список ваших самых популярных сообщений, страниц и комментариев."
+
+#: widgets/top-clicks.php:61
+msgid "Top Clicks are calculated from 48-72 hours of stats. They take a while to change."
+msgstr "Топ кликов вычисляется за 48&#8212;72 часов статистики. Для обновления нужно некоторое время."
+
+#: widgets/top-clicks.php:53
+msgid "URLs to show:"
+msgstr "Показывать адресов:"
+
+#: widgets/top-clicks.php:47
+msgid "Display length:"
+msgstr "Фокусное расстояние:"
+
+#: widgets/top-clicks.php:14
+msgid "List the most-clicked links on your blog."
+msgstr "Отображайте наиболее посещаемые ссылки в вашем блоге."
+
+#: widgets/top-clicks.php:13 widgets/top-clicks.php:22
+#: widgets/top-clicks.php:66
+msgid "Top Clicks"
+msgstr "Çÿлти Кликусем"
+
+#: widgets/tlkio/tlkio.php:59
+msgid "Height (in pixel):"
+msgstr "Высота (в пикселях):"
+
+#: widgets/tlkio/tlkio.php:55
+msgid "Channel:"
+msgstr "Канал:"
+
+#: widgets/tlkio/tlkio.php:26
+msgid "tlk.io Webchat"
+msgstr "tlk.io Webchat"
+
+#: widgets/tlkio/tlkio.php:25
+msgid "Add a tlk.io webchat."
+msgstr "Добавить веб-чат tlk.io."
+
+#: widgets/reservations.php:55
+msgid "Show:"
+msgstr "Кăтартас:"
+
+#: widgets/reservations.php:50
+msgid "E-mail Subject:"
+msgstr "Тема эл. письма:"
+
+#: widgets/reservations.php:44
+msgid "Recipient E-mail Address:"
+msgstr "Адрес эл. почты получателя:"
+
+#: widgets/reservations.php:29
+msgid "Departure"
+msgstr "Кайни"
+
+#: widgets/reservations.php:28
+msgid "Arrival"
+msgstr "Прибытие"
+
+#: widgets/reservations.php:27
+msgid "# Children"
+msgstr "# Ачасем"
+
+#: widgets/reservations.php:26
+msgid "# Adults"
+msgstr "# Аслисем"
+
+#: widgets/reservations.php:25
+msgid "Message"
+msgstr "Сообщени"
+
+#: widgets/reservations.php:24
+msgid "Phone"
+msgstr "Телефон"
+
+#: widgets/reservations.php:23
+msgid "Email"
+msgstr "Email"
+
+#: widgets/aboutme.php:111 widgets/reservations.php:22
+msgid "Name"
+msgstr "Ячĕ"
+
+#: widgets/reservations.php:16
+msgid "Reservation Inquiry"
+msgstr "Запрос бронирования"
+
+#: widgets/reservations.php:10 widgets/reservations.php:15
+msgid "Reservations"
+msgstr "Бронируйте столики"
+
+#: widgets/recent-comments-widget.php:384
+msgid "Show comments from:"
+msgstr "Показать комментарии:"
+
+#: widgets/recent-comments-widget.php:379
+msgid "Text background color:"
+msgstr "Текст фон тĕсĕ:"
+
+#: widgets/recent-comments-widget.php:373
+msgid "Avatar background color:"
+msgstr "Аватар фон тĕсĕ:"
+
+#: widgets/recent-comments-widget.php:362
+msgid "No Avatars"
+msgstr "Пĕр аватар та çук"
+
+#: widgets/recent-comments-widget.php:355
+msgid "(at most 15)"
+msgstr "(нумайран 15)"
+
+#: widgets/recent-comments-widget.php:349
+msgid "Number of comments to show:"
+msgstr "Миçе комментари кăтартас:"
+
+#: widgets/recent-comments-widget.php:284
+msgid "There are no public comments available to display."
+msgstr "Нет публичных комментариев для отображения."
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: widgets/recent-comments-widget.php:275
+#: widgets/recent-comments-widget.php:308
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s %2$s числара"
+
+#: widgets/recent-comments-widget.php:252
+msgid "Anonymous"
+msgstr "Аноним"
+
+#: widgets/recent-comments-widget.php:30
+msgid "Display your site's most recent comments"
+msgstr "Сайтри чи çĕнĕ çĕнĕ комментарисене курăнтарас"
+
+#: widgets/recent-comments-widget.php:29 widgets/recent-comments-widget.php:146
+msgid "Recent Comments"
+msgstr "Хальтерехри комментарисем"
+
+#: widgets/posts-i-like.php:269
+msgid "You have not recently liked any posts. Once you do, this <a href=\"%s\">Posts I Like</a> widget will display them."
+msgstr "В последнее время вам не понравилась ни одна запись. Как только вы поставите записи отметку «Нравится», она появится в виджете <a href=\"%s\">Понравившиеся записи</a>."
+
+#: widgets/posts-i-like.php:259
+msgid "on"
+msgstr "çине"
+
+#: widgets/posts-i-like.php:236
+msgctxt "1: Post Title, 2: Blog Name"
+msgid "%1$s on %2$s"
+msgstr "%2$s блогри %1$s"
+
+#: widgets/posts-i-like.php:113
+msgid "Author's likes to display:"
+msgstr "Понравившиеся автору записи:"
+
+#: widgets/posts-i-like.php:98
+msgid "Grid"
+msgstr "Сетка"
+
+#: widgets/posts-i-like.php:97
+msgid "List"
+msgstr "Список"
+
+#: widgets/posts-i-like.php:95
+msgid "Display as:"
+msgstr "Çакăн пек курăнтарас:"
+
+#: widgets/posts-i-like.php:90
+msgid "Number of posts to show (1 to 15):"
+msgstr "Кăтартас публикацисем (1 - 15):"
+
+#: widgets/posts-i-like.php:27
+msgid "A list of the posts I most recently liked"
+msgstr "Список недавно понравившихся записей"
+
+#: widgets/posts-i-like.php:25 widgets/posts-i-like.php:32
+msgid "Posts I Like"
+msgstr "Эпĕ Килĕштернĕ публикацисем"
+
+#: widgets/music-player.php:82
+msgid "Choose songs"
+msgstr "Юрăсем суйлас"
+
+#: widgets/music-player.php:16 widgets/music-player.php:87
+msgid "Music Player"
+msgstr "Музыка Калаканĕ"
+
+#: widgets/music-player.php:15
+msgid "A multi-song music player"
+msgstr "Музыкальный плеер с поддержкой воспроизведения нескольких файлов"
+
+#: widgets/i-voted.php:33
+msgid "I Voted"
+msgstr "Сасăларăм"
+
+#: widgets/i-voted.php:31
+msgid "Show your readers that you voted with an \"I Voted\" sticker."
+msgstr "Вулакансене сасăлани çинчен \"Сасăларăм\" стикер лартса пĕлтерĕр."
+
+#: widgets/gravatar.php:144
+msgid "You can modify your Gravatar from your <a href=\"/wp-admin/profile.php\">profile page</a>."
+msgstr "Вы можете изменить Gravatar на <a href=\"/wp-admin/profile.php\">странице профиля</a>."
+
+#: widgets/gravatar.php:143
+msgid "Text displayed after Gravatar. This is optional and can be used to describe yourself or what your blog is about."
+msgstr "Текст, отображаемый после Gravatar. Это поле не является обязательным. Вы можете использовать его, чтобы рассказать пару слов о себе или вашем блоге."
+
+#: widgets/gravatar.php:142
+msgid "Gravatar link. This is an optional URL that will be used when anyone clicks on your Gravatar:"
+msgstr "Ссылка Gravatar. Это дополнительный URL-адрес, который будет использоваться, когда кто-либо нажимает ваш Gravatar:"
+
+#: widgets/gravatar.php:134
+msgid "Gravatar alignment:"
+msgstr "Выравнивание Gravatar:"
+
+#: widgets/gravatar.php:125
+msgid "Size:"
+msgstr "Пысăкăш:"
+
+#: widgets/gravatar.php:122
+msgid "Custom Email Address:"
+msgstr "Хăйевĕрлетнĕ Email Адресĕ:"
+
+#: widgets/gravatar.php:119
+msgid "Select a user or pick \"custom\" and enter a custom email address."
+msgstr "Выберите пользователя либо выберите \"другое\" и введите адрес электронной почты."
+
+#: widgets/gravatar.php:115
+msgid "Center"
+msgstr "Варă"
+
+#: widgets/gravatar.php:115
+msgid "Right"
+msgstr "Сылтăм"
+
+#: widgets/gravatar.php:115
+msgid "Left"
+msgstr "Сулахай"
+
+#: widgets/gravatar.php:115 widgets/top-clicks.php:108
+msgid "None"
+msgstr "Çуккă"
+
+#: widgets/gravatar.php:114
+msgid "Extra Large (256 pixels)"
+msgstr "Экстра Пысăккă (256 Пиксель)"
+
+#: widgets/gravatar.php:114
+msgid "Large (128 pixels)"
+msgstr "Пысăккă (128 Пиксель)"
+
+#: widgets/gravatar.php:114
+msgid "Medium (96 pixels)"
+msgstr "Вăтам (96 Пиксель)"
+
+#: widgets/gravatar.php:114
+msgid "Small (64 pixels)"
+msgstr "Пĕчĕккĕ (64 Пиксель)"
+
+#: widgets/gravatar.php:84
+msgid "You need to pick a user or enter an email address in your <a href=\"%s\">Gravatar Widget</a> settings."
+msgstr "В настройках <a href=\"%s\">виджета Gravatar</a> необходимо выбрать пользователя или ввести адрес эл. почты."
+
+#: widgets/gravatar.php:22
+msgid "Gravatar"
+msgstr "Граватар"
+
+#: widgets/gravatar.php:20
+msgid "Insert a Gravatar image"
+msgstr "Gravatar căнÿкерчĕкĕ Чикес"
+
+#: widgets/freshly-pressed.php:60
+msgid "Choose an image to display in your sidebar:"
+msgstr "Выберите изображение, которое будет показано в боковой панели:"
+
+#: widgets/freshly-pressed.php:10
+msgid "Freshly Pressed"
+msgstr "Свежăй Публикацисем"
+
+#: widgets/freshly-pressed.php:8
+msgid "Display a Freshly Pressed badge in your sidebar"
+msgstr "Отображать значок «Свежая пресса» на боковой панели"
+
+#: widgets/author-grid.php:102 widgets/recent-comments-widget.php:360
+msgid "Avatar Size (px):"
+msgstr "Аватар пысăкăшĕ (px):"
+
+#: widgets/author-grid.php:97
+msgid "Display all authors (including those who have not written any posts)"
+msgstr "Отобразить всех авторов (включая тех, кто не создал ни одной записи)"
+
+#: widgets/author-grid.php:91 widgets/category-cloud.php:127
+#: widgets/freshly-pressed.php:56 widgets/gravatar.php:117
+#: widgets/i-voted.php:65 widgets/music-player.php:73
+#: widgets/posts-i-like.php:85 widgets/recent-comments-widget.php:343
+#: widgets/reservations.php:38 widgets/tag-cloud-widget.php:132
+#: widgets/tlkio/tlkio.php:51 widgets/top-clicks.php:41
+#: widgets/top-rated.php:115 widgets/twitter.php:357
+msgid "Title:"
+msgstr "Ячĕ:"
+
+#: widgets/author-grid.php:44
+msgid "Authors"
+msgstr "Авторсем"
+
+#: widgets/author-grid.php:12
+msgid "Show a grid of author avatar images."
+msgstr "Показывать список авторов в виде сетки изображений аватаров."
+
+#: widgets/author-grid.php:11
+msgid "Author Grid"
+msgstr "Список авторов в виде сетки"
+
+#: private-site/private-site.php:555
+msgid "Private Site"
+msgstr "Вăрттăн Сайт"
+
+#: private-site/private-site.php:391 private-site/private-site.php:493
+#: private-site/private-site.php:687
+msgid "This site is private."
+msgstr "Ку сайт вăл вăрттăн."
+
+#: private-site/access-denied-coming-soon-template.php:52
+#: private-site/access-denied-private-site-template.php:45
+msgid "Log in"
+msgstr "Çырăнса кĕрес"
+
+#: private-site/access-denied-private-site-template.php:45
+msgid "Switch user"
+msgstr "Усă куракана ылмаштарас"
+
+#: private-site/access-denied-private-site-template.php:43
+msgid "You need to be logged in as a user who has permission to view this site."
+msgstr "Ку сайта курмашкăн ирĕкĕ пур усă куракан пулса çырăнса кĕмелле."
+
+#: privacy/participating-plugins.php:144
+msgid ""
+"Please note - this tool only displays privacy policy information provided by\n"
+"WordPress and participating plugins. It does not include privacy policy\n"
+"information for non-participating plugins. It is your responsibility to\n"
+"obtain privacy policy information for non-participating plugins separately."
+msgstr "Тархасшăн, асăрхăр – ку хатĕр WordPress тата хутшăнтарнă плагинсем тивĕçтерекен вăрттăнлăх политики информацине кăна кăтартать. Хутшăнтарман плагинсем пухакан вăрттăнлăх политики информаицĕ кĕмест. Хутшăнтарман плагинсенчи вăрттăнлăх политики информацине пухассине хăвăрăнах тумалла."
+
+#: privacy/participating-plugins.php:94
+msgid ""
+"Please note - this tool only exports the personal data stored by WordPress and\n"
+"participating plugins. It does not export personal data stored by\n"
+"non-participating plugins. It is your responsibility to export personal data\n"
+"stored by non-participating plugins separately. The personal data exported\n"
+"includes only the following items at this time:"
+msgstr "Тархасшăн, асăрхăр – ку хатĕр даннăйсене WordPress тата хутшăнакан плагинсенчен кăна пухать. Хутшăнтарман плагинсем пухса тăракан персональнăй даннăйсем экспортланмаççĕ. Хутшăнтарман плагинсем упркакан даннăйсене хăвăрăнах экспортламалла. Ку хутĕнче экспортланакн даннăйсене çаксем кăна кĕрĕç:"
+
+#: privacy/participating-plugins.php:47
+msgid ""
+"Please note - this tool only erases the personal data stored by WordPress and\n"
+"participating plugins. It does not delete registered users, nor does it erase\n"
+"personal data stored by non-participating plugins. It is your responsibility\n"
+"to delete registered users as well as personal data stored by non-participating\n"
+"plugins. The personal data erased includes only the following items at this\n"
+"time:"
+msgstr "Тархасшăн, асăрхăр – ку хатĕр Wordpress тата хутшăнтарнă плагинсем упракан персональнăй даннăйсене кăна хуратать. Регистрациленнĕ усă куракансене тата хутшăнтарман плагинсем упракан даннăйсене хуратмасть. Регистрациленнĕ усă куракансене тата хутшăнтарман плагинсем упракан даннăйсене хуратасси сирĕн яваплăх. Ку хутĕнче хуратнă персональнăй даннăйсен шутне çаксем кăна кĕреççĕ:"
+
+#: logo-tool/logo-tool.php:70
+msgid "Create logo"
+msgstr "Логотип туса хурас"
+
+#: logo-tool/logo-tool.php:60
+msgid "Add a logo to display on your site. No logo? Buy a pro one from Looka — Click “Create logo” to start."
+msgstr "Сайта логотип хушăр. Логотип çук-и? Халех профессионаллă логотип хатĕрлеттерĕр — “Логотип тăвас” кликать тăвăр та туянăр."
+
+#. Plugin Name of the plugin
+msgid "WP.com Site Helper"
+msgstr "WP.com Сайт Пулăшуçи"

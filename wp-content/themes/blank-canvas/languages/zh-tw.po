@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Blank-canvas\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-23T01:13:14+00:00\n"
+"PO-Revision-Date: 2021-07-22 09:54:03+0000\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/customizer.php:167
+msgid "Your logo will not be shown on all posts and pages. To display your logo, follow the instructions above to enable your site header."
+msgstr "你的標誌不會顯示在所有文章和頁面上。 若要顯示標誌，請按照上述指示啟用網站頁首。"
+
+#: inc/wpcom.php:263
+msgid "SUBSCRIBE"
+msgstr "訂閱"
+
+#: inc/wpcom.php:259
+msgid "We’re launching soon. Be the first to sign up!"
+msgstr "即將正式推出，搶頭香，立即註冊！"
+
+#: inc/wpcom.php:255
+msgid "A new app for designers"
+msgstr "專為設計師打造的新 App"
+
+#: inc/wpcom.php:254
+msgid "A close-up of a black smart watch against a pink background."
+msgstr "黑色智慧手表在粉紅背景的特寫"
+
+#: inc/wpcom.php:251
+msgid "Coming Soon: App"
+msgstr "即將推出 App"
+
+#: inc/wpcom.php:232
+msgid "A new blog by MindStomp. Sign up to be notified when we launch."
+msgstr "MindStomp 最新部落格，註冊以在推出第一時間收到通知"
+
+#: inc/wpcom.php:222
+msgid "Coming Soon: Simple"
+msgstr "即將推出：Simple"
+
+#: inc/wpcom.php:201
+msgid "Sign up to hear when my journey begins."
+msgstr "註冊以接收我旅程開始時的最新消息"
+
+#: inc/wpcom.php:189
+msgid "A megaphone icon with sharp angles."
+msgstr "有銳角的巨大手機圖示"
+
+#: inc/wpcom.php:185
+msgid "Coming Soon: Solid Color"
+msgstr "即將推出：Solid Color"
+
+#: inc/block-patterns.php:634
+msgid "Townsville, MA, 01010"
+msgstr "260 宜蘭縣，台灣"
+
+#: inc/block-patterns.php:628
+msgid "A new restaurant featuring farm-to-table dining."
+msgstr "新餐廳，強調食材自産地直送"
+
+#: inc/block-patterns.php:616
+msgid "OAK & ANCHOR"
+msgstr "OAK & ANCHOR"
+
+#: inc/block-patterns.php:606
+msgid "Coming Soon: Restaurant"
+msgstr "即將推出：餐廳"
+
+#: inc/block-patterns.php:594
+#: inc/block-patterns.php:640
+msgid "info@example.com"
+msgstr "info@example.com"
+
+#: inc/block-patterns.php:588
+msgid "Boston, MA, 01010"
+msgstr "260，宜蘭縣 宜蘭市"
+
+#: inc/block-patterns.php:588
+#: inc/block-patterns.php:634
+msgid "1234 S Main Street"
+msgstr "宜蘭市中山路四段120號"
+
+#: inc/block-patterns.php:578
+msgid "A new art gallery in downtown Boston."
+msgstr "波士頓城區新開的藝廊"
+
+#: inc/block-patterns.php:574
+msgid "Opening Soon"
+msgstr "即將開幕"
+
+#: inc/block-patterns.php:572
+msgid "\"Self-Portrait with Two Pupils, Marie Gabrielle Capet and Marie Marguerite Carreaux de Rosemond\" by Adélaïde Labille-Guiard, hung up on a gallery wall."
+msgstr "「與兩名生徒的自畫像」/ Adélaïde Labille-Guiard，正在畫廊展出"
+
+#: inc/block-patterns.php:569
+msgid "Coming Soon: Art Gallery"
+msgstr "即將推出：藝廊"
+
+#: inc/block-patterns.php:542
+msgid "The High Fives"
+msgstr "拍拍手"
+
+#: inc/block-patterns.php:536
+msgid "Coming Soon: Animated Gradient"
+msgstr "即將推出：動態漸層"
+
+#: inc/block-patterns.php:526
+msgid "FOLLOW US"
+msgstr "追蹤我們"
+
+#: inc/block-patterns.php:521
+msgid "A new album from Rage Slump coming April 2021. Follow us on BandCamp now to be the first to hear some sneak peeks of the album."
+msgstr "雷史朗的新唱片將在 2021 年 4 月推出。在 BandCamp 上追蹤我們，搶先聆賞專輯中的精彩內容。"
+
+#: inc/block-patterns.php:517
+msgid "Six Feet Over"
+msgstr "六尺之外"
+
+#: inc/block-patterns.php:513
+msgid "COMING SOON"
+msgstr "即將推出"
+
+#: inc/block-patterns.php:509
+msgid "Coming Soon: Gradient"
+msgstr "即將推出：漸層"
+
+#: inc/block-patterns.php:31
+#: inc/block-patterns.php:624
+#: inc/wpcom.php:197
+#: inc/wpcom.php:228
+msgid "Coming Soon"
+msgstr "即將推出"
+
+#: inc/wpcom.php:48
+msgid "Kate Adams"
+msgstr "凱阿當"
+
+#: inc/customizer.php:139
+msgid "Check to show comments underneath posts and pages. Comments can be configured in your site’s Discussion settings screen."
+msgstr "勾選以在文章與頁面下顯示留言。在網站的留言設定畫面中，可以設定留言相關選項。"
+
+#: inc/customizer.php:138
+msgid "Make comments visible"
+msgstr "顯示留言"
+
+#: inc/customizer.php:115
+msgid "Check to show titles at the top of single posts and pages."
+msgstr "勾選以在單篇文章與頁面頂端顯示標題"
+
+#: inc/customizer.php:114
+msgid "Show post and page titles"
+msgstr "顯示文章與頁面標題"
+
+#: inc/customizer.php:91
+msgid "Check to show a navigation menu and widgets in your site's footer area."
+msgstr "勾選以在你的網站頁尾顯示導覽選單與小工具。"
+
+#: inc/customizer.php:90
+msgid "Enable widgets and footer menu"
+msgstr "啟用小工具與頁尾選單"
+
+#: inc/customizer.php:67
+msgid "Check to show a standard site header, navigation menu and social links menu on the top of every page. These can be configured in the \"Site Identity\" and \"Menus\" panels."
+msgstr "勾選以所有頁面頂端顯示標準的網站頁首、導覽選單與社群連結選單。可在「網站身分」與「選單」控制台進行設定。"
+
+#: inc/customizer.php:66
+msgid "Enable site header and top menu"
+msgstr "啟用網站頁首與頂部選單"
+
+#: inc/customizer.php:46
+msgid "Content Options"
+msgstr "內容選項"
+
+#: inc/block-patterns.php:500
+msgid "Donate to help keep us posting!"
+msgstr "捐款，讓我們持續發表貼文！"
+
+#: inc/block-patterns.php:496
+msgid "Sponsor: Crafty Cookies"
+msgstr "贊助者：雀喜餅乾"
+
+#: inc/block-patterns.php:492
+msgid " in <em>The New York Times</em>"
+msgstr "在<em>紐約時報</em>"
+
+#: inc/block-patterns.php:492
+msgid "\"Identity and Ownership\""
+msgstr "「身分與擁有權」"
+
+#: inc/block-patterns.php:488
+msgid " in <em>The Atlantic</em>"
+msgstr "在<em>大西洋雜誌</em>"
+
+#: inc/block-patterns.php:488
+msgid "\"Why we must own our history\""
+msgstr "「為什麼我們必須當歷史的主人」"
+
+#: inc/block-patterns.php:484
+msgid "“The Lost Tricycle” Book"
+msgstr "《三輪車不見了》專書"
+
+#: inc/block-patterns.php:476
+msgid "Published work and ephemera."
+msgstr "已出版的作品與短文。"
+
+#: inc/block-patterns.php:472
+msgid "Patricia Jones"
+msgstr "帕西・瓊斯"
+
+#: inc/block-patterns.php:464
+msgid "A logo of a circle with a line through it."
+msgstr "有條線貫穿圓圈的標誌。"
+
+#: inc/block-patterns.php:460
+msgid "Text Links"
+msgstr "文字連結"
+
+#: inc/block-patterns.php:436
+msgid "$70"
+msgstr "70 美元"
+
+#: inc/block-patterns.php:429
+msgid "Oversized Alpaca Crew, Everlane"
+msgstr "優你庫洛的大尺碼成衣"
+
+#: inc/block-patterns.php:416
+msgid "$60"
+msgstr "60 美元"
+
+#: inc/block-patterns.php:409
+msgid "Chunky Platform Lace-Up Boots, H&amp;M"
+msgstr "H&M 的蕾絲長靴"
+
+#: inc/block-patterns.php:396
+msgid "$45"
+msgstr "45 美元"
+
+#: inc/block-patterns.php:389
+msgid "Pink Long Sleeve Tea Dress, Topshop"
+msgstr "五分埔名店的粉色長袖上衣"
+
+#: inc/block-patterns.php:376
+msgid "$36"
+msgstr "36 美元"
+
+#: inc/block-patterns.php:369
+msgid "Rhinestone Earrings, ASOS"
+msgstr "ASOS 的寶石耳環"
+
+#: inc/block-patterns.php:355
+msgid "Julia Paxton"
+msgstr "Julia Paxton"
+
+#: inc/block-patterns.php:351
+msgid "Woman wearing sunglasses"
+msgstr "戴墨鏡的女子"
+
+#: inc/block-patterns.php:347
+msgid "Product Links"
+msgstr "產品連結"
+
+#: inc/block-patterns.php:325
+msgid "Tidal"
+msgstr "Tidal"
+
+#: inc/block-patterns.php:321
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/block-patterns.php:317
+msgid "Apple Music"
+msgstr "Apple Music"
+
+#: inc/block-patterns.php:313
+msgid "Bandcamp"
+msgstr "Bandcamp"
+
+#: inc/block-patterns.php:309
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/block-patterns.php:305
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/block-patterns.php:298
+msgid "Alex Smith — Own Way"
+msgstr "亞力・史思：我行我素"
+
+#: inc/block-patterns.php:294
+msgid "Image of a singer performing."
+msgstr "歌手表演的照片"
+
+#: inc/block-patterns.php:286
+msgid "Musician Links"
+msgstr "音樂家連結"
+
+#: inc/block-patterns.php:276
+msgid "Twitter"
+msgstr "Twitter "
+
+#: inc/block-patterns.php:272
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/block-patterns.php:268
+msgid "My wish list"
+msgstr "我的最愛列表"
+
+#: inc/block-patterns.php:264
+msgid "Buy prints of my work"
+msgstr "購買我作品的海報"
+
+#: inc/block-patterns.php:260
+msgid "Watch my tutorials"
+msgstr "觀賞我的教學"
+
+#: inc/block-patterns.php:255
+msgid "Antonio Miller"
+msgstr "安東．彌勒"
+
+#: inc/block-patterns.php:251
+msgid "Colored pencils"
+msgstr "彩色鉛筆"
+
+#: inc/block-patterns.php:247
+msgid "Gradient Links"
+msgstr "漸層連結"
+
+#: inc/block-patterns.php:233
+msgid "Ask me a question"
+msgstr "有問題，問我"
+
+#: inc/block-patterns.php:229
+msgid "Shop my style picks"
+msgstr "購買我挑選的風格組合"
+
+#: inc/block-patterns.php:225
+msgid "Follow my Instagram"
+msgstr "追蹤我的 IG"
+
+#: inc/block-patterns.php:221
+msgid "Listen on SoundCloud"
+msgstr "在 SoundCloud 上聆聽"
+
+#: inc/block-patterns.php:217
+msgid "Subscribe on YouTube"
+msgstr "訂閱 YouTube 頻道"
+
+#: inc/block-patterns.php:208
+msgid "Hamburger"
+msgstr "漢堡"
+
+#: inc/block-patterns.php:204
+msgid "Hamburger icon"
+msgstr "漢堡圖示"
+
+#: inc/block-patterns.php:196
+msgid "Emoji Links"
+msgstr "繪文字連結"
+
+#: inc/block-patterns.php:138
+msgid "April 16th"
+msgstr "四月16日"
+
+#: inc/block-patterns.php:138
+msgid "8pm–12am"
+msgstr "晚上8點到12點"
+
+#: inc/block-patterns.php:133
+msgid "San Francisco, CA"
+msgstr "加州舊金山"
+
+#: inc/block-patterns.php:133
+msgid "Pier 38"
+msgstr "Pier 38"
+
+#: inc/block-patterns.php:124
+msgid "Photo of two drinks."
+msgstr "兩種飲料的照片。"
+
+#: inc/block-patterns.php:92
+msgid "So much goodness all in one place!"
+msgstr "小小地方，大大歡樂！"
+
+#: inc/block-patterns.php:92
+msgid "My latest and greatest tips, resources, and reads."
+msgstr "我提供的最新超讚小撇步、資源與參考書目。"
+
+#: inc/block-patterns.php:26
+msgid "Link in Bio"
+msgstr "自傳中的連結"
+
+#: functions.php:139
+msgid "This theme will only display Widgets if they are enabled in the Content Options section."
+msgstr "只有在內容選項中啟用的小工具，才會顯示在本佈景主題中。"
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:137
+#: functions.php:138
+msgid "This theme will only display Menus if they are enabled in the Content Options section."
+msgstr "只有在內容選項頁面中啟用的選單，才會在本佈景主題中顯示。"
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:136
+msgid "The site logo, title, and tagline will only appear on all posts and pages if the \"Site header and top menu\" option is enabled in the <a href=\"#\" onClick=\"%s\">Content Options</a> section."
+msgstr "如果在「<a href=\"#\" onClick=\"%s\">內容選項</a>」部分啟用「網站頁首和上層選單」選項，網站標誌、標題和標語只會出現在所有文章和頁面上。"
+
+#: functions.php:79
+msgid "Tertiary Color"
+msgstr "第三順位色彩"
+
+#: functions.php:78
+msgid "Secondary Color"
+msgstr "次要色彩"
+
+#: functions.php:77
+msgid "Primary Color"
+msgstr "主要色彩"
+
+#: functions.php:76
+msgid "Foreground Color"
+msgstr "前景色彩"
+
+#: functions.php:75
+msgid "Background Color"
+msgstr "背景色彩"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/blank-canvas"
+msgstr "https://wordpress.com/theme/blank-canvas"
+
+#: template-parts/content/content-singular.php:48
+msgid "Pages:"
+msgstr "頁面："
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-singular.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "繼續閱讀<span class=\"screen-reader-text\">「%s」</span>"
+
+#: inc/wpcom.php:102
+msgid "Learn More"
+msgstr "深入了解"
+
+#: inc/wpcom.php:96
+msgid "Join instructor Jaime Adams for a series of virtual classes aimed at helping you hone your drawing skills. We will focus on composition, perspective, contour, representing volume, and more!"
+msgstr "由講師 Jaime Adams 主講的一系列遠距課程，可以提升你的繪畫技巧；授課重點在於構圖、視角、描邊、量感等等。"
+
+#: inc/wpcom.php:92
+msgid "Virtual Art Classes"
+msgstr "遠距美術班"
+
+#: inc/wpcom.php:78
+msgid "Email Signup"
+msgstr "註冊電子郵件信箱"
+
+#: inc/wpcom.php:52
+msgid "Hi! I’m a lead strategist for growing sustainable revenue streams for integrated fundraising."
+msgstr "你好！我擔任策略顧問，可以幫您的網站整合募款收入持續成長。"
+
+#: inc/wpcom.php:43
+msgid "Portrait of a woman against a pink and blue background."
+msgstr "在粉紅、藍色背景前方的女子。"
+
+#: inc/wpcom.php:38
+msgid "Card"
+msgstr "卡片"
+
+#: inc/block-patterns.php:176
+msgid "Hello! I am a photographer and designer living near Portland, Maine. When I am not posting to Instagram, you can find me shooting weddings and portraits."
+msgstr "我住在台灣某個美麗的小城，熱愛設計和攝影。除了在 IG 分享作品之外，我也經常拍攝婚禮或人像。"
+
+#: inc/block-patterns.php:172
+msgid "Jasmine Baker"
+msgstr "Jasmine Baker"
+
+#: inc/block-patterns.php:168
+msgid "Photo of a woman."
+msgstr "女性攝影作品"
+
+#: inc/block-patterns.php:166
+msgid "Photo of a vintage camera."
+msgstr "老相機攝影作品"
+
+#: inc/block-patterns.php:163
+msgid "Split Screen"
+msgstr "分割畫面"
+
+#: inc/block-patterns.php:150
+msgid "RSVP"
+msgstr "報名參加"
+
+#: inc/block-patterns.php:146
+msgid "Join us for a celebratory party featuring creative cocktails and mocktails, seasonal chef-crafted snacks and appetizers, and a range of desserts and pastries from local bakeries."
+msgstr "歡迎參加慶祝酒會，現場備有多種輕食、甜點與美食，均由在地商家嚴選在地食材精心製作。"
+
+#: inc/block-patterns.php:128
+msgid "You&rsquo;re Invited"
+msgstr "你已獲邀"
+
+#: inc/block-patterns.php:121
+msgid "Invitation"
+msgstr "邀請函"
+
+#: inc/block-patterns.php:112
+msgid "Instant Classic: A story of Persistence"
+msgstr "經典速讀：不朽名作的故事"
+
+#: inc/block-patterns.php:108
+msgid "Blurring the Lines Between Architecture and Nature"
+msgstr "建築與大自然的結合"
+
+#: inc/block-patterns.php:104
+msgid "10th Day of Rain"
+msgstr "連續第十個下兩天"
+
+#: inc/block-patterns.php:100
+msgid "Rain Journal by Richard Johnson"
+msgstr "Richard Johnson 的手記"
+
+#: inc/block-patterns.php:96
+msgid "Must read: The Place That Made Me"
+msgstr "必讀推薦：我的成長心路歷程"
+
+#: inc/block-patterns.php:84
+msgid "Alex Fredrickson"
+msgstr "Alex Fredrickson"
+
+#: inc/block-patterns.php:81
+msgid "Photo of a man wearing a hat."
+msgstr "戴帽人的照片"
+
+#: inc/block-patterns.php:75
+msgid "Links"
+msgstr "連結"
+
+#: inc/block-patterns.php:57
+#: inc/wpcom.php:57
+msgid "Get in touch"
+msgstr "與我們聯絡"
+
+#: inc/block-patterns.php:53
+msgid "Specializing in fine line tattoos with a single needle. With over 10 years of experience, I can make your tattoo dreams come true."
+msgstr "擅長單針細線刺青。 我擁有超過 10 年的經驗，可實現你的刺青夢想。"
+
+#: inc/block-patterns.php:50
+msgid "Hi! I’m a tattooist based in Florida City."
+msgstr "嗨！ 我是佛羅里達市的刺青師。"
+
+#: inc/block-patterns.php:49
+msgid "A photo of a tattooed hand, giving the \"I love you\" sign."
+msgstr "刺有「我愛你」刺青的手。"
+
+#: inc/block-patterns.php:43
+msgid "About Me"
+msgstr "關於我"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:157
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編輯 <span class=\"screen-reader-text\">%s</span>"
+
+#: functions.php:60
+msgid "Background"
+msgstr "背景"
+
+#: functions.php:55
+msgid "Tertiary"
+msgstr "第三"
+
+#: functions.php:50
+msgid "Foreground"
+msgstr "前景"
+
+#: functions.php:45
+msgid "Secondary"
+msgstr "次要"
+
+#: functions.php:40
+msgid "Primary"
+msgstr "主要"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Blank Canvas is a minimalist theme, designed for single-page websites. Its single post and page layouts have no header, navigation menus, or widgets by default, so the page you design in the WordPress editor is the same page you’ll see on the front end. The theme’s default styles are conservative, relying on simple sans-serif fonts and a subtle blue highlight color. Blank Canvas is ready for your customizations."
+msgstr "Blank Canvas 是極簡佈景主題，專為單頁網站設計， 其單篇文章和頁面版面配置預設沒有頁首、導覽選單或小工具，你在 WordPress 編輯器設計的頁面，就是在前台看到的頁面。 該佈景主題預設為傳統樣式，採用簡約的 sans-serif 字型，醒目提示色彩為淡藍色。 Blank Canvas 可供自訂。"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:21
+msgid "Blank Canvas"
+msgstr "空白畫布"

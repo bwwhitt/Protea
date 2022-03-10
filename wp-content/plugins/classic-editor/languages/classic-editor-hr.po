@@ -1,0 +1,118 @@
+# Translation of Plugins - Classic Editor - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - Classic Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-24 08:52:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Classic Editor - Stable (latest release)\n"
+
+#: classic-editor.php:841
+msgctxt "Editor Name"
+msgid "Edit (classic editor)"
+msgstr "Uredi (Klasični uređivač)"
+
+#: classic-editor.php:834
+msgctxt "Editor Name"
+msgid "Edit (block editor)"
+msgstr "Uredi (Blok uređivač)"
+
+#: classic-editor.php:495
+msgid "Change settings"
+msgstr "Promijeni postavke"
+
+#: classic-editor.php:482
+msgid "Default editor for all sites"
+msgstr "Zadani uređivač za sve web-stranice"
+
+#: classic-editor.php:478
+msgid "Editor Settings"
+msgstr "Postavke uređivača"
+
+#: classic-editor.php:462
+msgid "Default Editor"
+msgstr "Zadani uređivač"
+
+#: classic-editor.php:875
+msgctxt "Editor Name"
+msgid "block editor"
+msgstr "Blok uređivač"
+
+#: classic-editor.php:872
+msgctxt "Editor Name"
+msgid "classic editor"
+msgstr "Klasični uređivač"
+
+#. translators: %s: post title
+#: classic-editor.php:836
+msgid "Edit &#8220;%s&#8221; in the block editor"
+msgstr "Uredi &#8220;%s&#8221; u blok uređivaču"
+
+#: classic-editor.php:671
+msgid "Switch to block editor"
+msgstr "Prebaci na Blok uređivač"
+
+#: classic-editor.php:700
+msgid "Switch to classic editor"
+msgstr "Prebaci na Klasični uređivač"
+
+#: classic-editor.php:499
+msgid "By default the block editor is replaced with the classic editor and users cannot switch editors."
+msgstr "Prema izvornim postavkama Blok uređivač je zamijenjen s Klasičnim uređivačem i korisnici ne mogu promijeniti uređivače."
+
+#: classic-editor.php:498
+msgid "Allow site admins to change settings"
+msgstr "Dopusti administratorima promjenu uređivača"
+
+#: classic-editor.php:652
+msgid "Editor"
+msgstr "Uređivač"
+
+#: classic-editor.php:437
+msgid "No"
+msgstr "Ne"
+
+#: classic-editor.php:433
+msgid "Yes"
+msgstr "Da"
+
+#: classic-editor.php:360
+msgid "Allow users to switch editors"
+msgstr "Dopusti korisnicima promjenu uređivača"
+
+#: classic-editor.php:359
+msgid "Default editor for all users"
+msgstr "Zadani uređivač za sve korisnike"
+
+#. Author URI of the plugin
+msgid "https://github.com/WordPress/classic-editor/"
+msgstr "https://github.com/WordPress/classic-editor/"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/classic-editor/"
+msgstr "https://wordpress.org/plugins/classic-editor/"
+
+#. Author of the plugin
+msgid "WordPress Contributors"
+msgstr "WordPress sudionici"
+
+#. Description of the plugin
+msgid "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen."
+msgstr "Omogućuje WordPress klasični uređivač i stari stil zaslona uređivanja objava s TinyMCE, meta okviri, itd.. Podržava starije dodatke koji proširuju ovaj zaslon."
+
+#. Plugin Name of the plugin
+msgid "Classic Editor"
+msgstr "Classic Editor"
+
+#. translators: %s: post title
+#: classic-editor.php:843
+msgid "Edit &#8220;%s&#8221; in the classic editor"
+msgstr "Uredi &#8220;%s&#8221; u klasičnom uređivaču"
+
+#: classic-editor.php:719
+msgid "Settings"
+msgstr "Postavke"

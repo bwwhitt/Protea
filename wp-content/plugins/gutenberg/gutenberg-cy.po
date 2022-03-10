@@ -1,0 +1,3166 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Welsh
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-03 15:01:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: cy_GB\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-library/blocks/read-more/block.json
+msgctxt "block description"
+msgid "Displays the link of a post, page, or any other content-type."
+msgstr "Yn dangos dolen cofnod, tudalen, neu unrhyw fath arall o gynnwys."
+
+#: build/block-library/blocks/read-more/block.json
+msgctxt "block title"
+msgid "Read More"
+msgstr "Darllen Rhagor"
+
+#: build/block-library/blocks/post-author-biography/block.json
+msgctxt "block description"
+msgid "The author biography."
+msgstr "Bywgraffiad yr awdur."
+
+#: build/block-library/blocks/post-author-biography/block.json
+msgctxt "block title"
+msgid "Post Author Biography"
+msgstr "Bywgraffiad Ôl Awdur"
+
+#: lib/full-site-editing/edit-site-page.php:233
+msgid "The ID of the page that should display the latest posts"
+msgstr "ID y dudalen a ddylai ddangos y cofnodion diweddaraf"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:136
+msgid "Sorry, you are not allowed to view this global style."
+msgstr "Ymddiheuriadau, nid oes caniatâd i chi weld yr arddull gyffredinol."
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:128
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:191
+msgid "Sorry, you are not allowed to edit this global style."
+msgstr "Ymddiheuriadau, nid oes caniatâd i chi olygu'r arddull gyffredinol."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:165
+msgid "Displays search results."
+msgstr "Yn dangos canlyniadau chwilio."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:121
+msgid "Displays the homepage."
+msgstr "Yn dangos y dudalen gartref."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:117
+msgid "Displays posts on the homepage, or on the Posts page if a static homepage is set."
+msgstr "Yn dangos cofnodion ar y dudalen gartref, neu ar y dudalen Cofnodion os yw tudalen gartref sefydlog wedi'i gosod."
+
+#: build/block-library/blocks/comments-pagination-previous.php:18
+#: build/block-library/index.js:8437 build/block-library/index.min.js:7132
+msgid "Older Comments"
+msgstr "Sylwadau Hŷn"
+
+#: build/block-library/blocks/comments-pagination-next.php:25
+#: build/block-library/index.js:8973 build/block-library/index.min.js:7569
+msgid "Newer Comments"
+msgstr "Sylwadau Diweddarach"
+
+#: build/block-library/blocks/post-author/block.json
+msgctxt "block description"
+msgid "Display post author details such as name, avatar, and bio."
+msgstr "Dangos manylion awdur y cofnod e.e, enw, afatar a hanes."
+
+#: build/block-library/blocks/post-author-name/block.json
+msgctxt "block description"
+msgid "The author name."
+msgstr "Enw awdur"
+
+#: build/block-library/blocks/post-author-name/block.json
+msgctxt "block title"
+msgid "Post Author Name"
+msgstr "Enw Awdur y Cofnod"
+
+#: build/block-library/blocks/comments-pagination-previous/block.json
+msgctxt "block description"
+msgid "Displays the previous comments page link."
+msgstr "Yn dangos dolen y dudalen sylwadau blaenorol."
+
+#: build/block-library/blocks/comments-pagination-next/block.json
+msgctxt "block description"
+msgid "Displays the next comments page link."
+msgstr "Yn dangos dolen y dudalen sylwadau nesaf."
+
+#: lib/compat/wordpress-5.9/move-theme-editor-menu-item.php:21
+msgid "Theme File Editor"
+msgstr "Golygydd Ffeil Thema"
+
+#: build/block-library/blocks/site-logo.php:89
+msgid "Site icon."
+msgstr "Eicon gwefan."
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Mawr Iawn"
+
+#: build/block-library/blocks/query-pagination/block.json
+msgctxt "block title"
+msgid "Pagination"
+msgstr "Tudaleniad"
+
+#: build/block-library/blocks/comments-pagination-previous/block.json
+#: build/block-library/blocks/query-pagination-previous/block.json
+msgctxt "block title"
+msgid "Previous Page"
+msgstr "Y Dudalen Flaenorol"
+
+#: build/block-library/blocks/comments-pagination-numbers/block.json
+#: build/block-library/blocks/query-pagination-numbers/block.json
+msgctxt "block title"
+msgid "Page Numbers"
+msgstr "Rhifau Tudalen"
+
+#: build/block-library/blocks/comments-pagination-next/block.json
+#: build/block-library/blocks/query-pagination-next/block.json
+msgctxt "block title"
+msgid "Next Page"
+msgstr "Y Dudalen Nesaf"
+
+#: build/block-library/blocks/comments-pagination-numbers/block.json
+msgctxt "block description"
+msgid "Displays a list of page numbers for comments pagination."
+msgstr "Yn dangos rhestr o rifau tudalennau ar gyfer tudaleniad sylwadau."
+
+#. translators: Accessibility text. %s: Parent page title.
+#: build/block-library/blocks/navigation-submenu.php:175
+#: build/block-library/blocks/page-list.php:184
+msgid "%s submenu"
+msgstr "%s is ddewislen"
+
+#: build/block-library/blocks/comments-pagination/block.json
+msgctxt "block description"
+msgid "Displays a paginated navigation to next/previous set of comments, when applicable."
+msgstr "Yn dangos llywio tudaleniad i'r set nesaf/flaenorol o gofnodion, pan fo hynny'n berthnasol."
+
+#: build/block-library/blocks/comments-pagination/block.json
+msgctxt "block title"
+msgid "Comments Pagination"
+msgstr "Tudaleniad Sylwadau"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-edit-site-export-controller.php:56
+msgid "Sorry, you are not allowed to export templates and template parts."
+msgstr "Ymddiheuriadau, nid oes gennych ganiatâd i allforio templedi a rhannau templed."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:668
+msgid "Whether a template is a custom template."
+msgstr "P'un a yw templed yn dempled cyfaddas."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:659
+msgid "The ID for the author of the template."
+msgstr "ID awdur y templed."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:617
+msgid "Source of customized template"
+msgstr "Ffynhonnell y templed cyfaddas"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:443
+msgid "Invalid author ID."
+msgstr "ID awdur annilys."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:918
+msgid "Unable to open export file (archive) for writing."
+msgstr "Methu agor ffeil allforio (archif) ar gyfer ysgrifennu."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:910
+msgid "Zip Export not supported."
+msgstr "Allforio Zip ddim yn cael ei gefnogi."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:173
+msgid "Displays when no content is found."
+msgstr "Yn dangos pan mad oes cynnwys yn cael ei ganfod."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:169
+msgid "Displays the privacy policy page."
+msgstr "Yn dangos y dudalen polisi preifatrwydd."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:161
+msgid "Displays individual media items or attachments."
+msgstr "Yn dangos eitemau neu atodiadau cyfryngau unigol."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:157
+msgid "Displays latest posts with single post tag."
+msgstr "Yn dangos y cofnodion diweddaraf gyda thag post sengl."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:153
+msgid "Displays posts from a specific date."
+msgstr "Yn dangos cofnodion o ddyddiad penodol."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:149
+msgid "Displays latest posts from a single post taxonomy."
+msgstr "Yn dangos y cofnodion diweddaraf o dacsonomeg cofnod sengl."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:145
+msgid "Displays latest posts in single post category."
+msgstr "Yn dangos y cofnodion diweddaraf mewn categori cofnod sengl."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:141
+msgid "Displays latest posts written by a single author."
+msgstr "Yn dangos y cofnodion diweddaraf a ysgrifennwyd gan un awdur."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:137
+msgid "Displays post categories, tags, and other archives."
+msgstr "Yn dangos categorïau cofnodion, tagiau ac archifau eraill."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:133
+msgid "Displays a single page."
+msgstr "Yn dangos un dudalen."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:129
+msgid "Displays a single post."
+msgstr "Yn dangos un cofnod."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:125
+msgid "Displays a single post or page."
+msgstr "Yn dangos cofnod neu dudalen sengl."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:113
+msgid "Displays posts."
+msgstr "Yn dangos cofnodion."
+
+#. translators: %s: Minimum required version
+#: lib/compat.php:70
+msgid "Gutenberg requires WordPress %s or later in order to enable the &#8220;Correct invalidly nested XHTML automatically&#8221; option. Please upgrade WordPress before enabling."
+msgstr "Mae Gutenberg angen WordPress %s neu'n hwyrach er mwyn galluogi'r opsiwn \"Cywiro nythu XHTML annilys yn awtomatig\". Uwchraddiwch WordPress cyn eu galluogi."
+
+#: lib/compat/wordpress-5.9/templates.php:30
+msgid "View Templates"
+msgstr "Gweld Templedi"
+
+#: lib/compat/wordpress-5.9/template-parts.php:30
+msgid "View Template Parts"
+msgstr "Gweld Rhannau o Dempled"
+
+#: lib/navigation.php:13
+msgid "Navigation Menus"
+msgstr "Dewislenni Llywio"
+
+#: build/block-library/blocks/post-comment/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Comments Query Loop block instead."
+msgstr "Mae'r bloc hwn yn anghymeradwy. Defnyddiwch y bloc Cylch Ymholiad Sylwadau yn ei le."
+
+#: build/block-library/blocks/post-comment/block.json
+msgctxt "block title"
+msgid "Post Comment (deprecated)"
+msgstr "Sylw  Cofnod (anghymeradwy)"
+
+#: build/block-library/blocks/pattern/block.json
+msgctxt "block description"
+msgid "Show a block pattern."
+msgstr "Dangos patrwm bloc."
+
+#: build/block-library/blocks/pattern/block.json
+msgctxt "block title"
+msgid "Pattern"
+msgstr "Patrwm"
+
+#: build/block-library/blocks/navigation-area/block.json
+msgctxt "block keyword"
+msgid "location"
+msgstr "lleoliad"
+
+#: build/block-library/blocks/navigation-area/block.json
+msgctxt "block description"
+msgid "Define a navigation area for your theme. The navigation block associated with this area will be automatically displayed."
+msgstr "Diffiniwch ardal lywio ar gyfer eich thema. Bydd y bloc llywio sy'n gysylltiedig â'r ardal hon yn cael ei dangos yn awtomatig."
+
+#: build/block-library/blocks/navigation-area/block.json
+msgctxt "block title"
+msgid "Navigation Area"
+msgstr "Ardal Llywio"
+
+#: build/block-library/blocks/comments-query-loop/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying post comments based on different query parameters and visual configurations."
+msgstr "Bloc uwch sy'n caniatáu dangos sylwadau cofnod yn seiliedig ar wahanol baramedrau ymholiadau a ffurfweddiadau gweledol."
+
+#: build/block-library/blocks/comments-query-loop/block.json
+msgctxt "block title"
+msgid "Comments Query Loop"
+msgstr "Cylch Ymholiad Sylwadau"
+
+#: build/block-library/blocks/comment-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render a comment, like the title, date, author, avatar and more."
+msgstr "Yn cynnwys yr elfennau bloc sy'n cael eu defnyddio i greu sylw, fel y teitl, dyddiad, awdur, afatar a mwy."
+
+#: build/block-library/blocks/comment-template/block.json
+msgctxt "block title"
+msgid "Comment Template"
+msgstr "Templed Sylwadau"
+
+#: build/block-library/blocks/comment-reply-link/block.json
+msgctxt "block description"
+msgid "Displays a link to reply to a comment."
+msgstr "Yn dangos dolen i ymateb i sylw."
+
+#: build/block-library/blocks/comment-reply-link/block.json
+msgctxt "block title"
+msgid "Comment Reply Link"
+msgstr "Dolen Ateb Sylwadau"
+
+#: build/block-library/blocks/comment-edit-link/block.json
+msgctxt "block description"
+msgid "Displays a link to edit the comment in the WordPress Dashboard. This link is only visible to users with the edit comment capability."
+msgstr "Yn dangos dolen i olygu'r sylw ym Mwrdd Gwaith WordPress. Mae'r ddolen hon yn weladwy i ddim ond defnyddwyr sydd â'r gallu i olygu sylwadau."
+
+#: build/block-library/blocks/comment-edit-link/block.json
+msgctxt "block title"
+msgid "Comment Edit Link"
+msgstr "Dolen Golygu Sylw"
+
+#: build/block-library/blocks/comment-date/block.json
+msgctxt "block description"
+msgid "Add the date of this comment."
+msgstr "Ychwanegwch ddyddiad y sylw hwn."
+
+#: build/block-library/blocks/comment-content/block.json
+msgctxt "block description"
+msgid "Displays the contents of a comment."
+msgstr "Yn dangos cynnwys sylw."
+
+#: build/block-library/blocks/comment-author-name/block.json
+msgctxt "block description"
+msgid "Add the author name of this comment."
+msgstr "Ychwanegwch enw awdur y sylw hwn."
+
+#: build/block-library/blocks/comment-author-name/block.json
+msgctxt "block title"
+msgid "Comment Author Name"
+msgstr "Enw Awdur Sylw"
+
+#: build/block-library/blocks/comment-author-avatar/block.json
+msgctxt "block description"
+msgid "Add the avatar of this comment's author."
+msgstr "Ychwanegwch avatar awdur y sylw hwn."
+
+#: build/block-library/blocks/comment-author-avatar/block.json
+msgctxt "block title"
+msgid "Comment Author Avatar"
+msgstr "Afatar Awdur Sylw"
+
+#: lib/navigation.php:32
+msgid "Navigation Menus list"
+msgstr "Rhestr Dewislenni Llywio"
+
+#: lib/navigation.php:31
+msgid "Navigation Menus list navigation"
+msgstr "Llywio rhestr dewislenni llywio"
+
+#: lib/navigation.php:30
+msgid "Filter Navigation Menu list"
+msgstr "Hidlo'r rhestr Ddewislen Llywio"
+
+#: lib/navigation.php:28
+msgid "Uploaded to this Navigation Menu"
+msgstr "Llwythwyd i fyny i'r Ddewislen Llywio hon"
+
+#: lib/navigation.php:27
+msgid "Insert into Navigation Menu"
+msgstr "Mewnosod i'r Ddewislen Llywio"
+
+#: lib/navigation.php:26
+msgid "Navigation Menu archives"
+msgstr "Archifau'r Ddewislen Llywio"
+
+#: lib/navigation.php:25
+msgid "No Navigation Menu found in Trash."
+msgstr "Heb Ddarganfod Dewislen Llywio yn y Sbwriel."
+
+#: lib/navigation.php:24
+msgid "No Navigation Menu found."
+msgstr "Heb Ddarganfod Dewislen Llywio."
+
+#: lib/navigation.php:23
+msgid "Parent Navigation Menu:"
+msgstr "Dewislen Llywio Rhieni:"
+
+#: lib/navigation.php:22
+msgid "Search Navigation Menus"
+msgstr "Chwilio'r Dewislenni Llywio"
+
+#: lib/navigation.php:21
+msgid "All Navigation Menus"
+msgstr "Pob Dewislen Llywio"
+
+#: lib/navigation.php:20
+msgid "View Navigation Menu"
+msgstr "Gweld y Ddewislen Llywio"
+
+#: lib/navigation.php:19
+msgid "Edit Navigation Menu"
+msgstr "Golygu'r Ddewislen Llywio"
+
+#: lib/navigation.php:18
+msgid "New Navigation Menu"
+msgstr "Dewislen Llywio Newydd"
+
+#: lib/navigation.php:17
+msgid "Add New Navigation Menu"
+msgstr "Ychwanegu Dewislen Llywio Newydd"
+
+#: lib/navigation.php:16
+msgctxt "Navigation Menu"
+msgid "Add New"
+msgstr "Ychwanegu"
+
+#: lib/navigation.php:15
+msgctxt "Admin Menu text"
+msgid "Navigation Menus"
+msgstr "Dewislenni Llywio"
+
+#. translators: %s: "beta" label.
+#: lib/init.php:86
+msgid "Editor %s"
+msgstr "Golygydd %s"
+
+#: lib/init.php:83 build/edit-site/index.js:10726
+msgid "Editor (beta)"
+msgstr "Golygydd (beta)"
+
+#. translators: 1: Path to the JSON file, 2: Error message.
+#: lib/compat/wordpress-5.9/json-file-decode.php:44
+msgid "Error when decoding a JSON file at path %1$s: %2$s"
+msgstr "Gwall wrth ddatgodio ffeil JSON ar lwybr %1$s: %2$s"
+
+#. translators: %s: Path to the JSON file.
+#: lib/compat/wordpress-5.9/json-file-decode.php:30
+msgid "File %s doesn't exist!"
+msgstr "Nid yw ffeil %s yn bodoli!"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:553
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-global-styles-controller.php:180
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-global-styles-controller.php:220
+msgid "Theme not found."
+msgstr "Heb ganfod y thema."
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:501
+msgid "HTML title for the post, transformed for display."
+msgstr "Teitl HTML ar gyfer y cofnod, wedi ei drosi i'w ddangos."
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:496
+msgid "Title for the global styles variation, as it exists in the database."
+msgstr "Teitl ar gyfer yr amrywiad arddulliau eang, fel y mae'n bodoli yn y gronfa ddata."
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:490
+msgid "Title of the global styles variation."
+msgstr "Teitl yr amrywiad arddulliau eang."
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:485
+msgid "Global settings."
+msgstr "Gosodiadau Eang"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:480
+msgid "Global styles."
+msgstr "Arddulliau Eang"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:474
+msgid "ID of global styles config."
+msgstr "ID o ffurfweddiad arddulliau eang."
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:374
+msgid "No global styles config exist with that id."
+msgstr "Nid oes unrhyw arddulliau eang yn bodoli gyda'r id hwnnw."
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:530
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-global-styles-controller.php:53
+msgid "Sorry, you are not allowed to access the global styles on this site."
+msgstr "Ymddiheuriadau, nid oes caniatâd i chi gyrchu'r arddulliau eang ar y wefan hon."
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:60
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-global-styles-controller.php:30
+msgid "The theme identifier"
+msgstr "Dynodwr y thema"
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:263
+msgid "The ID of the assigned navigation."
+msgstr "ID y llywio a neilltuwyd."
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:257
+msgid "The description of the navigation area."
+msgstr "Y disgrifiad o'r ardal lywio."
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:251
+msgid "The name of the navigation area."
+msgstr "Enw'r ardal llywio."
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:126
+msgid "Invalid navigation area."
+msgstr "Ardal llywio annilys."
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:85
+#: lib/class-wp-rest-block-navigation-areas-controller.php:121
+msgid "Sorry, you are not allowed to view navigation areas."
+msgstr "Ymddiheuriadau, nid oes gennych hawl i weld ardaloedd lywio."
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:51
+msgid "An alphanumeric identifier for the navigation area."
+msgstr "Dynodwr alffaniwmerig ar gyfer yr ardal llywio."
+
+#. translators: %s is the Comment Author name
+#: build/block-library/blocks/comment-author-avatar.php:50
+msgid "%s Avatar"
+msgstr "Afatar %s"
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block style label"
+msgid "Plain"
+msgstr "Plaen"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:570
+msgid "Post type to get the templates for."
+msgstr "Math o gofnod i gael y templedi ar eu cyfer."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:566
+msgid "Limit to the specified template part area."
+msgstr "Cyfyngu i ardal benodol templed penodedig."
+
+#: lib/compat/wordpress-5.9/block-patterns.php:27
+msgid "Featured"
+msgstr "Nodwedd"
+
+#: build/block-library/blocks/site-title/block.json
+msgctxt "block description"
+msgid "Displays the name of this site. Update the block, and the changes apply everywhere it’s used. This will also appear in the browser title bar and in search results."
+msgstr "Yn dangos enw'r wefan hon. Diweddarwch y bloc, ac mae'r newidiadau yn digwydd ym mhobman y mae'n cael ei ddefnyddio. Bydd hyn hefyd yn ymddangos ym mar teitl y porwr ac mewn canlyniadau chwilio."
+
+#: build/block-library/blocks/post-navigation-link.php:64
+msgctxt "label before the title of the previous post"
+msgid "Previous:"
+msgstr "Blaenorol:"
+
+#: build/block-library/blocks/post-navigation-link.php:64
+msgctxt "label before the title of the next post"
+msgid "Next:"
+msgstr "Nesaf:"
+
+#: build/block-library/blocks/navigation-submenu/block.json
+msgctxt "block description"
+msgid "Add a submenu to your navigation."
+msgstr "Ychwanegu is ddewislen i'ch llywio."
+
+#: build/block-library/blocks/navigation-submenu/block.json
+msgctxt "block title"
+msgid "Submenu"
+msgstr "Is ddewislen"
+
+#: build/block-library/blocks/columns/block.json
+msgctxt "block description"
+msgid "Display content in multiple columns, with blocks added to each column."
+msgstr "Dangos cynnwys mewn sawl colofn, gyda blociau wedi'u hychwanegu at bob colofn."
+
+#: lib/class-wp-rest-menus-controller.php:85
+msgid "Required to be true, as terms do not support trashing."
+msgstr "Mae'n angenrheidiol ei fod yn true, gan nad yw termau yn cynnal trasio."
+
+#: lib/class-wp-rest-menus-controller.php:59
+msgid "Unique identifier for the term."
+msgstr "Dynodwr unigryw y term."
+
+#: build/block-library/blocks/table/block.json
+msgctxt "block description"
+msgid "Create structured content in rows and columns to display information."
+msgstr "Crëwch gynnwys strwythuredig mewn rhesi a cholofnau i ddangos gwybodaeth."
+
+#: build/block-library/blocks/site-logo/block.json
+msgctxt "block description"
+msgid "Display a graphic to represent this site. Update the block, and the changes apply everywhere it’s used. This is different than the site icon, which is the smaller image visible in your dashboard, browser tabs, etc used to help others recognize this site."
+msgstr "Dangos graffig i gynrychioli'r wefan hon. Diweddarwch y bloc, ac mae'r newidiadau yn digwydd ym mhobman y mae'n cael ei ddefnyddio. Mae hyn yn wahanol i eicon y wefan, sef y ddelwedd lai sydd i'w gweld yn eich bwrdd gwaith, tabiau porwr, ac ati sy'n cael ei ddefnyddio i helpu eraill i adnabod y wefan hon."
+
+#: lib/block-patterns.php:76
+msgctxt "Block pattern title"
+msgid "Grid"
+msgstr "Grid"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Blue and orange"
+msgstr "Glas ac oren"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Purple and green"
+msgstr "Porffor a gwyrdd"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Magenta and yellow"
+msgstr "Magenta a melyn"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Midnight"
+msgstr "Canol Nos"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Blue and red"
+msgstr "Glas a choch"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Purple and yellow"
+msgstr "Porffor a melyn"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Grayscale"
+msgstr "Graddlwyd"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Dark grayscale"
+msgstr "Graddlwyd tywyll"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Midnight"
+msgstr "Canol Nos"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Electric grass"
+msgstr "Glaswellt trydanol"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Pale ocean"
+msgstr "Cefnfor gwelw"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Luminous dusk"
+msgstr "Cyfnos goleuol"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Blush bordeaux"
+msgstr "Bordeaux ysgafn"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Blush light purple"
+msgstr "Porffor golau ysgafn"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Cool to warm spectrum"
+msgstr "Sbectrwm oer i gynnes"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Very light gray to cyan bluish gray"
+msgstr "Llwyd ysgafn iawn i lwyd glaswyrdd glas"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid orange to vivid red"
+msgstr "Oren llachar goleuol i goch llachar"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "Ambr byw goleuol i oren llachar goleuol"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Light green cyan to vivid green cyan"
+msgstr "Gwyrddlas gwyrdd golau i wyrddlas gwyrdd llachar"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Vivid cyan blue to vivid purple"
+msgstr "Glas gwyrddlas llachar i borffor llachar"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Vivid purple"
+msgstr "Porffor llachar"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Vivid cyan blue"
+msgstr "Gwyrddlas gwyrdd llachar"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Pale cyan blue"
+msgstr "Gwyrddlas gwyrdd gwan"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Vivid green cyan"
+msgstr "Gwyrdd glaswyrdd llachar"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Light green cyan"
+msgstr "Gwyrdd gwyrddlas golau"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid amber"
+msgstr "Ambr cryf llachar"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid orange"
+msgstr "Oren cryf llachar"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Vivid red"
+msgstr "Coch llachar"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Pale pink"
+msgstr "Pinc gwan"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr "Gwyn"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Cyan bluish gray"
+msgstr "Llwyd las gwyrddlas"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr "Du"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mawr"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Canolig"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Bach"
+
+#: lib/block-patterns.php:150
+msgctxt "Block pattern title"
+msgid "Social links with a shared background color"
+msgstr "Dolenni cymdeithasol â lliw cefndir sy'n cael ei rannu"
+
+#: lib/block-patterns.php:92
+msgctxt "Block pattern title"
+msgid "Large title"
+msgstr "Teitl mawr"
+
+#: lib/block-patterns.php:57
+msgctxt "Block pattern title"
+msgid "Small image and title"
+msgstr "Delwedd a theitl bach"
+
+#: lib/block-patterns.php:37
+msgctxt "Block pattern title"
+msgid "Image at left"
+msgstr "Delwedd ar y chwith"
+
+#: lib/block-patterns.php:19
+msgctxt "Block pattern title"
+msgid "Standard"
+msgstr "Safonol"
+
+#: build/block-library/blocks/query/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying post types based on different query parameters and visual configurations."
+msgstr "Bloc uwch sy'n caniatáu dangos mathau o gofnod yn seiliedig ar wahanol baramedrau ymholiad a ffurfweddiadau gweledol."
+
+#: build/block-library/blocks/post-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render a post, like the title, date, featured image, content or excerpt, and more."
+msgstr "Yn cynnwys elfennau blociau sy'n cael eu ddefnyddio i greu cofnod, fel y teitl, dyddiad, delwedd nodwedd, cynnwys neu ddyfyniad, a rhagor."
+
+#: build/block-library/blocks/post-template/block.json
+msgctxt "block title"
+msgid "Post Template"
+msgstr "Templed Cofnod"
+
+#: build/block-library/blocks/button/block.json
+#: build/block-library/blocks/buttons/block.json
+msgctxt "block keyword"
+msgid "link"
+msgstr "dolen"
+
+#: lib/rest-api.php:202
+msgid "Limit result set to users who have published posts."
+msgstr "Cyfyngu'r canlyniad i ddefnyddwyr sydd wedi cyhoeddi cofnodion."
+
+#: build/block-library/blocks/calendar.php:22
+msgid "The calendar block is hidden because there are no published posts."
+msgstr "Mae'r bloc calendr wedi'i guddio oherwydd nad oes unrhyw gofnod wedi'u cyhoeddi."
+
+#: build/block-library/blocks/video/block.json
+msgctxt "block keyword"
+msgid "movie"
+msgstr "ffilm"
+
+#: build/block-library/blocks/video/block.json
+msgctxt "block description"
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Mewnblannu fideo o'ch llyfrgell cyfryngau neu lwytho un newydd."
+
+#: build/block-library/blocks/verse/block.json
+msgctxt "block keyword"
+msgid "poem"
+msgstr "cerdd"
+
+#: build/block-library/blocks/verse/block.json
+msgctxt "block keyword"
+msgid "poetry"
+msgstr "barddoniaeth"
+
+#: build/block-library/blocks/verse/block.json
+msgctxt "block description"
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Mewnosod barddoniaeth. Defnyddiwch fformatau bylchu arbennig. Neu ddyfynnu geiriau cân."
+
+#: build/block-library/blocks/text-columns/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Mae'r bloc hwn yn anghymeradwy. Defnyddiwch y bloc Colofnau yn ei le."
+
+#: build/block-library/blocks/tag-cloud/block.json
+msgctxt "block description"
+msgid "A cloud of your most used tags."
+msgstr "Cwmwl o'ch tagiau amlycaf."
+
+#: build/block-library/blocks/table/block.json
+msgctxt "block style label"
+msgid "Stripes"
+msgstr "Streipiau"
+
+#: build/block-library/blocks/table-of-contents/block.json
+msgctxt "block keyword"
+msgid "summary"
+msgstr "crynodeb"
+
+#: build/block-library/blocks/table-of-contents/block.json
+msgctxt "block keyword"
+msgid "document outline"
+msgstr "amlinelliad o'r ddogfen"
+
+#: build/block-library/blocks/table-of-contents/block.json
+msgctxt "block description"
+msgid "Summarize your post with a list of headings. Add HTML anchors to Heading blocks to link them here."
+msgstr "Crynhowch eich cofnod gyda rhestr o benawdau. Ychwanegwch angorau HTML i flociau Pennawd i'w cysylltu yma."
+
+#: build/block-library/blocks/table-of-contents/block.json
+msgctxt "block title"
+msgid "Table of Contents"
+msgstr "Tabl Cynnwys"
+
+#: build/block-library/blocks/spacer/block.json
+msgctxt "block description"
+msgid "Add white space between blocks and customize its height."
+msgstr "Ychwanegu gofod gwyn rhwng blociau a chyfaddasu ei uchder."
+
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block style label"
+msgid "Pill Shape"
+msgstr "Siâp Pilsen"
+
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block style label"
+msgid "Logos Only"
+msgstr "Logos yn Unig"
+
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block description"
+msgid "Display icons linking to your social media profiles or sites."
+msgstr "Dangos eiconau sy'n cysylltu â'ch proffiliau neu wefannau cyfryngau cymdeithasol."
+
+#: build/block-library/blocks/social-link/block.json
+msgctxt "block description"
+msgid "Display an icon linking to a social media profile or site."
+msgstr "Dangos eicon sy'n cysylltu â phroffil neu wefan cyfryngau cymdeithasol."
+
+#: build/block-library/blocks/site-tagline/block.json
+msgctxt "block keyword"
+msgid "description"
+msgstr "disgrifiad"
+
+#: build/block-library/blocks/site-tagline/block.json
+msgctxt "block description"
+msgid "Describe in a few words what the site is about. The tagline can be used in search results or when sharing on social networks even if it's not displayed in the theme design."
+msgstr "Disgrifiwch mewn ychydig eiriau beth yw pwrpas y wefan. Mae modd defnyddio'r llinell tag mewn canlyniadau chwilio neu wrth rannu ar rwydweithiau cymdeithasol hyd yn oed os nad yw wedi'i harddangos yn nyluniad y thema."
+
+#: build/block-library/blocks/shortcode/block.json
+msgctxt "block description"
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Mewnosod elfennau cyfaddas ychwanegol gyda chod byr o WordPress."
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block style label"
+msgid "Dots"
+msgstr "Dotiau"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block style label"
+msgid "Wide Line"
+msgstr "Llinell Llydan"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block keyword"
+msgid "divider"
+msgstr "rhannwr"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block keyword"
+msgid "hr"
+msgstr "awr"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block keyword"
+msgid "horizontal-line"
+msgstr "llinell lorweddol"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block description"
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Creu toriad rhwng syniadau neu adrannau gyda gwahanydd llorweddol."
+
+#: build/block-library/blocks/search/block.json
+msgctxt "block keyword"
+msgid "find"
+msgstr "canfod"
+
+#: build/block-library/blocks/search/block.json
+msgctxt "block description"
+msgid "Help visitors find your content."
+msgstr "Helpwch ymwelwyr i ddod o hyd i'ch cynnwys."
+
+#: build/block-library/blocks/rss/block.json
+msgctxt "block keyword"
+msgid "feed"
+msgstr "llif"
+
+#: build/block-library/blocks/rss/block.json
+msgctxt "block keyword"
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/blocks/rss/block.json
+msgctxt "block description"
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Dangos gofnodion o unrhyw lif RSS neu Atom."
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block keyword"
+msgid "cite"
+msgstr "dyfynnu"
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block keyword"
+msgid "blockquote"
+msgstr "dyfyniad bloc"
+
+#: build/block-library/blocks/query-title/block.json
+msgctxt "block description"
+msgid "Display the query title."
+msgstr "Dangos teitl yr ymholiad."
+
+#: build/block-library/blocks/query-title/block.json
+msgctxt "block title"
+msgid "Query Title"
+msgstr "Teitl Ymholiad"
+
+#: build/block-library/blocks/query-pagination/block.json
+msgctxt "block description"
+msgid "Displays a paginated navigation to next/previous set of posts, when applicable."
+msgstr "Yn dangos llywio tudaleniad i'r set nesaf/flaenorol o gofnodion, pan fo hynny'n berthnasol."
+
+#: build/block-library/blocks/query-pagination-previous/block.json
+msgctxt "block description"
+msgid "Displays the previous posts page link."
+msgstr "Yn dangos dolen y dudalen cofnod blaenorol."
+
+#: build/block-library/blocks/query-pagination-numbers/block.json
+msgctxt "block description"
+msgid "Displays a list of page numbers for pagination"
+msgstr "Yn dangos rhestr o rifau tudalennau ar gyfer tudaleniad"
+
+#: build/block-library/blocks/query-pagination-next/block.json
+msgctxt "block description"
+msgid "Displays the next posts page link."
+msgstr "Yn dangos dolen y dudalen cofnod nesaf."
+
+#: build/block-library/blocks/pullquote/block.json
+msgctxt "block description"
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Rhoi pwyslais gweledol arbennig i ddyfyniad o'ch testun."
+
+#: build/block-library/blocks/preformatted/block.json
+msgctxt "block description"
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Ychwanegwch destun sy'n parchu eich bylchu a'ch tabiau, a hefyd yn caniatáu addurno."
+
+#: build/block-library/blocks/post-title/block.json
+msgctxt "block description"
+msgid "Displays the title of a post, page, or any other content-type."
+msgstr "Yn dangos teitl cofnod, tudalen, neu unrhyw fath arall o gynnwys."
+
+#: build/block-library/blocks/post-terms/block.json
+msgctxt "block description"
+msgid "Post terms."
+msgstr "Amodau cofnodion."
+
+#: build/block-library/blocks/post-navigation-link/block.json
+msgctxt "block description"
+msgid "Displays the next or previous post link that is adjacent to the current post."
+msgstr "Yn dangos dolen y cofnod nesaf neu flaenorol sydd nesaf at y cofnod gyfredol."
+
+#: build/block-library/blocks/post-navigation-link/block.json
+msgctxt "block title"
+msgid "Post Navigation Link"
+msgstr "Dolen Llywio Cofnod"
+
+#: build/block-library/blocks/post-featured-image/block.json
+msgctxt "block description"
+msgid "Display a post's featured image."
+msgstr "Dangos delwedd nodwedd cofnod."
+
+#: build/block-library/blocks/post-excerpt/block.json
+msgctxt "block description"
+msgid "Display a post's excerpt."
+msgstr "Dangos darn o gofnod."
+
+#: build/block-library/blocks/post-date/block.json
+msgctxt "block description"
+msgid "Add the date of this post."
+msgstr "Ychwanegu dyddiad y cofnod hwn"
+
+#: build/block-library/blocks/post-content/block.json
+msgctxt "block description"
+msgid "Displays the contents of a post or page."
+msgstr "Yn dangos cynnwys cofnod neu dudalen."
+
+#: build/block-library/blocks/post-comments/block.json
+msgctxt "block description"
+msgid "Display a post's comments."
+msgstr "Dangos sylwadau cofnod."
+
+#: build/block-library/blocks/post-comments-link/block.json
+msgctxt "block description"
+msgid "Displays the link to the current post comments."
+msgstr "Yn dangos y ddolen i sylwadau'r cofnod cyfredol."
+
+#: build/block-library/blocks/post-comments-form/block.json
+msgctxt "block description"
+msgid "Display a post's comments form."
+msgstr "Dangos ffurflen sylwadau cofnod."
+
+#: build/block-library/blocks/post-comments-count/block.json
+msgctxt "block description"
+msgid "Display a post's comments count."
+msgstr "Dangos cyfrif sylwadau cofnod."
+
+#: build/block-library/blocks/paragraph/block.json
+msgctxt "block keyword"
+msgid "text"
+msgstr "testun"
+
+#: build/block-library/blocks/paragraph/block.json
+msgctxt "block description"
+msgid "Start with the basic building block of all narrative."
+msgstr "Cychwynnwch gyda bloc sylfaenol adeiladu pob cynnwys testun."
+
+#: build/block-library/blocks/page-list/block.json
+msgctxt "block description"
+msgid "Display a list of all pages."
+msgstr "Dangos rhestr o'r holl dudalennau."
+
+#: build/block-library/blocks/nextpage/block.json
+msgctxt "block keyword"
+msgid "pagination"
+msgstr "tudaleniad"
+
+#: build/block-library/blocks/nextpage/block.json
+msgctxt "block keyword"
+msgid "next page"
+msgstr "tudalen nesaf"
+
+#: build/block-library/blocks/nextpage/block.json
+msgctxt "block description"
+msgid "Separate your content into a multi-page experience."
+msgstr "Rhannu eich cynnwys i brofiad aml-dudalen."
+
+#: build/block-library/blocks/navigation-area/block.json
+#: build/block-library/blocks/navigation/block.json
+#: build/block-library/blocks/page-list/block.json
+msgctxt "block keyword"
+msgid "navigation"
+msgstr "llywio"
+
+#: build/block-library/blocks/navigation-area/block.json
+#: build/block-library/blocks/navigation/block.json
+#: build/block-library/blocks/page-list/block.json
+msgctxt "block keyword"
+msgid "menu"
+msgstr "dewislen"
+
+#: build/block-library/blocks/navigation/block.json
+msgctxt "block description"
+msgid "A collection of blocks that allow visitors to get around your site."
+msgstr "Casgliad o flociau sy'n caniatáu i ymwelwyr symuid o amgylch eich gwefan."
+
+#: build/block-library/blocks/navigation-link/block.json
+msgctxt "block description"
+msgid "Add a page, link, or another item to your navigation."
+msgstr "Ychwanegwch dudalen, dolen, neu eitem arall at eich llywio."
+
+#: build/block-library/blocks/more/block.json
+msgctxt "block keyword"
+msgid "read more"
+msgstr "darllen rhagor"
+
+#: build/block-library/blocks/more/block.json
+msgctxt "block description"
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "Bydd y cynnwys cyn y bloc hwn yn cael ei ddangos yn y darn ar eich tudalen archif."
+
+#: build/block-library/blocks/missing/block.json
+msgctxt "block description"
+msgid "Your site doesn’t include support for this block."
+msgstr "Nid yw eich gwefan yn cynnwys cefnogaeth i'r bloc hwn."
+
+#: build/block-library/blocks/media-text/block.json
+msgctxt "block keyword"
+msgid "video"
+msgstr "fideo"
+
+#: build/block-library/blocks/media-text/block.json
+msgctxt "block keyword"
+msgid "image"
+msgstr "delwedd"
+
+#: build/block-library/blocks/media-text/block.json
+msgctxt "block description"
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Gosod cyfryngau a geiriau ochr yn ochr â'i gilydd am gynllun cyfoethocach."
+
+#: build/block-library/blocks/loginout/block.json
+msgctxt "block keyword"
+msgid "form"
+msgstr "ffurflen"
+
+#: build/block-library/blocks/loginout/block.json
+msgctxt "block keyword"
+msgid "logout"
+msgstr "allgofnodi"
+
+#: build/block-library/blocks/loginout/block.json
+msgctxt "block keyword"
+msgid "login"
+msgstr "mewngofnodi"
+
+#: build/block-library/blocks/loginout/block.json
+msgctxt "block description"
+msgid "Show login & logout links."
+msgstr "Dangos dolenni mewngofnodi ac allgofnodi."
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block keyword"
+msgid "numbered list"
+msgstr "rhestr rifedig"
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block keyword"
+msgid "ordered list"
+msgstr "rhestr drefnus"
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block keyword"
+msgid "bullet list"
+msgstr "rhestr bwled"
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block description"
+msgid "Create a bulleted or numbered list."
+msgstr "Creu rhestr bwled neu rifo."
+
+#: build/widgets/blocks/legacy-widget/block.json
+msgctxt "block description"
+msgid "Display a legacy widget."
+msgstr "Dangos hen declynDangos hen declyn."
+
+#: build/widgets/blocks/legacy-widget/block.json
+msgctxt "block title"
+msgid "Legacy Widget"
+msgstr "Hen Declyn"
+
+#: build/block-library/blocks/latest-posts/block.json
+msgctxt "block keyword"
+msgid "recent posts"
+msgstr "cofnodion diweddar"
+
+#: build/block-library/blocks/latest-posts/block.json
+msgctxt "block description"
+msgid "Display a list of your most recent posts."
+msgstr "Dangos restr o'ch cofnodion diweddaraf."
+
+#: build/block-library/blocks/latest-comments/block.json
+msgctxt "block keyword"
+msgid "recent comments"
+msgstr "sylwadau diweddar"
+
+#: build/block-library/blocks/latest-comments/block.json
+msgctxt "block description"
+msgid "Display a list of your most recent comments."
+msgstr "Dangos rhestr o'ch sylwadau mwyaf diweddar."
+
+#: build/block-library/blocks/image/block.json
+#: build/block-library/blocks/site-logo/block.json
+msgctxt "block style label"
+msgid "Rounded"
+msgstr "Crwn"
+
+#: build/block-library/blocks/image/block.json
+#: build/block-library/blocks/quote/block.json
+#: build/block-library/blocks/separator/block.json
+#: build/block-library/blocks/site-logo/block.json
+#: build/block-library/blocks/social-links/block.json
+#: build/block-library/blocks/table/block.json
+#: build/block-library/blocks/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Default"
+msgstr "Rhagosodiad"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block keyword"
+msgid "picture"
+msgstr "llun"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block keyword"
+msgid "photo"
+msgstr "ffoto"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block keyword"
+msgid "img"
+msgstr "img"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block description"
+msgid "Insert an image to make a visual statement."
+msgstr "Mewnosod delwedd i wneud datganiad gweledol."
+
+#: build/block-library/blocks/html/block.json
+msgctxt "block keyword"
+msgid "embed"
+msgstr "mewnblannu"
+
+#: build/block-library/blocks/html/block.json
+msgctxt "block description"
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Ychwanegu cod HTML arferol a'i ragweld wrth olygu."
+
+#: build/block-library/blocks/home-link/block.json
+msgctxt "block description"
+msgid "Create a link that always points to the homepage of the site. Usually not necessary if there is already a site title link present in the header."
+msgstr "Creu dolen sydd bob amser yn pwyntio at hafan y wefan. Fel arfer, nid oes angen un, os oes dolen teitl gwefan eisoes yn y pennawd."
+
+#: build/block-library/blocks/home-link/block.json
+msgctxt "block title"
+msgid "Home Link"
+msgstr "Cyswllt Cartref"
+
+#: build/block-library/blocks/heading/block.json
+msgctxt "block keyword"
+msgid "subtitle"
+msgstr "isdeitl"
+
+#: build/block-library/blocks/heading/block.json
+msgctxt "block keyword"
+msgid "title"
+msgstr "teitl"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block keyword"
+msgid "section"
+msgstr "adran"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block keyword"
+msgid "row"
+msgstr "rhes"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block keyword"
+msgid "wrapper"
+msgstr "amlapiwr"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block keyword"
+msgid "container"
+msgstr "cynhwysydd"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block description"
+msgid "Combine blocks into a group."
+msgstr "Cyfuno blociau i grŵp."
+
+#: build/block-library/blocks/gallery/block.json
+msgctxt "block keyword"
+msgid "photos"
+msgstr "ffotos"
+
+#: build/block-library/blocks/gallery/block.json
+msgctxt "block keyword"
+msgid "images"
+msgstr "delweddau"
+
+#: build/block-library/blocks/gallery/block.json
+msgctxt "block description"
+msgid "Display multiple images in a rich gallery."
+msgstr "Dangos delweddau lluosog mewn oriel gyfoethog."
+
+#: build/block-library/blocks/freeform/block.json
+msgctxt "block description"
+msgid "Use the classic WordPress editor."
+msgstr "Defnyddio'r golygydd WordPress clasurol."
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block keyword"
+msgid "download"
+msgstr "llwytho i lawr"
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block keyword"
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block keyword"
+msgid "document"
+msgstr "dogfen"
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block description"
+msgid "Add a link to a downloadable file."
+msgstr "Ychwanegu dolen at ffeil y mae modd ei llwytho i lawr."
+
+#: build/block-library/blocks/cover/block.json
+msgctxt "block description"
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Ychwanegu delwedd neu fideo gyda thoshaen testun - gwych ar gyfer penawdau."
+
+#: build/block-library/blocks/column/block.json
+msgctxt "block description"
+msgid "A single column within a columns block."
+msgstr "Un golofn o fewn bloc colofnau."
+
+#: build/block-library/blocks/code/block.json
+msgctxt "block description"
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Dangos darnau cod sy'n parchu'ch bylchu a'ch tabiau."
+
+#: build/block-library/blocks/categories/block.json
+msgctxt "block description"
+msgid "Display a list of all categories."
+msgstr "Dangos rhestr o bob categori."
+
+#: build/block-library/blocks/calendar/block.json
+msgctxt "block keyword"
+msgid "archive"
+msgstr "archif"
+
+#: build/block-library/blocks/calendar/block.json
+msgctxt "block keyword"
+msgid "posts"
+msgstr "cofnodion"
+
+#: build/block-library/blocks/calendar/block.json
+msgctxt "block description"
+msgid "A calendar of your site’s posts."
+msgstr "Calendr o gofnodion eich gwefan."
+
+#: build/block-library/blocks/buttons/block.json
+msgctxt "block description"
+msgid "Prompt visitors to take action with a group of button-style links."
+msgstr "Anogwch ymwelwyr i weithredu gyda grŵp o ddolenni ar ffurf botwm."
+
+#: build/block-library/blocks/button/block.json
+#: build/block-library/blocks/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Outline"
+msgstr "Amlinelliad"
+
+#: build/block-library/blocks/button/block.json
+msgctxt "block style label"
+msgid "Fill"
+msgstr "Llanw"
+
+#: build/block-library/blocks/button/block.json
+msgctxt "block description"
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "Annog ymwelwyr i weithredu gyda dolen fel botwm."
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "recording"
+msgstr "recordio"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "podcast"
+msgstr "podlediad"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "sound"
+msgstr "sain"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "music"
+msgstr "cerddoriaeth"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block description"
+msgid "Embed a simple audio player."
+msgstr "Mewnblannu chwaraewr sain syml."
+
+#: build/block-library/blocks/archives/block.json
+msgctxt "block description"
+msgid "Display a monthly archive of your posts."
+msgstr "Dangos archif misol o'ch cofnodion."
+
+#: lib/class-wp-rest-url-details-controller.php:89
+msgid "The OG image link of the <meta property=\"og:image\"> or <meta property=\"og:image:url\"> element from the URL."
+msgstr "Dolen delwedd OG elfen <meta property=\"og:image\"> neu <meta property=\"og:image:url\"> o'r URL."
+
+#: lib/class-wp-rest-url-details-controller.php:83
+msgid "The content of the <meta name=\"description\"> element from the URL."
+msgstr "Cynnwys yr elfen <meta name=\"description\"> o'r URL."
+
+#: lib/class-wp-rest-url-details-controller.php:76
+msgid "The favicon image link of the <link rel=\"icon\"> element from the URL."
+msgstr "Dolen delwedd favicon yr elfen <link rel=\"icon\"> o'r URL."
+
+#. translators: %1$s: Block type, %2$s: typography supports key e.g: fontSize,
+#. lineHeight etc...
+#: lib/blocks.php:440
+msgid "Block %1$s is declaring %2$s support on block.json under supports.%2$s. %2$s support is now declared under supports.typography.%2$s."
+msgstr "Mae bloc %1$s yn datgan cefnogaeth %2$s ar block.json o dan supports.%2$s. Mae cefnogaeth %2$s yn cael ei ddatgan o dan supports.typography.%2$s."
+
+#: build/block-library/blocks/site-logo.php:42
+msgid "(Home link, opens in a new tab)"
+msgstr "(Dolen gartref, yn agor mewn tab newydd)"
+
+#: build/block-library/blocks/navigation.php:561
+#: build/block-library/index.js:24798 build/block-library/index.min.js:23442
+msgid "Close menu"
+msgstr "Cau'r ddewislen"
+
+#: build/block-library/blocks/navigation.php:560
+#: build/block-library/index.js:24784 build/block-library/index.min.js:23417
+msgid "Open menu"
+msgstr "Agor dewislen"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:138
+msgid "Styles consolidated from core, theme, and user origins."
+msgstr "Arddulliau wedi'u cydgrynhoi o'r craidd, thema a defnyddwyr."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:132
+msgid "Settings consolidated from core, theme, and user origins."
+msgstr "Gosodiadau wedi'u cydgrynhoi o'r craidd, thema a defnyddiwr."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:252
+msgid "Active theme gradients."
+msgstr "Graddiannau'r thema weithredol."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:246
+msgid "Active theme font sizes."
+msgstr "Meintiau ffont y thema weithredol."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:240
+msgid "Active theme color palette."
+msgstr "Palet lliw y thema weithredol."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:234
+msgid "Maximum upload size in bytes allowed for the site."
+msgstr "Uchafswm maint llwytho mewn beitiau sy'n cael ei ganiatáu ar gyfer y wefan."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:228
+msgid "Available image sizes."
+msgstr "Meintiau delwedd sydd ar gael."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:222
+msgid "Determines whether the image editing feature is enabled."
+msgstr "Yn pennu a yw'r nodwedd golygu delwedd wedi'i alluogi."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:216
+msgid "Available image dimensions."
+msgstr "Dimensiynau'r ddelwedd sydd ar gael."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:210
+msgid "Default size for images."
+msgstr "Maint rhagosodedig delweddau."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:204
+msgid "Determines whether the current locale is right-to-left (RTL)."
+msgstr "Yn pennu a yw'r locale presennol o'r dde i'r chwith (RTL)."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:198
+msgid "Enables custom units."
+msgstr "Yn galluogi unedau cyfaddas."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:192
+msgid "Enables custom spacing."
+msgstr "Yn galluogi bylchau cyfaddas."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:186
+msgid "Enables custom line height."
+msgstr "Yn galluogi uchder llinell cyfaddas."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:174
+#: lib/class-wp-rest-block-editor-settings-controller.php:180
+msgid "Disables custom font size."
+msgstr "Yn analluogi maint ffont cyfaddas."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:168
+msgid "Disables custom colors."
+msgstr "Yn analluogi lliwiau cyfaddas."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:162
+msgid "Returns all the categories for block types that will be shown in the block editor."
+msgstr "Yn dychwelyd holl gategorïau'r mathau o flociau a fydd yn cael eu dangos yn y golygydd blociau."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:156
+msgid "List of allowed mime types and file extensions."
+msgstr "Rhestr o'r mathau mime ac estyniadau ffeiliau sy'n cael eu caniatáu."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:150
+msgid "List of allowed block types."
+msgstr "Rhestr o'r mathau o flociau sy'n cael eu caniatáu."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:144
+msgid "Enable/Disable Wide/Full Alignments."
+msgstr "Galluogi/Analluogi Aliniadau Eang/Llawn."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:126
+msgid "Widget types to hide from Legacy Widget block."
+msgstr "Y mathau o declynnau i'w cuddio oddi wrth floc Hen Declynnau."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:120
+msgid "Enable/disable layouts support in container blocks."
+msgstr "Galluogi/analluogi cynnal cynlluniau o fewn blociau cynwysyddion."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:114
+msgid "Returns if the current theme is full site editing-enabled or not."
+msgstr "Yn dychwelyd os yw'r thema gyfredol wedi'i galluogi i olygu gwefan yn llawn ai peidio."
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:108
+msgid "Editor styles"
+msgstr "Arddulliau golygydd"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:102
+msgid "Enables experimental Full Site Editing blocks"
+msgstr "Yn galluogi blociau Golygu Gwefan Lawn arbrofol"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:63
+msgid "Sorry, you are not allowed to read the block editor settings."
+msgstr "Ymddiheuriadau, nid oes gennych ganiatâd i ddarllen y gosodiadau golygydd blociau."
+
+#: build/block-library/blocks/term-description/block.json
+msgctxt "block description"
+msgid "Display the description of categories, tags and custom taxonomies when viewing an archive."
+msgstr "Dangos y disgrifiad o gategorïau, tagiau a thacsonomeg cyfaddas wrth edrych ar archif."
+
+#: build/block-library/blocks/term-description/block.json
+msgctxt "block title"
+msgid "Term Description"
+msgstr "Disgrifiad Term"
+
+#: build/block-library/blocks/post-comments-link/block.json
+msgctxt "block title"
+msgid "Post Comments Link"
+msgstr "Dolen Sylwadau Cofnod"
+
+#: build/block-library/blocks/loginout/block.json
+msgctxt "block title"
+msgid "Login/out"
+msgstr "Mewngofnodi/allgofnodi"
+
+#: build/block-library/blocks/navigation-link/block.json
+msgctxt "block title"
+msgid "Custom Link"
+msgstr "Dolen Gyfaddas"
+
+#: build/block-library/blocks/navigation-link.php:267
+msgid "A link to a post format"
+msgstr "Dolen i fformat cofnod"
+
+#: build/block-library/blocks/navigation-link.php:266
+msgid "Post Format Link"
+msgstr "Dolen Fformat Cofnod"
+
+#: build/block-library/blocks/latest-posts.php:141
+#: build/block-library/blocks/latest-posts.php:156
+#: build/block-library/index.js:31216 build/block-library/index.min.js:29773
+msgid "This content is password protected."
+msgstr "Mae'r cynnwys hwn wedi'i ddiogelu gan gyfrinair."
+
+#. translators: 1: Number of comments, 2: post title
+#: build/block-library/blocks/post-comments-link.php:41
+msgid "%1$s comment<span class=\"screen-reader-text\"> on %2$s</span>"
+msgid_plural "%1$s comments<span class=\"screen-reader-text\"> on %2$s</span>"
+msgstr[0] "%1$s sylw<span class=\"screen-reader-text\"> ar %2$s</span>"
+msgstr[1] "%1$s sylw<span class=\"screen-reader-text\"> ar %2$s</span>"
+msgstr[2] "%1$s sylw<span class=\"screen-reader-text\"> ar %2$s</span>"
+msgstr[3] "%1$s sylw<span class=\"screen-reader-text\"> ar %2$s</span>"
+
+#. translators: %s post title
+#: build/block-library/blocks/post-comments-link.php:35
+msgid "No comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Dim sylwadau<span class=\"screen-reader-text\"> ar %s</span>"
+
+#: lib/block-patterns.php:116
+msgctxt "Block pattern title"
+msgid "Offset"
+msgstr "Atred"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:128
+msgctxt "Template name"
+msgid "Single Post"
+msgstr "Cofnod Unigol"
+
+#: lib/compat/wordpress-5.9/templates.php:244
+msgid "Skip to content"
+msgstr "Mynd i'r cynnwys"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:84
+#: build/block-library/index.js:44417 build/block-library/index.min.js:41902
+msgid "The Footer template defines a page area that typically contains site credits, social links, or any other combination of blocks."
+msgstr "Mae'r templed Troedyn yn diffinio ardal dudalen sydd fel rheol yn cynnwys diolchiadau gwefan, cysylltiadau cymdeithasol, neu unrhyw gyfuniad arall o flociau."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:74
+#: build/block-library/index.js:44408 build/block-library/index.min.js:41892
+msgid "The Header template defines a page area that typically contains a title, logo, and main navigation."
+msgstr "Mae'r templed Pennyn yn diffinio ardal dudalen sydd fel rheol yn cynnwys teitl, logo a phrif lywio."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:64
+msgid "General templates often perform a specific role like displaying post content, and are not tied to any particular area."
+msgstr "Mae templedi cyffredinol yn aml yn cyflawni rôl benodol fel dangos cynnwys cofnod, ac heb eu clymu i unrhyw faes penodol."
+
+#. translators: %s: Template title
+#: lib/compat/wordpress-5.9/block-template.php:71
+msgid "Empty template: %s"
+msgstr "Templed gwag: %s"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:653
+msgid "Theme file exists."
+msgstr "Mae ffeil thema yn bodoli."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:611
+msgid "Source of template"
+msgstr "Ffynhonnell templed"
+
+#: lib/compat/wordpress-5.9/class-wp-theme-json-resolver-gutenberg.php:257
+msgid "Custom Styles"
+msgstr "Arddulliau Cyfaddas"
+
+#: lib/compat/wordpress-5.9/widget-render-api-endpoint/class-gb-rest-widget-render-endpoint-polyfill.php:44
+msgid "Current instance settings of the widget."
+msgstr "Gosodiadau enghraifft gyfredol y teclyn."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:164
+msgctxt "Template name"
+msgid "Search"
+msgstr "Chwilio"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:156
+msgctxt "Template name"
+msgid "Tag"
+msgstr "Tag"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:152
+msgctxt "Template name"
+msgid "Date"
+msgstr "Dyddiad"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:148
+msgctxt "Template name"
+msgid "Taxonomy"
+msgstr "Tacsonomeg"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:144
+msgctxt "Template name"
+msgid "Category"
+msgstr "Categori"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:140
+msgctxt "Template name"
+msgid "Author"
+msgstr "Awdur"
+
+#. translators: %1$s: Template area type, %2$s: the uncategorized template area
+#. value.
+#: lib/compat/wordpress-5.9/block-template-utils.php:209
+msgid "\"%1$s\" is not a supported wp_template_part area value and has been added as \"%2$s\"."
+msgstr "Nid yw \"%1$s\" yn werth ardal wp_template_part sy'n cael ei gynnal ac mae wedi'i ychwanegu fel \"%2$s\"."
+
+#: lib/compat/wordpress-5.9/widget-render-api-endpoint/class-gb-rest-widget-render-endpoint-polyfill.php:39
+msgid "The widget type id."
+msgstr "ID y math o declyn."
+
+#: lib/compat/wordpress-5.9/template-parts.php:82
+msgid "Template Part Area"
+msgstr "Ardal Rhan o Dempled"
+
+#: lib/compat/wordpress-5.9/template-parts.php:81
+msgid "Template Part Areas"
+msgstr "Ardaloedd Rhan o Dempled"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:677
+msgid "Where the template part is intended for use (header, footer, etc.)"
+msgstr "Lle mae'n fwriad defnyddio rhan y templed (pennyn, troedyn, ac ati)"
+
+#: build/block-library/blocks/template-part/block.json
+msgctxt "block description"
+msgid "Edit the different global regions of your site, like the header, footer, sidebar, or create your own."
+msgstr "Golygu gwahanol ardaloedd eang eich gwefan, fel y pennyn, y troedyn, y bar ochr, neu greu eich un eich hun."
+
+#: build/block-library/blocks/page-list/block.json
+msgctxt "block title"
+msgid "Page List"
+msgstr "Rhestr y Tudalen"
+
+#: build/block-library/blocks/post-navigation-link.php:34
+msgctxt "label for previous post link"
+msgid "Previous"
+msgstr "Nôl"
+
+#: build/block-library/blocks/post-navigation-link.php:34
+msgctxt "label for next post link"
+msgid "Next"
+msgstr "Nesaf"
+
+#: lib/class-wp-rest-url-details-controller.php:232
+msgid "Unable to retrieve body from response at this URL."
+msgstr "Methu adfer y corff o'r ymateb yn yr URL hwn."
+
+#: lib/class-wp-rest-url-details-controller.php:226
+msgid "URL not found. Response returned a non-200 status code for this URL."
+msgstr "Heb ganfod yr URL. Dychwelodd yr ymateb god statws nad yw'n 200 ar gyfer yr URL hwn."
+
+#: lib/class-wp-rest-url-details-controller.php:182
+msgid "Sorry, you are not allowed to process remote urls."
+msgstr "Ymddiheuriadau, nid oes gennych ganiatâd i brosesu urlau o bell."
+
+#: lib/class-wp-rest-url-details-controller.php:114
+msgid "Invalid URL"
+msgstr "URL annilys"
+
+#: lib/class-wp-rest-url-details-controller.php:70
+msgid "The contents of the <title> element from the URL."
+msgstr "Cynnwys yr <title> elfen o'r URL."
+
+#: lib/class-wp-rest-url-details-controller.php:40
+msgid "The URL to process."
+msgstr "Yr URL i'w brosesu."
+
+#: build/block-library/blocks/query-pagination-previous.php:22
+#: build/block-library/index.js:36100 build/block-library/index.min.js:34296
+msgid "Previous Page"
+msgstr "Y Dudalen Flaenorol"
+
+#: build/block-library/blocks/query-pagination-next.php:23
+#: build/block-library/index.js:35941 build/block-library/index.min.js:34180
+msgid "Next Page"
+msgstr "Y Dudalen Nesaf"
+
+#. translators: %s: Template part slug.
+#. translators: %s: Template part slug
+#: build/block-library/blocks/template-part.php:118
+#: build/block-library/index.js:44305 build/block-library/index.min.js:42128
+msgid "Template part has been deleted or is unavailable: %s"
+msgstr "Mae rhan y templed wedi'i dileu neu nid yw ar gael: %s"
+
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-pattern-directory-controller.php:108
+msgid "https://wordpress.org/support/forums/"
+msgstr "https://wordpress.org/support/forums/"
+
+#. translators: %s: Support forums URL.
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-pattern-directory-controller.php:107
+msgid "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
+msgstr "Digwyddodd gwall annisgwyl. Mae'n bosib fod rhywbeth o'i le ar WordPress.org neu ffurfweddiad y gweinydd. Os ydych yn parhau i brofi anawsterau, chwiliwch drwy'r <a href=\"%s\">fforymau cefnogi</a>."
+
+#. translators: Visible only in the front end, this warning takes the place of
+#. a faulty block.
+#: build/block-library/blocks/block.php:35
+#: build/block-library/blocks/post-content.php:33
+#: build/block-library/blocks/template-part.php:126
+msgid "[block rendering halted]"
+msgstr "[ataliwyd rendro blociau]"
+
+#: build/block-library/blocks/post-terms/block.json
+msgctxt "block title"
+msgid "Post Terms"
+msgstr "Amodau Cofnodion."
+
+#: build/block-library/blocks/post-featured-image/block.json
+msgctxt "block title"
+msgid "Post Featured Image"
+msgstr "Delwedd Nodwedd Cofnod"
+
+#: build/block-library/blocks/post-excerpt/block.json
+msgctxt "block title"
+msgid "Post Excerpt"
+msgstr "Dyfyniad o Gofnod"
+
+#: build/block-library/blocks/post-date/block.json
+msgctxt "block title"
+msgid "Post Date"
+msgstr "Dyddiad Cofnod"
+
+#: build/block-library/blocks/post-comments-form/block.json
+msgctxt "block title"
+msgid "Post Comments Form"
+msgstr "Ffurflen Sylwadau Cofnod"
+
+#: build/block-library/blocks/post-comments-count/block.json
+msgctxt "block title"
+msgid "Post Comments Count"
+msgstr "Cyfrif Sylwadau Cofnod"
+
+#: build/block-library/blocks/post-comments/block.json
+msgctxt "block title"
+msgid "Post Comments"
+msgstr "Sylwadau Cofnod"
+
+#: build/block-library/index.js:7513 build/block-library/index.min.js:6360
+#: build/block-library/blocks/comment-date/block.json
+msgctxt "block title"
+msgid "Comment Date"
+msgstr "Dyddiad Sylw"
+
+#: build/block-library/index.js:7352 build/block-library/index.min.js:6180
+#: build/block-library/blocks/comment-content/block.json
+msgctxt "block title"
+msgid "Comment Content"
+msgstr "Cynnwys Sylw"
+
+#: build/block-library/blocks/post-author/block.json
+msgctxt "block title"
+msgid "Post Author"
+msgstr "Awdur Cofnod"
+
+#: build/block-library/blocks/post-content/block.json
+msgctxt "block title"
+msgid "Post Content"
+msgstr "Cynnwys Cofnod"
+
+#: build/block-library/blocks/post-title/block.json
+msgctxt "block title"
+msgid "Post Title"
+msgstr "Teitl Cofnod"
+
+#: build/block-library/blocks/query/block.json
+msgctxt "block title"
+msgid "Query Loop"
+msgstr "Cylch Ymholiad"
+
+#: build/block-library/blocks/template-part/block.json
+msgctxt "block title"
+msgid "Template Part"
+msgstr "Rhan o Dempled"
+
+#: build/block-library/blocks/site-title/block.json
+msgctxt "block title"
+msgid "Site Title"
+msgstr "Teitl y Wefan"
+
+#: build/block-library/blocks/site-tagline/block.json
+msgctxt "block title"
+msgid "Site Tagline"
+msgstr "Broliant Gwefan"
+
+#: build/block-library/blocks/site-logo/block.json
+msgctxt "block title"
+msgid "Site Logo"
+msgstr "Logo Gwefan"
+
+#: build/block-library/blocks/social-link/block.json
+msgctxt "block title"
+msgid "Social Icon"
+msgstr "Eicon Cymdeithasol"
+
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr "Eiconau Cymdeithasol"
+
+#: build/block-library/blocks/tag-cloud/block.json
+msgctxt "block title"
+msgid "Tag Cloud"
+msgstr "Cwmwl Tagiau"
+
+#: build/block-library/blocks/video/block.json
+msgctxt "block title"
+msgid "Video"
+msgstr "Fideo"
+
+#: build/block-library/blocks/verse/block.json
+msgctxt "block title"
+msgid "Verse"
+msgstr "Pennill"
+
+#: build/block-library/blocks/text-columns/block.json
+msgctxt "block title"
+msgid "Text Columns (deprecated)"
+msgstr "Colofnau Testun (anghymeradwy)"
+
+#: build/block-library/blocks/table/block.json
+msgctxt "block title"
+msgid "Table"
+msgstr "Tabl"
+
+#: build/block-library/blocks/spacer/block.json
+msgctxt "block title"
+msgid "Spacer"
+msgstr "Bylchwr"
+
+#: build/block-library/blocks/shortcode/block.json
+msgctxt "block title"
+msgid "Shortcode"
+msgstr "Cod byr"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block title"
+msgid "Separator"
+msgstr "Ymwahanydd"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block title"
+msgid "Group"
+msgstr "Grŵp"
+
+#: build/block-library/blocks/search/block.json
+msgctxt "block title"
+msgid "Search"
+msgstr "Chwilio"
+
+#: build/block-library/blocks/rss/block.json
+msgctxt "block title"
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/blocks/block/block.json
+msgctxt "block title"
+msgid "Reusable block"
+msgstr "Bloc ailddefnyddiadwy"
+
+#: build/block-library/blocks/pullquote/block.json
+msgctxt "block title"
+msgid "Pullquote"
+msgstr "Dyfyniad"
+
+#: build/block-library/blocks/preformatted/block.json
+msgctxt "block title"
+msgid "Preformatted"
+msgstr "Rhagffomatedig"
+
+#: build/block-library/blocks/nextpage/block.json
+msgctxt "block title"
+msgid "Page Break"
+msgstr "Toriad Tudalen"
+
+#: build/block-library/blocks/more/block.json
+msgctxt "block title"
+msgid "More"
+msgstr "Rhagor"
+
+#: build/block-library/blocks/missing/block.json
+msgctxt "block title"
+msgid "Unsupported"
+msgstr "Heb ei gynnal"
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block title"
+msgid "List"
+msgstr "Rhestr"
+
+#: build/block-library/blocks/latest-posts/block.json
+msgctxt "block title"
+msgid "Latest Posts"
+msgstr "Cofnodion Diweddaraf"
+
+#: build/block-library/blocks/latest-comments/block.json
+msgctxt "block title"
+msgid "Latest Comments"
+msgstr "Sylwadau Diweddaraf"
+
+#: build/block-library/blocks/navigation/block.json
+msgctxt "block title"
+msgid "Navigation"
+msgstr "Llywio"
+
+#: build/block-library/blocks/media-text/block.json
+msgctxt "block title"
+msgid "Media & Text"
+msgstr "Cyfryngau a Thestun"
+
+#: build/block-library/blocks/html/block.json
+msgctxt "block title"
+msgid "Custom HTML"
+msgstr "HTML Cyfaddas"
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block title"
+msgid "File"
+msgstr "Ffeil"
+
+#: build/block-library/blocks/cover/block.json
+msgctxt "block title"
+msgid "Cover"
+msgstr "Clawr"
+
+#: build/block-library/blocks/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "Colofn"
+
+#: build/block-library/blocks/columns/block.json
+msgctxt "block title"
+msgid "Columns"
+msgstr "Colofnau"
+
+#: build/block-library/blocks/code/block.json
+msgctxt "block title"
+msgid "Code"
+msgstr "Cod"
+
+#: build/block-library/blocks/categories/block.json
+msgctxt "block title"
+msgid "Categories"
+msgstr "Categorïau"
+
+#: build/block-library/blocks/calendar/block.json
+msgctxt "block title"
+msgid "Calendar"
+msgstr "Calendr"
+
+#: build/block-library/blocks/buttons/block.json
+msgctxt "block title"
+msgid "Buttons"
+msgstr "Botymau"
+
+#: build/block-library/blocks/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "Botwm"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block title"
+msgid "Audio"
+msgstr "Sain"
+
+#: build/block-library/blocks/archives/block.json
+msgctxt "block title"
+msgid "Archives"
+msgstr "Archifau"
+
+#: build/block-library/blocks/gallery/block.json
+msgctxt "block title"
+msgid "Gallery"
+msgstr "Oriel"
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block title"
+msgid "Quote"
+msgstr "Dyfyniad"
+
+#: build/block-library/blocks/heading/block.json
+msgctxt "block title"
+msgid "Heading"
+msgstr "Pennyn"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block title"
+msgid "Image"
+msgstr "Delwedd"
+
+#: build/block-library/blocks/paragraph/block.json
+msgctxt "block title"
+msgid "Paragraph"
+msgstr "Paragraff"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:549
+msgid "No theme is defined for this template."
+msgstr "Nid oes thema wedi'i diffinio ar gyfer y templed hwn."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:647
+msgid "Post ID."
+msgstr "ID y Cofnod"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:641
+msgid "Status of template."
+msgstr "Statws y templed."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:635
+msgid "Description of template."
+msgstr "Disgrifiad o'r templed."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:629
+msgid "Title of template."
+msgstr "Teitl y templed."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:623
+msgid "Content of template."
+msgstr "Cynnwys y templed."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:606
+msgid "Theme identifier for the template."
+msgstr "Dynodwr thema ar gyfer y templed."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:598
+msgid "Unique slug identifying the template."
+msgstr "Bonyn unigryw yn adnabod y templed."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:592
+msgid "ID of template."
+msgstr "ID y templed."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:562
+msgid "Limit to the specified post id."
+msgstr "Cyfyngiad i'r id y cofnod penodedig."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:368
+msgid "The template has already been deleted."
+msgstr "Mae'r templed eisoes wedi'i ddileu."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:343
+msgid "Templates based on theme files can't be removed."
+msgstr "Nid oes modd dileu templedi sy'n seiliedig ar ffeiliau thema."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:216
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:241
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:306
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:340
+msgid "No templates exist with that id."
+msgstr "Nid oes templedi yn bodoli gyda'r id hwnnw."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:110
+msgid "Sorry, you are not allowed to access the templates on this site."
+msgstr "Ymddiheuriadau, nid oes caniatâd i chi gyrchu'r templedi ar y wefan hon."
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:70
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:80
+msgid "The id of a template"
+msgstr "Id templed"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:124
+msgctxt "Template name"
+msgid "Singular"
+msgstr "Singular"
+
+#: lib/compat/wordpress-5.9/admin-menu.php:77
+msgid "Edit site"
+msgstr "Golygu gwefan"
+
+#: lib/compat/wordpress-5.9/templates.php:82 build/core-data/index.js:2132
+msgid "Themes"
+msgstr "Themâu"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:172
+msgctxt "Template name"
+msgid "404"
+msgstr "404"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:168
+msgid "Privacy Policy"
+msgstr "Polisi Preifatrwydd"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:132
+msgctxt "Template name"
+msgid "Page"
+msgstr "Tudalen"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:116
+msgctxt "Template name"
+msgid "Home"
+msgstr "Cartref"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:112
+msgctxt "Template name"
+msgid "Index"
+msgstr "Mynegai"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:136
+msgctxt "Template name"
+msgid "Archive"
+msgstr "Archif"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:120
+msgctxt "Template name"
+msgid "Front Page"
+msgstr "Y Dudalen Flaen"
+
+#: lib/class-wp-rest-menu-items-controller.php:91
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:90
+msgid "Whether to bypass Trash and force deletion."
+msgstr "P'un ai i hepgor Sbwriel a gorfodi dileu."
+
+#: lib/class-wp-rest-menu-items-controller.php:57
+msgid "The password for the post if it is password protected."
+msgstr "Cyfrinair ar gyfer y cofnod os yw wedi ei ddiogelu gan gyfrinair."
+
+#: lib/class-wp-rest-menu-items-controller.php:940
+msgid "HTML content to display for this block menu item."
+msgstr "Cynnwys HTML i'w ddangos ar gyfer yr eitem ddewislen hon."
+
+#: lib/full-site-editing/edit-site-page.php:223
+msgid "The ID of the page that should be displayed on the front page"
+msgstr "ID y dudalen y dylid ei harddangos ar y dudalen flaen"
+
+#: lib/full-site-editing/edit-site-page.php:213
+msgid "What to show on the front page"
+msgstr "Beth i'w ddangos ar y dudalen flaen"
+
+#: build/block-library/blocks/site-logo.php:72
+msgid "Site logo."
+msgstr "Logo Gwefan"
+
+#: lib/class-wp-rest-menus-controller.php:686
+msgid "Whether to automatically add top level pages to this menu."
+msgstr "P'un ai i ychwanegu tudalennau lefel uchaf i'r ddewislen hon yn awtomatig."
+
+#: lib/class-wp-rest-menus-controller.php:242
+msgid "Sorry, you are not allowed to set auto add pages."
+msgstr "Mae'n ddrwg gennym, nid oes caniatâd i chi osod tudalennau ychwanegu'n awtomatig."
+
+#: lib/class-wp-rest-menu-items-controller.php:960
+msgid "Version of the block format used in the HTML content."
+msgstr "Fersiwn y fformat bloc cynnwys sy'n cael ei ddefnyddio gan y gwrthrych."
+
+#: lib/class-wp-rest-menu-items-controller.php:954
+msgid "HTML content, transformed for display."
+msgstr "Cynnwys HTML ar gyfer y gwrthrych, wedi ei drosi i'w ddangos."
+
+#: lib/class-wp-rest-menu-items-controller.php:949
+msgid "HTML content, as it exists in the database."
+msgstr "Cynnwys ar gyfer y gwrthrych, fel y mae'n bodoli yn y gronfa ddata."
+
+#: lib/class-wp-rest-menu-items-controller.php:524
+msgid "Content required if menu item of type block."
+msgstr "Angen cynnwys os yw'r eitem ar y ddewislen o fath o floc."
+
+#. translators: byline. %s: current author.
+#. translators: %s: the author.
+#: build/block-library/blocks/latest-posts.php:117
+#: build/block-library/blocks/rss.php:60 build/block-library/index.js:21130
+#: build/block-library/index.min.js:19894
+msgid "by %s"
+msgstr "gan %s"
+
+#: lib/block-patterns.php:14
+msgid "Query"
+msgstr "Ymholiad"
+
+#: lib/navigation.php:37
+msgid "Navigation menus."
+msgstr "Dewislenni llywio."
+
+#. translators: accessibility text for the content landmark region.
+#: lib/navigation-theme-opt-in.php:349 build/block-editor/index.js:9182
+#: build/edit-navigation/index.js:2994 build/edit-post/index.js:1335
+#: build/edit-site/index.js:2487 build/edit-widgets/index.js:1267
+#: build/edit-navigation/index.min.js:3050 build/edit-post/index.min.js:1222
+#: build/edit-widgets/index.min.js:1181
+msgid "Content"
+msgstr "Cynnwys"
+
+#. translators: accessibility text for the top bar landmark region.
+#: lib/compat/wordpress-5.9/block-template-utils.php:73
+#: build/block-library/index.js:44407 build/edit-navigation/index.js:2991
+#: build/edit-post/index.js:1332 build/edit-site/index.js:2484
+#: build/edit-widgets/index.js:1264 build/block-library/index.min.js:41891
+#: build/edit-navigation/index.min.js:3048 build/edit-post/index.min.js:1220
+#: build/edit-widgets/index.min.js:1179
+msgid "Header"
+msgstr "Pennyn"
+
+#. translators: ARIA label for the Menu Settings Sidebar tab, not selected.
+#. translators: Text label for the Menu Settings Sidebar tab.
+#. translators: Data label for the Menu Settings Sidebar tab.
+#: build/block-library/blocks/navigation.php:565
+#: build/block-library/index.js:24779 build/block-library/index.js:24789
+#: build/block-library/index.js:25485 build/block-library/index.js:25582
+#: build/core-data/index.js:2084 build/edit-navigation/index.js:3669
+#: build/edit-navigation/index.js:3680 build/edit-navigation/index.js:3682
+#: build/block-library/index.min.js:23408
+#: build/block-library/index.min.js:23424
+#: build/block-library/index.min.js:24407
+#: build/block-library/index.min.js:24571
+#: build/edit-navigation/index.min.js:3809
+#: build/edit-navigation/index.min.js:3827
+#: build/edit-navigation/index.min.js:3831
+msgid "Menu"
+msgstr "Dewislen"
+
+#: lib/experiments-page.php:50
+msgid "Enable Navigation screen"
+msgstr "Galluogi'r sgrin Llywio"
+
+#: lib/init.php:37 lib/init.php:38
+msgid "Navigation (beta)"
+msgstr "Llywio (beta)"
+
+#: lib/class-wp-rest-menu-items-controller.php:1065
+msgid "Sort collection by object attribute."
+msgstr "Trefnu'r casgliad yn ôl priodweddau'r gwrthrychau."
+
+#: lib/class-wp-rest-menu-items-controller.php:1058
+msgid "Order sort attribute ascending or descending."
+msgstr "Trefnu priodweddau i fyny neu i lawr."
+
+#: lib/class-wp-rest-menu-items-controller.php:1053
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "Cyfyngu set canlyniadau i gofnodion gyda gwerth penodol menu_order."
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:1019
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "NeilltuirY termau neulltiwyd i'r gwrthrych yn nhacsonomeg %s."
+
+#: lib/class-wp-rest-menu-items-controller.php:1007
+msgid "Whether the menu item represents an object that no longer exists."
+msgstr "P'un a yw'r eitem ar y ddewislen yn cynrychioli gwrthrych nad yw'n bodoli mwyach."
+
+#: lib/class-wp-rest-menu-items-controller.php:993
+msgid "The XFN relationship expressed in the link of this menu item."
+msgstr "Y berthynas XFN sy'n cael ei fynegi yn nolen yr eitem ddewislen hon."
+
+#: lib/class-wp-rest-menu-items-controller.php:986
+msgid "The URL to which this menu item points."
+msgstr "Yr URL y mae'r eitem ddewislen hon yn pwyntio ato."
+
+#: lib/class-wp-rest-menu-items-controller.php:979
+msgid "The singular label used to describe this type of menu item."
+msgstr "Y label unigol sy'n cael ei ddefnyddio i ddisgrifio'r math hwn o eitem ar y ddewislen."
+
+#: lib/class-wp-rest-menu-items-controller.php:969
+msgid "The target attribute of the link element for this menu item."
+msgstr "Priodoledd targed yr elfen gyswllt yr eitem ddewislen hon."
+
+#: lib/class-wp-rest-menu-items-controller.php:932
+msgid "The DB ID of the original object this menu item represents, e . g . ID for posts and term_id for categories."
+msgstr "ID DB y gwrthrych gwreiddiol y mae'r eitem ddewislen hon yn ei gynrychioli, e. e. ID ar gyfer cofnodion a term_id ar gyfer categorïau."
+
+#: lib/class-wp-rest-menu-items-controller.php:926
+msgid "The type of object originally represented, such as \"category,\" \"post\", or \"attachment.\""
+msgstr "Y math o wrthrych a gynrychiolwyd yn wreiddiol, megis \"categori,\" \"cofnod\", neu \"atodiad.\""
+
+#: lib/class-wp-rest-menu-items-controller.php:918
+msgid "The DB ID of the nav_menu_item that is this item's menu parent, if any, otherwise 0."
+msgstr "ID DB y nav_menu_item sef rhiant dewislen yr eitem hon, os o gwbl, fel arall 0."
+
+#: lib/class-wp-rest-menu-items-controller.php:909
+msgid "The description of this menu item."
+msgstr "Y disgrifiad o'r eitem hon ar y ddewislen."
+
+#: lib/class-wp-rest-menu-items-controller.php:895
+msgid "Class names for the link element of this menu item."
+msgstr "Enwau dosbarth ar gyfer elfen gyswllt yr eitem ddewislen hon."
+
+#: lib/class-wp-rest-menu-items-controller.php:886
+msgid "Text for the title attribute of the link element for this menu item."
+msgstr "Testun ar gyfer priodoledd teitl yr elfen gyswllt ar gyfer yr eitem ddewislen hon."
+
+#: lib/class-wp-rest-menu-items-controller.php:870
+msgid "A named status for the object."
+msgstr "Statws ag enw ar gyfer y gwrthrych."
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The family of objects originally represented, such as \"post_type\" or \"taxonomy\"."
+msgstr "Y teulu o wrthrychau a gynrychiolwyd yn wreiddiol, megis \"post_type\" neu \"tacsonomeg\"."
+
+#: lib/class-wp-rest-menu-items-controller.php:855
+msgid "Name of type."
+msgstr "Enw'r math."
+
+#: lib/class-wp-rest-menu-items-controller.php:837
+msgid "HTML title for the object, transformed for display."
+msgstr "Teitl HTML ar gyfer y gwrthrych, wedi ei drosi i'w ddangos."
+
+#: lib/class-wp-rest-menu-items-controller.php:832
+msgid "Title for the object, as it exists in the database."
+msgstr "Teitl ar gyfer y gwrthrych, fel y mae'n bodoli yn y gronfa ddata."
+
+#: lib/class-wp-rest-menu-items-controller.php:793
+msgid "Get linked object."
+msgstr "Cael gwrthrych cysylltiedig."
+
+#: lib/class-wp-rest-menu-items-controller.php:532
+msgid "Invalid URL."
+msgstr "URL annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:518
+msgid "URL required if menu item of type custom."
+msgstr "Mae angen URL os yw eitem dewislen yn un cyfaddas."
+
+#: lib/class-wp-rest-menu-items-controller.php:515
+msgid "Title required if menu item of type custom."
+msgstr "Mae angen teitl os yw eitem dewislen yn un cyfaddas."
+
+#: lib/class-wp-rest-menu-items-controller.php:508
+#: lib/full-site-editing/edit-site-page.php:97
+msgid "Invalid post type."
+msgstr "Math o gofnod annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:497
+msgid "Invalid post ID."
+msgstr "ID y gofnod yn annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:347
+msgid "The post cannot be deleted."
+msgstr "Nid oes modd dileu'r cofnod."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menu-items-controller.php:339
+msgid "Menu items do not support trashing. Set '%s' to delete."
+msgstr "Nid yw eitmu dewislen cefnogi sbwriel. Gosod '%s' i'w ddileu."
+
+#: lib/class-wp-rest-menu-items-controller.php:173
+msgid "Cannot create existing post."
+msgstr "Methu creu'r cofnod presennol."
+
+#: lib/class-wp-rest-menu-items-controller.php:159
+msgid "Sorry, you cannot view these menu items, unless you have access to permission edit them. "
+msgstr "Mae'n ddrwg gennym, nid oes modd i chi weld yr eitemau dewislen hyn, oni bai bod gennych fynediad at ganiatâd i'w golygu. "
+
+#: lib/class-wp-rest-customizer-nonces.php:51
+#: lib/class-wp-rest-menu-items-controller.php:157
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "Ymddiheuriadau, nid oes gennych hawl i olygu cofnodion yn yr math yma o gofnod."
+
+#: lib/class-wp-rest-menu-items-controller.php:141
+msgid "Sorry, you cannot view this menu item, unless you have access to permission edit it. "
+msgstr "Ymddiheuriadau, nid oes modd i chi weld yr eitemau dewislen hyn, oni bai bod gennych fynediad at ganiatâd i'w olygu. "
+
+#: lib/class-wp-rest-menus-controller.php:677
+msgid "The locations assigned to the menu."
+msgstr "Y lleoliadau a neilltuwyd i'r ddewislen."
+
+#: lib/class-wp-rest-menus-controller.php:649
+msgid "Menu location does not exist."
+msgstr "Nid yw lleoliad y ddewislen yn bodoli."
+
+#: lib/class-wp-rest-menus-controller.php:533
+msgid "The term cannot be deleted."
+msgstr "Nid oes modd dileu'r term."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:523
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "Nid yw telerau'n cefnogi rhoi yn y sbwriel. Gosod '%s' i'w ddileu."
+
+#: lib/class-wp-rest-menus-controller.php:341
+#: lib/class-wp-rest-menus-controller.php:452
+msgid "Parent term does not exist."
+msgstr "Nid yw'r term rhiant yn bodoli."
+
+#: lib/class-wp-rest-menus-controller.php:335
+#: lib/class-wp-rest-menus-controller.php:446
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "Methu gosod rhiant y term, nid yw'r tacsonomeg yn hierarchaidd."
+
+#: lib/class-wp-rest-menus-controller.php:210
+msgid "Sorry, you are not allowed to assign the provided locations."
+msgstr "Ymddiheuriadau, nid oes modd i chi neilltuo'r lleoliad ddarparwyd."
+
+#: lib/class-wp-rest-menus-controller.php:131
+msgid "Sorry, you cannot view this menu, unless you have access to permission edit it. "
+msgstr "Ymddiheuriadau, nid oes modd i chi weld ddewislen hon, oni bai bod gennych fynediad at ganiatâd i'w olygu. "
+
+#: lib/class-wp-rest-menus-controller.php:129
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "Ymddiheuriadau, nid oes modd i chi olygu'r term hwn."
+
+#: lib/class-wp-rest-menus-controller.php:111
+msgid "Sorry, you cannot view these menus, unless you have access to permission edit them. "
+msgstr "Ymddiheuriadau, nid oes modd i chi weld dewislenni hyn, oni bai bod gennych fynediad at ganiatâd i'w golygu. "
+
+#: lib/class-wp-rest-menus-controller.php:109
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "Ymddiheuriadau, nid oes gennych hawl i olygu termau yn y tacsonomeg hwn."
+
+#: lib/class-wp-rest-menu-locations-controller.php:216
+msgid "The ID of the assigned menu."
+msgstr "ID y ddewislen a neilltuwyd."
+
+#: lib/class-wp-rest-menu-locations-controller.php:210
+msgid "The description of the menu location."
+msgstr "Y disgrifiad o leoliad y ddewislen."
+
+#: lib/class-wp-rest-menu-locations-controller.php:204
+msgid "The name of the menu location."
+msgstr "Enw lleoliad y ddewislen."
+
+#: lib/class-wp-rest-menu-locations-controller.php:116
+#: lib/class-wp-rest-menu-locations-controller.php:132
+#: lib/class-wp-rest-menus-controller.php:217
+msgid "Invalid menu location."
+msgstr "Lleoliad dewislen annilys."
+
+#: lib/class-wp-rest-menu-locations-controller.php:76
+#: lib/class-wp-rest-menu-locations-controller.php:113
+msgid "Sorry, you are not allowed to view menu locations."
+msgstr "Ymddiheuriadau, nid oes gennych hawl i weld lleoliadau dewislenni."
+
+#: lib/class-wp-rest-menu-locations-controller.php:50
+msgid "An alphanumeric identifier for the menu location."
+msgstr "Dynodwr alffaniwmerig ar gyfer lleoliad y ddewislen."
+
+#: build/block-library/blocks/navigation-area/block.json
+#: build/block-library/blocks/navigation/block.json
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block keyword"
+msgid "links"
+msgstr "dolenni"
+
+#: lib/compat/wordpress-5.9/register-global-styles-cpt.php:23
+#: build/core-data/index.js:2117
+msgid "Global Styles"
+msgstr "Arddulliau Cyffredinol"
+
+#: lib/compat/wordpress-5.9/block-template.php:87
+msgid "No matching template found."
+msgstr "Heb ganfod templedi tebyg."
+
+#: lib/compat/wordpress-5.9/templates.php:83 build/blocks/index.js:5389
+#: build/edit-site/index.js:7517 build/edit-site/index.js:7571
+msgid "Theme"
+msgstr "Thema"
+
+#: lib/experiments-page.php:87
+msgid "The block editor includes experimental features that are useable while they're in development. Select the ones you'd like to enable. These features are likely to change, so avoid using them in production."
+msgstr "Mae'r golygydd blociau yn cynnwys nodweddion arbrofol y mae modd eu defnyddio wrth iddyn nhw gael eu datblygu. Dewiswch y rhai yr hoffech eu galluogi. Mae'r nodweddion hyn yn debygol o newid, felly ceisiwch osgoi eu defnyddio wrth gynhyrchu."
+
+#: lib/compat/wordpress-5.9/template-parts.php:46
+msgid "Template parts to include in your templates."
+msgstr "Darmau o dempledi i'w cynnwys yn eich templedi."
+
+#: lib/compat/wordpress-5.9/template-parts.php:41
+msgid "Template parts list"
+msgstr "Rhestr darnau templed"
+
+#: lib/compat/wordpress-5.9/template-parts.php:40
+msgid "Template parts list navigation"
+msgstr "Llywio rhestr darnau templedi"
+
+#: lib/compat/wordpress-5.9/template-parts.php:39
+msgid "Filter template parts list"
+msgstr "Hidlo rhestr darnau templed"
+
+#: lib/compat/wordpress-5.9/template-parts.php:38
+msgid "Uploaded to this template part"
+msgstr "Llwythwyd i fyny i'r darn templed"
+
+#: lib/compat/wordpress-5.9/template-parts.php:37
+msgid "Insert into template part"
+msgstr "Mewnosod i ddarn o dempled"
+
+#: lib/compat/wordpress-5.9/template-parts.php:36
+msgid "Template part archives"
+msgstr "Archif darnau templed"
+
+#: lib/compat/wordpress-5.9/template-parts.php:35
+msgid "No template parts found in Trash."
+msgstr "Heb ddarganfod unrhyw ddarnau templed yn y Sbwriel."
+
+#: lib/compat/wordpress-5.9/template-parts.php:34
+msgid "No template parts found."
+msgstr "Heb ddarngandfod darnau o dempledi."
+
+#: lib/compat/wordpress-5.9/template-parts.php:33
+msgid "Parent Template Part:"
+msgstr "Darn o Dempled Rhiant:"
+
+#: lib/compat/wordpress-5.9/template-parts.php:32
+msgid "Search Template Parts"
+msgstr "Chwilio am Ddarnau Templedi"
+
+#: lib/compat/wordpress-5.9/template-parts.php:31
+msgid "All Template Parts"
+msgstr "Pob Ddarn Templed"
+
+#: lib/compat/wordpress-5.9/template-parts.php:29
+msgid "View Template Part"
+msgstr "Gweld Darnau Templed"
+
+#: lib/compat/wordpress-5.9/template-parts.php:28
+msgid "Edit Template Part"
+msgstr "Golygu Darn Templed"
+
+#: lib/compat/wordpress-5.9/template-parts.php:27
+msgid "New Template Part"
+msgstr "Darn Templed Newydd"
+
+#: lib/compat/wordpress-5.9/template-parts.php:26
+msgid "Add New Template Part"
+msgstr "Ychwanegu Darn Templed Newydd"
+
+#: lib/compat/wordpress-5.9/template-parts.php:25
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "Ychwanegu"
+
+#: lib/compat/wordpress-5.9/template-parts.php:24
+msgctxt "Admin Menu text"
+msgid "Template Parts"
+msgstr "Darnau Templed"
+
+#: lib/compat/wordpress-5.9/template-parts.php:23
+#: build/block-library/index.js:43885 build/editor/index.js:5507
+#: build/block-library/index.min.js:41428 build/editor/index.min.js:5294
+msgid "Template Part"
+msgid_plural "Template Parts"
+msgstr[0] "Rhan o Dempled"
+msgstr[1] "Rhannau o Dempledi"
+msgstr[2] "Rhannau o Dempledi"
+msgstr[3] "Rhannau o Dempledi"
+
+#: lib/compat/wordpress-5.9/template-parts.php:22 build/edit-site/index.js:8712
+msgid "Template Parts"
+msgstr "Darnau Templed"
+
+#. translators: 'navigation' as in website navigation.
+#: lib/experiments-page.php:45 build/block-library/index.js:24072
+#: build/block-library/index.js:24197 build/block-library/index.js:24667
+#: build/edit-navigation/index.js:4521 build/edit-navigation/index.js:4530
+#: build/block-library/index.min.js:22577
+#: build/block-library/index.min.js:22653
+#: build/block-library/index.min.js:23278
+#: build/edit-navigation/index.min.js:4757
+#: build/edit-navigation/index.min.js:4769
+msgid "Navigation"
+msgstr "Llywio"
+
+#: lib/navigation.php:14
+msgid "Navigation Menu"
+msgstr "Dewislen Lywio"
+
+#: lib/compat/wordpress-5.9/templates.php:41
+msgid "Templates list"
+msgstr "Rhestr templedi"
+
+#: lib/compat/wordpress-5.9/templates.php:40
+msgid "Templates list navigation"
+msgstr "Llywio'r rhestr templedi"
+
+#: lib/compat/wordpress-5.9/templates.php:39
+msgid "Filter templates list"
+msgstr "Hidlo rhestr templedi"
+
+#: lib/compat/wordpress-5.9/templates.php:38
+msgid "Uploaded to this template"
+msgstr "Llwythwyd i fyny i'r templed hwn"
+
+#: lib/compat/wordpress-5.9/templates.php:37
+msgid "Insert into template"
+msgstr "Mewnosod i'r templed"
+
+#: lib/compat/wordpress-5.9/templates.php:36
+msgid "Template archives"
+msgstr "Archif templedi"
+
+#: lib/compat/wordpress-5.9/templates.php:35
+msgid "No templates found in Trash."
+msgstr "Heb ganfod templedi yn y Sbwriel."
+
+#: lib/compat/wordpress-5.9/templates.php:34
+msgid "No templates found."
+msgstr "Heb ganfod templedi."
+
+#: lib/compat/wordpress-5.9/templates.php:33
+msgid "Parent Template:"
+msgstr "Templed Rhiant:"
+
+#: lib/compat/wordpress-5.9/templates.php:32
+msgid "Search Templates"
+msgstr "Chwilio Templedi"
+
+#: lib/compat/wordpress-5.9/templates.php:31
+msgid "All Templates"
+msgstr "Pob Templed"
+
+#: lib/compat/wordpress-5.9/templates.php:29
+msgid "View Template"
+msgstr "Gweld y Templed"
+
+#: lib/compat/wordpress-5.9/templates.php:28
+msgid "Edit Template"
+msgstr "Golygu Templed"
+
+#: lib/compat/wordpress-5.9/templates.php:27
+msgid "New Template"
+msgstr "Templed Newydd"
+
+#: lib/compat/wordpress-5.9/templates.php:26
+msgid "Add New Template"
+msgstr "Ychwanegu Templed Newydd"
+
+#: lib/compat/wordpress-5.9/templates.php:25
+msgctxt "Template"
+msgid "Add New"
+msgstr "Ychwanegu"
+
+#: lib/compat/wordpress-5.9/templates.php:24
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "Templedi"
+
+#. translators: ARIA label for the Template Settings Sidebar tab, not selected.
+#. translators: Text label for the Template Settings Sidebar tab.
+#: lib/compat/wordpress-5.9/templates.php:23 build/edit-post/index.js:4984
+#: build/edit-post/index.js:6549 build/edit-post/index.js:6561
+#: build/edit-post/index.js:6562 build/edit-post/index.js:8080
+#: build/edit-site/index.js:8306 build/edit-site/index.js:8317
+#: build/edit-site/index.js:8319 build/edit-site/index.js:10768
+#: build/edit-site/index.js:11607 build/edit-post/index.min.js:5096
+#: build/edit-post/index.min.js:6818 build/edit-post/index.min.js:6841
+#: build/edit-post/index.min.js:6843 build/edit-post/index.min.js:8522
+msgid "Template"
+msgstr "Templed"
+
+#: lib/compat/wordpress-5.9/block-template.php:210
+msgid "No matching template found"
+msgstr "Heb ganfod templedi sy'n cydweddu"
+
+#: lib/compat/wordpress-5.9/templates.php:46
+msgid "Templates to include in your theme."
+msgstr "Templedi i'w cynnwys yn eich thema."
+
+#: lib/compat/wordpress-5.9/templates.php:22 build/edit-site/index.js:8704
+msgid "Templates"
+msgstr "Templedi"
+
+#: lib/init.php:64
+msgid "Experiments Settings"
+msgstr "Gosodiadau Arbrofion"
+
+#: lib/experiments-page.php:19
+msgid "Experimental settings"
+msgstr "Gosodiadau arbrofol"
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:29
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "Nid oes gan eich gwefan unrhyw %s, felly nid oes dim i'w ddangos yma ar hyn o bryd."
+
+#. translators: accessibility text for the footer landmark region.
+#: lib/compat/wordpress-5.9/block-template-utils.php:83
+#: build/block-library/index.js:44416 build/edit-navigation/index.js:3006
+#: build/edit-post/index.js:1347 build/edit-site/index.js:2499
+#: build/edit-widgets/index.js:1279 build/block-library/index.min.js:41901
+#: build/edit-navigation/index.min.js:3058 build/edit-post/index.min.js:1230
+#: build/edit-widgets/index.min.js:1189
+msgid "Footer"
+msgstr "Troedyn"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Digwyddodd gwall, sydd fel arfer yn golygu nad yw'r llif yn weithredol ar hyn o bryd. Ceisia eto'n hwyrach ymlaen."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "Gwall RSS:"
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:45 build/block-editor/index.js:21216
+#: build/block-editor/index.js:22278 build/block-editor/index.js:22398
+#: build/block-library/index.js:38023 build/block-library/index.js:38024
+#: build/components/index.js:63090 build/block-library/index.min.js:35646
+msgid "Search"
+msgstr "Chwilio"
+
+#: build/block-library/index.js:11719 build/block-library/index.min.js:11052
+#: build/block-library/blocks/embed/block.json
+msgctxt "block title"
+msgid "Embed"
+msgstr "Mewnblannu"
+
+#: build/block-library/blocks/freeform/block.json
+msgctxt "block title"
+msgid "Classic"
+msgstr "Clasurol"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:160
+#: build/block-editor/index.js:42550 build/blocks/index.js:5380
+#: build/core-data/index.js:2017
+msgid "Media"
+msgstr "Cyfrwng"
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block description"
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Rhoi pwyslais gweledol i destun wedi'i ddyfynnu. &quot;Wrth ddyfynnu eraill, rydym yn dyfynnu ein hunain.&quot; - Julio Cortázar"
+
+#: build/block-library/blocks/heading/block.json
+msgctxt "block description"
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Yn cyflwyno adrannau newydd a threfnu cynnwys i helpu ymwelwyr (a pheiriannau chwilio) i ddeall strwythur eich cynnwys."
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:63
+#: build/edit-post/index.js:4925 build/edit-post/index.min.js:4971
+msgid "General"
+msgstr "Cyffredinol"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "Dim archifau i'w dangos."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Tirwedd hardd"
+
+#: build/block-library/blocks/block/block.json
+msgctxt "block description"
+msgid "Create and save content to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Crëwch ac chadw cynnwys i'w ailddefnyddio ar draws eich gwefan. Diweddarwch y bloc, ac mae'r newidiadau yn digwydd ym mhobman y mae'n cael ei ddefnyddio."
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Diolch am brofi Gutenberg!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Helpwch i adeiladu Gutenberg"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Os ydych chi eisiau dysgu mwy am sut i adeiladu blociau ychwanegol, neu os oes gennych ddiddordeb mewn helpu gyda'r prosiect, ewch i'r <a href=\"%s\">storfa GitHub</a> ."
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "Cymuned WordPress"
+
+#: post-content.php:159 build/block-library/index.js:18400
+#: build/block-library/index.min.js:16927
+msgid "Code is Poetry"
+msgstr "Barddoniaeth yw Cod"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Gallwch adeiladu unrhyw floc fel yr hoffech chi, yn sefydlog neu'n ddeinamig, addurnol neu blaen. Dyma floc dangos dyfyniad:"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Gallwch osod unrhyw floc i gyd-fynd â'r aliniadau hyn. Mae'r bloc mewnblannu hefyd yn gallu gwneud hynny ac yn ymatebol hefyd:"
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Mae'r uchod yn oriel gyda dim ond dwy ddelwedd. Mae'n ffordd haws o greu cynlluniau sy'n apelio'n weledol, heb orfod delio â rhai sy'n arnofio. Gallwch hefyd drawsnewid yr oriel yn ôl i ddelweddau unigol yn hawdd, trwy ddefnyddio'r bloc newid."
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Gall y ddelwedd lled lawn fod yn eithaf mawr. Ond ar adegau mae'r ddelwedd yn drawiadol iawn."
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Mae hygyrchedd yn bwysig - peidiwch ag anghofio priodwedd delwedd"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Os ydych chi'n cyfuno'r aliniadau newydd <strong>llydan</strong> a <strong>lled llawn</strong> gydag orielau, gallwch greu cynllun cyfrwng cyfoethog, yn gyflym iawn:"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "Cyfrwng Cyfoethog"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Gallwch newid y nifer o golofnau yn eich orielau trwy lusgo llithrydd yn yr archwilydd blociau yn y bar ochr."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Gall blociau fod yn unrhyw beth sydd eu hangen arnoch. Er enghraifft, efallai yr hoffech chi ychwanegu dyfyniad tawel fel rhan o gyfansoddiad eich testun, neu efallai y byddai'n well gennych ddangos un mawr arddulliedig. Mae'r holl opsiynau hyn ar gael yn y mewnosodwr."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Mae'r wybodaeth sy'n cyfateb i ffynhonnell y dyfyniad yn faes testun ar wahân, sy'n debyg i benawdau dan ddelweddau, felly mae strwythur y dyfyniad wedi'i ddiogelu hyd yn oed os ydych yn dewis, yn addasu, neu'n tynnu'r ffynhonnell. Mae bob amser yn hawdd ei roi yn ôl."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Bydd y golygydd yn ceisio creu tudalen newydd a phrofiad ôl-adeiladu sy'n gwneud ysgrifennu cofnodion cyfoethog yn hawdd, ac mae ganddo \"flociau\" i wneud yn hawdd yr hyn fyddai ar hyn o bryd yn cymryd codau byr, HTML cyfaddas, neu ddarganfod mewnblaniad  “mystery meat”."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Mantais mawr blociau yw y gallwch eu golygu yn eu lle a thrin eich cynnwys yn uniongyrchol. Yn lle cael meysydd ar gyfer golygu pethau fel ffynhonnell dyfyniad, neu destun botwm, gallwch newid y cynnwys yn uniongyrchol. Ceisiwch olygu'r dyfyniad canlynol:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Golygu Gweledol"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "A <em>Rhestrau</em> fel hyn, wrth gwrs :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Blociau cynllun, fel Botymau, Delweddau Trawiadol, Gwahanwyr, ac ati."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Mewnblaniadau, fel YouTube, Trydariadau, neu gofnodion WordPress eraill."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Orielau"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Delweddau a Fideos"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Penawdau a Thestun"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Rhowch cynnig arno, fe allwch ddarganfod pethau y gall WordPress eu hychwanegu at eich cofnod nad oeddech chi'n gwybod amdanyn nhw. Dyma restr fer o'r hyn y gallwch chi ei gael yno ar hyn o bryd:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Dychmygwch fod popeth y gall WordPress ei wneud ar gael i chi yn gyflym ac yn yr un lle ar y rhyngwyneb. Nid oes angen gweithio allan ystyr tagiau HTML, dosbarthiadau, na chofio cystrawen cymhlethdod codau byr. Dyna'r syniad y tu ôl i'r mewnosodwr — y botwm <code>(+)</code> byddwch yn ei weld o gwmpas y golygydd—sy'n eich galluogi i bori drwy'r holl flociau cynnwys sydd ar gael a'u hychwanegu i'ch cofnod. Gall ychwanegion a themâu gofrestru eu hunain, gan agor pob math o bosibiliadau ar gyfer golygu a chyhoeddi cyfoethog."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Y Teclyn <em>Mewnosod</em>"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Ceisiwch ddewis a dileu neu olygu'r caspiwn, nawr does dim angen i chi fod yn ofalus ynglŷn â dewis y ddelwedd neu destun arall trwy gamgymeriad a difetha'r cyflwyniad."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Os yw'ch thema yn ei gefnogi, fe welwch y botwm \"eang\" ar y bar offer delwedd. Rhowch gynnig arni."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Mae delio â delweddau a chyfryngau gyda'r gofal mwyaf yn brif ffocws y golygydd newydd. Gobeithio y byddwch yn cael ychwanegu capsiynau neu fynd yn lled llawn â'ch lluniau yn llawer haws a chadarn nag o'r blaen."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Mae Darlun yn Werth Mil o Eiriau"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Mae penawdau hefyd yn flociau ar wahân, sy'n helpu gydag amlinell a threfniadaeth eich cynnwys."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... fel yr un yma, sydd wedi'i alinio i'r dde."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Yr hyn rydych yn ei ddarllen nawr yw <strong>bloc testun</strong>, y bloc mwyaf sylfaenol oll. Mae gan y bloc testun ei reolaethau ei hun i'w symud yn rhydd o gwmpas y cofnod..."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Nod y golygydd newydd hwn yw ychwanegu cynnwys cyfoethog i WordPress mewn ffordd syml a hwylus. Mae'r cofnod cyfan hwn yn cynnwys <em>darnau o gynnwys</em> - ychydig yn debyg i frics LOGO - y gallwch eu symud o gwmpas a rhyngweithio â nhw. Symudwch eich cyrchwr o gwmpas a byddwch yn sylwi ar y gwahanol flociau yn goleuo gydag amlinelliadau a saethau. Cliciwch y saethau i ailosod y blociau'n gyflym, heb ofni colli pethau yn y broses o gopïo a gludo."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Mynyddoedd a Gweisg Argraffu"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Croeso i'r Golygydd Gutenberg"
+
+#: lib/class-wp-rest-menu-items-controller.php:821
+msgid "The title for the object."
+msgstr "Y teitl ar gyfer y gwrthrych."
+
+#: lib/class-wp-rest-menu-items-controller.php:67
+#: lib/class-wp-rest-menu-items-controller.php:846
+msgid "Unique identifier for the object."
+msgstr "Dynodwr unigryw ar gyfer y gwrthrych."
+
+#: lib/init.php:51
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg/"
+
+#: lib/init.php:48 lib/init.php:49
+msgid "Support"
+msgstr "Cymorth"
+
+#: build/block-library/blocks/latest-comments.php:142
+msgid "No comments to show."
+msgstr "Dim sylwadau i'w dangos."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:100
+msgid "%1$s on %2$s"
+msgstr "%1$s ar %2$s"
+
+#: build/block-library/blocks/archives.php:61
+msgid "Select Post"
+msgstr "Dewis Cofnod"
+
+#: build/block-library/blocks/archives.php:58
+msgid "Select Week"
+msgstr "Dewis Wythnos"
+
+#: build/block-library/blocks/archives.php:55
+msgid "Select Day"
+msgstr "Dewis Diwrnod"
+
+#: build/block-library/blocks/archives.php:52
+msgid "Select Month"
+msgstr "Dewis Mis"
+
+#: build/block-library/blocks/archives.php:49
+msgid "Select Year"
+msgstr "Dewis Blwyddyn"
+
+#: build/block-library/blocks/archives.php:27
+msgid "Archives"
+msgstr "Archif"
+
+#: lib/class-wp-rest-menu-items-controller.php:489
+msgid "Invalid term ID."
+msgstr "ID term annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:878
+msgid "The ID for the parent of the object."
+msgstr "ID rhiant y gwrthrych."
+
+#: lib/init.php:87
+msgid "beta"
+msgstr "beta"
+
+#: build/block-library/blocks/embed/block.json
+msgctxt "block description"
+msgid "Add a block that displays content pulled from other sites, like Twitter or YouTube."
+msgstr "Ychwanegwch floc sy'n dangos cynnwys o wefannau eraill, fel Twitter neu YouTube."
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#. translators: Data label for the Block Settings Sidebar tab.
+#: lib/navigation-theme-opt-in.php:91 lib/navigation-theme-opt-in.php:96
+#: build/edit-navigation/index.js:3672 build/edit-navigation/index.js:3687
+#: build/edit-navigation/index.js:3689 build/edit-post/index.js:6548
+#: build/edit-post/index.js:6567 build/edit-post/index.js:6569
+#: build/edit-site/index.js:8309 build/edit-site/index.js:8324
+#: build/edit-site/index.js:8326 build/edit-widgets/index.js:3420
+#: build/edit-navigation/index.min.js:3816
+#: build/edit-navigation/index.min.js:3841
+#: build/edit-navigation/index.min.js:3845 build/edit-post/index.min.js:6813
+#: build/edit-post/index.min.js:6853 build/edit-post/index.min.js:6857
+#: build/edit-widgets/index.min.js:3524
+msgid "Block"
+msgstr "Bloc"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:66
+#: build/block-library/blocks/rss.php:31 build/block-library/index.js:21126
+#: build/core-data/index.js:5952 build/edit-navigation/index.js:1854
+#: build/edit-post/index.js:7810 build/editor/index.js:9854
+#: build/block-library/index.min.js:19888
+#: build/edit-navigation/index.min.js:1833 build/edit-post/index.min.js:8199
+#: build/editor/index.min.js:10101
+msgid "(no title)"
+msgstr "(dim teitl)"
+
+#: build/block-library/blocks/read-more.php:24
+#: build/block-library/index.js:21111 build/block-library/index.js:23570
+#: build/block-library/index.js:37205 build/block-library/index.min.js:19853
+#: build/block-library/index.min.js:22049
+#: build/block-library/index.min.js:35308
+msgid "Read more"
+msgstr "Darllen mwy"
+
+#: lib/init.php:65
+msgid "Experiments"
+msgstr "Arbrofion"
+
+#: build/block-library/blocks/categories.php:34
+#: build/block-library/index.js:4871 build/block-library/index.js:4909
+#: build/components/index.js:65358 build/block-library/index.min.js:3788
+#: build/block-library/index.min.js:3847
+msgid "Categories"
+msgstr "Categorïau"
+
+#: build/block-library/blocks/comment-edit-link.php:42
+#: build/block-editor/index.js:41407 build/block-editor/index.js:42209
+#: build/block-editor/index.js:44687 build/block-library/index.js:7718
+#: build/block-library/index.js:29059 build/block-library/index.js:29061
+#: build/block-library/index.js:45469 build/edit-navigation/index.js:3943
+#: build/edit-post/index.js:7926 build/block-library/index.min.js:6490
+#: build/block-library/index.min.js:27858
+#: build/block-library/index.min.js:27859
+#: build/block-library/index.min.js:43026
+#: build/edit-navigation/index.min.js:4134 build/edit-post/index.min.js:8335
+msgid "Edit"
+msgstr "Golygu"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Argraffu ers 1440. Hwn yw'r ategyn datblygu ar gyfer y golygydd blociau newydd yn y craidd."
+
+#: gutenberg.php:43
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/HEAD/docs/contributors/code/getting-started-with-code-contribution.md\">contributing</a> file for more information."
+msgstr "Mae modd datblygu Gutenberg yn ei gwneud yn ofynnol i ffeiliau gael eu hadeiladu. Rhedwch <code>npm install</code> i osod y dibyniaethau, <code>npm run build</code> i adeiladu'r ffeiliau neu <code>npm run dev</code> i adeiladu'r ffeiliau a gwylio am newidiadau. Darllenwch y ffeil <a href=\"https://github.com/WordPress/gutenberg/blob/HEAD/docs/contributors/code/getting-started-with-code-contribution.md\">cyfrannu</a> i gael mwy o wybodaeth."
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Tîm Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:30
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Mae Gutenberg angen WordPress %s neu'n hwyrach i weithio'n iawn. Diweddarwch WordPress cyn gweithredu Gutenberg."
+
+#: lib/init.php:55 lib/init.php:56
+msgid "Documentation"
+msgstr "Dogfennaeth"
+
+#: lib/init.php:27 lib/init.php:28
+msgid "Demo"
+msgstr "Gweld"
+
+#: build/block-library/blocks/categories.php:33
+msgid "Select Category"
+msgstr "Dewis Categori"

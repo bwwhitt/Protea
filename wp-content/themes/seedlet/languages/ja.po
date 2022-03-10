@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Seedlet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-24T02:20:23+00:00\n"
+"PO-Revision-Date: 2021-07-23 11:54:05+0000\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:29
+msgid "Add or publish Posts"
+msgstr "投稿を追加または掲載する"
+
+#: template-parts/content/content-none.php:24
+msgid "Your site is set to show the the most recent posts on your homepage - but you don't have any Posts published."
+msgstr "サイトはホームページに最新の投稿が表示されるように設定されていますが、掲載された投稿はありません。"
+
+#: template-parts/content/content-none.php:15
+msgid "No posts published yet!"
+msgstr "まだ投稿が掲載されていません。"
+
+#: inc/customizer.php:171
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "ホームページで固定ページを表示する設定の場合、チェックを入れるとフッターのサイトメニューとウィジェットが非表示になります。"
+
+#: inc/customizer.php:170
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "サイトのフッターのメニューとウィジェットを隠す"
+
+#: inc/customizer.php:153
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "ホームページで固定ページを表示する設定の場合、チェックを入れるとサイトのヘッダーが非表示になります。"
+
+#: inc/customizer.php:152
+msgid "Hide the Site Header"
+msgstr "サイトのヘッダーを隠す"
+
+#: inc/customizer.php:138
+msgid "Display Site Title & Tagline"
+msgstr "サイトのタイトルとキャッチフレーズを表示"
+
+#: template-parts/post/author-bio.php:28
+msgid "View all posts by %s"
+msgstr "%s の投稿をすべて表示"
+
+#: inc/customizer.php:114
+msgid "On archive pages, posts show:"
+msgstr "アーカイブページで投稿に表示:"
+
+#: inc/customizer.php:104
+#: inc/customizer.php:117
+msgid "Full text"
+msgstr "全文を表示"
+
+#: inc/customizer.php:103
+#: inc/customizer.php:116
+msgid "Summary"
+msgstr "要約"
+
+#: inc/customizer.php:101
+msgid "On the home page, posts show:"
+msgstr "ホームページの投稿では以下が表示されます。"
+
+#: inc/customizer.php:69
+msgid "Excerpt Settings"
+msgstr "抜粋設定"
+
+#: comments.php:74
+msgid "Leave a Comment"
+msgstr "コメントをどうぞ"
+
+#: inc/block-patterns.php:40
+msgid "Plant"
+msgstr "植物"
+
+#: inc/block-patterns.php:29
+msgid "Envelope"
+msgstr "封筒"
+
+#: inc/block-styles.php:19
+#: inc/block-styles.php:27
+msgid "Alternating Grid"
+msgstr "交互のグリッド"
+
+#: template-parts/header/navigation.php:21
+msgid "Main"
+msgstr "メイン"
+
+#. Description of the theme
+msgid "Seedlet is a free WordPress theme. A two-column layout and classically elegant typography creates a refined site that gives your works and images space to breathe - and shine. Seedlet was built to be the perfect partner to the block editor, and supports all the latest blocks. Writing, audio, illustrations, photography, video - use Seedlet to engage and direct visitors' eyes, without your theme getting in the way. And the responsive design shifts naturally between desktop and mobile devices. Seedlet is a great option for professionals and creatives looking for a sophisticated vibe. Whether you're looking to create a blog or a robust site promoting your business, do with simplicity, style, and Seedlet."
+msgstr "Seedlet は WordPress の無料テーマです。 2段のレイアウトとクラシックでエレガントなタイポグラフィにより、サイトが洗練されて作品やイメージが適度な余白のおかげで引き立ちます。 Seedlet は、ブロックエディターの理想的なパートナーとなるよう構築され、最新のブロックすべてをサポートしています。 記事、音声、イラスト、写真、動画など、Seedlet を使えば訪問者の目を引き付けることができ、テーマの邪魔になることもありません。 さらに、レスポンシブデザインはデスクトップとモバイル端末とで自然に形を変えることができます。 Seedlet は、洗練された雰囲気を出したいプロフェッショナルやクリエイターの希望をかなえるオプションです。 ブログの作成でも、ビジネスを促進する堅実なサイトの作成でも、Seedlet を使えばシンプルでスタイリッシュに演出できます。"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/seedlet"
+msgstr "https://wordpress.com/theme/seedlet"
+
+#: inc/block-patterns.php:46
+msgid "Alternating Grid of Latest Posts"
+msgstr "最新の投稿の交互のグリッド"
+
+#: template-parts/post/author-bio.php:13
+msgid "Published by"
+msgstr "投稿者:"
+
+#: inc/wpcom.php:162
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "サイトの可読性を高めるために、ここで選択する色同士のコントラスト比を高く保つようにしてください。<a href=\"%s\" target=\"_blank\">色のコントラストについての詳細はこちら</a>。"
+
+#: inc/wpcom.php:160
+msgid "Color Accessibility Warning"
+msgstr "色のアクセシビリティ警告"
+
+#: inc/wpcom.php:150
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "ホームページに固定ページを表示するよう設定している場合、チェックを入れるとページのタイトルを非表示にします。"
+
+#: inc/wpcom.php:149
+msgid "Hide Homepage Title"
+msgstr "ホームページでタイトルを非表示"
+
+#: classes/class-seedlet-custom-colors.php:29
+msgid "Borders Color"
+msgstr "枠線の色"
+
+#: classes/class-seedlet-custom-colors.php:28
+#: inc/wpcom-colors-utils.php:72
+msgid "Tertiary Color"
+msgstr "3次色"
+
+#: classes/class-seedlet-custom-colors.php:27
+#: inc/wpcom-colors-utils.php:58
+msgid "Secondary Color"
+msgstr "サブカラー"
+
+#: classes/class-seedlet-custom-colors.php:26
+#: inc/wpcom-colors-utils.php:44
+msgid "Primary Color"
+msgstr "メインカラー"
+
+#: classes/class-seedlet-custom-colors.php:25
+#: inc/wpcom-colors-utils.php:30
+msgid "Foreground Color"
+msgstr "前景色"
+
+#: classes/class-seedlet-custom-colors.php:24
+#: inc/wpcom-colors-utils.php:16
+msgid "Background Color"
+msgstr "背景色"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:32
+#: template-parts/content/content.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\" の</span>続きを読む"
+
+#: template-parts/content/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: template-parts/content/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: template-parts/content/content-excerpt.php:17
+#: template-parts/content/content.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "おすすめ"
+
+#: inc/template-tags.php:213
+msgid "Previous post:"
+msgstr "過去の投稿:"
+
+#: inc/template-tags.php:212
+msgid "Previous Post"
+msgstr "過去の投稿"
+
+#: inc/template-tags.php:210
+msgid "Next post:"
+msgstr "次の投稿:"
+
+#: inc/template-tags.php:209
+msgid "Next Post"
+msgstr "次の投稿"
+
+#. translators: %s: parent post link
+#: inc/template-tags.php:202
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">掲載場所</span><span class=\"post-title\">%s</span>"
+
+#: search.php:24
+msgid "Search results for:"
+msgstr "検索結果:"
+
+#: inc/woocommerce.php:138
+#: inc/woocommerce.php:174
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d項目"
+
+#: inc/template-tags.php:236
+msgid "Older posts"
+msgstr "過去の投稿"
+
+#: inc/template-tags.php:232
+msgid "Newer posts"
+msgstr "次の投稿"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:129
+#: template-parts/content/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:113
+msgid "Tags:"
+msgstr "タグ:"
+
+#: inc/template-tags.php:101
+msgid "Posted in"
+msgstr "カテゴリー:"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:95
+#: inc/template-tags.php:107
+msgid ", "
+msgstr "、"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:62
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%sに</span>コメント"
+
+#: inc/template-tags.php:45
+msgid "Posted by"
+msgstr "投稿者:"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:195
+msgid "Continue reading %s"
+msgstr "続きを読む %s"
+
+#: inc/template-functions.php:129
+msgid "Archives: "
+msgstr "アーカイブ:"
+
+#: inc/template-functions.php:116
+#: inc/template-functions.php:124
+msgid "%s Archives"
+msgstr "%sアーカイブ: "
+
+#: inc/template-functions.php:109
+msgid "Daily Archives: "
+msgstr "日別アーカイブ:"
+
+#: inc/template-functions.php:107
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-functions.php:106
+msgid "Monthly Archives: "
+msgstr "月別アーカイブ:"
+
+#: inc/template-functions.php:104
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/template-functions.php:103
+msgid "Yearly Archives: "
+msgstr "年別アーカイブ:"
+
+#: inc/template-functions.php:100
+msgid "Author Archives: "
+msgstr "投稿者アーカイブ:"
+
+#: inc/template-functions.php:97
+msgid "Tag Archives: "
+msgstr "タグアーカイブ:"
+
+#: inc/template-functions.php:94
+msgid "Category Archives: "
+msgstr "カテゴリーアーカイブ:"
+
+#: inc/block-patterns.php:36
+msgid "Group with Image Overlap"
+msgstr "重複画像のグループ"
+
+#: inc/block-patterns.php:27
+msgid "Group with Split Background"
+msgstr "分割された背景のグループ"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:16
+msgid "Seedlet"
+msgstr "Seedlet"
+
+#: inc/back-compat.php:38
+#: inc/back-compat.php:52
+#: inc/back-compat.php:72
+msgid "Seedlet requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Seedlet を使用するには、WordPress のバージョン4.7以上が必要です。 現在のバージョンは%sです。 アップグレードして再度お試しください。"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">投稿:</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:75
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "フルサイズ"
+
+#: image.php:61
+msgid "Page"
+msgstr "ページ"
+
+#: image.php:57
+#: template-parts/content/content-page.php:25
+#: template-parts/content/content-single.php:45
+#: template-parts/content/content.php:48
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "次の画像"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "前の画像"
+
+#: template-parts/header/navigation.php:95
+msgid "Social Links Menu"
+msgstr "﻿ソーシャルリンクメニュー"
+
+#: template-parts/header/navigation.php:78
+msgid "View your shopping list"
+msgstr "ショッピングリストを表示"
+
+#: inc/woocommerce.php:135
+#: template-parts/header/navigation.php:76
+msgid "View your shopping cart"
+msgstr "カートを表示"
+
+#: template-parts/header/navigation.php:88
+msgid "Cart"
+msgstr "カート"
+
+#: template-parts/header/navigation.php:55
+msgid "Woo Minicart"
+msgstr "Woo Minicart"
+
+#: template-parts/header/navigation.php:24
+#: template-parts/header/navigation.php:74
+msgid "collapsed"
+msgstr "閉じた状態"
+
+#: template-parts/header/navigation.php:49
+#: template-parts/header/navigation.php:89
+msgid "expanded"
+msgstr "開いた状態"
+
+#: template-parts/header/navigation.php:23
+#: template-parts/header/navigation.php:72
+msgid "Close"
+msgstr "終了"
+
+#: template-parts/header/navigation.php:48
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:338
+msgid "Add widgets here to appear in your footer."
+msgstr "フッターに表示するウィジェットを追加します。"
+
+#: footer.php:17
+#: functions.php:336
+msgid "Footer"
+msgstr "フッター"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:295
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "オン"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Fira Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:289
+msgctxt "Fira Sans: on or off"
+msgid "on"
+msgstr "オン"
+
+#: functions.php:243
+#: inc/wpcom.php:126
+msgid "Stripe"
+msgstr "Stripe"
+
+#: functions.php:238
+#: inc/wpcom.php:121
+msgid "Horizontal inverted gradient"
+msgstr "反転した水平のグラデーション"
+
+#: functions.php:233
+#: inc/wpcom.php:116
+msgid "Horizontal gradient"
+msgstr "水平のグラデーション"
+
+#: functions.php:228
+#: inc/wpcom.php:111
+msgid "Diagonal inverted gradient"
+msgstr "反転した斜めのグラデーション"
+
+#: functions.php:223
+#: inc/wpcom.php:106
+msgid "Diagonal gradient"
+msgstr "斜めのグラデーション"
+
+#: functions.php:218
+#: inc/wpcom.php:101
+msgid "Horizontal inverted"
+msgstr "水平の反転"
+
+#: functions.php:213
+#: inc/wpcom.php:96
+msgid "Horizontal"
+msgstr "横"
+
+#: functions.php:208
+#: inc/wpcom.php:91
+msgid "Diagonal inverted"
+msgstr "斜めの反転"
+
+#: functions.php:203
+#: inc/wpcom.php:86
+msgid "Diagonal"
+msgstr "斜め"
+
+#: functions.php:189
+#: inc/wpcom.php:72
+msgid "Background"
+msgstr "背景"
+
+#: functions.php:184
+#: inc/wpcom.php:67
+msgid "Tertiary"
+msgstr "ターシャリ"
+
+#: functions.php:179
+#: inc/wpcom.php:62
+msgid "Foreground"
+msgstr "前景"
+
+#: functions.php:174
+#: inc/wpcom.php:57
+msgid "Secondary"
+msgstr "サブ"
+
+#: functions.php:169
+#: inc/wpcom.php:52
+msgid "Primary"
+msgstr "メイン"
+
+#: functions.php:150
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:149
+msgid "Huge"
+msgstr "特大"
+
+#: functions.php:144
+msgid "L"
+msgstr "L"
+
+#: functions.php:143
+msgid "Large"
+msgstr "大サイズ"
+
+#: functions.php:138
+msgid "M"
+msgstr "M"
+
+#: functions.php:137
+msgid "Normal"
+msgstr "通常"
+
+#: functions.php:132
+msgid "S"
+msgstr "S"
+
+#: functions.php:131
+msgid "Small"
+msgstr "小さい"
+
+#: functions.php:126
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:125
+msgid "Tiny"
+msgstr "最小"
+
+#: functions.php:61
+msgid "Social Links Navigation"
+msgstr "ソーシャルリンクナビゲーション"
+
+#: functions.php:60
+msgid "Footer Navigation"
+msgstr "フッターナビゲーション"
+
+#: functions.php:59
+msgid "Primary Navigation"
+msgstr "メインナビゲーション"
+
+#. translators: %s: WordPress.
+#: template-parts/footer/footer-info.php:9
+msgid "Proudly powered by %s."
+msgstr "Proudly powered by %s"
+
+#: template-parts/footer/footer-info.php:6
+msgid "https://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: template-parts/footer/footer-menu.php:2
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s件のコメント"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: classes/class-seedlet-custom-colors.php:311
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker foreground color."
+msgstr "この色の組み合わせは読みにくい可能性があります。 背景色を明るくするか、前景色を暗くしてみましょう。"
+
+#: classes/class-seedlet-custom-colors.php:179
+msgid "Custom"
+msgstr "カスタム"
+
+#: classes/class-seedlet-custom-colors.php:178
+msgid "Theme Default"
+msgstr "テーマの初期設定"
+
+#: classes/class-seedlet-custom-colors.php:154
+#: classes/class-seedlet-custom-colors.php:176
+msgid "Colors"
+msgstr "色"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "﻿ページが見つかりません。"

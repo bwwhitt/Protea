@@ -1,0 +1,118 @@
+# Translation of Plugins - Classic Editor - Stable (latest release) in Albanian
+# This file is distributed under the same license as the Plugins - Classic Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-12 10:16:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sq_AL\n"
+"Project-Id-Version: Plugins - Classic Editor - Stable (latest release)\n"
+
+#: classic-editor.php:841
+msgctxt "Editor Name"
+msgid "Edit (classic editor)"
+msgstr "Përpunoni (përpunues klasik)"
+
+#: classic-editor.php:834
+msgctxt "Editor Name"
+msgid "Edit (block editor)"
+msgstr "Përpunoni (përpunues me blloqe)"
+
+#: classic-editor.php:495
+msgid "Change settings"
+msgstr "Ndryshoni rregullimet"
+
+#: classic-editor.php:482
+msgid "Default editor for all sites"
+msgstr "Përpunues parazgjedhje për krejt sajtet"
+
+#: classic-editor.php:478
+msgid "Editor Settings"
+msgstr "Rregullime Përpunuesi"
+
+#: classic-editor.php:462
+msgid "Default Editor"
+msgstr "Përpunues Parazgjedhje"
+
+#: classic-editor.php:875
+msgctxt "Editor Name"
+msgid "block editor"
+msgstr "përpunues me blloqe"
+
+#: classic-editor.php:872
+msgctxt "Editor Name"
+msgid "classic editor"
+msgstr "përpunues klasik"
+
+#. translators: %s: post title
+#: classic-editor.php:836
+msgid "Edit &#8220;%s&#8221; in the block editor"
+msgstr "Përpunojeni &#8220;%s&#8221; me përpunuesin e blloqeve"
+
+#: classic-editor.php:671
+msgid "Switch to block editor"
+msgstr "Kalo nën përpunuesin me blloqe"
+
+#: classic-editor.php:700
+msgid "Switch to classic editor"
+msgstr "Kalo nën përpunuesin klasik"
+
+#: classic-editor.php:499
+msgid "By default the block editor is replaced with the classic editor and users cannot switch editors."
+msgstr "Si parazgjedhje, përpunuesi me blloqe zëvendësohet me përpunuesin klasik dhe përdoruesi s’mund të këmbejë përpunues."
+
+#: classic-editor.php:498
+msgid "Allow site admins to change settings"
+msgstr "Lejoju përgjegjësve të sajtit ta ndryshojnë rregullimin"
+
+#: classic-editor.php:652
+msgid "Editor"
+msgstr "Përpunues"
+
+#: classic-editor.php:437
+msgid "No"
+msgstr "Jo"
+
+#: classic-editor.php:433
+msgid "Yes"
+msgstr "Po"
+
+#: classic-editor.php:360
+msgid "Allow users to switch editors"
+msgstr "Lejoju përdoruesve të këmbejnë përpunues"
+
+#: classic-editor.php:359
+msgid "Default editor for all users"
+msgstr "Përpunues parazgjedhje për krejt përdoruesit"
+
+#. Author URI of the plugin
+msgid "https://github.com/WordPress/classic-editor/"
+msgstr "https://github.com/WordPress/classic-editor/"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/classic-editor/"
+msgstr "https://wordpress.org/plugins/classic-editor/"
+
+#. Author of the plugin
+msgid "WordPress Contributors"
+msgstr "Kontibues te WordPress"
+
+#. Description of the plugin
+msgid "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen."
+msgstr "Aktivizon përpunuesin klasik WordPress dhe skenën e dikurshme Përpunoni Postim me TinyMCE, Meta Boxes, etj. Mbulon shtojca të dikurshme që e zgjerojnë këtë skenë."
+
+#. Plugin Name of the plugin
+msgid "Classic Editor"
+msgstr "Përpunuesi Klasik"
+
+#. translators: %s: post title
+#: classic-editor.php:843
+msgid "Edit &#8220;%s&#8221; in the classic editor"
+msgstr "Përpunojeni &#8220;%s&#8221; me përpunuesin klasik"
+
+#: classic-editor.php:719
+msgid "Settings"
+msgstr "Rregullime"

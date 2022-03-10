@@ -1,0 +1,3048 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-03 07:41:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-library/blocks/read-more/block.json
+msgctxt "block title"
+msgid "Read More"
+msgstr "閱讀全文"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:136
+msgid "Sorry, you are not allowed to view this global style."
+msgstr "很抱歉，目前的登入身分沒有檢視這個全域樣式的權限。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:128
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:191
+msgid "Sorry, you are not allowed to edit this global style."
+msgstr "很抱歉，目前的登入身分沒有編輯這個全域樣式的權限。"
+
+#: build/block-library/blocks/comments-pagination-previous.php:18
+#: build/block-library/index.js:8437 build/block-library/index.min.js:7132
+msgid "Older Comments"
+msgstr "較舊的留言"
+
+#: build/block-library/blocks/comments-pagination-next.php:25
+#: build/block-library/index.js:8973 build/block-library/index.min.js:7569
+msgid "Newer Comments"
+msgstr "較新的留言"
+
+#: build/block-library/blocks/post-author/block.json
+msgctxt "block description"
+msgid "Display post author details such as name, avatar, and bio."
+msgstr "顯示文章作者的名稱、個人頭像及簡歷等詳細資料。"
+
+#: build/block-library/blocks/post-author-name/block.json
+msgctxt "block description"
+msgid "The author name."
+msgstr "作者姓名。"
+
+#: build/block-library/blocks/post-author-name/block.json
+msgctxt "block title"
+msgid "Post Author Name"
+msgstr "文章作者名稱"
+
+#: lib/compat/wordpress-5.9/move-theme-editor-menu-item.php:21
+msgid "Theme File Editor"
+msgstr "佈景主題檔案編輯器"
+
+#: build/block-library/blocks/site-logo.php:89
+msgid "Site icon."
+msgstr "網站圖示。"
+
+#: build/block-library/blocks/comments-pagination-numbers/block.json
+#: build/block-library/blocks/query-pagination-numbers/block.json
+msgctxt "block title"
+msgid "Page Numbers"
+msgstr "頁碼"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "超大型"
+
+#: build/block-library/blocks/query-pagination/block.json
+msgctxt "block title"
+msgid "Pagination"
+msgstr "分頁"
+
+#: build/block-library/blocks/comments-pagination-previous/block.json
+#: build/block-library/blocks/query-pagination-previous/block.json
+msgctxt "block title"
+msgid "Previous Page"
+msgstr "上一頁"
+
+#: build/block-library/blocks/comments-pagination-next/block.json
+#: build/block-library/blocks/query-pagination-next/block.json
+msgctxt "block title"
+msgid "Next Page"
+msgstr "下一頁"
+
+#. translators: Accessibility text. %s: Parent page title.
+#: build/block-library/blocks/navigation-submenu.php:175
+#: build/block-library/blocks/page-list.php:184
+msgid "%s submenu"
+msgstr "[%s] 的子選單"
+
+#: build/block-library/blocks/comments-pagination-numbers/block.json
+msgctxt "block description"
+msgid "Displays a list of page numbers for comments pagination."
+msgstr "顯示留言分頁頁碼清單。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:443
+msgid "Invalid author ID."
+msgstr "無效的作者 ID。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:169
+msgid "Displays the privacy policy page."
+msgstr "顯示隱私權政策頁面。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:918
+msgid "Unable to open export file (archive) for writing."
+msgstr "無法開啟資料匯出檔 (壓縮檔) 進行資料寫入。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:173
+msgid "Displays when no content is found."
+msgstr "找不到符合條件的內容時便會顯示。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:137
+msgid "Displays post categories, tags, and other archives."
+msgstr "顯示文章分類、標籤及其他各種彙整。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:133
+msgid "Displays a single page."
+msgstr "顯示單篇頁面。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:129
+msgid "Displays a single post."
+msgstr "顯示單篇文章。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:125
+msgid "Displays a single post or page."
+msgstr "顯示單篇文章或頁面。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:113
+msgid "Displays posts."
+msgstr "顯示文章。"
+
+#. translators: %s: Minimum required version
+#: lib/compat.php:70
+msgid "Gutenberg requires WordPress %s or later in order to enable the &#8220;Correct invalidly nested XHTML automatically&#8221; option. Please upgrade WordPress before enabling."
+msgstr "Gutenberg 需要 WordPress %s 或更新版本，才能啟用「自動修正無效的巢狀 XHTML」功能。在啟用這項功能前，請先更新 WordPress 核心程式。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-edit-site-export-controller.php:56
+msgid "Sorry, you are not allowed to export templates and template parts."
+msgstr "很抱歉，目前的登入身分沒有匯出範本及範本組件的權限。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:161
+msgid "Displays individual media items or attachments."
+msgstr "顯示個別媒體項目或附件。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:141
+msgid "Displays latest posts written by a single author."
+msgstr "顯示個別作者撰寫的最新文章。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:668
+msgid "Whether a template is a custom template."
+msgstr "範本是否為自訂範本。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:157
+msgid "Displays latest posts with single post tag."
+msgstr "顯示個別文章標籤中的最新文章。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:153
+msgid "Displays posts from a specific date."
+msgstr "顯示指定日期的文章。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:149
+msgid "Displays latest posts from a single post taxonomy."
+msgstr "顯示個別文章分類法中的最新文章。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:145
+msgid "Displays latest posts in single post category."
+msgstr "顯示個別文章分類中的最新文章。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:659
+msgid "The ID for the author of the template."
+msgstr "範本作者的 ID。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:617
+msgid "Source of customized template"
+msgstr "自訂範本的來源"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:910
+msgid "Zip Export not supported."
+msgstr "不支援匯出成 ZIP 格式。"
+
+#: lib/compat/wordpress-5.9/templates.php:30
+msgid "View Templates"
+msgstr "檢視範本"
+
+#: lib/compat/wordpress-5.9/template-parts.php:30
+msgid "View Template Parts"
+msgstr "檢視範本組件"
+
+#: lib/navigation.php:13
+msgid "Navigation Menus"
+msgstr "導覽選單"
+
+#: build/block-library/blocks/post-comment/block.json
+msgctxt "block title"
+msgid "Post Comment (deprecated)"
+msgstr "文章留言 (已淘汰不用)"
+
+#: build/block-library/blocks/comments-query-loop/block.json
+msgctxt "block title"
+msgid "Comments Query Loop"
+msgstr "留言查詢迴圈"
+
+#: build/block-library/blocks/comment-template/block.json
+msgctxt "block title"
+msgid "Comment Template"
+msgstr "留言範本"
+
+#: build/block-library/blocks/comment-reply-link/block.json
+msgctxt "block title"
+msgid "Comment Reply Link"
+msgstr "留言回覆連結"
+
+#: build/block-library/blocks/comment-edit-link/block.json
+msgctxt "block title"
+msgid "Comment Edit Link"
+msgstr "留言編輯連結"
+
+#: build/block-library/blocks/comment-author-name/block.json
+msgctxt "block title"
+msgid "Comment Author Name"
+msgstr "留言者名稱"
+
+#: build/block-library/blocks/navigation-area/block.json
+msgctxt "block title"
+msgid "Navigation Area"
+msgstr "導覽區域"
+
+#: build/block-library/blocks/pattern/block.json
+msgctxt "block description"
+msgid "Show a block pattern."
+msgstr "顯示區塊版面配置。"
+
+#: build/block-library/blocks/pattern/block.json
+msgctxt "block title"
+msgid "Pattern"
+msgstr "區塊版面配置"
+
+#: build/block-library/blocks/navigation-area/block.json
+msgctxt "block description"
+msgid "Define a navigation area for your theme. The navigation block associated with this area will be automatically displayed."
+msgstr "定義目前使用的佈景主題的導覽區域。會自動顯示與這個區域相關聯的 [導覽列] 區塊。"
+
+#: build/block-library/blocks/comment-date/block.json
+msgctxt "block description"
+msgid "Add the date of this comment."
+msgstr "顯示留言的發佈日期。"
+
+#: build/block-library/blocks/comment-content/block.json
+msgctxt "block description"
+msgid "Displays the contents of a comment."
+msgstr "顯示留言的內容。"
+
+#: build/block-library/blocks/comment-author-name/block.json
+msgctxt "block description"
+msgid "Add the author name of this comment."
+msgstr "新增留言的留言者名稱。"
+
+#: build/block-library/blocks/comment-author-avatar/block.json
+msgctxt "block description"
+msgid "Add the avatar of this comment's author."
+msgstr "新增留言的留言者個人頭像。"
+
+#: build/block-library/blocks/post-comment/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Comments Query Loop block instead."
+msgstr "這個區塊已淘汰不用，請改用 [留言查詢迴圈] 區塊。"
+
+#: build/block-library/blocks/navigation-area/block.json
+msgctxt "block keyword"
+msgid "location"
+msgstr "位置"
+
+#: lib/navigation.php:16
+msgctxt "Navigation Menu"
+msgid "Add New"
+msgstr "新增導覽選單"
+
+#: lib/navigation.php:15
+msgctxt "Admin Menu text"
+msgid "Navigation Menus"
+msgstr "導覽選單"
+
+#. translators: %s: Path to the JSON file.
+#: lib/compat/wordpress-5.9/json-file-decode.php:30
+msgid "File %s doesn't exist!"
+msgstr "檔案 %s 不存在！"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:553
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-global-styles-controller.php:180
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-global-styles-controller.php:220
+msgid "Theme not found."
+msgstr "找不到符合條件的佈景主題。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:501
+msgid "HTML title for the post, transformed for display."
+msgstr "文章用於轉換為顯示用途的 HTML 格式標題。"
+
+#: lib/navigation.php:23
+msgid "Parent Navigation Menu:"
+msgstr "上層導覽選單:"
+
+#: lib/navigation.php:22
+msgid "Search Navigation Menus"
+msgstr "搜尋導覽選單"
+
+#: lib/navigation.php:21
+msgid "All Navigation Menus"
+msgstr "全部導覽選單"
+
+#: lib/navigation.php:20
+msgid "View Navigation Menu"
+msgstr "檢視導覽選單"
+
+#: lib/navigation.php:19
+msgid "Edit Navigation Menu"
+msgstr "編輯導覽選單"
+
+#: lib/navigation.php:18
+msgid "New Navigation Menu"
+msgstr "新增導覽選單"
+
+#: lib/navigation.php:17
+msgid "Add New Navigation Menu"
+msgstr "新增導覽選單"
+
+#. translators: %s: "beta" label.
+#: lib/init.php:86
+msgid "Editor %s"
+msgstr "編輯器 %s"
+
+#: lib/init.php:83 build/edit-site/index.js:10726
+msgid "Editor (beta)"
+msgstr "編輯器 (Beta 版)"
+
+#: build/block-library/blocks/comment-author-avatar/block.json
+msgctxt "block title"
+msgid "Comment Author Avatar"
+msgstr "留言者個人頭像"
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:126
+msgid "Invalid navigation area."
+msgstr "無效的導覽列區域。"
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:85
+#: lib/class-wp-rest-block-navigation-areas-controller.php:121
+msgid "Sorry, you are not allowed to view navigation areas."
+msgstr "很抱歉，目前的登入身分沒有檢視導覽列區域的權限。"
+
+#: lib/navigation.php:32
+msgid "Navigation Menus list"
+msgstr "導覽選單清單"
+
+#: lib/navigation.php:31
+msgid "Navigation Menus list navigation"
+msgstr "導覽選單清單導覽"
+
+#: lib/navigation.php:30
+msgid "Filter Navigation Menu list"
+msgstr "篩選導覽選單清單"
+
+#: lib/navigation.php:28
+msgid "Uploaded to this Navigation Menu"
+msgstr "已關聯至這個導覽選單"
+
+#: lib/navigation.php:27
+msgid "Insert into Navigation Menu"
+msgstr "插入至導覽選單"
+
+#: lib/navigation.php:26
+msgid "Navigation Menu archives"
+msgstr "導覽選單彙整"
+
+#: lib/navigation.php:25
+msgid "No Navigation Menu found in Trash."
+msgstr "在回收桶中找不到符合條件的導覽選單。"
+
+#: lib/navigation.php:24
+msgid "No Navigation Menu found."
+msgstr "找不到符合條件的導覽選單。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:490
+msgid "Title of the global styles variation."
+msgstr "全域樣式變化的標題。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:485
+msgid "Global settings."
+msgstr "全域設定。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:480
+msgid "Global styles."
+msgstr "全域樣式。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:474
+msgid "ID of global styles config."
+msgstr "全域樣式組態 ID。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:374
+msgid "No global styles config exist with that id."
+msgstr "找不到使用這個 ID 的全域樣式組態。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:530
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-global-styles-controller.php:53
+msgid "Sorry, you are not allowed to access the global styles on this site."
+msgstr "很抱歉，目前的登入身分沒有在這個網站上存取全域樣式的權限。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:60
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-global-styles-controller.php:30
+msgid "The theme identifier"
+msgstr "佈景主題識別碼"
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:263
+msgid "The ID of the assigned navigation."
+msgstr "指定導覽列的 ID。"
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:257
+msgid "The description of the navigation area."
+msgstr "導覽列區域的內容說明。"
+
+#: lib/class-wp-rest-block-navigation-areas-controller.php:251
+msgid "The name of the navigation area."
+msgstr "導覽列區域的名稱。"
+
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:496
+msgid "Title for the global styles variation, as it exists in the database."
+msgstr "儲存於資料庫中的全域樣式變化標題。"
+
+#. translators: 1: Path to the JSON file, 2: Error message.
+#: lib/compat/wordpress-5.9/json-file-decode.php:44
+msgid "Error when decoding a JSON file at path %1$s: %2$s"
+msgstr "解碼位於路徑 %1$s 的 JSON 檔案時發生錯誤: %2$s"
+
+#. translators: %s is the Comment Author name
+#: build/block-library/blocks/comment-author-avatar.php:50
+msgid "%s Avatar"
+msgstr "「%s」的個人頭像"
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block style label"
+msgid "Plain"
+msgstr "一般"
+
+#: lib/compat/wordpress-5.9/block-patterns.php:27
+msgid "Featured"
+msgstr "精選"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:570
+msgid "Post type to get the templates for."
+msgstr "取得範本使用的內容類型。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:566
+msgid "Limit to the specified template part area."
+msgstr "限制為指定範本組件區域。"
+
+#: build/block-library/blocks/site-title/block.json
+msgctxt "block description"
+msgid "Displays the name of this site. Update the block, and the changes apply everywhere it’s used. This will also appear in the browser title bar and in search results."
+msgstr "顯示這個網站的名稱。更新這個區塊後，這項變更會套用至全部有使用這個區塊的地方，同時也會顯示於瀏覽器標題列及搜尋結果中。"
+
+#: build/block-library/blocks/post-navigation-link.php:64
+msgctxt "label before the title of the previous post"
+msgid "Previous:"
+msgstr "上一篇:"
+
+#: build/block-library/blocks/post-navigation-link.php:64
+msgctxt "label before the title of the next post"
+msgid "Next:"
+msgstr "下一篇:"
+
+#: build/block-library/blocks/navigation-submenu/block.json
+msgctxt "block description"
+msgid "Add a submenu to your navigation."
+msgstr "新增子選單至網站導覽列。"
+
+#: build/block-library/blocks/navigation-submenu/block.json
+msgctxt "block title"
+msgid "Submenu"
+msgstr "子選單"
+
+#: build/block-library/blocks/columns/block.json
+msgctxt "block description"
+msgid "Display content in multiple columns, with blocks added to each column."
+msgstr "將區塊新增至多個欄位中並顯示內容。"
+
+#: lib/class-wp-rest-menus-controller.php:85
+msgid "Required to be true, as terms do not support trashing."
+msgstr "由於分類法詞彙不支援 [回收桶] 功能，因此必須設定為 true。"
+
+#: lib/class-wp-rest-menus-controller.php:59
+msgid "Unique identifier for the term."
+msgstr "分類法詞彙的唯一識別碼。"
+
+#: build/block-library/blocks/table/block.json
+msgctxt "block description"
+msgid "Create structured content in rows and columns to display information."
+msgstr "在項目列及項目行中建立結構化內容以顯示資訊。"
+
+#: build/block-library/blocks/site-logo/block.json
+msgctxt "block description"
+msgid "Display a graphic to represent this site. Update the block, and the changes apply everywhere it’s used. This is different than the site icon, which is the smaller image visible in your dashboard, browser tabs, etc used to help others recognize this site."
+msgstr "顯示可以代表這個網站的圖形。更新區塊內容後，全部使用這個區塊的位置都會套用變更。網站標誌與網站圖示不同，網站圖示是顯示於網站控制台、瀏覽器分頁等位置，用於協助使用者識別這個網站的小型圖片。"
+
+#: lib/block-patterns.php:76
+msgctxt "Block pattern title"
+msgid "Grid"
+msgstr "格狀顯示"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Blue and orange"
+msgstr "藍色及橘色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Purple and green"
+msgstr "紫色及綠色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Magenta and yellow"
+msgstr "洋紅色及黃色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Midnight"
+msgstr "午夜藍"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Blue and red"
+msgstr "藍色及紅色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Purple and yellow"
+msgstr "紫色及黃色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Grayscale"
+msgstr "灰階"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Duotone name"
+msgid "Dark grayscale"
+msgstr "深色灰階"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Midnight"
+msgstr "午夜藍"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Electric grass"
+msgstr "電光綠"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Pale ocean"
+msgstr "海洋藍"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Luminous dusk"
+msgstr "暮色黃"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Blush bordeaux"
+msgstr "波爾多紅"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Blush light purple"
+msgstr "淺紫紅色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Cool to warm spectrum"
+msgstr "冷暖光譜"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Very light gray to cyan bluish gray"
+msgstr "亮灰色至青藍灰色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid orange to vivid red"
+msgstr "亮鮮橘色至鮮紅色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "亮鮮琥珀色至亮鮮橘色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Light green cyan to vivid green cyan"
+msgstr "亮綠青色至鮮綠青色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Gradient name"
+msgid "Vivid cyan blue to vivid purple"
+msgstr "鮮青藍色至鮮紫色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Vivid purple"
+msgstr "鮮紫色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Vivid cyan blue"
+msgstr "鮮青藍色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Pale cyan blue"
+msgstr "淡青藍色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Vivid green cyan"
+msgstr "鮮綠青色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Light green cyan"
+msgstr "亮綠青色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid amber"
+msgstr "亮鮮琥珀色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid orange"
+msgstr "亮鮮橘色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Vivid red"
+msgstr "鮮紅色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Pale pink"
+msgstr "淡粉色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr "白色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Cyan bluish gray"
+msgstr "青藍灰色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr "黑色"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "大型"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "中型"
+
+#: lib/compat/wordpress-5.9/theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "小型"
+
+#: lib/block-patterns.php:150
+msgctxt "Block pattern title"
+msgid "Social links with a shared background color"
+msgstr "共用背景色彩的社交網路服務連結"
+
+#: lib/block-patterns.php:92
+msgctxt "Block pattern title"
+msgid "Large title"
+msgstr "大型標題"
+
+#: lib/block-patterns.php:57
+msgctxt "Block pattern title"
+msgid "Small image and title"
+msgstr "小型圖片及標題"
+
+#: lib/block-patterns.php:37
+msgctxt "Block pattern title"
+msgid "Image at left"
+msgstr "圖片位於左側"
+
+#: lib/block-patterns.php:19
+msgctxt "Block pattern title"
+msgid "Standard"
+msgstr "標準"
+
+#: build/block-library/blocks/post-template/block.json
+msgctxt "block title"
+msgid "Post Template"
+msgstr "文章範本"
+
+#: build/block-library/blocks/button/block.json
+#: build/block-library/blocks/buttons/block.json
+msgctxt "block keyword"
+msgid "link"
+msgstr "連結"
+
+#: build/block-library/blocks/query/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying post types based on different query parameters and visual configurations."
+msgstr "允許以不同查詢參數及視覺化組態顯示內容類型查詢結果的進階區塊。"
+
+#: build/block-library/blocks/post-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render a post, like the title, date, featured image, content or excerpt, and more."
+msgstr "這個區塊包含用於轉譯文章的區塊元素，例如標題、發佈日期、精選圖片、內容或內容摘要等。"
+
+#: lib/rest-api.php:202
+msgid "Limit result set to users who have published posts."
+msgstr "將結果集限定為曾發佈過文章的使用者。"
+
+#: build/block-library/blocks/calendar.php:22
+msgid "The calendar block is hidden because there are no published posts."
+msgstr "由於目前尚無已發佈的文章，因此隱藏 [月曆] 區塊。"
+
+#: build/block-library/blocks/video/block.json
+msgctxt "block keyword"
+msgid "movie"
+msgstr "電影"
+
+#: build/block-library/blocks/video/block.json
+msgctxt "block description"
+msgid "Embed a video from your media library or upload a new one."
+msgstr "從媒體庫中嵌入視訊檔，或上傳新的視訊檔。"
+
+#: build/block-library/blocks/verse/block.json
+msgctxt "block keyword"
+msgid "poem"
+msgstr "詩"
+
+#: build/block-library/blocks/verse/block.json
+msgctxt "block keyword"
+msgid "poetry"
+msgstr "詩句"
+
+#: build/block-library/blocks/verse/block.json
+msgctxt "block description"
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "插入詩句或引用歌詞，其他文字內容也可以套用這個區塊的特殊字元間距格式。"
+
+#: build/block-library/blocks/text-columns/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "這個區塊已淘汰不用，請改用 [多重欄位] 區塊。"
+
+#: build/block-library/blocks/tag-cloud/block.json
+msgctxt "block description"
+msgid "A cloud of your most used tags."
+msgstr "標籤雲會顯示這個網站最常使用的標籤。"
+
+#: build/block-library/blocks/table/block.json
+msgctxt "block style label"
+msgid "Stripes"
+msgstr "條紋"
+
+#: build/block-library/blocks/table-of-contents/block.json
+msgctxt "block keyword"
+msgid "summary"
+msgstr "摘要"
+
+#: build/block-library/blocks/table-of-contents/block.json
+msgctxt "block keyword"
+msgid "document outline"
+msgstr "內容大綱"
+
+#: build/block-library/blocks/table-of-contents/block.json
+msgctxt "block description"
+msgid "Summarize your post with a list of headings. Add HTML anchors to Heading blocks to link them here."
+msgstr "使用標題清單為文章進行摘要整理，能將 HTML 錨點新增至 [標題] 區塊並在這裡連結至各個標題。"
+
+#: build/block-library/blocks/table-of-contents/block.json
+msgctxt "block title"
+msgid "Table of Contents"
+msgstr "目錄"
+
+#: build/block-library/blocks/spacer/block.json
+msgctxt "block description"
+msgid "Add white space between blocks and customize its height."
+msgstr "在區塊之間加入可設定高度的空白間格。"
+
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block style label"
+msgid "Pill Shape"
+msgstr "膠囊形狀"
+
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block style label"
+msgid "Logos Only"
+msgstr "只有標誌"
+
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block description"
+msgid "Display icons linking to your social media profiles or sites."
+msgstr "顯示連結至社交網路服務個人資料或網站的圖示。"
+
+#: build/block-library/blocks/social-link/block.json
+msgctxt "block description"
+msgid "Display an icon linking to a social media profile or site."
+msgstr "顯示連結至社交網路服務個人資料或網站的圖示。"
+
+#: build/block-library/blocks/site-tagline/block.json
+msgctxt "block keyword"
+msgid "description"
+msgstr "內容說明"
+
+#: build/block-library/blocks/site-tagline/block.json
+msgctxt "block description"
+msgid "Describe in a few words what the site is about. The tagline can be used in search results or when sharing on social networks even if it's not displayed in the theme design."
+msgstr "這個區塊用於簡單說明這個網站的內容。即使網站目前使用的佈景主題不會顯示網站說明，網站說明仍會出現於搜尋引擎的搜尋結果，或出現於分享至社交網路服務的結果。"
+
+#: build/block-library/blocks/shortcode/block.json
+msgctxt "block description"
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "透過 WordPress 短代碼插入其他自訂元素。"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block style label"
+msgid "Dots"
+msgstr "點狀線段"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block style label"
+msgid "Wide Line"
+msgstr "長線段"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block keyword"
+msgid "divider"
+msgstr "分隔線"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block keyword"
+msgid "horizontal-line"
+msgstr "水平線"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block description"
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "以水平分隔符號在不同想法或章節之間建立分隔。"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block keyword"
+msgid "hr"
+msgstr "水平"
+
+#: build/block-library/blocks/search/block.json
+msgctxt "block keyword"
+msgid "find"
+msgstr "搜尋"
+
+#: build/block-library/blocks/search/block.json
+msgctxt "block description"
+msgid "Help visitors find your content."
+msgstr "協助網站訪客搜尋網站內容。"
+
+#: build/block-library/blocks/rss/block.json
+msgctxt "block keyword"
+msgid "feed"
+msgstr "資訊提供"
+
+#: build/block-library/blocks/rss/block.json
+msgctxt "block keyword"
+msgid "atom"
+msgstr "Atom"
+
+#: build/block-library/blocks/rss/block.json
+msgctxt "block description"
+msgid "Display entries from any RSS or Atom feed."
+msgstr "顯示任何來源的 RSS 或 Atom 資訊提供中的項目。"
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block keyword"
+msgid "cite"
+msgstr "引用"
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block keyword"
+msgid "blockquote"
+msgstr "段落引用"
+
+#: build/block-library/blocks/query-pagination/block.json
+msgctxt "block description"
+msgid "Displays a paginated navigation to next/previous set of posts, when applicable."
+msgstr "在適用的情況下，顯示內容的下一頁/上一頁分頁導覽。"
+
+#: build/block-library/blocks/query-title/block.json
+msgctxt "block description"
+msgid "Display the query title."
+msgstr "顯示查詢標題。"
+
+#: build/block-library/blocks/query-title/block.json
+msgctxt "block title"
+msgid "Query Title"
+msgstr "查詢標題"
+
+#: build/block-library/blocks/query-pagination-previous/block.json
+msgctxt "block description"
+msgid "Displays the previous posts page link."
+msgstr "顯示上一篇文章頁面連結。"
+
+#: build/block-library/blocks/query-pagination-numbers/block.json
+msgctxt "block description"
+msgid "Displays a list of page numbers for pagination"
+msgstr "顯示分頁頁碼清單。"
+
+#: build/block-library/blocks/query-pagination-next/block.json
+msgctxt "block description"
+msgid "Displays the next posts page link."
+msgstr "顯示下一篇文章頁面連結。"
+
+#: build/block-library/blocks/pullquote/block.json
+msgctxt "block description"
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "賦予內容特別的視覺效果藉以強調引文。"
+
+#: build/block-library/blocks/preformatted/block.json
+msgctxt "block description"
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "可輸入完全保持空格及定位點不變的文字內容，但亦可套用若干樣式。"
+
+#: build/block-library/blocks/post-title/block.json
+msgctxt "block description"
+msgid "Displays the title of a post, page, or any other content-type."
+msgstr "顯示文章、頁面或任何內容類型的標題。"
+
+#: build/block-library/blocks/post-terms/block.json
+msgctxt "block description"
+msgid "Post terms."
+msgstr "文章分類法詞彙。"
+
+#: build/block-library/blocks/post-navigation-link/block.json
+msgctxt "block description"
+msgid "Displays the next or previous post link that is adjacent to the current post."
+msgstr "顯示目前文章的下一篇或上一篇文章連結。"
+
+#: build/block-library/blocks/post-navigation-link/block.json
+msgctxt "block title"
+msgid "Post Navigation Link"
+msgstr "文章導覽連結"
+
+#: build/block-library/blocks/post-featured-image/block.json
+msgctxt "block description"
+msgid "Display a post's featured image."
+msgstr "顯示文章精選圖片。"
+
+#: build/block-library/blocks/post-excerpt/block.json
+msgctxt "block description"
+msgid "Display a post's excerpt."
+msgstr "顯示文章內容摘要。"
+
+#: build/block-library/blocks/post-date/block.json
+msgctxt "block description"
+msgid "Add the date of this post."
+msgstr "新增這篇文章的發佈日期。"
+
+#: build/block-library/blocks/post-content/block.json
+msgctxt "block description"
+msgid "Displays the contents of a post or page."
+msgstr "顯示文章或頁面的內容。"
+
+#: build/block-library/blocks/post-comments/block.json
+msgctxt "block description"
+msgid "Display a post's comments."
+msgstr "顯示文章留言。"
+
+#: build/block-library/blocks/post-comments-link/block.json
+msgctxt "block description"
+msgid "Displays the link to the current post comments."
+msgstr "顯示目前文章留言的連結。"
+
+#: build/block-library/blocks/post-comments-form/block.json
+msgctxt "block description"
+msgid "Display a post's comments form."
+msgstr "顯示文章留言表單。"
+
+#: build/block-library/blocks/post-comments-count/block.json
+msgctxt "block description"
+msgid "Display a post's comments count."
+msgstr "顯示文章留言計數。"
+
+#: build/block-library/blocks/paragraph/block.json
+msgctxt "block keyword"
+msgid "text"
+msgstr "文字"
+
+#: build/block-library/blocks/page-list/block.json
+msgctxt "block description"
+msgid "Display a list of all pages."
+msgstr "顯示全部頁面的清單。"
+
+#: build/block-library/blocks/nextpage/block.json
+msgctxt "block keyword"
+msgid "pagination"
+msgstr "分頁"
+
+#: build/block-library/blocks/nextpage/block.json
+msgctxt "block keyword"
+msgid "next page"
+msgstr "下一頁"
+
+#: build/block-library/blocks/nextpage/block.json
+msgctxt "block description"
+msgid "Separate your content into a multi-page experience."
+msgstr "將長篇內容以分頁符號分隔成多個頁面。"
+
+#: build/block-library/blocks/navigation-area/block.json
+#: build/block-library/blocks/navigation/block.json
+#: build/block-library/blocks/page-list/block.json
+msgctxt "block keyword"
+msgid "navigation"
+msgstr "導覽"
+
+#: build/block-library/blocks/navigation-area/block.json
+#: build/block-library/blocks/navigation/block.json
+#: build/block-library/blocks/page-list/block.json
+msgctxt "block keyword"
+msgid "menu"
+msgstr "選單"
+
+#: build/block-library/blocks/navigation/block.json
+msgctxt "block description"
+msgid "A collection of blocks that allow visitors to get around your site."
+msgstr "讓訪客能在網站內不斷瀏覽的區塊套件。"
+
+#: build/block-library/blocks/navigation-link/block.json
+msgctxt "block description"
+msgid "Add a page, link, or another item to your navigation."
+msgstr "將頁面、連結或其他項目新增至導覽選單。"
+
+#: build/block-library/blocks/more/block.json
+msgctxt "block keyword"
+msgid "read more"
+msgstr "閱讀全文"
+
+#: build/block-library/blocks/more/block.json
+msgctxt "block description"
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "在這個區塊前的內容，會在彙整頁面顯示為內容摘要。"
+
+#: build/block-library/blocks/missing/block.json
+msgctxt "block description"
+msgid "Your site doesn’t include support for this block."
+msgstr "這個網站不包含對這個區塊的支援。"
+
+#: build/block-library/blocks/media-text/block.json
+msgctxt "block keyword"
+msgid "video"
+msgstr "視訊"
+
+#: build/block-library/blocks/media-text/block.json
+msgctxt "block keyword"
+msgid "image"
+msgstr "圖片"
+
+#: build/block-library/blocks/media-text/block.json
+msgctxt "block description"
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "設定媒體與文字內容並排以獲得更精美的版面配置。"
+
+#: build/block-library/blocks/loginout/block.json
+msgctxt "block keyword"
+msgid "form"
+msgstr "表單"
+
+#: build/block-library/blocks/loginout/block.json
+msgctxt "block keyword"
+msgid "logout"
+msgstr "登出"
+
+#: build/block-library/blocks/loginout/block.json
+msgctxt "block keyword"
+msgid "login"
+msgstr "登入"
+
+#: build/block-library/blocks/loginout/block.json
+msgctxt "block description"
+msgid "Show login & logout links."
+msgstr "顯示登入及登出連結。"
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block keyword"
+msgid "numbered list"
+msgstr "編號清單"
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block keyword"
+msgid "ordered list"
+msgstr "排序清單"
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block keyword"
+msgid "bullet list"
+msgstr "項目符號清單"
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block description"
+msgid "Create a bulleted or numbered list."
+msgstr "建立項目符號或編號清單。"
+
+#: build/widgets/blocks/legacy-widget/block.json
+msgctxt "block description"
+msgid "Display a legacy widget."
+msgstr "顯示舊版小工具。"
+
+#: build/widgets/blocks/legacy-widget/block.json
+msgctxt "block title"
+msgid "Legacy Widget"
+msgstr "舊版小工具"
+
+#: build/block-library/blocks/latest-posts/block.json
+msgctxt "block keyword"
+msgid "recent posts"
+msgstr "近期文章"
+
+#: build/block-library/blocks/latest-posts/block.json
+msgctxt "block description"
+msgid "Display a list of your most recent posts."
+msgstr "顯示網站上近期文章的清單。"
+
+#: build/block-library/blocks/latest-comments/block.json
+msgctxt "block keyword"
+msgid "recent comments"
+msgstr "近期留言"
+
+#: build/block-library/blocks/latest-comments/block.json
+msgctxt "block description"
+msgid "Display a list of your most recent comments."
+msgstr "顯示網站上近期留言的清單。"
+
+#: build/block-library/blocks/image/block.json
+#: build/block-library/blocks/site-logo/block.json
+msgctxt "block style label"
+msgid "Rounded"
+msgstr "圓角"
+
+#: build/block-library/blocks/image/block.json
+#: build/block-library/blocks/quote/block.json
+#: build/block-library/blocks/separator/block.json
+#: build/block-library/blocks/site-logo/block.json
+#: build/block-library/blocks/social-links/block.json
+#: build/block-library/blocks/table/block.json
+#: build/block-library/blocks/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Default"
+msgstr "預設"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block keyword"
+msgid "picture"
+msgstr "圖片"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block keyword"
+msgid "photo"
+msgstr "相片"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block description"
+msgid "Insert an image to make a visual statement."
+msgstr "插入圖片以進行視覺化說明。"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block keyword"
+msgid "img"
+msgstr "圖片"
+
+#: build/block-library/blocks/html/block.json
+msgctxt "block keyword"
+msgid "embed"
+msgstr "嵌入"
+
+#: build/block-library/blocks/html/block.json
+msgctxt "block description"
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "撰寫自訂 HTML 程式碼，並可預覽編輯結果。"
+
+#: build/block-library/blocks/home-link/block.json
+msgctxt "block description"
+msgid "Create a link that always points to the homepage of the site. Usually not necessary if there is already a site title link present in the header."
+msgstr "建立指向網站首頁的連結。如果頁首已有網站標題連結，便不需要建立這個連結。"
+
+#: build/block-library/blocks/heading/block.json
+msgctxt "block keyword"
+msgid "subtitle"
+msgstr "子標題"
+
+#: build/block-library/blocks/heading/block.json
+msgctxt "block keyword"
+msgid "title"
+msgstr "標題"
+
+#: build/block-library/blocks/home-link/block.json
+msgctxt "block title"
+msgid "Home Link"
+msgstr "首頁連結"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block keyword"
+msgid "section"
+msgstr "區段"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block keyword"
+msgid "row"
+msgstr "資料列"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block keyword"
+msgid "wrapper"
+msgstr "封裝"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block keyword"
+msgid "container"
+msgstr "容器"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block description"
+msgid "Combine blocks into a group."
+msgstr "合併多個區塊組成群組。"
+
+#: build/block-library/blocks/gallery/block.json
+msgctxt "block keyword"
+msgid "photos"
+msgstr "相片"
+
+#: build/block-library/blocks/gallery/block.json
+msgctxt "block keyword"
+msgid "images"
+msgstr "圖片"
+
+#: build/block-library/blocks/gallery/block.json
+msgctxt "block description"
+msgid "Display multiple images in a rich gallery."
+msgstr "以精美圖庫的方式顯示多張圖片。"
+
+#: build/block-library/blocks/freeform/block.json
+msgctxt "block description"
+msgid "Use the classic WordPress editor."
+msgstr "使用 WordPress 傳統編輯器。"
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block keyword"
+msgid "download"
+msgstr "下載"
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block keyword"
+msgid "pdf"
+msgstr "PDF"
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block keyword"
+msgid "document"
+msgstr "文件"
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block description"
+msgid "Add a link to a downloadable file."
+msgstr "新增可下載單一檔案的連結。"
+
+#: build/block-library/blocks/cover/block.json
+msgctxt "block description"
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "為內容加入圖片或影片，並可在其上加上簡短文字，相當適合呈現為內容頁首。"
+
+#: build/block-library/blocks/code/block.json
+msgctxt "block description"
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "顯示完全保持空格及定位點不變的程式碼片段。"
+
+#: build/block-library/blocks/categories/block.json
+msgctxt "block description"
+msgid "Display a list of all categories."
+msgstr "顯示全部分類的清單。"
+
+#: build/block-library/blocks/column/block.json
+msgctxt "block description"
+msgid "A single column within a columns block."
+msgstr "[多重欄位] 區塊中的單一欄位。"
+
+#: build/block-library/blocks/calendar/block.json
+msgctxt "block keyword"
+msgid "archive"
+msgstr "彙整"
+
+#: build/block-library/blocks/calendar/block.json
+msgctxt "block keyword"
+msgid "posts"
+msgstr "文章"
+
+#: build/block-library/blocks/calendar/block.json
+msgctxt "block description"
+msgid "A calendar of your site’s posts."
+msgstr "這個網站的文章月曆。"
+
+#: build/block-library/blocks/buttons/block.json
+msgctxt "block description"
+msgid "Prompt visitors to take action with a group of button-style links."
+msgstr "透過一組按鈕樣式連結提示使用者點擊以採取行動。"
+
+#: build/block-library/blocks/button/block.json
+#: build/block-library/blocks/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Outline"
+msgstr "外框"
+
+#: build/block-library/blocks/button/block.json
+msgctxt "block style label"
+msgid "Fill"
+msgstr "填色"
+
+#: build/block-library/blocks/button/block.json
+msgctxt "block description"
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "透過按鈕樣式連結提示使用者點擊以採取行動。"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "recording"
+msgstr "錄音"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "podcast"
+msgstr "Podcast"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "sound"
+msgstr "聲音"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "music"
+msgstr "音樂"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block description"
+msgid "Embed a simple audio player."
+msgstr "嵌入簡易音訊播放器。"
+
+#: build/block-library/blocks/archives/block.json
+msgctxt "block description"
+msgid "Display a monthly archive of your posts."
+msgstr "顯示網站文章的每月彙整。"
+
+#: lib/class-wp-rest-url-details-controller.php:89
+msgid "The OG image link of the <meta property=\"og:image\"> or <meta property=\"og:image:url\"> element from the URL."
+msgstr "網址中 <meta property=\"og:image\"> 或 <meta property=\"og:image:url\"> 元素的 OG 圖片連結。"
+
+#: lib/class-wp-rest-url-details-controller.php:83
+msgid "The content of the <meta name=\"description\"> element from the URL."
+msgstr "網址中 <meta name=\"description\"> 元素的內容。"
+
+#: lib/class-wp-rest-url-details-controller.php:76
+msgid "The favicon image link of the <link rel=\"icon\"> element from the URL."
+msgstr "網址中 <link rel=\"icon\"> 元素的 favicon 圖片連結。"
+
+#. translators: %1$s: Block type, %2$s: typography supports key e.g: fontSize,
+#. lineHeight etc...
+#: lib/blocks.php:440
+msgid "Block %1$s is declaring %2$s support on block.json under supports.%2$s. %2$s support is now declared under supports.typography.%2$s."
+msgstr "區塊 [%1$s] 宣告在 supports.%2$s 下對 block.js 中的 %2$s 支援。在 supports.typography.%2$s 下，%2$s 支援已完成宣告。"
+
+#: build/block-library/blocks/navigation.php:561
+#: build/block-library/index.js:24798 build/block-library/index.min.js:23442
+msgid "Close menu"
+msgstr "關閉選單"
+
+#: build/block-library/blocks/navigation.php:560
+#: build/block-library/index.js:24784 build/block-library/index.min.js:23417
+msgid "Open menu"
+msgstr "開啟選單"
+
+#: build/block-library/blocks/site-logo.php:42
+msgid "(Home link, opens in a new tab)"
+msgstr "(首頁連結，在新分頁中開啟)"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:252
+msgid "Active theme gradients."
+msgstr "啟用佈景主題漸層色彩。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:246
+msgid "Active theme font sizes."
+msgstr "啟用佈景主題字型大小。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:240
+msgid "Active theme color palette."
+msgstr "啟用佈景主題調色盤。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:228
+msgid "Available image sizes."
+msgstr "可用的圖片大小。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:234
+msgid "Maximum upload size in bytes allowed for the site."
+msgstr "這個網站的檔案上傳大小上限 (單位為位元組)。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:216
+msgid "Available image dimensions."
+msgstr "可用的圖片尺寸。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:210
+msgid "Default size for images."
+msgstr "圖片的預設尺寸。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:198
+msgid "Enables custom units."
+msgstr "啟用自訂單位。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:192
+msgid "Enables custom spacing."
+msgstr "啟用自訂間距。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:186
+msgid "Enables custom line height."
+msgstr "啟用自訂行高。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:174
+#: lib/class-wp-rest-block-editor-settings-controller.php:180
+msgid "Disables custom font size."
+msgstr "停用自訂字型大小。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:168
+msgid "Disables custom colors."
+msgstr "停用自訂色彩。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:156
+msgid "List of allowed mime types and file extensions."
+msgstr "允許的 MIME 類型及檔案副檔名清單。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:150
+msgid "List of allowed block types."
+msgstr "允許的區塊類型清單。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:120
+msgid "Enable/disable layouts support in container blocks."
+msgstr "啟用/停用容器區塊中的版面配置支援。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:108
+msgid "Editor styles"
+msgstr "編輯器樣式"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:63
+msgid "Sorry, you are not allowed to read the block editor settings."
+msgstr "很抱歉，目前的登入身分沒有讀取區塊編輯器設定的權限。"
+
+#: lib/class-wp-rest-block-editor-settings-controller.php:102
+msgid "Enables experimental Full Site Editing blocks"
+msgstr "啟用實驗性全站編輯區塊"
+
+#: build/block-library/blocks/term-description/block.json
+msgctxt "block description"
+msgid "Display the description of categories, tags and custom taxonomies when viewing an archive."
+msgstr "檢視彙整頁面時，顯示分類、標籤及自訂分類法的內容說明。"
+
+#: build/block-library/blocks/term-description/block.json
+msgctxt "block title"
+msgid "Term Description"
+msgstr "分類法詞彙內容說明"
+
+#: build/block-library/blocks/post-comments-link/block.json
+msgctxt "block title"
+msgid "Post Comments Link"
+msgstr "文章留言連結"
+
+#: build/block-library/blocks/navigation-link/block.json
+msgctxt "block title"
+msgid "Custom Link"
+msgstr "自訂連結"
+
+#: build/block-library/blocks/loginout/block.json
+msgctxt "block title"
+msgid "Login/out"
+msgstr "登入/登出"
+
+#: build/block-library/blocks/latest-posts.php:141
+#: build/block-library/blocks/latest-posts.php:156
+#: build/block-library/index.js:31216 build/block-library/index.min.js:29773
+msgid "This content is password protected."
+msgstr "這篇內容受到密碼保護。"
+
+#: build/block-library/blocks/navigation-link.php:266
+msgid "Post Format Link"
+msgstr "文章格式連結"
+
+#. translators: 1: Number of comments, 2: post title
+#: build/block-library/blocks/post-comments-link.php:41
+msgid "%1$s comment<span class=\"screen-reader-text\"> on %2$s</span>"
+msgid_plural "%1$s comments<span class=\"screen-reader-text\"> on %2$s</span>"
+msgstr[0] "<span class=\"screen-reader-text\">在〈%2$s〉中</span>有 %1$s 則留言"
+
+#. translators: %s post title
+#: build/block-library/blocks/post-comments-link.php:35
+msgid "No comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">在〈%s〉中</span>尚無留言"
+
+#: build/block-library/blocks/navigation-link.php:267
+msgid "A link to a post format"
+msgstr "可前往文章格式的連結"
+
+#: lib/block-patterns.php:116
+msgctxt "Block pattern title"
+msgid "Offset"
+msgstr "交錯"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:128
+msgctxt "Template name"
+msgid "Single Post"
+msgstr "單篇文章"
+
+#: lib/compat/wordpress-5.9/templates.php:244
+msgid "Skip to content"
+msgstr "跳至主要內容"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:84
+#: build/block-library/index.js:44417 build/block-library/index.min.js:41902
+msgid "The Footer template defines a page area that typically contains site credits, social links, or any other combination of blocks."
+msgstr "[頁尾] 範本定義的頁面區域，通常會包含網站版權宣告、社交網路服務連結或其他多個區塊的組合。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:74
+#: build/block-library/index.js:44408 build/block-library/index.min.js:41892
+msgid "The Header template defines a page area that typically contains a title, logo, and main navigation."
+msgstr "[頁首] 範本定義的頁面區域，通常會包含標題、標誌及主要導覽列。"
+
+#. translators: %s: Template title
+#: lib/compat/wordpress-5.9/block-template.php:71
+msgid "Empty template: %s"
+msgstr "空白範本: %s"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:653
+msgid "Theme file exists."
+msgstr "佈景主題檔案已存在。"
+
+#: lib/compat/wordpress-5.9/class-wp-theme-json-resolver-gutenberg.php:257
+msgid "Custom Styles"
+msgstr "自訂樣式"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:611
+msgid "Source of template"
+msgstr "範本的原始程式碼"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:64
+msgid "General templates often perform a specific role like displaying post content, and are not tied to any particular area."
+msgstr "[一般] 範本通常用於執行指定角色，例如顯示文章內容，且不會與特定區域產生關聯。"
+
+#: lib/compat/wordpress-5.9/widget-render-api-endpoint/class-gb-rest-widget-render-endpoint-polyfill.php:44
+msgid "Current instance settings of the widget."
+msgstr "目前的小工具執行個體設定。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:164
+msgctxt "Template name"
+msgid "Search"
+msgstr "搜尋"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:156
+msgctxt "Template name"
+msgid "Tag"
+msgstr "標籤"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:148
+msgctxt "Template name"
+msgid "Taxonomy"
+msgstr "分類法"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:144
+msgctxt "Template name"
+msgid "Category"
+msgstr "分類"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:140
+msgctxt "Template name"
+msgid "Author"
+msgstr "作者"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:152
+msgctxt "Template name"
+msgid "Date"
+msgstr "日期"
+
+#. translators: %1$s: Template area type, %2$s: the uncategorized template area
+#. value.
+#: lib/compat/wordpress-5.9/block-template-utils.php:209
+msgid "\"%1$s\" is not a supported wp_template_part area value and has been added as \"%2$s\"."
+msgstr "%1$s 不是受支援的 wp_template_part 區域設定值，系統已將 %2$s 加入設定值。"
+
+#: lib/compat/wordpress-5.9/widget-render-api-endpoint/class-gb-rest-widget-render-endpoint-polyfill.php:39
+msgid "The widget type id."
+msgstr "小工具類型 ID。"
+
+#: lib/compat/wordpress-5.9/template-parts.php:82
+msgid "Template Part Area"
+msgstr "範本組件區域"
+
+#: lib/compat/wordpress-5.9/template-parts.php:81
+msgid "Template Part Areas"
+msgstr "範本組件區域"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:677
+msgid "Where the template part is intended for use (header, footer, etc.)"
+msgstr "需要使用範本組件的位置 (例如頁首、頁尾等)"
+
+#: build/block-library/blocks/page-list/block.json
+msgctxt "block title"
+msgid "Page List"
+msgstr "頁面清單"
+
+#: build/block-library/blocks/post-navigation-link.php:34
+msgctxt "label for previous post link"
+msgid "Previous"
+msgstr "上一篇"
+
+#: build/block-library/blocks/post-navigation-link.php:34
+msgctxt "label for next post link"
+msgid "Next"
+msgstr "下一篇"
+
+#: lib/class-wp-rest-url-details-controller.php:114
+msgid "Invalid URL"
+msgstr "無效的網址"
+
+#: lib/class-wp-rest-url-details-controller.php:182
+msgid "Sorry, you are not allowed to process remote urls."
+msgstr "很抱歉，目前的登入身分沒有處理遠端網址的權限。"
+
+#: lib/class-wp-rest-url-details-controller.php:40
+msgid "The URL to process."
+msgstr "需要處理的網址。"
+
+#: lib/class-wp-rest-url-details-controller.php:232
+msgid "Unable to retrieve body from response at this URL."
+msgstr "無法從這個網址的回應擷取內文。"
+
+#: lib/class-wp-rest-url-details-controller.php:226
+msgid "URL not found. Response returned a non-200 status code for this URL."
+msgstr "找不到網址。回應傳回這個網址的非 200 狀態碼。"
+
+#: build/block-library/blocks/template-part/block.json
+msgctxt "block description"
+msgid "Edit the different global regions of your site, like the header, footer, sidebar, or create your own."
+msgstr "編輯這個網站不同的全域區域，例如頁首、頁尾、資訊欄或建立專屬項目。"
+
+#: lib/class-wp-rest-url-details-controller.php:70
+msgid "The contents of the <title> element from the URL."
+msgstr "網址中 <title> 元素的內容。"
+
+#: build/block-library/blocks/query-pagination-previous.php:22
+#: build/block-library/index.js:36100 build/block-library/index.min.js:34296
+msgid "Previous Page"
+msgstr "上一頁"
+
+#: build/block-library/blocks/query-pagination-next.php:23
+#: build/block-library/index.js:35941 build/block-library/index.min.js:34180
+msgid "Next Page"
+msgstr "下一頁"
+
+#. translators: %s: Template part slug.
+#. translators: %s: Template part slug
+#: build/block-library/blocks/template-part.php:118
+#: build/block-library/index.js:44305 build/block-library/index.min.js:42128
+msgid "Template part has been deleted or is unavailable: %s"
+msgstr "已刪除或無法使用的範本組件: %s"
+
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-pattern-directory-controller.php:108
+msgid "https://wordpress.org/support/forums/"
+msgstr "https://wordpress.org/support/forums/"
+
+#. translators: %s: Support forums URL.
+#: lib/compat/wordpress-6.0/class-gutenberg-rest-pattern-directory-controller.php:107
+msgid "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
+msgstr "發生未預期的錯誤，應該是 WordPress.org 或這個網站伺服器的組態發生問題。假如持續發生相同錯誤，請前往<a href=\"%s\" target=\"_blank\">技術支援論壇</a>尋求協助。"
+
+#. translators: Visible only in the front end, this warning takes the place of
+#. a faulty block.
+#: build/block-library/blocks/block.php:35
+#: build/block-library/blocks/post-content.php:33
+#: build/block-library/blocks/template-part.php:126
+msgid "[block rendering halted]"
+msgstr "(區塊轉譯已停止)"
+
+#: build/block-library/blocks/post-featured-image/block.json
+msgctxt "block title"
+msgid "Post Featured Image"
+msgstr "文章精選圖片"
+
+#: build/block-library/blocks/post-excerpt/block.json
+msgctxt "block title"
+msgid "Post Excerpt"
+msgstr "文章內容摘要"
+
+#: build/block-library/blocks/post-date/block.json
+msgctxt "block title"
+msgid "Post Date"
+msgstr "文章發佈日期"
+
+#: build/block-library/blocks/post-comments-form/block.json
+msgctxt "block title"
+msgid "Post Comments Form"
+msgstr "文章留言表單"
+
+#: build/block-library/blocks/post-comments-count/block.json
+msgctxt "block title"
+msgid "Post Comments Count"
+msgstr "文章留言計數"
+
+#: build/block-library/blocks/post-comments/block.json
+msgctxt "block title"
+msgid "Post Comments"
+msgstr "文章留言"
+
+#: build/block-library/blocks/post-author/block.json
+msgctxt "block title"
+msgid "Post Author"
+msgstr "文章作者"
+
+#: build/block-library/blocks/post-content/block.json
+msgctxt "block title"
+msgid "Post Content"
+msgstr "文章內容"
+
+#: build/block-library/blocks/post-title/block.json
+msgctxt "block title"
+msgid "Post Title"
+msgstr "文章標題"
+
+#: build/block-library/blocks/query/block.json
+msgctxt "block title"
+msgid "Query Loop"
+msgstr "查詢迴圈"
+
+#: build/block-library/blocks/template-part/block.json
+msgctxt "block title"
+msgid "Template Part"
+msgstr "範本組件"
+
+#: build/block-library/blocks/site-title/block.json
+msgctxt "block title"
+msgid "Site Title"
+msgstr "網站標題"
+
+#: build/block-library/blocks/site-tagline/block.json
+msgctxt "block title"
+msgid "Site Tagline"
+msgstr "網站說明"
+
+#: build/block-library/blocks/site-logo/block.json
+msgctxt "block title"
+msgid "Site Logo"
+msgstr "網站標誌"
+
+#: build/block-library/blocks/social-link/block.json
+msgctxt "block title"
+msgid "Social Icon"
+msgstr "社交網路服務圖示"
+
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr "社交網路服務圖示"
+
+#: build/block-library/blocks/tag-cloud/block.json
+msgctxt "block title"
+msgid "Tag Cloud"
+msgstr "標籤雲"
+
+#: build/block-library/blocks/video/block.json
+msgctxt "block title"
+msgid "Video"
+msgstr "視訊"
+
+#: build/block-library/blocks/verse/block.json
+msgctxt "block title"
+msgid "Verse"
+msgstr "詩句"
+
+#: build/block-library/blocks/text-columns/block.json
+msgctxt "block title"
+msgid "Text Columns (deprecated)"
+msgstr "文字欄 (已淘汰不用)"
+
+#: build/block-library/blocks/table/block.json
+msgctxt "block title"
+msgid "Table"
+msgstr "表格"
+
+#: build/block-library/blocks/spacer/block.json
+msgctxt "block title"
+msgid "Spacer"
+msgstr "空白間隔"
+
+#: build/block-library/blocks/shortcode/block.json
+msgctxt "block title"
+msgid "Shortcode"
+msgstr "短代碼"
+
+#: build/block-library/blocks/separator/block.json
+msgctxt "block title"
+msgid "Separator"
+msgstr "分隔符號"
+
+#: build/block-library/blocks/group/block.json
+msgctxt "block title"
+msgid "Group"
+msgstr "群組"
+
+#: build/block-library/blocks/search/block.json
+msgctxt "block title"
+msgid "Search"
+msgstr "搜尋"
+
+#: build/block-library/blocks/rss/block.json
+msgctxt "block title"
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/blocks/pullquote/block.json
+msgctxt "block title"
+msgid "Pullquote"
+msgstr "重要引述"
+
+#: build/block-library/blocks/preformatted/block.json
+msgctxt "block title"
+msgid "Preformatted"
+msgstr "未格式化文字"
+
+#: build/block-library/blocks/nextpage/block.json
+msgctxt "block title"
+msgid "Page Break"
+msgstr "分頁符號"
+
+#: build/block-library/blocks/more/block.json
+msgctxt "block title"
+msgid "More"
+msgstr "閱讀全文"
+
+#: build/block-library/blocks/list/block.json
+msgctxt "block title"
+msgid "List"
+msgstr "清單"
+
+#: build/block-library/blocks/latest-posts/block.json
+msgctxt "block title"
+msgid "Latest Posts"
+msgstr "最新文章"
+
+#: build/block-library/blocks/latest-comments/block.json
+msgctxt "block title"
+msgid "Latest Comments"
+msgstr "最新留言"
+
+#: build/block-library/blocks/navigation/block.json
+msgctxt "block title"
+msgid "Navigation"
+msgstr "導覽列"
+
+#: build/block-library/blocks/media-text/block.json
+msgctxt "block title"
+msgid "Media & Text"
+msgstr "媒體及文字"
+
+#: build/block-library/blocks/html/block.json
+msgctxt "block title"
+msgid "Custom HTML"
+msgstr "自訂 HTML"
+
+#: build/block-library/blocks/file/block.json
+msgctxt "block title"
+msgid "File"
+msgstr "檔案"
+
+#: build/block-library/blocks/cover/block.json
+msgctxt "block title"
+msgid "Cover"
+msgstr "封面"
+
+#: build/block-library/blocks/categories/block.json
+msgctxt "block title"
+msgid "Categories"
+msgstr "分類"
+
+#: build/block-library/blocks/calendar/block.json
+msgctxt "block title"
+msgid "Calendar"
+msgstr "月曆"
+
+#: build/block-library/blocks/buttons/block.json
+msgctxt "block title"
+msgid "Buttons"
+msgstr "按鈕組"
+
+#: build/block-library/blocks/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "按鈕"
+
+#: build/block-library/blocks/audio/block.json
+msgctxt "block title"
+msgid "Audio"
+msgstr "音訊"
+
+#: build/block-library/blocks/archives/block.json
+msgctxt "block title"
+msgid "Archives"
+msgstr "彙整"
+
+#: build/block-library/blocks/gallery/block.json
+msgctxt "block title"
+msgid "Gallery"
+msgstr "圖庫"
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block title"
+msgid "Quote"
+msgstr "引文"
+
+#: build/block-library/blocks/heading/block.json
+msgctxt "block title"
+msgid "Heading"
+msgstr "標題"
+
+#: build/block-library/blocks/image/block.json
+msgctxt "block title"
+msgid "Image"
+msgstr "圖片"
+
+#: build/block-library/blocks/paragraph/block.json
+msgctxt "block title"
+msgid "Paragraph"
+msgstr "段落"
+
+#: build/block-library/blocks/missing/block.json
+msgctxt "block title"
+msgid "Unsupported"
+msgstr "不支援"
+
+#: build/block-library/blocks/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "單一欄位"
+
+#: build/block-library/blocks/block/block.json
+msgctxt "block title"
+msgid "Reusable block"
+msgstr "可重複使用區塊"
+
+#: build/block-library/blocks/post-terms/block.json
+msgctxt "block title"
+msgid "Post Terms"
+msgstr "文章分類法詞彙"
+
+#: build/block-library/index.js:7513 build/block-library/index.min.js:6360
+#: build/block-library/blocks/comment-date/block.json
+msgctxt "block title"
+msgid "Comment Date"
+msgstr "留言日期"
+
+#: build/block-library/index.js:7352 build/block-library/index.min.js:6180
+#: build/block-library/blocks/comment-content/block.json
+msgctxt "block title"
+msgid "Comment Content"
+msgstr "留言內容"
+
+#: build/block-library/blocks/columns/block.json
+msgctxt "block title"
+msgid "Columns"
+msgstr "多重欄位"
+
+#: build/block-library/blocks/code/block.json
+msgctxt "block title"
+msgid "Code"
+msgstr "程式碼"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:549
+msgid "No theme is defined for this template."
+msgstr "這個範本尚未定義佈景主題。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:647
+msgid "Post ID."
+msgstr "文章 ID。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:641
+msgid "Status of template."
+msgstr "範本狀態。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:635
+msgid "Description of template."
+msgstr "範本內容說明。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:629
+msgid "Title of template."
+msgstr "範本標題。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:623
+msgid "Content of template."
+msgstr "範本內容。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:606
+msgid "Theme identifier for the template."
+msgstr "範本的佈景主題識別碼。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:598
+msgid "Unique slug identifying the template."
+msgstr "識別範本的唯一代稱。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:368
+msgid "The template has already been deleted."
+msgstr "範本已刪除。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:343
+msgid "Templates based on theme files can't be removed."
+msgstr "使用佈景主題檔案的範本無法刪除。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:216
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:241
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:306
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:340
+msgid "No templates exist with that id."
+msgstr "指定 ID 的範本不存在。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:592
+msgid "ID of template."
+msgstr "範本 ID。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:562
+msgid "Limit to the specified post id."
+msgstr "限制為指定文章 ID。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:70
+#: lib/compat/wordpress-5.9/class-wp-rest-global-styles-controller.php:80
+msgid "The id of a template"
+msgstr "範本 ID。"
+
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:110
+msgid "Sorry, you are not allowed to access the templates on this site."
+msgstr "很抱歉，目前的登入身分沒有在這個網站上存取範本的權限。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:124
+msgctxt "Template name"
+msgid "Singular"
+msgstr "單篇內容"
+
+#: lib/compat/wordpress-5.9/admin-menu.php:77
+msgid "Edit site"
+msgstr "編輯網站"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:172
+msgctxt "Template name"
+msgid "404"
+msgstr "404 錯誤"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:168
+msgid "Privacy Policy"
+msgstr "隱私權政策"
+
+#: lib/compat/wordpress-5.9/templates.php:82 build/core-data/index.js:2132
+msgid "Themes"
+msgstr "佈景主題"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:132
+msgctxt "Template name"
+msgid "Page"
+msgstr "頁面"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:116
+msgctxt "Template name"
+msgid "Home"
+msgstr "首頁"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:120
+msgctxt "Template name"
+msgid "Front Page"
+msgstr "靜態首頁"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:136
+msgctxt "Template name"
+msgid "Archive"
+msgstr "彙整"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:112
+msgctxt "Template name"
+msgid "Index"
+msgstr "索引"
+
+#: lib/class-wp-rest-menu-items-controller.php:91
+#: lib/compat/wordpress-5.9/class-gutenberg-rest-templates-controller.php:90
+msgid "Whether to bypass Trash and force deletion."
+msgstr "是否略過移至回收桶的程序進行強制刪除。"
+
+#: lib/class-wp-rest-menu-items-controller.php:57
+msgid "The password for the post if it is password protected."
+msgstr "文章受到密碼保護時的文章密碼。"
+
+#: lib/class-wp-rest-menu-items-controller.php:940
+msgid "HTML content to display for this block menu item."
+msgstr "用於顯示這個區塊選單項目的 HTML 內容。"
+
+#: lib/full-site-editing/edit-site-page.php:223
+msgid "The ID of the page that should be displayed on the front page"
+msgstr "應該顯示於首頁的頁面 ID"
+
+#: lib/full-site-editing/edit-site-page.php:213
+msgid "What to show on the front page"
+msgstr "要顯示於首頁的項目"
+
+#: build/block-library/blocks/site-logo.php:72
+msgid "Site logo."
+msgstr "網站標誌。"
+
+#: lib/class-wp-rest-menus-controller.php:686
+msgid "Whether to automatically add top level pages to this menu."
+msgstr "是否自動將最上層頁面新增至這個選單。"
+
+#: lib/class-wp-rest-menus-controller.php:242
+msgid "Sorry, you are not allowed to set auto add pages."
+msgstr "很抱歉，目前的登入身分沒有設定自動新增頁面的權限。"
+
+#: lib/class-wp-rest-menu-items-controller.php:960
+msgid "Version of the block format used in the HTML content."
+msgstr "用於 HTML 內容的區塊格式版本。"
+
+#: lib/class-wp-rest-menu-items-controller.php:954
+msgid "HTML content, transformed for display."
+msgstr "用於轉換為顯示用途的 HTML 內容。"
+
+#: lib/class-wp-rest-menu-items-controller.php:524
+msgid "Content required if menu item of type block."
+msgstr "如果選單項目為區塊類型，則為必填內容。"
+
+#: lib/class-wp-rest-menu-items-controller.php:949
+msgid "HTML content, as it exists in the database."
+msgstr "儲存於資料庫中的 HTML 內容。"
+
+#. translators: byline. %s: current author.
+#. translators: %s: the author.
+#: build/block-library/blocks/latest-posts.php:117
+#: build/block-library/blocks/rss.php:60 build/block-library/index.js:21130
+#: build/block-library/index.min.js:19894
+msgid "by %s"
+msgstr "作者: %s"
+
+#: lib/block-patterns.php:14
+msgid "Query"
+msgstr "查詢"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/navigation-theme-opt-in.php:349 build/block-editor/index.js:9182
+#: build/edit-navigation/index.js:2994 build/edit-post/index.js:1335
+#: build/edit-site/index.js:2487 build/edit-widgets/index.js:1267
+#: build/edit-navigation/index.min.js:3050 build/edit-post/index.min.js:1222
+#: build/edit-widgets/index.min.js:1181
+msgid "Content"
+msgstr "內容"
+
+#. translators: accessibility text for the top bar landmark region.
+#: lib/compat/wordpress-5.9/block-template-utils.php:73
+#: build/block-library/index.js:44407 build/edit-navigation/index.js:2991
+#: build/edit-post/index.js:1332 build/edit-site/index.js:2484
+#: build/edit-widgets/index.js:1264 build/block-library/index.min.js:41891
+#: build/edit-navigation/index.min.js:3048 build/edit-post/index.min.js:1220
+#: build/edit-widgets/index.min.js:1179
+msgid "Header"
+msgstr "頁首"
+
+#: lib/experiments-page.php:50
+msgid "Enable Navigation screen"
+msgstr "啟用 [導覽列] 畫面"
+
+#: lib/init.php:37 lib/init.php:38
+msgid "Navigation (beta)"
+msgstr "導覽列 (Beta 版)"
+
+#. translators: ARIA label for the Menu Settings Sidebar tab, not selected.
+#. translators: Text label for the Menu Settings Sidebar tab.
+#. translators: Data label for the Menu Settings Sidebar tab.
+#: build/block-library/blocks/navigation.php:565
+#: build/block-library/index.js:24779 build/block-library/index.js:24789
+#: build/block-library/index.js:25485 build/block-library/index.js:25582
+#: build/core-data/index.js:2084 build/edit-navigation/index.js:3669
+#: build/edit-navigation/index.js:3680 build/edit-navigation/index.js:3682
+#: build/block-library/index.min.js:23408
+#: build/block-library/index.min.js:23424
+#: build/block-library/index.min.js:24407
+#: build/block-library/index.min.js:24571
+#: build/edit-navigation/index.min.js:3809
+#: build/edit-navigation/index.min.js:3827
+#: build/edit-navigation/index.min.js:3831
+msgid "Menu"
+msgstr "選單"
+
+#: lib/navigation.php:37
+msgid "Navigation menus."
+msgstr "導覽選單。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1065
+msgid "Sort collection by object attribute."
+msgstr "依物件屬性為集合進行排序。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1058
+msgid "Order sort attribute ascending or descending."
+msgstr "排序方式屬性為升冪或降冪。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1053
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "將結果集限定為具備指定 menu_order 值的文章。"
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:1019
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "已指派至〈%s〉分類法物件的分類法詞彙。"
+
+#: lib/class-wp-rest-menu-items-controller.php:993
+msgid "The XFN relationship expressed in the link of this menu item."
+msgstr "在這個選單項目連結表示的 XFN 人際關係。"
+
+#: lib/class-wp-rest-menu-items-controller.php:986
+msgid "The URL to which this menu item points."
+msgstr "這個選單項目所指向的網址。"
+
+#: lib/class-wp-rest-menu-items-controller.php:979
+msgid "The singular label used to describe this type of menu item."
+msgstr "用於說明這個選單項目類型的單數標籤。"
+
+#: lib/class-wp-rest-menu-items-controller.php:969
+msgid "The target attribute of the link element for this menu item."
+msgstr "這個選單項目的連結元素目標屬性。"
+
+#: lib/class-wp-rest-menu-items-controller.php:926
+msgid "The type of object originally represented, such as \"category,\" \"post\", or \"attachment.\""
+msgstr "物件初始表示類型，例如 category、post 或 attachment。"
+
+#: lib/class-wp-rest-menu-items-controller.php:909
+msgid "The description of this menu item."
+msgstr "這個選單項目的內容說明。"
+
+#: lib/class-wp-rest-menu-items-controller.php:895
+msgid "Class names for the link element of this menu item."
+msgstr "這個選單項目的連結元素類別名稱。"
+
+#: lib/class-wp-rest-menu-items-controller.php:886
+msgid "Text for the title attribute of the link element for this menu item."
+msgstr "這個選單項目的連結元素 title 屬性文字。"
+
+#: lib/class-wp-rest-menu-items-controller.php:870
+msgid "A named status for the object."
+msgstr "物件的命名狀態。"
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The family of objects originally represented, such as \"post_type\" or \"taxonomy\"."
+msgstr "物件初始表示系列，例如 post_type 或 taxonomy。"
+
+#: lib/class-wp-rest-menu-items-controller.php:855
+msgid "Name of type."
+msgstr "類型名稱。"
+
+#: lib/class-wp-rest-menu-items-controller.php:837
+msgid "HTML title for the object, transformed for display."
+msgstr "物件用於轉換為顯示用途的 HTML 格式標題。"
+
+#: lib/class-wp-rest-menu-items-controller.php:793
+msgid "Get linked object."
+msgstr "取得連結的物件。"
+
+#: lib/class-wp-rest-menu-items-controller.php:532
+msgid "Invalid URL."
+msgstr "無效的網址。"
+
+#: lib/class-wp-rest-menu-items-controller.php:508
+#: lib/full-site-editing/edit-site-page.php:97
+msgid "Invalid post type."
+msgstr "無效的內容類型。"
+
+#: lib/class-wp-rest-menu-items-controller.php:347
+msgid "The post cannot be deleted."
+msgstr "無法刪除這篇文章。"
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menu-items-controller.php:339
+msgid "Menu items do not support trashing. Set '%s' to delete."
+msgstr "選單項目不支援 [回收桶] 功能。請設定為 %s 以刪除。"
+
+#: lib/class-wp-rest-menu-items-controller.php:173
+msgid "Cannot create existing post."
+msgstr "無法新增已存在的文章。"
+
+#: lib/class-wp-rest-menu-items-controller.php:159
+msgid "Sorry, you cannot view these menu items, unless you have access to permission edit them. "
+msgstr "很抱歉，由於目前的登入身分沒有編輯這些選單項目的權限，因此無法檢視這些選單項目。"
+
+#: lib/class-wp-rest-customizer-nonces.php:51
+#: lib/class-wp-rest-menu-items-controller.php:157
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "很抱歉，目前的登入身分沒有在這個內容類型中編輯內容的權限。"
+
+#: lib/class-wp-rest-menu-items-controller.php:141
+msgid "Sorry, you cannot view this menu item, unless you have access to permission edit it. "
+msgstr "很抱歉，由於目前的登入身分沒有編輯這個選單項目的權限，因此無法檢視這個選單項目。"
+
+#: lib/class-wp-rest-menus-controller.php:677
+msgid "The locations assigned to the menu."
+msgstr "指派給選單的位置。"
+
+#: lib/class-wp-rest-menus-controller.php:649
+msgid "Menu location does not exist."
+msgstr "選單位置不存在。"
+
+#: lib/class-wp-rest-menus-controller.php:533
+msgid "The term cannot be deleted."
+msgstr "無法刪除這個分類法詞彙。"
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:523
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "分類法詞彙不支援 [回收桶] 功能。請設定為 %s 以刪除。"
+
+#: lib/class-wp-rest-menus-controller.php:341
+#: lib/class-wp-rest-menus-controller.php:452
+msgid "Parent term does not exist."
+msgstr "上層分類法詞彙不存在。"
+
+#: lib/class-wp-rest-menus-controller.php:335
+#: lib/class-wp-rest-menus-controller.php:446
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "由於不是階層式分類法，因此無法設定上層分類法詞彙。"
+
+#: lib/class-wp-rest-menus-controller.php:210
+msgid "Sorry, you are not allowed to assign the provided locations."
+msgstr "很抱歉，目前的登入身分沒有指派指定位置的權限。"
+
+#: lib/class-wp-rest-menus-controller.php:131
+msgid "Sorry, you cannot view this menu, unless you have access to permission edit it. "
+msgstr "很抱歉，由於目前的登入身分沒有編輯這個選單的權限，因此無法檢視這個選單。"
+
+#: lib/class-wp-rest-menus-controller.php:129
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "很抱歉，目前的登入身分沒有編輯這個分類法詞彙的權限。"
+
+#: lib/class-wp-rest-menus-controller.php:111
+msgid "Sorry, you cannot view these menus, unless you have access to permission edit them. "
+msgstr "很抱歉，由於目前的登入身分沒有編輯這些選單的權限，因此無法檢視這些選單。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1007
+msgid "Whether the menu item represents an object that no longer exists."
+msgstr "選單項目是否代表已不存在的物件。"
+
+#: lib/class-wp-rest-menu-items-controller.php:932
+msgid "The DB ID of the original object this menu item represents, e . g . ID for posts and term_id for categories."
+msgstr "這個選單項目代表的原始物件的資料庫 ID，例如文章 ID 及分類的 term_id。"
+
+#: lib/class-wp-rest-menu-items-controller.php:918
+msgid "The DB ID of the nav_menu_item that is this item's menu parent, if any, otherwise 0."
+msgstr "nav_menu_item 的資料庫 ID。如果有 nav_menu_item，便會是這個項目的上層選單，0 代表沒有。"
+
+#: lib/class-wp-rest-menu-items-controller.php:518
+msgid "URL required if menu item of type custom."
+msgstr "如需自訂類型的選單項目，則必須設定網址。"
+
+#: lib/class-wp-rest-menu-items-controller.php:515
+msgid "Title required if menu item of type custom."
+msgstr "如需自訂類型的選單項目，則必須設定網址。"
+
+#: lib/class-wp-rest-menu-items-controller.php:497
+msgid "Invalid post ID."
+msgstr "無效的文章 ID。"
+
+#: lib/class-wp-rest-menu-items-controller.php:832
+msgid "Title for the object, as it exists in the database."
+msgstr "儲存於資料庫中的物件標題。"
+
+#: lib/class-wp-rest-menus-controller.php:109
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "很抱歉，目前的登入身分沒有在這個分類法中編輯分類法詞彙的權限。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:216
+msgid "The ID of the assigned menu."
+msgstr "指定選單的 ID。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:210
+msgid "The description of the menu location."
+msgstr "選單位置的內容說明。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:204
+msgid "The name of the menu location."
+msgstr "選單位置的名稱。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:116
+#: lib/class-wp-rest-menu-locations-controller.php:132
+#: lib/class-wp-rest-menus-controller.php:217
+msgid "Invalid menu location."
+msgstr "無效的選單位置。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:76
+#: lib/class-wp-rest-menu-locations-controller.php:113
+msgid "Sorry, you are not allowed to view menu locations."
+msgstr "很抱歉，目前的登入身分沒有檢視選單位置的權限。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:50
+msgid "An alphanumeric identifier for the menu location."
+msgstr "由英數字元組成的選單位置識別碼。"
+
+#: build/block-library/blocks/navigation-area/block.json
+#: build/block-library/blocks/navigation/block.json
+#: build/block-library/blocks/social-links/block.json
+msgctxt "block keyword"
+msgid "links"
+msgstr "連結"
+
+#: lib/compat/wordpress-5.9/register-global-styles-cpt.php:23
+#: build/core-data/index.js:2117
+msgid "Global Styles"
+msgstr "全域樣式"
+
+#: lib/compat/wordpress-5.9/block-template.php:87
+msgid "No matching template found."
+msgstr "找不到符合條件的範本。"
+
+#: lib/compat/wordpress-5.9/templates.php:83 build/blocks/index.js:5389
+#: build/edit-site/index.js:7517 build/edit-site/index.js:7571
+msgid "Theme"
+msgstr "佈景主題"
+
+#: lib/experiments-page.php:87
+msgid "The block editor includes experimental features that are useable while they're in development. Select the ones you'd like to enable. These features are likely to change, so avoid using them in production."
+msgstr "區塊編輯器包含多項開發階段可用、但需要手動啟用的實驗性功能；這些實驗性功能有可能會產生變更，因此不建議使用於網站正式內容中。"
+
+#: lib/compat/wordpress-5.9/template-parts.php:46
+msgid "Template parts to include in your templates."
+msgstr "要納入目前範本的範本組件。"
+
+#: lib/compat/wordpress-5.9/template-parts.php:41
+msgid "Template parts list"
+msgstr "範本組件清單"
+
+#: lib/compat/wordpress-5.9/template-parts.php:40
+msgid "Template parts list navigation"
+msgstr "範本組件清單檢視"
+
+#: lib/compat/wordpress-5.9/template-parts.php:39
+msgid "Filter template parts list"
+msgstr "篩選範本組件清單"
+
+#: lib/compat/wordpress-5.9/template-parts.php:38
+msgid "Uploaded to this template part"
+msgstr "已關聯至這個範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:37
+msgid "Insert into template part"
+msgstr "插入至範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:36
+msgid "Template part archives"
+msgstr "範本組件彙整"
+
+#: lib/compat/wordpress-5.9/template-parts.php:35
+msgid "No template parts found in Trash."
+msgstr "在回收桶中找不到符合條件的範本組件。"
+
+#: lib/compat/wordpress-5.9/template-parts.php:34
+msgid "No template parts found."
+msgstr "找不到符合條件的範本組件。"
+
+#: lib/compat/wordpress-5.9/template-parts.php:33
+msgid "Parent Template Part:"
+msgstr "上層範本組件:"
+
+#: lib/compat/wordpress-5.9/template-parts.php:32
+msgid "Search Template Parts"
+msgstr "搜尋範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:31
+msgid "All Template Parts"
+msgstr "全部範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:29
+msgid "View Template Part"
+msgstr "檢視範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:28
+msgid "Edit Template Part"
+msgstr "編輯範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:27
+msgid "New Template Part"
+msgstr "新增範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:26
+msgid "Add New Template Part"
+msgstr "新增範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:25
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "新增範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:24
+msgctxt "Admin Menu text"
+msgid "Template Parts"
+msgstr "範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:23
+#: build/block-library/index.js:43885 build/editor/index.js:5507
+#: build/block-library/index.min.js:41428 build/editor/index.min.js:5294
+msgid "Template Part"
+msgid_plural "Template Parts"
+msgstr[0] "範本組件"
+
+#: lib/compat/wordpress-5.9/template-parts.php:22 build/edit-site/index.js:8712
+msgid "Template Parts"
+msgstr "範本組件"
+
+#. translators: 'navigation' as in website navigation.
+#: lib/experiments-page.php:45 build/block-library/index.js:24072
+#: build/block-library/index.js:24197 build/block-library/index.js:24667
+#: build/edit-navigation/index.js:4521 build/edit-navigation/index.js:4530
+#: build/block-library/index.min.js:22577
+#: build/block-library/index.min.js:22653
+#: build/block-library/index.min.js:23278
+#: build/edit-navigation/index.min.js:4757
+#: build/edit-navigation/index.min.js:4769
+msgid "Navigation"
+msgstr "導覽列"
+
+#: lib/navigation.php:14
+msgid "Navigation Menu"
+msgstr "導覽選單"
+
+#: lib/compat/wordpress-5.9/templates.php:41
+msgid "Templates list"
+msgstr "範本清單"
+
+#: lib/compat/wordpress-5.9/templates.php:40
+msgid "Templates list navigation"
+msgstr "範本清單導覽"
+
+#: lib/compat/wordpress-5.9/templates.php:39
+msgid "Filter templates list"
+msgstr "篩選範本清單"
+
+#: lib/compat/wordpress-5.9/templates.php:38
+msgid "Uploaded to this template"
+msgstr "已關聯至這個範本"
+
+#: lib/compat/wordpress-5.9/templates.php:37
+msgid "Insert into template"
+msgstr "插入至範本"
+
+#: lib/compat/wordpress-5.9/templates.php:36
+msgid "Template archives"
+msgstr "範本彙整"
+
+#: lib/compat/wordpress-5.9/templates.php:35
+msgid "No templates found in Trash."
+msgstr "在回收桶中找不到符合條件的範本。"
+
+#: lib/compat/wordpress-5.9/templates.php:34
+msgid "No templates found."
+msgstr "找不到符合條件的範本。"
+
+#: lib/compat/wordpress-5.9/templates.php:33
+msgid "Parent Template:"
+msgstr "上層範本:"
+
+#: lib/compat/wordpress-5.9/templates.php:32
+msgid "Search Templates"
+msgstr "搜尋範本"
+
+#: lib/compat/wordpress-5.9/templates.php:31
+msgid "All Templates"
+msgstr "全部範本"
+
+#: lib/compat/wordpress-5.9/templates.php:28
+msgid "Edit Template"
+msgstr "編輯範本"
+
+#: lib/compat/wordpress-5.9/templates.php:27
+msgid "New Template"
+msgstr "新增範本"
+
+#: lib/compat/wordpress-5.9/templates.php:26
+msgid "Add New Template"
+msgstr "新增範本"
+
+#: lib/compat/wordpress-5.9/templates.php:25
+msgctxt "Template"
+msgid "Add New"
+msgstr "新增範本"
+
+#: lib/compat/wordpress-5.9/templates.php:24
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "範本"
+
+#. translators: ARIA label for the Template Settings Sidebar tab, not selected.
+#. translators: Text label for the Template Settings Sidebar tab.
+#: lib/compat/wordpress-5.9/templates.php:23 build/edit-post/index.js:4984
+#: build/edit-post/index.js:6549 build/edit-post/index.js:6561
+#: build/edit-post/index.js:6562 build/edit-post/index.js:8080
+#: build/edit-site/index.js:8306 build/edit-site/index.js:8317
+#: build/edit-site/index.js:8319 build/edit-site/index.js:10768
+#: build/edit-site/index.js:11607 build/edit-post/index.min.js:5096
+#: build/edit-post/index.min.js:6818 build/edit-post/index.min.js:6841
+#: build/edit-post/index.min.js:6843 build/edit-post/index.min.js:8522
+msgid "Template"
+msgstr "範本"
+
+#: lib/compat/wordpress-5.9/block-template.php:210
+msgid "No matching template found"
+msgstr "找不到符合條件的範本"
+
+#: lib/compat/wordpress-5.9/templates.php:29
+msgid "View Template"
+msgstr "檢視範本"
+
+#: lib/compat/wordpress-5.9/templates.php:46
+msgid "Templates to include in your theme."
+msgstr "要納入目前使用中的佈景主題的範本。"
+
+#: lib/compat/wordpress-5.9/templates.php:22 build/edit-site/index.js:8704
+msgid "Templates"
+msgstr "範本"
+
+#: lib/init.php:64
+msgid "Experiments Settings"
+msgstr "實驗性功能設定"
+
+#: lib/experiments-page.php:19
+msgid "Experimental settings"
+msgstr "實驗性功能設定"
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:29
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "這個網站沒有任何關於〈%s〉的內容，因此這裡目前沒有內容可供顯示。"
+
+#. translators: accessibility text for the footer landmark region.
+#: lib/compat/wordpress-5.9/block-template-utils.php:83
+#: build/block-library/index.js:44416 build/edit-navigation/index.js:3006
+#: build/edit-post/index.js:1347 build/edit-site/index.js:2499
+#: build/edit-widgets/index.js:1279 build/block-library/index.min.js:41901
+#: build/edit-navigation/index.min.js:3058 build/edit-post/index.min.js:1230
+#: build/edit-widgets/index.min.js:1189
+msgid "Footer"
+msgstr "頁尾"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "發生錯誤。這項錯誤代表這個資訊提供已失效，請稍後再試。"
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "RSS 錯誤:"
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:45 build/block-editor/index.js:21216
+#: build/block-editor/index.js:22278 build/block-editor/index.js:22398
+#: build/block-library/index.js:38023 build/block-library/index.js:38024
+#: build/components/index.js:63090 build/block-library/index.min.js:35646
+msgid "Search"
+msgstr "搜尋"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:160
+#: build/block-editor/index.js:42550 build/blocks/index.js:5380
+#: build/core-data/index.js:2017
+msgid "Media"
+msgstr "媒體"
+
+#: build/block-library/blocks/freeform/block.json
+msgctxt "block title"
+msgid "Classic"
+msgstr "傳統編輯器"
+
+#: build/block-library/index.js:11719 build/block-library/index.min.js:11052
+#: build/block-library/blocks/embed/block.json
+msgctxt "block title"
+msgid "Embed"
+msgstr "嵌入內容"
+
+#: build/block-library/blocks/quote/block.json
+msgctxt "block description"
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "賦予引文視覺強調效果。「引用他人的說法，是為了加強自己的論述。」－胡利奧·科塔薩爾"
+
+#: build/block-library/blocks/heading/block.json
+msgctxt "block description"
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "介紹新章節並協助讀者 (及搜尋引擎) 了解內容的組織方式。"
+
+#: lib/compat/wordpress-5.9/block-template-utils.php:63
+#: build/edit-post/index.js:4925 build/edit-post/index.min.js:4971
+msgid "General"
+msgstr "一般"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "尚無彙整可供顯示。"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "美麗的風景"
+
+#: build/block-library/blocks/block/block.json
+msgctxt "block description"
+msgid "Create and save content to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "建立內容並儲存為可重複使用區塊，便能在網站上重複使用。更新可重複使用區塊的內容後，這些變更會套用至全部使用到該區塊的地方。"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg 撰於 2017 年"
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "與引文來源對應的資訊，是類似圖片下方圖說的個別文字欄位；因此即使進行選取、修改或移除來源，引文結構仍會受到保護，要將它再次加入也非常簡單。"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "多樣化的媒體檔案呈現方式"
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "協助工具相當重要 &mdash; 請記得填寫圖片替代文字屬性"
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "當然，全幅寬度圖片會以相當大的尺寸顯示，但的確適合呈現某些圖片。"
+
+#: post-content.php:159 build/block-library/index.js:18400
+#: build/block-library/index.min.js:16927
+msgid "Code is Poetry"
+msgstr "程式碼，如詩"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "WordPress 社群"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "協助建置 Gutenberg"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "感謝加入測試 Gutenberg 的行列"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "透過這個編輯器，便可建立頁面及文章，而這兩者均能輕鬆建置出呈現多樣化內容、具備能使用短代碼、自訂 HTML 或常用嵌入內容區塊的使用體驗。"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "如果目前使用的佈景主題整合了圖庫圖片的 <strong>[寬幅寬度]</strong> 及 <strong>[全幅寬度]</strong> 顯示方式，作者便能非常快速地建立具有多樣化媒體檔案呈現方式的版面配置："
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "上方是個只有兩張圖片的圖庫。這是能夠更輕易建立引人注意版面配置的方式，而無需處理其他細節。如有需要，還可以使用區塊切換程式輕鬆地將圖庫轉換成一張張的單張圖片。"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "任何區塊均具備對齊設定，下方嵌入內容的區塊亦同，且嵌入內容後會立即具備回應式設計。"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "作者可以使用任何自己喜好的區塊，無論是靜態或動態、具備裝飾樣式或純文字。以下便以重要引述區塊作為示範。"
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "區塊可以滿足任何寫作需求。舉例來說，作者或許會想要加入低調的引文作為內容的一部份，或是偏好顯示一個大型風格化的引文，而區塊插入器提供了全部相關設定。"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "作者可拖曳位於資訊欄中區塊偵測器的滑桿，藉以變更圖庫的欄位設定。"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "如想進一步了解如何建置其他區塊的相關資訊，或是有興趣協助這個專案，請造訪 <a href=\"%s\" target=\"_blank\">GitHub 存放庫</a>。"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "歡迎使用 Gutenberg 編輯器"
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "有如山脈般壯觀的印刷機"
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "開發這款新式編輯器的目標，是為了在 WordPress 加入豐富內容時變得簡單而有趣。使用 Gutengerg 編輯器編輯內容，整篇內容會由類似樂高積木的<strong>塊狀內容</strong>所組成，作者可以移動這些塊狀內容並與之互動。移動游標的同時，應該會注意到不同的區塊會以外框及箭號加以標示；按下箭號即可快速重新排列區塊位置，且不必擔心會因為複製及貼上的操作而遺失內容。"
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "目前正在閱讀的是<strong>段落區塊</strong>，這是最基本的區塊；段落區塊有自有的控制項，可隨意移動文字內容位置..."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "...就如同這個區塊，文字內容為靠右對齊。"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "[標題] 是有助於呈現內容大綱及組織的獨立區塊。"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "一圖勝千文"
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "以最嚴謹的方式處理圖片及媒體檔案是新版編輯器的主要重點。希望作者們會發現加入圖說或全幅寬度圖片的方式，比以往更容易也更完整。"
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "如果使用中的佈景主題支援這項功能，便會在圖片工具列出現 [寬幅寬度] 及 [全幅寬度] 按鈕。請試試這項功能的效果。"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "請試著選取、移除或編輯圖說，而不必再擔心因為犯錯或毀損內容而必須小心翼翼的選取圖片或文字。"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "段落及標題"
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "可嵌入第三方內容，例如 YouTube 影片、Twitter 的推文或其他 WordPress 網站的文章。"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "提供各式版面配置區塊，例如按鈕、宣傳圖片、分隔符號等等。"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "以及以<strong>清單</strong>區塊所製作的這份範例清單 :)"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "視覺化的編輯方式"
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "區塊的明顯優勢就是作者可以就地編輯並直接控制內容。作者可以直接修改內容，而不是透過欄位編輯引文來源或按鈕文字等內容。請試著編輯以下引文："
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "請試著插入區塊，便會發現 WordPress 已在內容中加入之前未見過的元件。這是目前這篇示範內容中用到區塊的簡短清單："
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "圖片及視訊"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "圖庫"
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "區塊插入器工具"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "想像一下，在同一處介面中便可以快速完成 WordPress 可以做的一切，無須了解 HTML 標籤、類別或記住複雜的短代碼語法。在編輯器中隨處可見的 <code>(+)</code> 按鈕，可讓作者瀏覽全部可用的內容區塊，並將它們加入內容中，這就是區塊插入器的運作方式。外掛及佈景主題透過註冊，為多樣化的編輯及發佈拓展了各種可能性。"
+
+#: lib/class-wp-rest-menu-items-controller.php:67
+#: lib/class-wp-rest-menu-items-controller.php:846
+msgid "Unique identifier for the object."
+msgstr "物件的唯一識別碼。"
+
+#: lib/class-wp-rest-menu-items-controller.php:821
+msgid "The title for the object."
+msgstr "物件的標題。"
+
+#: build/block-library/blocks/archives.php:27
+msgid "Archives"
+msgstr "彙整"
+
+#: build/block-library/blocks/latest-comments.php:142
+msgid "No comments to show."
+msgstr "尚無留言可供顯示。"
+
+#: lib/init.php:48 lib/init.php:49
+msgid "Support"
+msgstr "技術支援"
+
+#: build/block-library/blocks/archives.php:49
+msgid "Select Year"
+msgstr "選取年份"
+
+#: build/block-library/blocks/archives.php:52
+msgid "Select Month"
+msgstr "選取月份"
+
+#: build/block-library/blocks/archives.php:55
+msgid "Select Day"
+msgstr "選取日期"
+
+#: build/block-library/blocks/archives.php:58
+msgid "Select Week"
+msgstr "選取週次"
+
+#: build/block-library/blocks/archives.php:61
+msgid "Select Post"
+msgstr "選取文章"
+
+#: lib/init.php:51
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg/"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:100
+msgid "%1$s on %2$s"
+msgstr "「%1$s」於〈%2$s〉發佈留言"
+
+#: lib/init.php:87
+msgid "beta"
+msgstr "Beta 版"
+
+#: lib/class-wp-rest-menu-items-controller.php:878
+msgid "The ID for the parent of the object."
+msgstr "物件的上層項目 ID。"
+
+#: lib/class-wp-rest-menu-items-controller.php:489
+msgid "Invalid term ID."
+msgstr "無效的項目 ID。"
+
+#: build/block-library/blocks/embed/block.json
+msgctxt "block description"
+msgid "Add a block that displays content pulled from other sites, like Twitter or YouTube."
+msgstr "加入可從 Twitter 或 YouTube 等網站擷取並顯示內容的區塊。"
+
+#: build/block-library/blocks/comment-edit-link.php:42
+#: build/block-editor/index.js:41407 build/block-editor/index.js:42209
+#: build/block-editor/index.js:44687 build/block-library/index.js:7718
+#: build/block-library/index.js:29059 build/block-library/index.js:29061
+#: build/block-library/index.js:45469 build/edit-navigation/index.js:3943
+#: build/edit-post/index.js:7926 build/block-library/index.min.js:6490
+#: build/block-library/index.min.js:27858
+#: build/block-library/index.min.js:27859
+#: build/block-library/index.min.js:43026
+#: build/edit-navigation/index.min.js:4134 build/edit-post/index.min.js:8335
+msgid "Edit"
+msgstr "編輯"
+
+#: build/block-library/blocks/categories.php:34
+#: build/block-library/index.js:4871 build/block-library/index.js:4909
+#: build/components/index.js:65358 build/block-library/index.min.js:3788
+#: build/block-library/index.min.js:3847
+msgid "Categories"
+msgstr "分類"
+
+#: build/block-library/blocks/read-more.php:24
+#: build/block-library/index.js:21111 build/block-library/index.js:23570
+#: build/block-library/index.js:37205 build/block-library/index.min.js:19853
+#: build/block-library/index.min.js:22049
+#: build/block-library/index.min.js:35308
+msgid "Read more"
+msgstr "閱讀全文"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:66
+#: build/block-library/blocks/rss.php:31 build/block-library/index.js:21126
+#: build/core-data/index.js:5952 build/edit-navigation/index.js:1854
+#: build/edit-post/index.js:7810 build/editor/index.js:9854
+#: build/block-library/index.min.js:19888
+#: build/edit-navigation/index.min.js:1833 build/edit-post/index.min.js:8199
+#: build/editor/index.min.js:10101
+msgid "(no title)"
+msgstr "(無標題)"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#. translators: Data label for the Block Settings Sidebar tab.
+#: lib/navigation-theme-opt-in.php:91 lib/navigation-theme-opt-in.php:96
+#: build/edit-navigation/index.js:3672 build/edit-navigation/index.js:3687
+#: build/edit-navigation/index.js:3689 build/edit-post/index.js:6548
+#: build/edit-post/index.js:6567 build/edit-post/index.js:6569
+#: build/edit-site/index.js:8309 build/edit-site/index.js:8324
+#: build/edit-site/index.js:8326 build/edit-widgets/index.js:3420
+#: build/edit-navigation/index.min.js:3816
+#: build/edit-navigation/index.min.js:3841
+#: build/edit-navigation/index.min.js:3845 build/edit-post/index.min.js:6813
+#: build/edit-post/index.min.js:6853 build/edit-post/index.min.js:6857
+#: build/edit-widgets/index.min.js:3524
+msgid "Block"
+msgstr "區塊"
+
+#: lib/init.php:65
+msgid "Experiments"
+msgstr "實驗性功能"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "西方活字印刷術始於 1440 年。這是核心程式中新式區塊編輯器的開發版外掛。"
+
+#: gutenberg.php:43
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/HEAD/docs/contributors/code/getting-started-with-code-contribution.md\">contributing</a> file for more information."
+msgstr "Gutenberg 開發模式需要特定檔案才能建置。執行 <code>npm install</code> 以安裝相依性元件、執行 <code>npm run build</code> 以建置檔案，或執行 <code>npm run dev</code> 以建置檔案並檢視變更。如需進一步了解詳細資訊，請參閱〈<a href=\"https://github.com/WordPress/gutenberg/blob/HEAD/docs/contributors/code/getting-started-with-code-contribution.md\" target=\"_blank\">Getting Started With Code Contribution</a>〉這份文件。"
+
+#: build/block-library/blocks/categories.php:33
+msgid "Select Category"
+msgstr "選取分類"
+
+#: lib/init.php:27 lib/init.php:28
+msgid "Demo"
+msgstr "示範內容"
+
+#: lib/init.php:55 lib/init.php:56
+msgid "Documentation"
+msgstr "線上說明"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg 團隊"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:30
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg 需要 WordPress %s 或更新版本才能正確執行。請在啟用 Gutenberg 前先為 WordPress 進行升級。"

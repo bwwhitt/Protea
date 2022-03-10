@@ -1,0 +1,261 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page"
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "footer": "social",
+                "secondary": "primary",
+                "primary": "primary"
+            },
+            "header_textcolor": "303030",
+            "background_color": "ffffff",
+            "background_image": "",
+            "background_repeat": "repeat",
+            "background_position_x": "left",
+            "background_attachment": "scroll",
+            "edin_menu_style": "default",
+            "edin_sidebar_position": "right",
+            "edin_thumbnail_style": "landscape",
+            "edin_search_header": true,
+            "edin_title_front_page": false,
+            "edin_featured_page_one_front_page": "_hs_about_page",
+            "edin_featured_page_two_front_page": "_hs_contact_page",
+            "edin_featured_page_three_front_page": "_hs_blog_page",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "link": "#1279be"
+                }
+            },
+            "header_image": "remove-header",
+            "edin_breadcrumbs": false,
+            "edin_featured_image_remove_filter": false
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [
+                "edin_featured_page_one_front_page",
+                "edin_featured_page_two_front_page",
+                "edin_featured_page_three_front_page"
+            ]
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "Sidopanels-textwidget",
+                "text": "Det här är en textwidget. Det här är en textwidget som gör att du kan lägga till text eller HTML i din sidopanel. Du kan använda en textwidget för att visa text, länkar, bilder, HTML eller en kombination av dessa. Redigera dem i widgetavsnittet i <a href=\"https://wordpress.com/customize/\">Anpassa</a>."
+            },
+            "sidebar": "sidebar-1",
+            "position": 1
+        },
+        {
+            "id": "widget_contact_info-2",
+            "id_base": "widget_contact_info",
+            "settings": {
+                "title": "Plats",
+                "address": "1-4 Langley Court\nLondon WC2E 9JY\nStorbritannien",
+                "phone": "0102030456789",
+                "hours": "",
+                "lat": 51.5126373,
+                "lon": -0.1246993,
+                "showmap": 1
+            },
+            "sidebar": "sidebar-2",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Textwidget",
+                "text": "Det här är en textwidget. Det här är en textwidget som gör att du kan lägga till text eller HTML i din sidopanel. Du kan använda en textwidget för att visa text, länkar, bilder, HTML eller en kombination av dessa. Redigera dem i widgetavsnittet i <a href=\"https://wordpress.com/customize/\">Anpassa</a>."
+            },
+            "sidebar": "sidebar-3",
+            "position": 0
+        },
+        {
+            "id": "nav_menu-2",
+            "id_base": "nav_menu",
+            "settings": {
+                "title": "Sidfot tre menywidget",
+                "nav_menu": "primary"
+            },
+            "sidebar": "sidebar-4",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "Startsida ett textwidget",
+                "text": "Det här är en textwidget. Det här är en textwidget som gör att du kan lägga till text eller HTML i din sidopanel. Du kan använda en textwidget för att visa text, länkar, bilder, HTML eller en kombination av dessa. Redigera dem i widgetavsnittet i <a href=\"https://wordpress.com/customize/\">Anpassa</a>."
+            },
+            "sidebar": "sidebar-5",
+            "position": 0
+        },
+        {
+            "id": "text-5",
+            "id_base": "text",
+            "settings": {
+                "title": "Startsida två textwidget",
+                "text": "Det här är en textwidget. Det här är en textwidget som gör att du kan lägga till text eller HTML i din sidopanel. Du kan använda en textwidget för att visa text, länkar, bilder, HTML eller en kombination av dessa. Redigera dem i widgetavsnittet i <a href=\"https://wordpress.com/customize/\">Anpassa</a>."
+            },
+            "sidebar": "sidebar-6",
+            "position": 0
+        },
+        {
+            "id": "recent-posts-2",
+            "id_base": "recent-posts",
+            "settings": {
+                "title": "Sidfot tre menywidget"
+            },
+            "sidebar": "sidebar-7",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "Hem",
+            "post_content": "Välkommen till din nya webbplats!  Du kan ändra denna sida genom att klicka på länken Redigera.  För mer information om anpassning av din webbplatse kan du kolla in <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>",
+            "post_excerpt": "Det här är startsidans utdrag",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://edindemo.files.wordpress.com/2014/07/homepage11.jpg",
+            "page_template": "page-templates/front-page.php"
+        },
+        {
+            "post_title": "Om",
+            "post_content": "Det här är ett exempel på en \"om\"-sida. Till skillnad från inlägg är sidor bättre lämpade för mer tidlöst innehåll som du vill ha lättillgängligt, som Om eller Kontaktinformation. Klicka på Redigera-länken om du vill göra ändringar på sidan eller <a href=\"https://wordpress.com/page\">lägga till ytterligare en sida</a>.",
+            "post_excerpt": "Det här är bara en kort utdrag för om-sidan&nbsp;.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101,
+            "attachment_url": "https://edindemo.files.wordpress.com/2016/06/grid1.jpg"
+        },
+        {
+            "post_title": "Kontakta oss",
+            "post_content": "Det här är en kontaktsida med lite grundläggande kontaktinformation och ett kontaktformulär. [contact-form][contact-field label=\"Namn\" type=\"name\" required=\"1\"/][contact-field label=\"E-post\" type=\"email\" required=\"1\"/][contact-field label=\"Webbsida\" type=\"url\"/][contact-field label=\"Kommentar\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "Det här är bara en kort utdrag för kontaktsidan&nbsp;.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102,
+            "attachment_url": "https://edindemo.files.wordpress.com/2016/06/full-width1.jpg"
+        },
+        {
+            "post_title": "Blogg",
+            "post_content": "Det här är den sida där användarna hittar din webbplats blogg",
+            "post_excerpt": "Det här är bara ett kort utdrag om din blogg.",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "Första blogginlägget",
+            "post_content": "Det här är ditt allra första inlägg. Klicka på Redigera-länken om du vill ändra eller ta bort det eller <a href=\"https://wordpress.com/post\">skriv ett nytt inlägg</a>. Om du vill kan du använda det här inlägget till att berätta för dina läsare om varför du startade din blogg och vad du tänker göra med den.",
+            "post_excerpt": "Det här är utdraget för ditt allra första inlägg.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://edindemo.files.wordpress.com/2016/06/alternate-sidebar1.jpg"
+        }
+    ],
+    "menus": {
+        "social": {
+            "name": "Sociala medier",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 105,
+                    "menu-item-object-id": "105",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 106,
+                    "menu-item-object-id": "106",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 108,
+                    "menu-item-object-id": "108",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://pinterest.com"
+                },
+                {
+                    "menu-item-title": "LinkedIn",
+                    "menu-item-db-id": 107,
+                    "menu-item-object-id": "107",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://linkedin.com"
+                }
+            ]
+        }
+    }
+}

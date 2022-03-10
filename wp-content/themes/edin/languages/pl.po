@@ -1,0 +1,525 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Edin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:28:43+00:00\n"
+"PO-Revision-Date: 2017-03-23 06:55:46+0000\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:269
+msgid "Blue"
+msgstr "Niebieski"
+
+#: inc/wpcom-colors.php:261
+msgid "Grey"
+msgstr "Szary"
+
+#: inc/wpcom-colors.php:253
+msgid "Teal"
+msgstr "Cyraneczka"
+
+#: inc/wpcom-colors.php:245
+msgid "Purple"
+msgstr "Purpurowy"
+
+#: inc/wpcom-colors.php:237
+msgid "Green"
+msgstr "Zielony"
+
+#: inc/wpcom-colors.php:229
+msgid "Red"
+msgstr "Czerwony"
+
+#: inc/wpcom-colors.php:11
+msgid "Background"
+msgstr "Tło"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:171
+msgid "Tagged"
+msgstr "Otagowane"
+
+#: inc/template-tags.php:40
+msgid "Newer testimonials <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nowsze referencje <span class=\"meta-nav\">&rarr;</span> "
+
+#: inc/template-tags.php:28
+msgid "<span class=\"meta-nav\">&larr;</span> Older testimonials"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starsze referencje"
+
+#: inc/customizer.php:165
+msgid "Show 2 random testimonials on the Front Page Template "
+msgstr "Pokaż 2 losowe referencje w szablonie strony głównej"
+
+#: content-hero.php:20
+msgid "Testimonials"
+msgstr "Referencje"
+
+#: functions.php:306
+#: functions.php:322
+msgid "collapse child menu"
+msgstr "zwiń menu potomne"
+
+#: functions.php:305
+#: functions.php:321
+msgid "expand child menu"
+msgstr "rozwiń menu potomne"
+
+#. translators: %s: Name of current post. Visible to screen readers only.
+#. translators: %s: Name of current post
+#: content.php:28
+#: inc/extras.php:161
+msgid "Continue reading %s"
+msgstr "Czytaj dalej %s"
+
+#. translators: %s: Name of page. Visible to screen readers only.
+#: content-grid.php:19
+msgid "Read more %s"
+msgstr "Czytaj dalej %s"
+
+#: inc/customizer.php:79
+msgid "Pages: Show breadcrumb navigation"
+msgstr "Strony: pokaż nawigację okruszkową (breadcrumb)"
+
+#: inc/customizer.php:93
+msgid "Featured Image: remove filter"
+msgstr "Ikona wpisu: usuń filtr"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/edin/page-templates/grid-page.php
+msgid "Grid Page"
+msgstr "Strona w widoku siatki"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/edin/page-templates/full-width-page.php
+msgid "Full Width Page"
+msgstr "Pełna szerokość strony"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/edin/page-templates/front-page.php
+msgid "Front Page"
+msgstr "Strona główna"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/edin/page-templates/alternate-sidebar-page.php
+msgid "Alternate Sidebar Page"
+msgstr "Strona alternatywnego paska bocznego"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/edin/style.css
+msgid "Edin is a modern responsive business and corporate theme that helps you to create a strong--yet beautiful--online presence for your business."
+msgstr "Edin jest nowoczesnym, responsywnym motywem oferującym styl odpowiedni dla firm i korporacji. Pomoże Ci stworzyć mocną, ale również piękną, wizytówkę Twojej firmy w sieci."
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla zapytania &#8222;%s&#8221;"
+
+#: inc/template-tags.php:176
+msgid "% Comments"
+msgstr "% komentarzy"
+
+#: inc/template-tags.php:176
+msgid "1 Comment"
+msgstr "1 komentarz"
+
+#: inc/template-tags.php:176
+msgid "Leave a comment"
+msgstr "Dodaj komentarz"
+
+#: inc/template-tags.php:167
+msgid "Posted in %1$s"
+msgstr "Zamieszczone w %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:165
+#: inc/template-tags.php:171
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:160
+msgid "All %s posts"
+msgstr "Wszystkie posty typu %s"
+
+#: inc/template-tags.php:103
+msgctxt "post author"
+msgid "by %s"
+msgstr "przez %s"
+
+#: inc/template-tags.php:98
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Opublikowane %s"
+
+#: inc/template-tags.php:72
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:71
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> &bdquo;%title&rdquo;"
+
+#: inc/template-tags.php:68
+msgid "Post navigation"
+msgstr "Zobacz wpisy"
+
+#: inc/template-tags.php:42
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nowsze wpisy <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:30
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starsze wpisy"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Nawigacja po wpisach"
+
+#: inc/extras.php:104
+msgid "Page %s"
+msgstr "Strona %s."
+
+#: inc/customizer.php:153
+msgid "Front Page: Featured Page Three"
+msgstr "Strona główna: wyróżniona strona #3"
+
+#: inc/customizer.php:141
+msgid "Front Page: Featured Page Two"
+msgstr "Strona główna: wyróżniona strona #2"
+
+#: inc/customizer.php:129
+msgid "Front Page: Featured Page One"
+msgstr "Strona główna: wyróżniona strona #1"
+
+#: inc/customizer.php:117
+msgid "Front Page: Show title"
+msgstr "Strona główna: pokaż tytuł"
+
+#: inc/customizer.php:105
+msgid "Header: Show search form"
+msgstr "Nagłówek: pokaż formularz wyszukiwania"
+
+#: inc/customizer.php:68
+msgid "Square (1:1)"
+msgstr "Kwadrat (1:1)"
+
+#: inc/customizer.php:67
+msgid "Landscape (4:3)"
+msgstr "Panoramiczny (4:3)"
+
+#: inc/customizer.php:62
+msgid "Thumbnail Aspect Ratio"
+msgstr "Proporcje miniatur"
+
+#: inc/customizer.php:52
+msgid "Right"
+msgstr "Do prawej"
+
+#: inc/customizer.php:51
+msgid "Left"
+msgstr "Do lewej"
+
+#: inc/customizer.php:46
+msgid "Sidebar Position"
+msgstr "Pozycja paska bocznego"
+
+#: inc/customizer.php:35
+msgid "Classic"
+msgstr "Klasyczny"
+
+#: inc/customizer.php:34
+msgid "Default"
+msgstr "Domyślny"
+
+#: inc/customizer.php:29
+msgid "Menu Style"
+msgstr "Styl menu"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+#: header.php:91
+msgid "Search"
+msgstr "Szukaj"
+
+#: header.php:60
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Przeskocz do treści"
+
+#. translators: To add an additional PT Mono character subset specific to your
+#. language, translate this to 'cyrillic'. Do not translate into your own
+#. language.
+#: functions.php:266
+msgctxt "PT Mono font: add new subset (cyrillic)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. * by PT Mono, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:262
+msgctxt "PT Mono font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional PT Serif character subset specific to your
+#. language, translate this to 'cyrillic'. Do not translate into your own
+#. language.
+#: functions.php:234
+msgctxt "PT Serif font: add new subset (cyrillic)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. * by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:230
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: To add an additional PT Sans character subset specific to your
+#. language, translate this to 'cyrillic'. Do not translate into your own
+#. language.
+#: functions.php:202
+msgctxt "PT Sans font: add new subset (cyrillic)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. * by PT Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:198
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:178
+msgid "Use this widget area to display widgets in the third column of your Front Page"
+msgstr "Użyj tego obszaru widżetów, aby wyświetlić widżety w trzeciej kolumnie Twojej strony głównej"
+
+#: functions.php:176
+msgid "Front Page Three"
+msgstr "Strona główna #3"
+
+#: functions.php:169
+msgid "Use this widget area to display widgets in the second column of your Front Page"
+msgstr "Użyj tego obszaru widżetów, aby wyświetlić widżety w drugiej kolumnie Twojej strony głównej"
+
+#: functions.php:167
+msgid "Front Page Two"
+msgstr "Strona główna #2"
+
+#: functions.php:160
+msgid "Use this widget area to display widgets in the first column of your Front Page"
+msgstr "Użyj tego obszaru widżetów, aby wyświetlić widżety w pierwszej kolumnie Twojej strony głównej"
+
+#: functions.php:158
+msgid "Front Page One"
+msgstr "Strona główna #1"
+
+#: functions.php:151
+msgid "Use this widget area to display widgets in the third column of the footer"
+msgstr "Użyj tego obszaru widżetów, aby wyświetlić widżety w trzeciej kolumnie stopki"
+
+#: functions.php:149
+msgid "Footer Three"
+msgstr "Stopka #3"
+
+#: functions.php:142
+msgid "Use this widget area to display widgets in the second column of the footer"
+msgstr "Użyj tego obszaru widżetów, aby wyświetlić widżety w drugiej kolumnie stopki"
+
+#: functions.php:140
+msgid "Footer Two"
+msgstr "Stopka #2"
+
+#: functions.php:133
+msgid "Use this widget area to display widgets in the first column of the footer"
+msgstr "Użyj tego obszaru widżetów, aby wyświetlić widżety w pierwszej kolumnie stopki"
+
+#: functions.php:131
+msgid "Footer One"
+msgstr "Stopka #1"
+
+#: functions.php:123
+msgid "Sidebar"
+msgstr "Panel boczny"
+
+#: functions.php:69
+msgid "Footer Menu"
+msgstr "Menu w stopce"
+
+#: functions.php:68
+msgid "Secondary Menu"
+msgstr "Menu podrzędne"
+
+#: functions.php:67
+msgid "Primary Menu"
+msgstr "Menu główne"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "Motyw: %1$s. Autor motywu: %2$s."
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Dumnie wspierane przez WordPressa"
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie udało się znaleźć tego, czego szukasz. Być może wyszukiwanie przyniesie lepsze rezultaty."
+
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Przykro nam, ale nie znaleziono niczego na podstawie wpisanych terminów. Spróbuj ponownie używając innych słów kluczowych."
+
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotowy do publikacji swojego pierwszego postu? <a href=\"%1$s\">Zacznij tutaj</a>."
+
+#: content-hero.php:42
+#: content-page.php:15
+#: content-single.php:23
+#: content.php:33
+msgid "Pages:"
+msgstr "Strony:"
+
+#: content-grid.php:24
+#: content-hero.php:49
+#: content-page.php:23
+#: content-testimonial.php:20
+#: eventbrite/eventbrite-index.php:52
+#: eventbrite/eventbrite-single.php:37
+#: inc/template-tags.php:180
+msgid "Edit"
+msgstr "Edytuj"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Możliwość komentowania jest wyłączona."
+
+#: comments.php:47
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nowsze komentarze <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:46
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starsze komentarze"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Nawigacja po komentarzach"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna uwaga do wpisu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s uwagi do wpisu &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s uwag do wpisu &ldquo;%2$s&rdquo;"
+
+#: archive.php:81
+#: search.php:20
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#: archive.php:64
+msgid "Archives"
+msgstr "Archiwa"
+
+#: archive.php:61
+msgid "Chats"
+msgstr "Konwersacje"
+
+#: archive.php:58
+msgid "Audios"
+msgstr "Dźwięki"
+
+#: archive.php:55
+msgid "Statuses"
+msgstr "Stany"
+
+#: archive.php:52
+msgid "Links"
+msgstr "Odnośniki"
+
+#: archive.php:49
+msgid "Quotes"
+msgstr "Cytaty"
+
+#: archive.php:46
+msgid "Videos"
+msgstr "Filmy"
+
+#: archive.php:43
+msgid "Images"
+msgstr "Obrazki"
+
+#: archive.php:40
+msgid "Galleries"
+msgstr "Galerie"
+
+#: archive.php:37
+msgid "Asides"
+msgstr "Treści poboczne"
+
+#: archive.php:34
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:34
+msgid "Year: %s"
+msgstr "Rok: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:31
+msgid "Month: %s"
+msgstr "Miesiąc: %s"
+
+#: archive.php:28
+msgid "Day: %s"
+msgstr "Dzień: %s"
+
+#: archive.php:25
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:45
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Spróbuj poszukać w miesięcznych archiwach. %1$s"
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr "Popularne kategorie"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Wygląda, że nic nie ma pod tym adresem. Może spróbuj któryś z poniższych linków lub skorzystaj z wyszukiwarki?"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ojej! Nie można znaleźć tej strony."

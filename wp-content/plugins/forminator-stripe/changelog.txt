@@ -1,0 +1,20 @@
+Plugin Name: Forminator Stripe Add-on
+Author: WPMUDEV
+
+Change Log:
+----------------------------------------------------------------------
+
+= 1.0.2 ( 2021-10-27 ) =
+
+- Improvement: add a new language project for stripe add-on
+
+= 1.0.1 ( 2021-10-19 ) =
+
+- Fix: Live Stripe mode is not working
+
+= 1.0 ( 2021-08-12 ) =
+
+- First public release
+
+
+926439-1638343836-ai

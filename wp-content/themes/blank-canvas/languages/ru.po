@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Blank-canvas\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-30T01:16:05+00:00\n"
+"PO-Revision-Date: 2021-07-29 10:40:45+0000\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/customizer.php:167
+msgid "Your logo will not be shown on all posts and pages. To display your logo, follow the instructions above to enable your site header."
+msgstr "Ваш логотип не будет отображаться в записях или на страницах. Чтобы отобразить свой логотип, следуйте приведённым выше инструкциям по включению заголовка сайта."
+
+#: inc/wpcom.php:263
+msgid "SUBSCRIBE"
+msgstr "ПОДПИСАТЬСЯ"
+
+#: inc/wpcom.php:259
+msgid "We’re launching soon. Be the first to sign up!"
+msgstr "Мы скоро запускаемся. Зарегистрируйтесь первым!"
+
+#: inc/wpcom.php:255
+msgid "A new app for designers"
+msgstr "Новое приложение для дизайнеров"
+
+#: inc/wpcom.php:254
+msgid "A close-up of a black smart watch against a pink background."
+msgstr "Крупный план черных смарт-часов на розовом фоне."
+
+#: inc/wpcom.php:251
+msgid "Coming Soon: App"
+msgstr "Скоро будет доступно: приложение"
+
+#: inc/wpcom.php:232
+msgid "A new blog by MindStomp. Sign up to be notified when we launch."
+msgstr "Новый блог MindStomp. Подпишитесь, чтобы узнать о запуске."
+
+#: inc/wpcom.php:222
+msgid "Coming Soon: Simple"
+msgstr "Скоро будет доступно: Simple"
+
+#: inc/wpcom.php:201
+msgid "Sign up to hear when my journey begins."
+msgstr "Подпишитесь, чтобы узнать, когда начнется мое путешествие."
+
+#: inc/wpcom.php:189
+msgid "A megaphone icon with sharp angles."
+msgstr "Значок мегафона с острыми углами."
+
+#: inc/wpcom.php:185
+msgid "Coming Soon: Solid Color"
+msgstr "Скоро будет доступно: Solid Color"
+
+#: inc/block-patterns.php:634
+msgid "Townsville, MA, 01010"
+msgstr "Townsville, MA, 01010"
+
+#: inc/block-patterns.php:628
+msgid "A new restaurant featuring farm-to-table dining."
+msgstr "Новый ресторан с меню на основе фермерских продуктов."
+
+#: inc/block-patterns.php:616
+msgid "OAK & ANCHOR"
+msgstr "ДУБ И ЯКОРЬ"
+
+#: inc/block-patterns.php:606
+msgid "Coming Soon: Restaurant"
+msgstr "Скоро будет доступно: ресторан"
+
+#: inc/block-patterns.php:594
+#: inc/block-patterns.php:640
+msgid "info@example.com"
+msgstr "info@example.com"
+
+#: inc/block-patterns.php:588
+msgid "Boston, MA, 01010"
+msgstr "Boston, MA, 01010"
+
+#: inc/block-patterns.php:588
+#: inc/block-patterns.php:634
+msgid "1234 S Main Street"
+msgstr "1234 S Main Street"
+
+#: inc/block-patterns.php:578
+msgid "A new art gallery in downtown Boston."
+msgstr "Новая художественная галерея в центре Бостона."
+
+#: inc/block-patterns.php:574
+msgid "Opening Soon"
+msgstr "Скоро открытие"
+
+#: inc/block-patterns.php:572
+msgid "\"Self-Portrait with Two Pupils, Marie Gabrielle Capet and Marie Marguerite Carreaux de Rosemond\" by Adélaïde Labille-Guiard, hung up on a gallery wall."
+msgstr "«Автопортрет с двумя ученицами — Мари-Габриэль Капе и Мари‑Маргерит Карро де Роземонд», Аделаида Лабиль-Гиар, работа выставлена в галерее."
+
+#: inc/block-patterns.php:569
+msgid "Coming Soon: Art Gallery"
+msgstr "Скоро будет доступно: художественная галерея"
+
+#: inc/block-patterns.php:542
+msgid "The High Fives"
+msgstr "Дай пять"
+
+#: inc/block-patterns.php:536
+msgid "Coming Soon: Animated Gradient"
+msgstr "Скоро будет доступно: анимированные градиенты"
+
+#: inc/block-patterns.php:526
+msgid "FOLLOW US"
+msgstr "ПОДПИШИТЕСЬ НА НАС"
+
+#: inc/block-patterns.php:521
+msgid "A new album from Rage Slump coming April 2021. Follow us on BandCamp now to be the first to hear some sneak peeks of the album."
+msgstr "Новый альбом Rage Slump выходит в апреле 2021 года. Следите за нами на BandCamp, чтобы первыми узнавать обо всех новостях."
+
+#: inc/block-patterns.php:517
+msgid "Six Feet Over"
+msgstr "В шести футах над"
+
+#: inc/block-patterns.php:513
+msgid "COMING SOON"
+msgstr "СКОРО БУДЕТ ДОСТУПНО"
+
+#: inc/block-patterns.php:509
+msgid "Coming Soon: Gradient"
+msgstr "Скоро будет доступно: градиент"
+
+#: inc/block-patterns.php:31
+#: inc/block-patterns.php:624
+#: inc/wpcom.php:197
+#: inc/wpcom.php:228
+msgid "Coming Soon"
+msgstr "Скоро будет доступно"
+
+#: inc/wpcom.php:48
+msgid "Kate Adams"
+msgstr "Кейт Адамс"
+
+#: inc/customizer.php:139
+msgid "Check to show comments underneath posts and pages. Comments can be configured in your site’s Discussion settings screen."
+msgstr "Выберите эту опцию, чтобы отображать комментарии под записями и страницами. Настроить комментарии можно в разделе «Обсуждения»."
+
+#: inc/customizer.php:138
+msgid "Make comments visible"
+msgstr "Показывать комментарии"
+
+#: inc/customizer.php:115
+msgid "Check to show titles at the top of single posts and pages."
+msgstr "Выберите эту опцию, чтобы показывать заголовки в верхней части отдельных записей и страниц."
+
+#: inc/customizer.php:114
+msgid "Show post and page titles"
+msgstr "Показывать заголовки записей и страниц"
+
+#: inc/customizer.php:91
+msgid "Check to show a navigation menu and widgets in your site's footer area."
+msgstr "Выберите эту опцию, чтобы показывать меню навигации и виджеты в подвале вашего сайта."
+
+#: inc/customizer.php:90
+msgid "Enable widgets and footer menu"
+msgstr "Включить виджеты и меню подвала"
+
+#: inc/customizer.php:67
+msgid "Check to show a standard site header, navigation menu and social links menu on the top of every page. These can be configured in the \"Site Identity\" and \"Menus\" panels."
+msgstr "Выберите эту опцию, чтобы показывать стандартный заголовок сайта, меню навигации и ссылки социальных сетей в верхней части каждой страницы. Настроить их можно на вкладках «Свойства сайта» и «Меню»."
+
+#: inc/customizer.php:66
+msgid "Enable site header and top menu"
+msgstr "Включить шапку сайта и верхнее меню"
+
+#: inc/customizer.php:46
+msgid "Content Options"
+msgstr "Параметры содержимого"
+
+#: inc/block-patterns.php:500
+msgid "Donate to help keep us posting!"
+msgstr "Поддержите нас финансово!"
+
+#: inc/block-patterns.php:496
+msgid "Sponsor: Crafty Cookies"
+msgstr "Спонсор: Crafty Cookies"
+
+#: inc/block-patterns.php:492
+msgid " in <em>The New York Times</em>"
+msgstr "в <em>The New York Times</em>"
+
+#: inc/block-patterns.php:492
+msgid "\"Identity and Ownership\""
+msgstr "«Идентичность и собственность»"
+
+#: inc/block-patterns.php:488
+msgid " in <em>The Atlantic</em>"
+msgstr "в <em>The Atlantic</em>"
+
+#: inc/block-patterns.php:488
+msgid "\"Why we must own our history\""
+msgstr "«Почему наша история должна принадлежать нам»"
+
+#: inc/block-patterns.php:484
+msgid "“The Lost Tricycle” Book"
+msgstr "«Потерянный трехколесный велосипед», книга"
+
+#: inc/block-patterns.php:476
+msgid "Published work and ephemera."
+msgstr "Опубликованные работы и поделки"
+
+#: inc/block-patterns.php:472
+msgid "Patricia Jones"
+msgstr "Патрисия Джонс"
+
+#: inc/block-patterns.php:464
+msgid "A logo of a circle with a line through it."
+msgstr "Логотип с перечеркнутым кругом."
+
+#: inc/block-patterns.php:460
+msgid "Text Links"
+msgstr "Текстовые ссылки"
+
+#: inc/block-patterns.php:436
+msgid "$70"
+msgstr "70$"
+
+#: inc/block-patterns.php:429
+msgid "Oversized Alpaca Crew, Everlane"
+msgstr "Большая кофта из шерсти альпаки, Everlane"
+
+#: inc/block-patterns.php:416
+msgid "$60"
+msgstr "60$"
+
+#: inc/block-patterns.php:409
+msgid "Chunky Platform Lace-Up Boots, H&amp;M"
+msgstr "Ботинки со шнурками на угловатой платформе, H&amp;M"
+
+#: inc/block-patterns.php:396
+msgid "$45"
+msgstr "45$"
+
+#: inc/block-patterns.php:389
+msgid "Pink Long Sleeve Tea Dress, Topshop"
+msgstr "Вечернее платье с длинными розовыми рукавами, Topshop"
+
+#: inc/block-patterns.php:376
+msgid "$36"
+msgstr "36$"
+
+#: inc/block-patterns.php:369
+msgid "Rhinestone Earrings, ASOS"
+msgstr "Серьги Rhinestone, ASOS"
+
+#: inc/block-patterns.php:355
+msgid "Julia Paxton"
+msgstr "Джулия Пакстон"
+
+#: inc/block-patterns.php:351
+msgid "Woman wearing sunglasses"
+msgstr "Женщина в солнцезащитных очках"
+
+#: inc/block-patterns.php:347
+msgid "Product Links"
+msgstr "Ссылки на товары"
+
+#: inc/block-patterns.php:325
+msgid "Tidal"
+msgstr "Tidal"
+
+#: inc/block-patterns.php:321
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/block-patterns.php:317
+msgid "Apple Music"
+msgstr "Apple Music"
+
+#: inc/block-patterns.php:313
+msgid "Bandcamp"
+msgstr "Bandcamp"
+
+#: inc/block-patterns.php:309
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/block-patterns.php:305
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/block-patterns.php:298
+msgid "Alex Smith — Own Way"
+msgstr "Алекс Смит — Свой путь"
+
+#: inc/block-patterns.php:294
+msgid "Image of a singer performing."
+msgstr "Фото выступающего певца."
+
+#: inc/block-patterns.php:286
+msgid "Musician Links"
+msgstr "Музыкальные ссылки"
+
+#: inc/block-patterns.php:276
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/block-patterns.php:272
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/block-patterns.php:268
+msgid "My wish list"
+msgstr "Мой список пожеланий"
+
+#: inc/block-patterns.php:264
+msgid "Buy prints of my work"
+msgstr "Купите печатные версии моих работ"
+
+#: inc/block-patterns.php:260
+msgid "Watch my tutorials"
+msgstr "Посмотрите мои обучающие видео"
+
+#: inc/block-patterns.php:255
+msgid "Antonio Miller"
+msgstr "Антонио Миллер"
+
+#: inc/block-patterns.php:251
+msgid "Colored pencils"
+msgstr "Цветные карандаши"
+
+#: inc/block-patterns.php:247
+msgid "Gradient Links"
+msgstr "Градиентные ссылки"
+
+#: inc/block-patterns.php:233
+msgid "Ask me a question"
+msgstr "Задайте мне вопрос"
+
+#: inc/block-patterns.php:229
+msgid "Shop my style picks"
+msgstr "Купите вещи, одобренные мной"
+
+#: inc/block-patterns.php:225
+msgid "Follow my Instagram"
+msgstr "Подпишитесь на мой Instagram"
+
+#: inc/block-patterns.php:221
+msgid "Listen on SoundCloud"
+msgstr "Слушайте меня в SoundCloud"
+
+#: inc/block-patterns.php:217
+msgid "Subscribe on YouTube"
+msgstr "Смотрите мои видео на YouTube"
+
+#: inc/block-patterns.php:208
+msgid "Hamburger"
+msgstr "Гамбургер"
+
+#: inc/block-patterns.php:204
+msgid "Hamburger icon"
+msgstr "Значок гамбургера"
+
+#: inc/block-patterns.php:196
+msgid "Emoji Links"
+msgstr "Эмодзи-ссылки"
+
+#: inc/block-patterns.php:138
+msgid "April 16th"
+msgstr "16 апреля"
+
+#: inc/block-patterns.php:138
+msgid "8pm–12am"
+msgstr "20:00 – 00:00"
+
+#: inc/block-patterns.php:133
+msgid "San Francisco, CA"
+msgstr "Сан-Франциско, Калифорния"
+
+#: inc/block-patterns.php:133
+msgid "Pier 38"
+msgstr "Пирс 38"
+
+#: inc/block-patterns.php:124
+msgid "Photo of two drinks."
+msgstr "Фото двух напитков."
+
+#: inc/block-patterns.php:92
+msgid "So much goodness all in one place!"
+msgstr "Столько всякого полезного в одном месте!"
+
+#: inc/block-patterns.php:92
+msgid "My latest and greatest tips, resources, and reads."
+msgstr "Мои актуальнейшие и лучшие советы, ссылки и не только."
+
+#: inc/block-patterns.php:26
+msgid "Link in Bio"
+msgstr "Ссылка в биографии"
+
+#: functions.php:139
+msgid "This theme will only display Widgets if they are enabled in the Content Options section."
+msgstr "Эта тема будет отображать только те виджеты, которые были включены в разделе «Настройки содержимого»."
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:137
+#: functions.php:138
+msgid "This theme will only display Menus if they are enabled in the Content Options section."
+msgstr "Эта тема будет отображать только те меню, которые были включены в разделе «Настройки содержимого»."
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:136
+msgid "The site logo, title, and tagline will only appear on all posts and pages if the \"Site header and top menu\" option is enabled in the <a href=\"#\" onClick=\"%s\">Content Options</a> section."
+msgstr "Логотип сайта, заголовок и слоган будут отображаться на всех страницах и в записях, если в разделе <a href=\"#\" onClick=\"%s\">Настройки содержимого</a> была включена опция «Заголовок сайта и верхнее меню»."
+
+#: functions.php:79
+msgid "Tertiary Color"
+msgstr "Третичный цвет"
+
+#: functions.php:78
+msgid "Secondary Color"
+msgstr "Второстепенный цвет"
+
+#: functions.php:77
+msgid "Primary Color"
+msgstr "Первичный цвет"
+
+#: functions.php:76
+msgid "Foreground Color"
+msgstr "Цвет переднего фона"
+
+#: functions.php:75
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/blank-canvas"
+msgstr "https://wordpress.com/theme/blank-canvas"
+
+#: template-parts/content/content-singular.php:48
+msgid "Pages:"
+msgstr "Страниц:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-singular.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать <span class=\"screen-reader-text\"> \"%s\"</span> далее"
+
+#: inc/wpcom.php:102
+msgid "Learn More"
+msgstr "Подробнее"
+
+#: inc/wpcom.php:96
+msgid "Join instructor Jaime Adams for a series of virtual classes aimed at helping you hone your drawing skills. We will focus on composition, perspective, contour, representing volume, and more!"
+msgstr "Присоединяйтесь к Джейми Адамсу на этих виртуальных занятиях, чтобы улучшить свои навыки рисования. Мы проработаем такие аспекты, как композицию, перспективу, контур, объемность и многое другое!"
+
+#: inc/wpcom.php:92
+msgid "Virtual Art Classes"
+msgstr "Виртуальные уроки рисования"
+
+#: inc/wpcom.php:78
+msgid "Email Signup"
+msgstr "Email-регистрация"
+
+#: inc/wpcom.php:52
+msgid "Hi! I’m a lead strategist for growing sustainable revenue streams for integrated fundraising."
+msgstr "Здравствуйте! Я отвечаю за увеличение объёма денежных поступлений в благотворительных целях."
+
+#: inc/wpcom.php:43
+msgid "Portrait of a woman against a pink and blue background."
+msgstr "Портрет женщины на розово-синем фоне."
+
+#: inc/wpcom.php:38
+msgid "Card"
+msgstr "Карта"
+
+#: inc/block-patterns.php:176
+msgid "Hello! I am a photographer and designer living near Portland, Maine. When I am not posting to Instagram, you can find me shooting weddings and portraits."
+msgstr "Здравствуйте! Я занимаюсь фотографией и дизайном, а живу неподалеку от Портленда, штат Мэн. Когда я не выкладываю фото в Instagram, я провожу фото свадеб и портретные съемки."
+
+#: inc/block-patterns.php:172
+msgid "Jasmine Baker"
+msgstr "Жасмин Бейкер"
+
+#: inc/block-patterns.php:168
+msgid "Photo of a woman."
+msgstr "Фото женщины."
+
+#: inc/block-patterns.php:166
+msgid "Photo of a vintage camera."
+msgstr "Фото винтажной камеры."
+
+#: inc/block-patterns.php:163
+msgid "Split Screen"
+msgstr "Разделенный экран"
+
+#: inc/block-patterns.php:150
+msgid "RSVP"
+msgstr "Прошу ответить"
+
+#: inc/block-patterns.php:146
+msgid "Join us for a celebratory party featuring creative cocktails and mocktails, seasonal chef-crafted snacks and appetizers, and a range of desserts and pastries from local bakeries."
+msgstr "Мы приглашаем вас посетить праздничный вечер с авторскими коктейлями и моктейлями, сезонными закусками и аперитивами, а также различными десертами и сдобной выпечкой из местных пекарен."
+
+#: inc/block-patterns.php:128
+msgid "You&rsquo;re Invited"
+msgstr "Вы приглашены"
+
+#: inc/block-patterns.php:121
+msgid "Invitation"
+msgstr "Приглашение"
+
+#: inc/block-patterns.php:112
+msgid "Instant Classic: A story of Persistence"
+msgstr "Instant Classic: упорство и настойчивость"
+
+#: inc/block-patterns.php:108
+msgid "Blurring the Lines Between Architecture and Nature"
+msgstr "Соединение архитектуры и природы"
+
+#: inc/block-patterns.php:104
+msgid "10th Day of Rain"
+msgstr "10th Day of Rain (\"Десятый день дождь\")"
+
+#: inc/block-patterns.php:100
+msgid "Rain Journal by Richard Johnson"
+msgstr "Журнал погоды Ричарда Джонсона"
+
+#: inc/block-patterns.php:96
+msgid "Must read: The Place That Made Me"
+msgstr "Стоит внимания: место, где я стал собой"
+
+#: inc/block-patterns.php:84
+msgid "Alex Fredrickson"
+msgstr "Алекс Фредриксон"
+
+#: inc/block-patterns.php:81
+msgid "Photo of a man wearing a hat."
+msgstr "Фотография человека в шляпе."
+
+#: inc/block-patterns.php:75
+msgid "Links"
+msgstr "Ссылки "
+
+#: inc/block-patterns.php:57
+#: inc/wpcom.php:57
+msgid "Get in touch"
+msgstr "Свяжитесь с нами"
+
+#: inc/block-patterns.php:53
+msgid "Specializing in fine line tattoos with a single needle. With over 10 years of experience, I can make your tattoo dreams come true."
+msgstr "Моя специализация — татуировки, сделанные одной тонкой иглой. У меня за плечами больше 10 лет практики, и я могу воплотить в жизнь любую вашу задумку."
+
+#: inc/block-patterns.php:50
+msgid "Hi! I’m a tattooist based in Florida City."
+msgstr "Здравствуйте! Я тату-мастер из Майами."
+
+#: inc/block-patterns.php:49
+msgid "A photo of a tattooed hand, giving the \"I love you\" sign."
+msgstr "Фото руки с татуировкой, показывающей жест «Я тебя люблю»."
+
+#: inc/block-patterns.php:43
+msgid "About Me"
+msgstr "Обо мне"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:157
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#: functions.php:60
+msgid "Background"
+msgstr "Фон"
+
+#: functions.php:55
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: functions.php:50
+msgid "Foreground"
+msgstr "Передний план"
+
+#: functions.php:45
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: functions.php:40
+msgid "Primary"
+msgstr "Главный"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Blank Canvas is a minimalist theme, designed for single-page websites. Its single post and page layouts have no header, navigation menus, or widgets by default, so the page you design in the WordPress editor is the same page you’ll see on the front end. The theme’s default styles are conservative, relying on simple sans-serif fonts and a subtle blue highlight color. Blank Canvas is ready for your customizations."
+msgstr "Blank Canvas — это минималистичная тема, разработанная для сайтов, состоящих из одной страницы. В макете одиночной записи и страницы по умолчанию нет ни заголовка, ни меню навигации, ни виджетов, поэтому страница в редакторе WordPress выглядит так же, как её видит посетитель. Стили по умолчанию, которые используются в теме, достаточно консервативны, они основаны на простых шрифтах семейства sans-serif и используют мягкий голубой цвет выделения. Тему Blank Canvas можно настроить по своему вкусу."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:21
+msgid "Blank Canvas"
+msgstr "Чистый холст"
